@@ -14,6 +14,8 @@ Eula: [https://docs.google.com/document/d/13dYBRTjmF0uPUKcDEB4mi9CyGtgTa9Iied3VQ
 
 Hutao: [https://docs.google.com/document/d/1Vw1rg\_yQqQp5wAz9Zvjmd1dWsjcZvQ0gPobkGlnuLXc/edit](https://docs.google.com/document/d/1Vw1rg_yQqQp5wAz9Zvjmd1dWsjcZvQ0gPobkGlnuLXc/edit)
 
+Ganyu: [https://docs.google.com/document/d/1\_PaI79A4uIOm86sLBw2oULW-O-LXkcyfUQ3bMH23mYI/edit](https://docs.google.com/document/d/1_PaI79A4uIOm86sLBw2oULW-O-LXkcyfUQ3bMH23mYI/edit)
+
 ### Teams:
 
 Pyro: [https://docs.google.com/document/d/1OgrRyv9xiIv0DV9V3YyyjHsyQXEWzOXYdsHTqTmw3FM/edit](https://docs.google.com/document/d/1OgrRyv9xiIv0DV9V3YyyjHsyQXEWzOXYdsHTqTmw3FM/edit)
@@ -34,7 +36,7 @@ One-Shots: [https://docs.google.com/document/d/1n6B6cqfS4Fy09-3OTrbSy4l-iihOpp0Z
 
 |  |  |
 | :--- | :--- |
-| folie \(CC\) | ganyu, ningguang, zhongli |
+| folie \(CC\) | ningguang, zhongli |
 | hyper \(CC\) | bennett, amber |
 | ultikiller/Kicc \(CC\) | keqing beidou |
 | CoFt/Chair | diona, lisa |
