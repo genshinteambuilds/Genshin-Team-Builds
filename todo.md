@@ -24,9 +24,7 @@ Melt: [https://docs.google.com/document/d/1CZh0JVjuqHrPNf9xcAZ\_hDv0nQ1lfmEp97wZ
 
 Physical: [https://docs.google.com/document/d/1BXRx17UcpJttQSVEIOXtz\_GXGqWmGMwRodHijp\_mX48/edit](https://docs.google.com/document/d/1BXRx17UcpJttQSVEIOXtz_GXGqWmGMwRodHijp_mX48/edit)
 
-overload: [https://docs.google.com/document/d/1OT5vDVi1pGwrXrbuXwk3prRHWYWo\_mIypmi5DrMrCNA/edit](https://docs.google.com/document/d/1OT5vDVi1pGwrXrbuXwk3prRHWYWo_mIypmi5DrMrCNA/edit)
-
-Freeze: [https://docs.google.com/document/d/12\_syDyhdyGaeLJkeBuMrTRiontPeRXnD676U5uBm63k/edit](https://docs.google.com/document/d/12_syDyhdyGaeLJkeBuMrTRiontPeRXnD676U5uBm63k/edit)
+Overload: [https://docs.google.com/document/d/1OT5vDVi1pGwrXrbuXwk3prRHWYWo\_mIypmi5DrMrCNA/edit](https://docs.google.com/document/d/1OT5vDVi1pGwrXrbuXwk3prRHWYWo_mIypmi5DrMrCNA/edit)
 
 Electro-Charged: [https://docs.google.com/document/d/1cu\_wlOa1f\_iRZ6Z-cJWW0-yh9WAjwckpjALTHFE\_mSo/edit](https://docs.google.com/document/d/1cu_wlOa1f_iRZ6Z-cJWW0-yh9WAjwckpjALTHFE_mSo/edit)
 
@@ -45,8 +43,8 @@ One-Shots: [https://docs.google.com/document/d/1n6B6cqfS4Fy09-3OTrbSy4l-iihOpp0Z
 | albeiro | freeze, vaporize |
 | seagull |  |
 | khino |  |
-| miko |  |
-| rag |  |
+| miko | - |
+| rag | Editing / Proofreading |
 
 ## Unassigned
 
@@ -70,8 +68,6 @@ Teams left to do:
 
 * anemo, 
 * geo 
-* freeze
-* vaporize \(aka childe comps\)
 
 New characters we need to add after this initial pass: 
 
