@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Team Building Guide](README.md)
+* [Introduction](README.md)
+* [Team Building Guide](team-building-guide.md)
 * [Glossary](glossary.md)
 
 ## Roles
