@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Support** \(Healer, Debuffer, Crowd Control, Energy Battery, Cleanser\)
+* **Support:** Healer, Debuffer, Crowd Control, Energy Battery, Cleanser
 * **Burst DPS**
 
 ## Character Breakdown
@@ -61,7 +61,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * Similar to the above, Jean provides an Elemental Resistance Debuff using the Viridescent Venerer 4-set and also provides healing and burst damage.
 
-#### [Raw Pyro](../../teams/raw-pyro.md)
+#### [Raw Pyro](../../teams/pyro.md)
 
 ![](../../.gitbook/assets/ui_avataricon_klee.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_jean.png) 
 

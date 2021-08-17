@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Support** \(Buffer, Debuffer, Crowd Control, Energy Battery\)
+* **Support:** Buffer, Debuffer, Crowd Control, Energy Battery
 
 ## Character Breakdown
 

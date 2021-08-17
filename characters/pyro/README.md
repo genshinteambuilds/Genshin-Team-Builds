@@ -14,7 +14,7 @@ While Xinyan is listed here as a Pyro character, she is primarily used as a supp
 
 {% page-ref page="../../teams/reverse-melt.md" %}
 
-{% page-ref page="../../teams/raw-pyro.md" %}
+{% page-ref page="../../teams/pyro.md" %}
 
 {% page-ref page="../../teams/overload.md" %}
 

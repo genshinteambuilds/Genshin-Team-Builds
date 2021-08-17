@@ -2,8 +2,8 @@
 
 ## **Roles**
 
-* **Sub DPS** \(Off-Field\)
-* **Support** \(Self Cleanser, Debuffer at C2\)
+* **Off-Field DPS**
+* **Support:** Cleanser \(Self Only\), Debuffer \(At C2\)
 
 ## **Character Breakdown**
 
