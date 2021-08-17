@@ -2,7 +2,7 @@
 
 ## **Roles**
 
-* **Sub DPS** \(Off Field\)
+* **Sub DPS** \(Off-Field\)
 * **Support** \(Self Cleanser, Debuffer at C2\)
 
 ## **Character Breakdown**

@@ -49,7 +49,7 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
  ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_barbara.png) 
 
-* Not often used but these two characters can increase Tartaglias damage at certain constellations.
+* Not used as often but these two characters can increase Tartaglias damage at certain constellations.
 * At C2, Xingqiu decreases the Hydro RES of enemies hit by his Elemental burst’s Hydro swords.
 * At C2, Barbara increases Hydro DMG bonus by 15% to whoever is on field while her Elemental Skill is active.
 
