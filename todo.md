@@ -42,7 +42,7 @@ One-Shots: [https://docs.google.com/document/d/1n6B6cqfS4Fy09-3OTrbSy4l-iihOpp0Z
 | CoFt/Chair | diona, lisa |
 | shockwhite | mona |
 | aidan | qiqi, razor |
-| albeiro |  |
+| albeiro | freeze, vaporize |
 | seagull |  |
 | khino |  |
 | miko |  |
@@ -70,6 +70,7 @@ Teams left to do:
 
 * anemo, 
 * geo 
+* freeze
 * vaporize \(aka childe comps\)
 
 New characters we need to add after this initial pass: 
@@ -100,10 +101,6 @@ albeiro
 * overload \(8/12\)
 * EC \(8/6\)
 * oneshot \(8/6\)
-
-prad
-
-* freeze \(04/17\)
 
 CoFT/chair 
 
