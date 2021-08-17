@@ -10,9 +10,9 @@
 * Elemental Skill deals damage and can knock back enemies when tapped. 
 * Elemental Skill can gather smaller enemies when held. These enemies can then be thrown into the air causing them to take a significant percentage of their HP as fall damage when they land.
 * Elemental Burst both deals a large amount of damage and heals a large amount when used.
-* Elemental Burst also creates a Dandelion Field which continuously heals characters that stand in it . 
-* Will act as a Debuffer with Viridescent Venerer 4-set or as a Buffer with Noblesse Oblige 4-set if running 2 anemo supports.
+* Elemental Burst also creates a Dandelion Field which continuously heals characters that stand in it.
 * Her Elemental Burst can remove \(cleanse\) all elemental debuffs.
+* Will act as a Debuffer with Viridescent Venerer 4-set or as a Buffer with Noblesse Oblige 4-set if running 2 anemo supports.
 
 ## **Additional Notes**
 

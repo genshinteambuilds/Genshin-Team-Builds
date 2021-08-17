@@ -10,10 +10,10 @@
 * Elemental Skill creates a vacuum which launches Kazuha into the air and can group smaller enemies.
 * Performing a Plunge Attack after using his Elemental Skill creates a "small wind tunnel" and groups enemies. 
 * Elemental Burst creates a field that that can absorb Cryo, Electro, Hydro or Pyro and will continually deal damage of that elemental type along with anemo and swirl damage.  
+  * Once the Elemental Burst absorbs an element, enemies within the field are continually damaged with that element, allowing other Elemental Reactions with that element to constantly take place.
 * At A4, any element swirled by Kazuha will give the entire team an elemental damage boost of 0.04% of Kazuha's EM.
-  * Kazuha can reach EM values as high as 1000 which would give 40% additiona damage for any swirled element.
+  * Kazuha can reach EM values as high as 1000 which would give 40% additional damage for any swirled element.
 * Will act as a Debuffer with Viridescent Venerer 4-set.
-* Once the Elemental Burst absorbs an element, enemies within the field are continually damaged with that element, allowing other Elemental Reactions with that element to constantly take place.
 
 ## **Additional Notes**
 
