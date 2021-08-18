@@ -34,7 +34,7 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
 ![](../../.gitbook/assets/ui_avataricon_xiangling.png) 
 
-* Tartaglia’s can apply Hydro quickly in his Melee stance allowing Xiangling’s Elemental Skill and Burst to Reverse Vaporize it while being Off-Field. Check out the [Vaporize team ](../../teams/vaporize.md)page for more details.
+* Tartaglia applies Hydro quickly in his Melee stance allowing Xiangling’s Elemental Skill and Burst to Reverse Vaporize it while being Off-Field. Check out the [Vaporize team ](../../teams/vaporize.md)page for more details.
 
 ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) 
 
