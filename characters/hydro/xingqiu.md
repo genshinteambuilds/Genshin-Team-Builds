@@ -7,7 +7,7 @@
 
 ## **Character Breakdown**
 
-* Elemental Skill \(Guhua Sword: Fatal Rainscreen\) does 2 instances of hydro damage. It also applies wet status to Xingqiu for a brief moment after doing both of the slashes. After the animation of the hydro slashes, 3 to 4 rain swords will circle the active character. Those rain swords make the characters take less damage and are immune to knockbacks.
+* Elemental Skill \(Guhua Sword: Fatal Rainscreen\) does 2 slashes of hydro damage. It also applies wet status to Xingqiu for a brief moment after doing both of the slashes. After the animation of the hydro slashes, 3 to 4 rain swords will circle the active character. Those rain swords make the characters take less damage and are immune to knockbacks.
 * Elemental Burst \(Guhua Sword: Raincutter\) has the same effect as his Elemental Skill and it will trigger Rainbow Bladework that summons Hydro Swords and attacks the enemies hit by the active character’s Normal Attacks.
 
 ## **Additional Notes**
