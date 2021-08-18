@@ -2,7 +2,8 @@
 
 ## **Roles**
 
-* **Main DPS** \(Pyro\)
+* **Main DPS**
+* **Burst Sub DPS**
 
 ## **Character Breakdown**
 
