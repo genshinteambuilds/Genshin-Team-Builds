@@ -36,6 +36,10 @@
 
 ## **Teams**
 
+{% hint style="info" %}
+lick on the team names below for more details on how the team works and alternative support options that can work with that team.
+{% endhint %}
+
 [Reverse Vaporize](../../teams/reverse-vaporize.md)
 
 ![](https://lh5.googleusercontent.com/_IdhjjIF_ajnueFXVZRiH6K-T_E0ccWLZnijKCLMKjxxxRhLEyJVZj5EEqBOzOYItXXenhsy6jmhuZIjvmFdfUnlfP1nPEOu5rhEToB0oRNNGnG62xQzg_CxKaTjWEaqjYEcZhVl)![](https://lh4.googleusercontent.com/Y-8c1w-R0boBQaSr-82PtKFGxLV46vbMbIPy4dYhRXKS_ImETg7s0BMXxbXmWoUb-tIbuBKWk1UozbOixEcOk2x86UkA4pXqV6jclo8w2eUFdDjWL9XslIF0lbm4Y9mj15m_6r35)![](https://lh4.googleusercontent.com/lymIiu5ALny6x01gtbQXM-U7Tm5Fx6djEfhqEd8cuT-5jtdMs_LjdSPH1gRc8yCd91lfxkSTsUG99bHdAtALIiyr5Io5fYXP7gjiwKI3za9PmSYVQFGLyalCA2YqsDEpOmIJLSWe)![](https://lh3.googleusercontent.com/tRXFuMg6ZL2SUelZcJWmoe7ufem3mSPm2kacJgySUHhW-pVH2gM9RVRwxO1I4FTZOlWPa4mgRUuy8RbkarJUIZ8qvsH0LMNwSg-yyFlPLLVJksTXfoO_d0UGMs18__TgnkQVQXFQ)
