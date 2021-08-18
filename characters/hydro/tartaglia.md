@@ -93,5 +93,5 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](https://lh6.googleusercontent.com/fjlsehFvfhz_in-gudH3_zIXZ9_qn-d1kwqVt7Gl4wKcEAYvudA2MTPRFRYgS4k1CO2zTgjtwNggl4DV_CmrcgjkLwkwc7BsWTKu4wZZt7zoHJQL5zsa4TFEjnk_jKoZtPckl9Kv)![](https://lh6.googleusercontent.com/xImE6vShOAPbglrk2PMNVM2FYYHMCza47zz_MIjFYdhNbiGw1P946BNEXxglpgs6QTCMYL2Yoi3LXvouY7CD-ajMNVJYlKgDGtDiXwVHzwHVij3RcDpbNbOyfHjshZLeskIImGwz)![](https://lh5.googleusercontent.com/UB7W41Xc939lHhebjBR03hPJTyMqsGWCTrZ06dZCdKGITNmIiGRgmAJTKgFNGNFnq8QrYeCTmHKNuDMois6TxUPsRhmFslmy8zD4ZOobp3bbOtTIGWfUBUYoplSYRYKRInDIhkW0)![](https://lh5.googleusercontent.com/enqVhiEMtGthljXTjShwawVd-5tnwJcnkRVKpIBH-OJi1AD1WcKnqGIgY1vTuXFRtVqFoSblSH_rqbzpg4QG5Ni9_hxu9WHQ_yPe6JpMl-L4QDzVAdRLbv35eL13nUCLYrw3KzPa)
 
-* A common Oneshot team setup for Tartaglia. For a detailed look at how Oneshots work, check out the Oneshot team page.
+* A common Oneshot team setup for Tartaglia. For a detailed look at how Oneshots work, check out the [Oneshot ](../../teams/other/oneshot.md)team page.
 
