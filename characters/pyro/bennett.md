@@ -40,6 +40,10 @@
 
 ## **Teams**
 
+{% hint style="info" %}
+click on the team names below for more details on how the team works and alternative support options that can work with that team.
+{% endhint %}
+
 ### **Main DPS Comps**
 
 [Melt](../../teams/melt.md)
