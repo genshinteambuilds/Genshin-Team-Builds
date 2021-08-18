@@ -67,6 +67,8 @@ Characters left to do:
 * xinyan, 
 * yanfei, 
 * klee 
+* traveler \(anemo\)
+* traveler \(geo\)
 
 Teams left to do: 
 
@@ -77,6 +79,7 @@ New characters we need to add after this initial pass:
 
 * sayu, 
 * yoimiya.
+* traveler \(electro\)
 
 ## Credits
 

@@ -161,10 +161,10 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:center"></td>
       <td style="text-align:center">
         <p>
-          <img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/>
+          <img src="../.gitbook/assets/ui_avataricon_lumine_anemo.png" alt/>
         </p>
-        <p>Xiangling</p>
-        <p>(Debuffer (C1), Off-Field)</p>
+        <p>Traveler (Anemo)</p>
+        <p>(CC, Debuffer)</p>
       </td>
       <td style="text-align:center">
         <p>
@@ -172,6 +172,21 @@ Refer to the character notes below for how characters work in this particular te
         </p>
         <p>Qiqi</p>
         <p>(Healer)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/>
+        </p>
+        <p>Xiangling</p>
+        <p>(Debuffer (C1), Off-Field)</p>
+      </td>
+      <td style="text-align:center">
+        <p></p>
+        <p></p>
       </td>
     </tr>
   </tbody>
@@ -441,6 +456,22 @@ Refer to the character notes below for how characters work in this particular te
         <ul>
           <li>Provides Off-Field DPS and buffs the team&apos;s Elemental Mastery (Ascension
             4) upon using his Elemental Skill.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_lumine_anemo.png" alt/>
+        </p>
+        <p>Traveler (Anemo)</p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Can provide Crowd Control in a limited capacity compared to the other
+            Anemo supports listed here with Elemental Skill at C1 and Elemental Burst.</li>
+          <li>Can debuff with the Viridescent Venerer 4-set as well as with their Elemental
+            Burst at C6.</li>
         </ul>
       </td>
     </tr>
