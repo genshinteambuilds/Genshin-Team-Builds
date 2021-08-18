@@ -6,6 +6,8 @@
 
 {% page-ref page="characters/geo/albedo.md" %}
 
+{% page-ref page="characters/pyro/bennett.md" %}
+
 ## Porting:
 
 ### Characters:
@@ -37,7 +39,7 @@ One-Shots: [https://docs.google.com/document/d/1n6B6cqfS4Fy09-3OTrbSy4l-iihOpp0Z
 |  |  |
 | :--- | :--- |
 | folie \(CC\) | ningguang, zhongli |
-| hyper \(CC\) | bennett, amber |
+| hyper \(CC\) | amber |
 | ultikiller/Kicc \(CC\) | keqing beidou |
 | CoFt/Chair | diona, lisa |
 | shockwhite | mona |
