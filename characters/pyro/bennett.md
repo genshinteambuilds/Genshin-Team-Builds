@@ -26,15 +26,11 @@
 
 ## **Does Not Work Well With**
 
-![](../../.gitbook/assets/image%20%284%29.png)
-
 * Bennett does not work well with Razor because Bennett will continuously infuse Razor with pyro. However, Razor infuses himself with electro, leading to constant overload procs and knocking away enemies.
-
-![](../../.gitbook/assets/image%20%286%29.png)
 
 * Since Eula’s ult does not snapshot, the timing between dropping Bennett’s burst and Eula’s burst is very tight. It is also generally more useful to use Diona as a battery for Eula rather than Bennett.
 
-![](https://lh6.googleusercontent.com/YBRbVzkRWTh0465Y3Q-3oSjcb0iqO9jh1tmHaS-xeW2wPl0YdgWRTYGB_w5KQNiGSnlxXLwfrIV_0jR89nwKy6QCcHFdnrD8TsNz7D8R1DOLccXFiCfiDIJgnvbsfwsVj-K3I8b3)![](https://lh4.googleusercontent.com/_P7tnXaEkoqj1EMoTDv7NQnFBCsQ3_0qz89rojQs6x0Eb3ZFPTRkyVnKcMzkHKA1fefSGXBtZQxVprIi7930a4Y5RwiLzXUT_dUx7fLmZzKp3ggyzekZqY8UBQbF5iyhvytV46kT)![](https://lh5.googleusercontent.com/lBH93o6g3ak2i2xmyVvjAiKXTFXAq_8ZGT7d2UVoPdhsvVsaEw4BGbRJ8konEClfYhvANdyJyUyNpc_VRjKR78fSEihU_E3ernhU9vSAxVWRJsIhSGvXqS-0-y4-DLesB81dbmzm)![](https://lh5.googleusercontent.com/MMb0509hVdB9MYhUHEDVrC5ieqWImCzkbX8dDPTBgBek8-FTGb9A8_Bj68xypPWU3CJHd94u08gT2-zW6md5SNfQZzMh31F9jemgert4jkLwr5_zZonmn8I_KFzQctQoW0l78n4-)![](https://lh6.googleusercontent.com/cHQUZroVZQmCc_RlkSCBoOyrA5VnEUSN2Xg-7AGxONgj5v_K6ScOIAsXhlunKdbEAZ7dkc43832mULxBO0McGn3GKOqYLPsqyvt-7p_NbZ6cNJ5HOTdiOUhcgX46G0HY4TfiWSlF)
+![](https://lh6.googleusercontent.com/YBRbVzkRWTh0465Y3Q-3oSjcb0iqO9jh1tmHaS-xeW2wPl0YdgWRTYGB_w5KQNiGSnlxXLwfrIV_0jR89nwKy6QCcHFdnrD8TsNz7D8R1DOLccXFiCfiDIJgnvbsfwsVj-K3I8b3) ![](https://lh4.googleusercontent.com/_P7tnXaEkoqj1EMoTDv7NQnFBCsQ3_0qz89rojQs6x0Eb3ZFPTRkyVnKcMzkHKA1fefSGXBtZQxVprIi7930a4Y5RwiLzXUT_dUx7fLmZzKp3ggyzekZqY8UBQbF5iyhvytV46kT) ![](https://lh5.googleusercontent.com/lBH93o6g3ak2i2xmyVvjAiKXTFXAq_8ZGT7d2UVoPdhsvVsaEw4BGbRJ8konEClfYhvANdyJyUyNpc_VRjKR78fSEihU_E3ernhU9vSAxVWRJsIhSGvXqS-0-y4-DLesB81dbmzm) ![](https://lh5.googleusercontent.com/MMb0509hVdB9MYhUHEDVrC5ieqWImCzkbX8dDPTBgBek8-FTGb9A8_Bj68xypPWU3CJHd94u08gT2-zW6md5SNfQZzMh31F9jemgert4jkLwr5_zZonmn8I_KFzQctQoW0l78n4-) ![](https://lh6.googleusercontent.com/cHQUZroVZQmCc_RlkSCBoOyrA5VnEUSN2Xg-7AGxONgj5v_K6ScOIAsXhlunKdbEAZ7dkc43832mULxBO0McGn3GKOqYLPsqyvt-7p_NbZ6cNJ5HOTdiOUhcgX46G0HY4TfiWSlF) 
 
 * Bennett will unfreeze frozen enemies, resetting the 4p blizzard strayer effect on freeze team compositions.
 
