@@ -21,31 +21,31 @@
 
 ## Works Well With
 
-![](https://lh4.googleusercontent.com/G9vSLTpWehaIj3bH5kPvrl0ClyaTjtoV_e7I6qmPAN-VnWydB8Eac1FlCK9P8XJMDH9wnfJOHMtanDv8_7T4xEtODnxA7zih2yVQ6yhpRy_pfT5S_Axsf4-euaNLkRN9ZZuDh2-O)![](https://lh3.googleusercontent.com/OfI-3tcbHKoBWzO3Exmsijvbqvzvie22rDt7HyK9DfkasW03grXhGKrJG_olOhSTCIAcWnr-TD9nWei80a3aEpi1M5XpaX7xusn7Avsh4TAhgJRf-bDyGo1YMN2w6QHHc9ArYQ_5)![](https://lh3.googleusercontent.com/Sdi_feBTyZ7QD0O3dfAdmBPwfMK3eDpD5kZaTSILDBnMfm8InOvmVpiGuVIGiFK9FOj5v4f1ECDrEZhocMOjFXQrzQHVovQMUX2ZA98csxvKwqUdwOeRMROO7TBH4Sf3gDbTeFkz)
+![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
 
 * An Anemo character is almost always needed for freeze team comps, especially Ganyu’s. They infuse their Anemo off field damage into cryo while using 4 set Viridescent Venerer that shreds off enemy cryo resistance.
 
-![](https://lh6.googleusercontent.com/bOG3WN8S29JpcF47bqKn_UdNp3MNiW2Z-3JFWcGmASlMhD6lYkewTwbUISwolZbTqQt6oXXuht6QWX2CfWhV_NhnWK2n380vK3cXfx0ktTJJsqri3RhAf89OFhQ9txNPXdCrwwRf)
+![](../../.gitbook/assets/ui_avataricon_mona.png) 
 
 * Mona is the perfect Hydro support for Freeze Ganyu team comp. When she uses her burst, she applies omen debuff into the enemy, freezing it extends its duration, thus extending the damage timer of omen and essentially extending overall freeze time. \(for more information about omen, click [here](../hydro/mona.md)\)
 
-![](https://lh3.googleusercontent.com/wxEnoJ5JtYveAgzY7EbVipDKLj0DpCHLRQnNlqrQrxJaj8gtOccGBmlWrmZfdLbVTiSSyX979zIIAhFYZbCltzgWMNQbLXiZmQDwmOYu0FcEgwMqfOsPXUAPodp_vv-MjCjwKCzS)![](https://lh3.googleusercontent.com/s9fpk_SGJVY_P1sZM5v3-9jaZHSDpnEMm62pFvjOZq9XZlR0cL3BY93y9_r1nIWAVLIIDxqRuRJFxT1faL79wexWP3Vq31dL_pBOOqjqdGb2sMFitzeF9tifnPObKSjK_Fx_WKP2)![](https://lh5.googleusercontent.com/Xhjh3h5AA3RN8Ric68s6zZPLKZ-kUF9h7yu4JptLUC7xTucP9v-YRjtHAbud1uZOUBgtMMjHQ0LSL_qZ2xlnzcQgxmrmeupNLmyr8uHMb_WxCpxFEaVu_Bv7kXmjChWAhEjpCGlZ)
+![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_rosaria.png) 
 
 * A second cryo character is always needed for freeze team comps as their resonance increases crit rate if enemies are affected by cryo or frozen.
 * One of Ganyu’s core options for healer is Diona, she functions as a shielder, battery, potential Noblesse Oblige \(4\) holder and potential cleanser. Generally she’s Freeze Ganyu’s most desired healer option.
 
-![](https://lh5.googleusercontent.com/cfBkiZjm66YgHVxYLaTpYVRqjNqEdPguHDfoINcfEII-d1A7OWv5PK6YbkrI6jOpst3cRulbM8jownTsrPIwHpp6tEg5wvgjVvCS431s6mgV5kk-ciJONl_ffyczJnxpYQat_zFD)
+![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
 * Zhongli is great for Ganyu as he can provide a lot of survivability with his Jade Shield. The shield also decreases cryo resistance of enemies by 20%.
 * Zhongli for Melt Ganyu to cover for her vulnerability during aim mode, also provides additional Elemental/Physical Resistance reduction to enemies nearby the shield.
 
-![](https://lh3.googleusercontent.com/HfiR9jGZ2dusaWCxfGriXSgicaxiUMb-Y-sB_amhLSDUrUjSIUMrnf0-YtFRMj3un0lg2yAUafp0Oo1PKUdE3ArZcoxzU4y5Xzv8qy6-uiPNhUYstvO93eW9BJbFfLWJ-vFW9aYX)![](https://lh4.googleusercontent.com/bGuJSrCzrKY0Nmlg0Ecn7Ly1SmbcIH-G7XWimOn37TzC7bWiCluB_I0eKTcE4n2kD3kD1N0ljojPbVxnt62_mhj_7vowoJtBbzyew8JdyeWCXUNlzxWw6Ao_kjkUxoIh3KWin66N)
+![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) 
 
 * Her most optimal options for Melt Ganyu. Xiangling capable of maintaining Pyro auras on enemies for constant Melt Charge Shots. Her only downside is the requirement for a certain range so she remains effective, while not being able to efficiently charge her own burst up.
 
 ## Does Not Work Well With
 
-![](https://lh5.googleusercontent.com/cbFFzMO7AHkUthEED0BR3drwZ2Of2KYPXhuO6wOfNQ9v3FJ23vU2Qggn9aRsBALq4CyZPBmzCOzWe67cF1X4zy587ufrM3n6E_16kqSd3MWlR-pXeBWRnO73a9pepZhuJ-nbwJ89)![](https://lh6.googleusercontent.com/YReruR741vjmcXJNKaDQMbT9zNc3UdXXzR1UuA9c63DcYsjWdKpdR_khK4ygWT0l5NjvwAf_myyh3aUzWFgnerElUJAg5WqCzcvKZTHBtXgDCN7rWvIGQiEU2NGdMDJcsIai_Rir)
+![](../../.gitbook/assets/element_electro.webp) ![](../../.gitbook/assets/element_geo.webp) 
 
 * For Freeze team comps, you generally don't want a geo character in the party since geo damage and attacks shatters frozen enemies, making Ganyu's lose the additional 20% Crit Rate from Blizzard Strayer \(4\)
 * For electro, Ganyu’s main source of damage is not Physical, so having an Electro support or sub dps for superconduct is not needed.
@@ -58,7 +58,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [Freeze](../../teams/freeze.md)
 
-![](https://lh4.googleusercontent.com/HMyYrU44rfZDt8d74xXX2rcWfXwfkMGHFXZALDCqLY5t9EZ5MDs8WcQoCygo_biqjhtYZ9FjsTRFGy7hXCPaqTXfdOpzInKBkIX_6fdsqX7nOZicQ41SHEsy3ArBC4f7B6EGW87J)![](https://lh6.googleusercontent.com/bOG3WN8S29JpcF47bqKn_UdNp3MNiW2Z-3JFWcGmASlMhD6lYkewTwbUISwolZbTqQt6oXXuht6QWX2CfWhV_NhnWK2n380vK3cXfx0ktTJJsqri3RhAf89OFhQ9txNPXdCrwwRf)![](https://lh3.googleusercontent.com/wxEnoJ5JtYveAgzY7EbVipDKLj0DpCHLRQnNlqrQrxJaj8gtOccGBmlWrmZfdLbVTiSSyX979zIIAhFYZbCltzgWMNQbLXiZmQDwmOYu0FcEgwMqfOsPXUAPodp_vv-MjCjwKCzS)![](https://lh4.googleusercontent.com/G9vSLTpWehaIj3bH5kPvrl0ClyaTjtoV_e7I6qmPAN-VnWydB8Eac1FlCK9P8XJMDH9wnfJOHMtanDv8_7T4xEtODnxA7zih2yVQ6yhpRy_pfT5S_Axsf4-euaNLkRN9ZZuDh2-O) ****or ![](https://lh3.googleusercontent.com/OfI-3tcbHKoBWzO3Exmsijvbqvzvie22rDt7HyK9DfkasW03grXhGKrJG_olOhSTCIAcWnr-TD9nWei80a3aEpi1M5XpaX7xusn7Avsh4TAhgJRf-bDyGo1YMN2w6QHHc9ArYQ_5)
+![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_venti.png)OR ![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
 * A common freeze team composition that focuses on Ganyu dealing high amounts of aimed cryo chraged attacks to frozen enemies with the aid of Mona's Omen, which is often called as Morgana team comp.
 * Ganyu makes use of Mona's Elemental Burst to freeze enemies while debuffing enemies with Omen. Omen debuff increases damage taken by enemies for a short period of time, Ganyu's Aimed charged shots increases the time duration of Omen, thus making her Aimed charged shots deals more damage.
@@ -66,7 +66,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [Reverse Melt](../../teams/reverse-melt.md)
 
-![](https://lh4.googleusercontent.com/HMyYrU44rfZDt8d74xXX2rcWfXwfkMGHFXZALDCqLY5t9EZ5MDs8WcQoCygo_biqjhtYZ9FjsTRFGy7hXCPaqTXfdOpzInKBkIX_6fdsqX7nOZicQ41SHEsy3ArBC4f7B6EGW87J)![](https://lh3.googleusercontent.com/HfiR9jGZ2dusaWCxfGriXSgicaxiUMb-Y-sB_amhLSDUrUjSIUMrnf0-YtFRMj3un0lg2yAUafp0Oo1PKUdE3ArZcoxzU4y5Xzv8qy6-uiPNhUYstvO93eW9BJbFfLWJ-vFW9aYX)![](https://lh4.googleusercontent.com/bGuJSrCzrKY0Nmlg0Ecn7Ly1SmbcIH-G7XWimOn37TzC7bWiCluB_I0eKTcE4n2kD3kD1N0ljojPbVxnt62_mhj_7vowoJtBbzyew8JdyeWCXUNlzxWw6Ao_kjkUxoIh3KWin66N)![](https://lh3.googleusercontent.com/OfI-3tcbHKoBWzO3Exmsijvbqvzvie22rDt7HyK9DfkasW03grXhGKrJG_olOhSTCIAcWnr-TD9nWei80a3aEpi1M5XpaX7xusn7Avsh4TAhgJRf-bDyGo1YMN2w6QHHc9ArYQ_5) ****or ![](https://lh5.googleusercontent.com/cfBkiZjm66YgHVxYLaTpYVRqjNqEdPguHDfoINcfEII-d1A7OWv5PK6YbkrI6jOpst3cRulbM8jownTsrPIwHpp6tEg5wvgjVvCS431s6mgV5kk-ciJONl_ffyczJnxpYQat_zFD)
+![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) or ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
 * Ganyu uses Xiangling’s Elemental Burst to apply pyro aura to enemies and melt it with Ganyu’s Aimed Charged Attacks. Kazuha with Viridescent Venerer \(4\) can swirl cryo and pyro together to decrease their respective resistances and aid Xiangling with applying pyro aura.
 * With Zhongli, you gain more survivability with his Jade Shield and his burst's CC creates more time to do your rotations.
