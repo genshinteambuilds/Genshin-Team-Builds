@@ -8,7 +8,7 @@
 ## **Character Breakdown**
 
 * Elemental Skill deals AoE hydro damage to surrounding enemies and switches Tartarglia into a Melee stance with dual wielding hydro blades.
-* At A4, attacks in Tartaglia's Melee stance marks enemies hit with Riptide.
+* At A4, whenever Tartaglia hits a crit when using his normal or charged attacks on his melee stance, it will mark enemies hit with Riptide.
 * Elemental Burst effects change depending on whether Tartaglia is in his Ranged or Melee stance.
   * When Ranged, Tartaglia's Elemental Burst deals high AoE hydro damage and applies Riptide to any enemies hit.
   * When Melee, Tartaglia's Elemental Burst deals even higher AoE hydro damage and triggers Riptide Blast on any enemies hit that are already affected by Riptide.
