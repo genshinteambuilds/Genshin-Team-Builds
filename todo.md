@@ -45,10 +45,10 @@ One-Shots: [https://docs.google.com/document/d/1n6B6cqfS4Fy09-3OTrbSy4l-iihOpp0Z
 | shockwhite | mona |
 | aidan | qiqi, razor |
 | albeiro | freeze, vaporize |
-| seagull |  |
-| khino |  |
+| seagull | porting |
+| khino | porting |
 | miko | - |
-| rag | Editing / Proofreading |
+| rag | editing / proofreading |
 
 ## Unassigned
 
