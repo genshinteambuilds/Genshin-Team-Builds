@@ -8,11 +8,11 @@
 ## **Character Breakdown**
 
 * Elemental Skill \(Guhua Sword: Fatal Rainscreen\) does 2 instances of hydro damage. It also applies wet status to Xingqiu for a brief moment after doing both of the slashes. After the animation of the hydro slashes, 3 to 4 rain swords will circle the active character. Those rain swords make the characters take less damage and are immune to knockbacks.
-* With his 1st Ascension talent, Hydropathic, when one of the rain swords is shattered, the active character will regenerate HP based on Xingqiu’s Max HP.
 * Elemental Burst \(Guhua Sword: Raincutter\) has the same effect as his Elemental Skill and it will trigger Rainbow Bladework that summons Hydro Swords and attacks the enemies hit by the active character’s Normal Attacks.
 
 ## **Additional Notes**
 
+* With his 1st Ascension talent, Hydropathic, when his rain swords is shattered, the active character will regenerate HP based on Xingqiu’s Max HP. The number of times the active character heals whenever his rain swords is shattered depends on his Constellation.
 * His 4th Ascension talent, Blades Amidst Raindrops, Xingqiu gains 20% Hydro Bonus Damage
 * His passive talent, Flash of Genius, when Xingqiu crafts character talent materials, he has a 25% chance to refund a portion of the crafting materials used.
 * C1 increases the maximum number of Rain Swords by 1
@@ -22,7 +22,7 @@
 
 ## **Works Well With**
 
-![](https://lh6.googleusercontent.com/9oZGB4evmWUNN0QXQKt0MK6Le-qAs5gai6vJDUV6CkLQvBaLGxBuSNt66_UZUGw3IgNumX-cxgHJELZisbGVS-cfJJyO6CWvPhSRFIwLGboNaF7OUFoQIlWjo-YYaE31gt4NThn7)![](https://lh3.googleusercontent.com/CvH_8Faa1E2tynO1cS0_8xQqHGEVJvWJA6yxHbWFRohK8Q39IsA065lxsj8UiW_iglSMqK-aAdx21K-NywniX5buMewXkf64ydeKzDvO_tMtvZOGAUCJdcugMX-poc6UjT3YbPhN)![](https://lh4.googleusercontent.com/grkBhTFnHS1IbXhy-IO5A-6JE6360Pcz0-r7XxI7o4-PkLR_DN5yneww28cCPofJk2TLsD7F0NxlgEJtZg9qbD9dck4FhhR2dYfkJ2BA_1avAX-PVJFDdw252aaXuicrUt9W_Ag5)![](https://lh5.googleusercontent.com/k6tUKZYAGCfi9FtFFcL_JDchcxkiJ87a02bUlb9GcTO0fr6tW-hNObiRNTGUPKIoU4nGoWCGh-kh99waaIs_AJAZ9WMKddf0vt0OjCWxUjGt3tRTAcHtJhi76vXuNb8iPvCmke5U)![](https://lh6.googleusercontent.com/dpd9zcZtK4JoF5N_rs33hdpIjwl0VWd3gIxx87F75kxausJhxTOvkBuzf2rU5rf7pL02CijPuOYG_UA0KyaEH7Wuvjq7OInRvuUrJgDVdF4UZbuScPvZnRDdKr_gG9FbVnRv9TGa)
+![](https://lh5.googleusercontent.com/SS9FEabqrEh6fnjf3RJZbt5P2U7I_SiUdaOyEfIT28reJ7oD8uHY0nHKEDrO31fpCnRI09PRDMBaEwSdvvgDqKgz5829Ix5kCZhsJNmg8LHgQJZMjor-A_kfG4oEnTO0euVta8-u)![](https://lh4.googleusercontent.com/8RcABZePt7A3AjHDDSzsGvY9XgFuCvTy61V-jYDTzLWRTgYSlDsAlz-SDInaE2FjvserbZNgVVEhLukAty0eKFwB4bkmOVXmUpAQKTpGCKk_uPsPog_F01pvVyfOfShAtF1ZvIUr)![](https://lh3.googleusercontent.com/lT9ZU5mYH3RBsfNL1IO4ctdLOhkTzY37_8ikPJlIwqCwHreXBhI-L965tyBOrPseJ74n01NK041GklRgONYw4IBdLjcytnICwfZSeXBmar71Q8sEjAJBMVfyVyAPMrlP1VCJi9dw)![](https://lh5.googleusercontent.com/MQ6Rd_LeZccovsE3uZi2mvFZJa0CQk5ErmaQTuGdPyRqL0qYv_FB7pKhieip6U-GxTCB3OjgnYooRb7VZA1Oa9t9lrPaZf_mlb-VYOH_be8rB3Nst7W_bu_pgMfAI7iHWcAZ8wY4)![](https://lh5.googleusercontent.com/7-ZVkh6F3bksKJ7gVBLDJ1tTtsYhRJjIFFZ-Er1lL5Q7ussdFgKg05RnxDOULIa1wRpmgh3UxHPD1aY0vKJ1vpkxi6KX25XqBjUrti-HblkU5PXGd6TDvqZEawXkspunsWwpEZua)![](https://lh6.googleusercontent.com/ZySdRkuNDvqN85C5SqUB0qepCk2HJX7iu1-UWMQYK9BoSWgzadroq5pTd0VxVbK5qf7wYUIQKvZ9JemIcczy1dy4MazFg2biicq81wcKRuxNpDNBYJpXn5G2xemVB4wJuzuveYur)
 
 * Xingqiu works really well with most characters with these elements. Xingqiu is a core member of most vaporize, electro-charged, and freeze compositions and he works really well with sword, claymore, and polearm users.
 * Anemo characters can hold 4 Viridescent Venerer that shred enemies Hydro RES when hydro is swirled.
