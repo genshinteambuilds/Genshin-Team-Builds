@@ -46,9 +46,9 @@
 
 ## Does Not Work Well With
 
-![](https://lh6.googleusercontent.com/Z0EZAN7GnsQ6ow0AJKnAgGP6Ejrw9PbrmgsTlw3yobPufGX5VIpFkj21K-uI671mKeiNleTRENrzny6O0ZXmW81hoIsp8mCiPcgU77B5YrOUmR2l1ln8WxV5fDW5XloNFxFeFuI-)![](https://lh5.googleusercontent.com/cbFFzMO7AHkUthEED0BR3drwZ2Of2KYPXhuO6wOfNQ9v3FJ23vU2Qggn9aRsBALq4CyZPBmzCOzWe67cF1X4zy587ufrM3n6E_16kqSd3MWlR-pXeBWRnO73a9pepZhuJ-nbwJ89)![](https://lh6.googleusercontent.com/YReruR741vjmcXJNKaDQMbT9zNc3UdXXzR1UuA9c63DcYsjWdKpdR_khK4ygWT0l5NjvwAf_myyh3aUzWFgnerElUJAg5WqCzcvKZTHBtXgDCN7rWvIGQiEU2NGdMDJcsIai_Rir)
+![](https://lh5.googleusercontent.com/cbFFzMO7AHkUthEED0BR3drwZ2Of2KYPXhuO6wOfNQ9v3FJ23vU2Qggn9aRsBALq4CyZPBmzCOzWe67cF1X4zy587ufrM3n6E_16kqSd3MWlR-pXeBWRnO73a9pepZhuJ-nbwJ89)![](https://lh6.googleusercontent.com/YReruR741vjmcXJNKaDQMbT9zNc3UdXXzR1UuA9c63DcYsjWdKpdR_khK4ygWT0l5NjvwAf_myyh3aUzWFgnerElUJAg5WqCzcvKZTHBtXgDCN7rWvIGQiEU2NGdMDJcsIai_Rir)
 
-* For Freeze team comps, generally you won’t want to have either of these 2 elements on your team. Pyro characters can unfreeze enemies and Geo characters shatter frozen enemies.
+* For Freeze team comps, you generally don't want a geo character in the party since geo damage and attacks shatters frozen enemies, making Ganyu's lose the additional 20% Crit Rate from Blizzard Strayer \(4\)
 * For electro, Ganyu’s main source of damage is not Physical, so having an Electro support or sub dps for superconduct is not needed.
 
 ## Teams
