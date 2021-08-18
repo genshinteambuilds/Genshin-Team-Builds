@@ -116,6 +116,10 @@ shockwhite
 
 * eula \(8/15\)
 
+hyper
+
+* bennett \(8/17\)
+
 ## Random References to go through once we're done:
 
 Meta-Team Examples: [https://docs.google.com/document/d/18D7ydfi0GeRvSj-dxzYc65R7C5FeOWdT5JU4\_KDFfuY/edit](https://docs.google.com/document/d/18D7ydfi0GeRvSj-dxzYc65R7C5FeOWdT5JU4_KDFfuY/edit)
