@@ -37,7 +37,7 @@
 ## **Teams**
 
 {% hint style="info" %}
-lick on the team names below for more details on how the team works and alternative support options that can work with that team.
+Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
 [Reverse Vaporize](../../teams/reverse-vaporize.md)
