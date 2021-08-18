@@ -28,11 +28,11 @@
 
 ![](../../.gitbook/assets/image%20%284%29.png)
 
-* Bennett does not work well with Razor because Bennett will continuously infuse Razor with pyro, but Razor’s burst infuses himself with electro, leading to overload procs.
+* Bennett does not work well with Razor because Bennett will continuously infuse Razor with pyro. However, Razor infuses himself with electro, leading to constant overload procs and knocking away enemies.
 
 ![](../../.gitbook/assets/image%20%286%29.png)
 
-* Since Eula’s ult does not snapshot, the timing between dropping Bennett’s burst and Eula’s burst is very tight and it is generally better to use Diona as a battery instead.
+* Since Eula’s ult does not snapshot, the timing between dropping Bennett’s burst and Eula’s burst is very tight. It is also generally more useful to use Diona as a battery for Eula rather than Bennett.
 
 ![](https://lh6.googleusercontent.com/YBRbVzkRWTh0465Y3Q-3oSjcb0iqO9jh1tmHaS-xeW2wPl0YdgWRTYGB_w5KQNiGSnlxXLwfrIV_0jR89nwKy6QCcHFdnrD8TsNz7D8R1DOLccXFiCfiDIJgnvbsfwsVj-K3I8b3)![](https://lh4.googleusercontent.com/_P7tnXaEkoqj1EMoTDv7NQnFBCsQ3_0qz89rojQs6x0Eb3ZFPTRkyVnKcMzkHKA1fefSGXBtZQxVprIi7930a4Y5RwiLzXUT_dUx7fLmZzKp3ggyzekZqY8UBQbF5iyhvytV46kT)![](https://lh5.googleusercontent.com/lBH93o6g3ak2i2xmyVvjAiKXTFXAq_8ZGT7d2UVoPdhsvVsaEw4BGbRJ8konEClfYhvANdyJyUyNpc_VRjKR78fSEihU_E3ernhU9vSAxVWRJsIhSGvXqS-0-y4-DLesB81dbmzm)![](https://lh5.googleusercontent.com/MMb0509hVdB9MYhUHEDVrC5ieqWImCzkbX8dDPTBgBek8-FTGb9A8_Bj68xypPWU3CJHd94u08gT2-zW6md5SNfQZzMh31F9jemgert4jkLwr5_zZonmn8I_KFzQctQoW0l78n4-)![](https://lh6.googleusercontent.com/cHQUZroVZQmCc_RlkSCBoOyrA5VnEUSN2Xg-7AGxONgj5v_K6ScOIAsXhlunKdbEAZ7dkc43832mULxBO0McGn3GKOqYLPsqyvt-7p_NbZ6cNJ5HOTdiOUhcgX46G0HY4TfiWSlF)
 
@@ -46,13 +46,13 @@
 
 ![](https://lh5.googleusercontent.com/uHb0PfJd9iz0XVL7ctPPZzkl0wBX-t0qRQKOHZvZfhd-cqNZTYQWsUEv9AiQlrw0QvgbmOuB7R-o87LRvLuub5TJUjymm0HWCplyyCUs4guwsS0VYkYMH_MK27gc89yFLTPlHtuP)![](https://lh6.googleusercontent.com/AJzClIVs3b7V8G_H57k0HDVQwQxK0pV4Ekg0qGQUxBH5sxY0FSG6PBl4btVoTtYJfjEiFyDGB0OqOmqV3YwiqJcgFlcZV_tK7typFVO3dh2lDlScVawnvcxkE8kMJ482MIu_a1BU)![](https://lh4.googleusercontent.com/2ApeaWqn1Cp6dgXc6Fidw_Z_K7le9IJUsT2CDvzqq8d-IkwhDwTxPvnQ0ShRCHzOlL9CrRkZxACvFin8Tj-R927pCzbIz5Gtqx8KbX8MdNiEB6Na6Mqf4Jr8XOHq26_JZ6LNbbxw)![](https://lh6.googleusercontent.com/sC4jtKG14K2axSW-EPx9U4p5t68h9RI62O1f5m_NrE9seIq0FwRUVhkUNGLgCYd3pyXhzvRx2oG2qhutuPgQxQQz1znkvrFkOcoqR8jrkNhI08_9EEAgSjmpjIUOgAEzwjlbfpMy)
 
-* Bennett’s short e cooldown and slow pyro application allows him to consistently melt his e and q ****using Chongyun's Elemental Skill to infuse his Normal Attacks to Cryo, dealing large damage.
+* Bennett’s short Elemental Skill cooldown and slow pyro application allows him to consistently melt his Elemental Skill and Elemental Burst ****using Chongyun's Elemental Skill to infuse his Normal Attacks to Cryo, dealing large damage.
 
 [Overload](../../teams/overload.md)
 
 ![](https://lh5.googleusercontent.com/uHb0PfJd9iz0XVL7ctPPZzkl0wBX-t0qRQKOHZvZfhd-cqNZTYQWsUEv9AiQlrw0QvgbmOuB7R-o87LRvLuub5TJUjymm0HWCplyyCUs4guwsS0VYkYMH_MK27gc89yFLTPlHtuP)![](https://lh5.googleusercontent.com/c_xlUzTJQK3QRmtTt2Z2QNmfKgdOlJ_U9eKX_S6QfDOMuw-iyWkuOdnvC1W_Hkn75ImqalSZmkEI9G3MIHFDQGakABc1nyuCAzBqsslkKqfJ7y3HY3SUdh_UNA_DAoBFVtf8ycgV)![](https://lh3.googleusercontent.com/gny9daI49qHb-sIphG8kLzWzTU1nT5f-pnVopSZoXO9EXwQEUVnLEjXMFk-ThkrA-QKTRI4jE9noaMylntwTKAKBLNUTiW9DkA2nUHN-W0nAPWXEG01iwNUjQrRqIj1GuP05IbOG)![](https://lh5.googleusercontent.com/hXiIESt4Y9M3ocZTMKm4twVS0A-BnfmK_8Bs43keIKq34K-hD5ex5gX9cPRQBNwVyp7CBVcJRfhakxpj8uof_C-ldH_Bqpe0_vLxyes-QJokNDGg3dqIUTs-IcbyUv4TU8JsTw_h)
 
-*  Bennett with the 4 set Thundering Fury allows him to have a 1 second e cooldown if he procs overload using Beidou's Elemental Burst and Fischl's Elemental Skill and Burst as source of Electro Aura, generating lots of team energy.
+*  Bennett with the 4 set Thundering Fury allows him to have a 1 second Elemental Skill cooldown while inside his Elemental Burst if he procs overload using Beidou's Elemental Burst and Fischl's Elemental Skill. This team comp allows Bennett to generate lots of particles for teammates, greatly reducing their ER cost requirement.
 
 ### Support Comps
 
