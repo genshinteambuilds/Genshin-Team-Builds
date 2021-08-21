@@ -8,15 +8,25 @@
 
 {% page-ref page="characters/pyro/bennett.md" %}
 
+{% page-ref page="characters/cryo/eula.md" %}
+
+{% page-ref page="characters/cryo/ganyu.md" %}
+
+{% page-ref page="characters/pyro/hu-tao.md" %}
+
+{% page-ref page="characters/cryo/diona.md" %}
+
 ## Porting:
 
 ### Characters:
 
-Eula: [https://docs.google.com/document/d/13dYBRTjmF0uPUKcDEB4mi9CyGtgTa9Iied3VQGimMS4/edit](https://docs.google.com/document/d/13dYBRTjmF0uPUKcDEB4mi9CyGtgTa9Iied3VQGimMS4/edit)
+Razor: [https://docs.google.com/document/d/1ThlM3MwkTUopDJbcsZazVLPa3Jzh9la4mliryJ2zoJk/edit?usp=sharing](https://docs.google.com/document/d/1ThlM3MwkTUopDJbcsZazVLPa3Jzh9la4mliryJ2zoJk/edit?usp=sharing)
 
-Hutao: [https://docs.google.com/document/d/1Vw1rg\_yQqQp5wAz9Zvjmd1dWsjcZvQ0gPobkGlnuLXc/edit](https://docs.google.com/document/d/1Vw1rg_yQqQp5wAz9Zvjmd1dWsjcZvQ0gPobkGlnuLXc/edit)
+Lisa: [https://docs.google.com/document/d/1ZBIkxeRe0x5FWDQ1PCPtWJw5WRFlVHsKW\_wFqzwGteM/edit?usp=sharing](https://docs.google.com/document/d/1ZBIkxeRe0x5FWDQ1PCPtWJw5WRFlVHsKW_wFqzwGteM/edit?usp=sharing)
 
-Ganyu: [https://docs.google.com/document/d/1\_PaI79A4uIOm86sLBw2oULW-O-LXkcyfUQ3bMH23mYI/edit](https://docs.google.com/document/d/1_PaI79A4uIOm86sLBw2oULW-O-LXkcyfUQ3bMH23mYI/edit)
+Keqing: [https://docs.google.com/document/d/19xU4sMTZBt8o2Df6WYat5Y\_KlgZB1uNvF8DdtSSHswQ/edit](https://docs.google.com/document/d/19xU4sMTZBt8o2Df6WYat5Y_KlgZB1uNvF8DdtSSHswQ/edit)
+
+Beidou: [https://docs.google.com/document/d/1prciwpf9ILpcxMOByRWtavYuSeN8gCpW5jP2xaxWB2E/edit](https://docs.google.com/document/d/1prciwpf9ILpcxMOByRWtavYuSeN8gCpW5jP2xaxWB2E/edit)
 
 ### Teams:
 
@@ -34,18 +44,22 @@ Electro-Charged: [https://docs.google.com/document/d/1cu\_wlOa1f\_iRZ6Z-cJWW0-yh
 
 One-Shots: [https://docs.google.com/document/d/1n6B6cqfS4Fy09-3OTrbSy4l-iihOpp0ZKjfDoYV5ARo/edit](https://docs.google.com/document/d/1n6B6cqfS4Fy09-3OTrbSy4l-iihOpp0ZKjfDoYV5ARo/edit)
 
+Freeze: [https://docs.google.com/document/d/1rBTfuwfl64MlujOHvS9hsWAxtpl1rxTcAOaLqYF6QBw/edit](https://docs.google.com/document/d/1rBTfuwfl64MlujOHvS9hsWAxtpl1rxTcAOaLqYF6QBw/edit)
+
+Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteqFDGDBDvT8YU/edit](https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd_rteqFDGDBDvT8YU/edit)
+
 ## Write
 
 |  |  |
 | :--- | :--- |
 | folie \(CC\) | ningguang, zhongli |
 | hyper \(CC\) | amber |
-| ultikiller/Kicc \(CC\) | keqing beidou |
-| CoFt/Chair | diona, lisa |
+| ultikiller/Kicc \(CC\) |  |
+| CoFt/Chair |  |
 | shockwhite | mona |
-| aidan | qiqi, razor |
-| albeiro | freeze, vaporize |
-| seagull | porting |
+| aidan | qiqi |
+| albeiro |  |
+| seagull |  |
 | khino | porting |
 | miko | - |
 | rag | editing / proofreading |
@@ -104,10 +118,13 @@ albeiro
 * overload \(8/12\)
 * EC \(8/6\)
 * oneshot \(8/6\)
+* freeze \(8/18\)
+* vaporize \(8/18\)
 
 CoFT/chair 
 
 * hutao \(8/15\)
+* Lisa \(8/19\)
 
 rag
 
@@ -122,6 +139,19 @@ shockwhite
 hyper
 
 * bennett \(8/17\)
+
+folie
+
+* ganyu \(8/17\)
+
+aidan
+
+* razor \(8/19\)
+
+Ultikiller
+
+* Keqing \(8/21\)
+* Beidou \(8/21\)
 
 ## Random References to go through once we're done:
 
