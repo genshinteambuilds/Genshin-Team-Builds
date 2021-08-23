@@ -16,6 +16,8 @@
 
 {% page-ref page="characters/cryo/diona.md" %}
 
+{% page-ref page="characters/anemo/venti.md" %}
+
 ## Porting:
 
 ### Characters:
