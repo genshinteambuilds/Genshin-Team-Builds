@@ -65,7 +65,7 @@ Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteq
 | shockwhite | fischl, xiangling |
 | aidan | qiqi |
 | albeiro | anemo team, geo team |
-| seagull |  |
+| seagull | chongyun, kaeya |
 | khino | porting |
 | miko | - |
 | rag | editing / proofreading |
@@ -74,8 +74,6 @@ Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteq
 
 Characters left to do: 
 
-* chongyun, 
-* kaeya, 
 * rosaria,  
 * noelle
 * xinyan,
