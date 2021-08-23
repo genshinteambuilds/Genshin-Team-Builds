@@ -99,6 +99,7 @@ khino
 * tartaglia \(8/15\)
 * xingqiu \(8/16\)
 * albedo \(8/16\)
+* venti \(8/20\)
 
 albeiro
 
