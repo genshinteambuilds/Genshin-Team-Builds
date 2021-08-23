@@ -79,8 +79,6 @@ Characters left to do:
 * rosaria,  
 * noelle
 * xinyan,
-* traveler \(anemo\)
-* traveler \(geo\)
 
 New characters we need to add after this initial pass: 
 
