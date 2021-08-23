@@ -36,6 +36,8 @@ Amber: [https://docs.google.com/document/d/1-oCm7l0Ian4zynjWYLmYGMbzP\_HoVZ9AEsu
 
 Mona: [https://docs.google.com/document/d/1cxLmJ4MUJV2rz28NC6jTwiZjDwLIejENsl5DumWBPcQ/edit](https://docs.google.com/document/d/1cxLmJ4MUJV2rz28NC6jTwiZjDwLIejENsl5DumWBPcQ/edit)
 
+Ningguang: [https://docs.google.com/document/d/1vSguTIoPY0IEE-k3M4dFH5XbA\_t77fpBKCKzTG1-VaI/edit](https://docs.google.com/document/d/1vSguTIoPY0IEE-k3M4dFH5XbA_t77fpBKCKzTG1-VaI/edit)
+
 ### Teams:
 
 Reverse Melt: [https://docs.google.com/document/d/1FLKeNWrtWb5iMUNSHL1l4WwTumuIkaKK\_xsciIIDLUQ/edit](https://docs.google.com/document/d/1FLKeNWrtWb5iMUNSHL1l4WwTumuIkaKK_xsciIIDLUQ/edit)
@@ -58,7 +60,7 @@ Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteq
 
 |  |  |
 | :--- | :--- |
-| folie \(CC\) | ningguang, zhongli |
+| folie \(CC\) | zhongli |
 | hyper \(CC\) | klee |
 | ultikiller/Kicc \(CC\) | barbara, yanfei |
 | CoFt/Chair | traveler \(anemo\), traveler \(geo\) |
@@ -135,6 +137,7 @@ hyper
 folie
 
 * ganyu \(8/17\)
+* ningguang \(8/23\)
 
 aidan
 
