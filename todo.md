@@ -28,6 +28,10 @@ Keqing: [https://docs.google.com/document/d/19xU4sMTZBt8o2Df6WYat5Y\_KlgZB1uNvF8
 
 Beidou: [https://docs.google.com/document/d/1prciwpf9ILpcxMOByRWtavYuSeN8gCpW5jP2xaxWB2E/edit](https://docs.google.com/document/d/1prciwpf9ILpcxMOByRWtavYuSeN8gCpW5jP2xaxWB2E/edit)
 
+Amber: [https://docs.google.com/document/d/1-oCm7l0Ian4zynjWYLmYGMbzP\_HoVZ9AEsus8h2wzpw/edit](https://docs.google.com/document/d/1-oCm7l0Ian4zynjWYLmYGMbzP_HoVZ9AEsus8h2wzpw/edit)
+
+Mona: [https://docs.google.com/document/d/1cxLmJ4MUJV2rz28NC6jTwiZjDwLIejENsl5DumWBPcQ/edit](https://docs.google.com/document/d/1cxLmJ4MUJV2rz28NC6jTwiZjDwLIejENsl5DumWBPcQ/edit)
+
 ### Teams:
 
 Pyro: [https://docs.google.com/document/d/1OgrRyv9xiIv0DV9V3YyyjHsyQXEWzOXYdsHTqTmw3FM/edit](https://docs.google.com/document/d/1OgrRyv9xiIv0DV9V3YyyjHsyQXEWzOXYdsHTqTmw3FM/edit)
@@ -53,12 +57,12 @@ Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteq
 |  |  |
 | :--- | :--- |
 | folie \(CC\) | ningguang, zhongli |
-| hyper \(CC\) | amber |
+| hyper \(CC\) |  |
 | ultikiller/Kicc \(CC\) |  |
 | CoFt/Chair |  |
-| shockwhite | mona |
+| shockwhite |  |
 | aidan | qiqi |
-| albeiro |  |
+| albeiro | anemo team, geo team |
 | seagull |  |
 | khino | porting |
 | miko | - |
@@ -83,11 +87,6 @@ Characters left to do:
 * klee 
 * traveler \(anemo\)
 * traveler \(geo\)
-
-Teams left to do: 
-
-* anemo, 
-* geo 
 
 New characters we need to add after this initial pass: 
 
