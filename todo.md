@@ -59,8 +59,8 @@ Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteq
 |  |  |
 | :--- | :--- |
 | folie \(CC\) | ningguang, zhongli |
-| hyper \(CC\) |  |
-| ultikiller/Kicc \(CC\) |  |
+| hyper \(CC\) | klee |
+| ultikiller/Kicc \(CC\) | barbara, yanfei |
 | CoFt/Chair |  |
 | shockwhite | fischl, xiangling |
 | aidan | qiqi |
@@ -79,11 +79,8 @@ Characters left to do:
 * kaeya, 
 * rosaria,  
 * noelle, 
-* traveler \(geo\), 
-* barbara, 
-* xinyan, 
-* yanfei, 
-* klee 
+* traveler \(geo\),  
+* xinyan,
 * traveler \(anemo\)
 * traveler \(geo\)
 
