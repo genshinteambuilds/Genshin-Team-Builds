@@ -62,7 +62,7 @@ Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteq
 | hyper \(CC\) |  |
 | ultikiller/Kicc \(CC\) |  |
 | CoFt/Chair |  |
-| shockwhite | venti, xiangling |
+| shockwhite | fischl, xiangling |
 | aidan | qiqi |
 | albeiro | anemo team, geo team |
 | seagull |  |
@@ -77,8 +77,7 @@ Characters left to do:
 * traveler \(anemo\), 
 * chongyun, 
 * kaeya, 
-* rosaria, 
-* fischl, 
+* rosaria,  
 * noelle, 
 * traveler \(geo\), 
 * barbara, 
