@@ -18,6 +18,8 @@
 
 {% page-ref page="characters/anemo/venti.md" %}
 
+{% page-ref page="teams/pyro.md" %}
+
 ## Porting:
 
 ### Characters:
@@ -35,8 +37,6 @@ Amber: [https://docs.google.com/document/d/1-oCm7l0Ian4zynjWYLmYGMbzP\_HoVZ9AEsu
 Mona: [https://docs.google.com/document/d/1cxLmJ4MUJV2rz28NC6jTwiZjDwLIejENsl5DumWBPcQ/edit](https://docs.google.com/document/d/1cxLmJ4MUJV2rz28NC6jTwiZjDwLIejENsl5DumWBPcQ/edit)
 
 ### Teams:
-
-Pyro: [https://docs.google.com/document/d/1OgrRyv9xiIv0DV9V3YyyjHsyQXEWzOXYdsHTqTmw3FM/edit](https://docs.google.com/document/d/1OgrRyv9xiIv0DV9V3YyyjHsyQXEWzOXYdsHTqTmw3FM/edit)
 
 Reverse Melt: [https://docs.google.com/document/d/1FLKeNWrtWb5iMUNSHL1l4WwTumuIkaKK\_xsciIIDLUQ/edit](https://docs.google.com/document/d/1FLKeNWrtWb5iMUNSHL1l4WwTumuIkaKK_xsciIIDLUQ/edit)
 
