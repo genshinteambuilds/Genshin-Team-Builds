@@ -65,7 +65,7 @@ Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteq
 | ultikiller/Kicc \(CC\) | barbara, yanfei |
 | CoFt/Chair | traveler \(anemo\), traveler \(geo\) |
 | shockwhite | fischl, xiangling |
-| aidan | qiqi |
+| aidan | qiqi, yoimiya |
 | albeiro | anemo team, geo team |
 | seagull | chongyun, kaeya |
 | khino | porting |
@@ -82,8 +82,7 @@ Characters left to do:
 
 New characters we need to add after this initial pass: 
 
-* sayu, 
-* yoimiya.
+* sayu
 * traveler \(electro\)
 
 ## Credits
