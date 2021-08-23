@@ -61,7 +61,7 @@ Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteq
 | folie \(CC\) | ningguang, zhongli |
 | hyper \(CC\) | klee |
 | ultikiller/Kicc \(CC\) | barbara, yanfei |
-| CoFt/Chair |  |
+| CoFt/Chair | traveler \(anemo\), traveler \(geo\) |
 | shockwhite | fischl, xiangling |
 | aidan | qiqi |
 | albeiro | anemo team, geo team |
@@ -74,12 +74,10 @@ Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteq
 
 Characters left to do: 
 
-* traveler \(anemo\), 
 * chongyun, 
 * kaeya, 
 * rosaria,  
-* noelle, 
-* traveler \(geo\),  
+* noelle
 * xinyan,
 * traveler \(anemo\)
 * traveler \(geo\)
