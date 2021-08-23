@@ -60,7 +60,7 @@ Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteq
 | hyper \(CC\) |  |
 | ultikiller/Kicc \(CC\) |  |
 | CoFt/Chair |  |
-| shockwhite |  |
+| shockwhite | venti, xiangling |
 | aidan | qiqi |
 | albeiro | anemo team, geo team |
 | seagull |  |
@@ -72,7 +72,6 @@ Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteq
 
 Characters left to do: 
 
-* venti, 
 * traveler \(anemo\), 
 * chongyun, 
 * kaeya, 
@@ -81,7 +80,6 @@ Characters left to do:
 * noelle, 
 * traveler \(geo\), 
 * barbara, 
-* xiangling, 
 * xinyan, 
 * yanfei, 
 * klee 
@@ -134,10 +132,12 @@ rag
 shockwhite
 
 * eula \(8/15\)
+* mona \(8/22\)
 
 hyper
 
 * bennett \(8/17\)
+* amber \(8/21\)
 
 folie
 
