@@ -34,6 +34,8 @@ Mona: [https://docs.google.com/document/d/1cxLmJ4MUJV2rz28NC6jTwiZjDwLIejENsl5Du
 
 Ningguang: [https://docs.google.com/document/d/1vSguTIoPY0IEE-k3M4dFH5XbA\_t77fpBKCKzTG1-VaI/edit](https://docs.google.com/document/d/1vSguTIoPY0IEE-k3M4dFH5XbA_t77fpBKCKzTG1-VaI/edit)
 
+Qiqi: [https://docs.google.com/document/d/1DMwzPez6M\_etj9KtEvtp6g-oXn8Zl5V5BdolaXsYCCA/edit\#heading=h.r5e3qkkmdryk](https://docs.google.com/document/d/1DMwzPez6M_etj9KtEvtp6g-oXn8Zl5V5BdolaXsYCCA/edit#heading=h.r5e3qkkmdryk)
+
 ### Teams:
 
 Reverse Melt: [https://docs.google.com/document/d/1FLKeNWrtWb5iMUNSHL1l4WwTumuIkaKK\_xsciIIDLUQ/edit](https://docs.google.com/document/d/1FLKeNWrtWb5iMUNSHL1l4WwTumuIkaKK_xsciIIDLUQ/edit)
