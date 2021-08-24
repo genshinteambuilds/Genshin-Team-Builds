@@ -63,7 +63,7 @@ Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteq
 | ultikiller/Kicc \(CC\) | barbara, yanfei |
 | CoFt/Chair | traveler \(anemo\), traveler \(geo\) |
 | shockwhite | fischl, xiangling |
-| aidan | qiqi, yoimiya |
+| aidan | yoimiya |
 | albeiro | anemo team, geo team |
 | seagull | chongyun, kaeya |
 | khino | porting |
