@@ -2,8 +2,6 @@
 
 ## Proofreading / Editing:
 
-{% page-ref page="characters/hydro/xingqiu.md" %}
-
 {% page-ref page="characters/geo/albedo.md" %}
 
 {% page-ref page="characters/pyro/bennett.md" %}
