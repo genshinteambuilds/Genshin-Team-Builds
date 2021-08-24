@@ -8,8 +8,6 @@
 
 {% page-ref page="characters/cryo/eula.md" %}
 
-{% page-ref page="characters/cryo/ganyu.md" %}
-
 {% page-ref page="characters/pyro/hu-tao.md" %}
 
 {% page-ref page="characters/cryo/diona.md" %}
