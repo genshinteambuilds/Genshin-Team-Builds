@@ -16,6 +16,10 @@
 
 {% page-ref page="teams/pyro.md" %}
 
+{% page-ref page="characters/geo/noelle.md" %}
+
+
+
 ## Porting:
 
 ### Characters:
