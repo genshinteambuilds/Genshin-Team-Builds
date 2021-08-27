@@ -36,6 +36,10 @@ Ningguang: [https://docs.google.com/document/d/1vSguTIoPY0IEE-k3M4dFH5XbA\_t77fp
 
 Qiqi: [https://docs.google.com/document/d/1DMwzPez6M\_etj9KtEvtp6g-oXn8Zl5V5BdolaXsYCCA/edit\#heading=h.r5e3qkkmdryk](https://docs.google.com/document/d/1DMwzPez6M_etj9KtEvtp6g-oXn8Zl5V5BdolaXsYCCA/edit#heading=h.r5e3qkkmdryk)
 
+Traveller \(Anemo\): [https://docs.google.com/document/d/14-LNVioxrU1qy3PahL\_kz7Ii8Bl8LyJJDNikiZXl\_ao/edit?usp=sharing](https://docs.google.com/document/d/14-LNVioxrU1qy3PahL_kz7Ii8Bl8LyJJDNikiZXl_ao/edit?usp=sharing)
+
+
+
 ### Teams:
 
 Reverse Melt: [https://docs.google.com/document/d/1FLKeNWrtWb5iMUNSHL1l4WwTumuIkaKK\_xsciIIDLUQ/edit](https://docs.google.com/document/d/1FLKeNWrtWb5iMUNSHL1l4WwTumuIkaKK_xsciIIDLUQ/edit)
@@ -54,6 +58,8 @@ Freeze: [https://docs.google.com/document/d/1rBTfuwfl64MlujOHvS9hsWAxtpl1rxTcAOa
 
 Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteqFDGDBDvT8YU/edit](https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd_rteqFDGDBDvT8YU/edit)
 
+Geo: [https://docs.google.com/document/d/1uHeMyjXSGAVqm8dPratXqTEs18RBgnLukPdGLba1mic/edit?usp=sharing](https://docs.google.com/document/d/1uHeMyjXSGAVqm8dPratXqTEs18RBgnLukPdGLba1mic/edit?usp=sharing)
+
 ## Write
 
 |  |  |
@@ -61,10 +67,10 @@ Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteq
 | folie \(CC\) | zhongli |
 | hyper \(CC\) | klee |
 | ultikiller/Kicc \(CC\) | barbara, yanfei |
-| CoFt/Chair | traveler \(anemo\), traveler \(geo\) |
+| CoFt/Chair | traveler \(geo\) |
 | shockwhite | fischl, xiangling |
 | aidan | yoimiya |
-| albeiro | anemo team, geo team |
+| albeiro | anemo team |
 | seagull | chongyun, kaeya |
 | khino | porting |
 | miko | - |
@@ -109,11 +115,13 @@ albeiro
 * oneshot \(8/6\)
 * freeze \(8/18\)
 * vaporize \(8/18\)
+* geo \(8/26\)
 
 CoFT/chair 
 
 * hutao \(8/15\)
 * Lisa \(8/19\)
+* Traveller \(Anemo\) \(8/26\)
 
 rag
 
