@@ -78,6 +78,7 @@ Geo: [https://docs.google.com/document/d/1uHeMyjXSGAVqm8dPratXqTEs18RBgnLukPdGLb
 | seagull | chongyun, kaeya |
 | khino | porting |
 | miko | - |
+| bich | noelle, porting/editing/proofreading |
 | rag | editing / proofreading |
 
 ## Unassigned
@@ -156,6 +157,10 @@ Ultikiller
 
 * Keqing \(8/21\)
 * Beidou \(8/21\)
+
+bich
+
+* Noelle \(8/27\)
 
 ## Random References to go through once we're done:
 
