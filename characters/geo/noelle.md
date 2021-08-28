@@ -44,26 +44,26 @@
 
 3 geo + fill
 
-[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md)![](../../.gitbook/assets/ui_avataricon_zhongli.png)![](../../.gitbook/assets/ui_avataricon_ningguang.png)![](../../.gitbook/assets/ui_avataricon_bennett.png)
+[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_ningguang.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png)
 
-[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md)![](../../.gitbook/assets/ui_avataricon_zhongli.png)[![](../../.gitbook/assets/ui_avataricon_aether_geo.png)](traveler-geo.md)![](../../.gitbook/assets/ui_avataricon_bennett.png)
+[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png)[ ](zhongli.md)[![](../../.gitbook/assets/ui_avataricon_aether_geo.png) ](traveler-geo.md)
 
 * Zhong \(shield\) and Ning \(battery\) provide immense utility and can provide great damage as well with good ratios on their burst. Albedo is a decent alternative to any of the geo chars above 
 * Bennett provides healing and huge offensive buffs.  
 
 2 geo 2 pyro
 
-[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md)![](../../.gitbook/assets/ui_avataricon_zhongli.png)![](../../.gitbook/assets/ui_avataricon_bennett.png)![](../../.gitbook/assets/ui_avataricon_xiangling.png)
+[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png)
 
-[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md)![](../../.gitbook/assets/ui_avataricon_ningguang.png)![](../../.gitbook/assets/ui_avataricon_bennett.png)![](../../.gitbook/assets/ui_avataricon_xiangling.png)
+[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md) ![](../../.gitbook/assets/ui_avataricon_ningguang.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png)
 
 * Takes advantage of the good geo and pyro resonance but can have energy issues for Noelle and Xiangling.
 
 2 geo 2 fill
 
-[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md)![](../../.gitbook/assets/ui_avataricon_zhongli.png)![](../../.gitbook/assets/ui_avataricon_fischl.png)![](../../.gitbook/assets/ui_avataricon_xingqiu.png)
+[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png)
 
-[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md)![](../../.gitbook/assets/ui_avataricon_ningguang.png)[![](../../.gitbook/assets/ui_avataricon_rosaria.png)](../cryo/rosaria.md)![](../../.gitbook/assets/ui_avataricon_bennett.png)
+[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md) ![](../../.gitbook/assets/ui_avataricon_ningguang.png) [![](../../.gitbook/assets/ui_avataricon_rosaria.png)](../cryo/rosaria.md) ![](../../.gitbook/assets/ui_avataricon_bennett.png)
 
 * A couple examples of a double geo team with 2 fill. Can choose any as long it fills the general needs of a team \(healing, enough energy regen for rotations off cooldown\).
 
