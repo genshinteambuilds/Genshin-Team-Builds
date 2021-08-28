@@ -194,8 +194,6 @@ Refer to the character notes below for how characters work in this particular te
 
 ## Main DPS
 
-
-
 <table>
   <thead>
     <tr>
