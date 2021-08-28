@@ -86,7 +86,5 @@ Mono Electro
 
 ![](../../.gitbook/assets/ui_avataricon_keqing.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
-*  just like electro is fairly flexible, it’s usually Keqing + a cryo user then it depends on either you want more damage or utility 
-
-##  
+*  just like electro is fairly flexible, it’s usually Keqing + a cryo user then it depends on either you want more damage or utility
 
