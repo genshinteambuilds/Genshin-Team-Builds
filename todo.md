@@ -34,7 +34,7 @@ Beidou: [https://docs.google.com/document/d/1prciwpf9ILpcxMOByRWtavYuSeN8gCpW5jP
 
 Amber: [https://docs.google.com/document/d/1-oCm7l0Ian4zynjWYLmYGMbzP\_HoVZ9AEsus8h2wzpw/edit](https://docs.google.com/document/d/1-oCm7l0Ian4zynjWYLmYGMbzP_HoVZ9AEsus8h2wzpw/edit)
 
-Mona \(ported\): [https://docs.google.com/document/d/1cxLmJ4MUJV2rz28NC6jTwiZjDwLIejENsl5DumWBPcQ/edit](https://docs.google.com/document/d/1cxLmJ4MUJV2rz28NC6jTwiZjDwLIejENsl5DumWBPcQ/edit)
+Mona \(ported, proofread lightly\): [https://docs.google.com/document/d/1cxLmJ4MUJV2rz28NC6jTwiZjDwLIejENsl5DumWBPcQ/edit](https://docs.google.com/document/d/1cxLmJ4MUJV2rz28NC6jTwiZjDwLIejENsl5DumWBPcQ/edit)
 
 Ningguang: [https://docs.google.com/document/d/1vSguTIoPY0IEE-k3M4dFH5XbA\_t77fpBKCKzTG1-VaI/edit](https://docs.google.com/document/d/1vSguTIoPY0IEE-k3M4dFH5XbA_t77fpBKCKzTG1-VaI/edit)
 
