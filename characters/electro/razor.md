@@ -76,7 +76,7 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-Superconduct 
+[Physical](../../teams/physical.md)
 
   ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png)   
 
@@ -85,7 +85,7 @@ Superconduct
 * Overall this team works on activating superconduct reactions to deal lots of physical damage with Razor.
 * Kaeya can be replaced with another Cryo application character and Diona with another healer to keep Razor alive.
 
-Non-Superconduct Team 
+Non-Superconduct  
 
 ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_xinyan.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
