@@ -58,7 +58,7 @@ Electro-Charged: [https://docs.google.com/document/d/1cu\_wlOa1f\_iRZ6Z-cJWW0-yh
 
 One-Shots: [https://docs.google.com/document/d/1n6B6cqfS4Fy09-3OTrbSy4l-iihOpp0ZKjfDoYV5ARo/edit](https://docs.google.com/document/d/1n6B6cqfS4Fy09-3OTrbSy4l-iihOpp0ZKjfDoYV5ARo/edit)
 
-Freeze: [https://docs.google.com/document/d/1rBTfuwfl64MlujOHvS9hsWAxtpl1rxTcAOaLqYF6QBw/edit](https://docs.google.com/document/d/1rBTfuwfl64MlujOHvS9hsWAxtpl1rxTcAOaLqYF6QBw/edit)
+Freeze \(ported, proofread + edited\): [https://docs.google.com/document/d/1rBTfuwfl64MlujOHvS9hsWAxtpl1rxTcAOaLqYF6QBw/edit](https://docs.google.com/document/d/1rBTfuwfl64MlujOHvS9hsWAxtpl1rxTcAOaLqYF6QBw/edit)
 
 Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteqFDGDBDvT8YU/edit](https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd_rteqFDGDBDvT8YU/edit)
 
