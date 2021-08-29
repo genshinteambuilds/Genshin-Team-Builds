@@ -45,8 +45,8 @@ Click on a character's portrait to see how the character works and functions in 
         <p><a href="../../characters/geo/albedo.md">Albedo</a>
         </p>
       </td>
-      <td style="text-align:left">Primarily an Off-Field Sub DPS but Albedo&apos;s Elemental Burst can deal
-        significant Burst Damage depending on gear and constellations.</td>
+      <td style="text-align:left">Primarily an Off-Field Sub DPS, but Albedo&apos;s Elemental Burst can
+        deal significant Burst Damage depending on gear and constellations.</td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -114,8 +114,8 @@ Click on a character's portrait to see how the character works and functions in 
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Primarily a Support and Healer but Jean&apos;s Element Burst does a suprisingly
-            large amount of damage when properly geared.</li>
+          <li>Though her primary roles are Support and Healer, Jean&apos;s Element Burst
+            and Elemental Skill can deal large amounts of damage when properly geared.</li>
         </ul>
       </td>
     </tr>

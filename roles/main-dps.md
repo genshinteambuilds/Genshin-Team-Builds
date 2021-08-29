@@ -229,7 +229,7 @@ The following characters listed below can be used as Main DPS characters in a pi
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Can work similar to a budget Diluc when paired with Xingqiu and/or Chongyun.</li>
+          <li>Can work similarly to a budget Diluc when paired with Xingqiu and/or Chongyun.</li>
         </ul>
       </td>
     </tr>
@@ -277,8 +277,9 @@ The following characters listed below can be used as Main DPS characters in a pi
       <td style="text-align:left">
         <ul>
           <li>Can be built as a Physical DPS with Crescent Pike in the early stages
-            of the game but most players eventually transition her to focusing on Pyro
-            Damage and the damage output from her Elemental Burst: Pyronado.</li>
+            of the game.</li>
+          <li>However, most players eventually transition to focusing on Pyro Damage
+            and maximizing the damage output from her Elemental Burst.</li>
         </ul>
       </td>
     </tr>

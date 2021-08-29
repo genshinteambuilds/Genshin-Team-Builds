@@ -20,15 +20,15 @@ The current **enemy stats** that can be **debuffed** by characters \(talents/con
 
 * Elemental Resistance
 * Physical Resistance
-* Defence
+* Defense
 
 {% hint style="info" %}
-Some Artifact Sets have set bonuses which can allow characters to become buffers or debuffers.   
-For example, Viridescent Venerer's 4-set bonus allows anemo characters to reduce enemies elemental resistance to the element being swirled.
+Some Artifact Sets have set bonuses that can allow characters to become buffers or debuffers.   
+For example, Viridescent Venerer's 4-set bonus allows Anemo characters to reduce enemy elemental resistance to the swirled element.
 {% endhint %}
 
 {% hint style="info" %}
-The Superconduct Elemental Reaction \(Cryo + Electro\) is the only elemental reaction that can debuff enemies. Superconduct reduces an enemy's **Physical Resistance** by **40%** making it a **must have** reaction for any Teams using a **Physical Main DPS.**
+The Superconduct Elemental Reaction \(Cryo + Electro\) is the only elemental reaction that innately debuffs enemies. Superconduct reduces an enemy's **Physical Resistance** by **40%** for **12 seconds**, making it a **must have** reaction for any team using a **Physical Main DPS.**
 {% endhint %}
 
 ## Characters that can Buff/Debuff <a id="list-of-burst-sub-dps-characters"></a>
@@ -55,7 +55,7 @@ Click on a character's portrait to see how the character works and functions in 
       <td style="text-align:left">
         <ul>
           <li>Buffs Elemental Mastery upon using his Elemental Burst at Ascension 4.</li>
-          <li>Buffs Plunging Damage at C4 when the activate character is standing within
+          <li>Buffs Plunging Damage at C4 when the active character is standing within
             the field created by Albedo&apos;s Elemental Skill.</li>
           <li>Buffs Damage % at C6 when protected by a shield created by Crystallize.</li>
         </ul>
@@ -83,7 +83,7 @@ Click on a character's portrait to see how the character works and functions in 
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Debuffs Defence at C4 when enemies are hit by Ayaka&apos;s Elemental Burst.</li>
+          <li>Debuffs Defense at C4 when enemies are hit by Ayaka&apos;s Elemental Burst.</li>
         </ul>
       </td>
     </tr>
@@ -200,7 +200,7 @@ Click on a character's portrait to see how the character works and functions in 
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Debuffs Defence at C2 when enemies are hit by Klee&apos;s Elemental Skill.</li>
+          <li>Debuffs Defense at C2 when enemies are hit by Klee&apos;s Elemental Skill.</li>
           <li>Buffs Pyro Damage at C6 when Klee uses her Elemental Burst.</li>
         </ul>
       </td>
@@ -214,7 +214,7 @@ Click on a character's portrait to see how the character works and functions in 
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Debuffs Defence at C2 when enemies are hit by Lisa&apos;s Elemental Skill
+          <li>Debuffs Defense at C2 when enemies are hit by Lisa&apos;s Elemental Skill
             (Hold).</li>
         </ul>
       </td>
@@ -361,7 +361,7 @@ Click on a character's portrait to see how the character works and functions in 
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Debuffs Elemental and Physical Resistance by 20% when protected by the
+          <li>Debuffs Elemental and Physical Resistance by 20% when enemies come near
             Jade Shield.</li>
         </ul>
       </td>
