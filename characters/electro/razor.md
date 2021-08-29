@@ -2,54 +2,52 @@
 
 ## Roles
 
-* Main DPS
+* **Main DPS**
 
 ## Character Breakdown
 
-* For Razor, Physical damage is his main form of damage.
-* His standard AA \(Auto Attacks\) are the most vital parts of his kit, as he relies on dealing physical damage the most.
-* His E \(Elemental Skill, Claw and Thunder\), changes based on whether you tap or hold it. On tapping, Razor strikes an attack with a claw that deals AOE Electro damage, giving him an electro sigil \(to a max of 3\) that increases his ER \(Energy Recharge\) by 20% each. On holding, he deals Electro damage in a circle around him and consumes any electro sigils he has for additional energy for his Elemental Burst.
-* His Q \(Elemental Burst, Lightning Fang\), deals AOE Electro damage around him and consumes all his sigils \(which grant him even more energy\). It also gives him % Electro damage alongside each attack, and boosts his AA speed by 26-40%, allowing him to dish out even more physical damage, which is extremely useful.
-* His first passive \(Awakening\), reduces the cooldown of his E by 18%, and activating his Q instantly resets the cooldown of his E. This means that he can use his E much more to generate more energy for his Q.
-* His second passive \(Hunger\), Gives him an extra 30% ER when he is under 50% energy on his Q, which essentially allows him to generate energy faster for his Q.
-* Overall, he relies on his E to generate energy as quickly as possible to activate his Q for constant physical damage.
+* Normal Attacks are the most vital part of Razor's kit, and he heavily relies on dealing Physical damage.
+* Elemental Skill changes based on whether it is tapped or held. 
+  * On tap, he deals AOE Electro damage and gains an Electro Sigil \(of which he can hold a maximum of 3\). Each Sigil increases his Energy Recharge. 
+  * On hold, he deals Electro damage in a circle around him and converts all of his electro sigils into energy.
+* Elemental Burst deals an instance of AoE Electro damage around him and consumes all his Sigils, which then grant him energy. He gains the following effects:
+  * Electro damage is dealt alongside each attack
+  * Attack Speed increased
+  * Charge Attack disabled
+  * Increased resistance to interruption
+  * Cannot take damage from the Electro-Charged status and has increased Electro Resistance
+* At A1, the cooldown on Razor's Elemental Skill is reduced, and activating his Elemental Burst instantly resets the cooldown of his Elemental Skill. 
+* At A4, Razor gains extra Energy Recharge when he has less than half of the energy needed for his Elemental Burst.
 
 ## Additional Notes
 
-* Elemental Burst gives him additional Electro damage, Electro RES bonus, immunity against Electro-charged, and resistance to interruption
-* Without his Q \(Elemental Burst, Lightning Fang\) active, he does more damage with a 3 hit combo and dash cancelling the final attack. However with Q, he does more damage with the full 4 hit combo \(with dash cancelling\) instead.
-* It should be noted that when his Q is active, swapping to another character would prematurely end it, so it is highly recommended to keep him on the field for long periods of time.
-* His passive \(Wolvensprint\), reduces stamina consumption by 20% while sprinting partywide. \(It is non-stackable with other effects however\)
+* When his Elemental Burst is not active, Razor deals more damage per second with a three-hit combo followed by a dash cancel to omit the final attack; however, if Razor's Elemental Burst is active he will deal more damage with a full four-hit combo \(dash canceling after the fourth hit\) instead.
+* Swapping to another character while Razor's Elemental Burst is active will prematurely end it. It is therefore generally recommended to keep him on the field for as long as possible.
+  * An exception to this is when all enemies are dead. Prematurely canceling his Elemental Burst will return a small amount of energy to Razor. 
+* Razor's passive reduces sprinting's stamina consumption by 20% partywide \(non-stackable with other effects.\)
 
 ## Works Well With
 
 ![](../../.gitbook/assets/element_cryo.webp) 
 
-* Superconductor is Razor’s core reaction, as it lowers enemy defences to physical damage, thus most cryo characters are generally very effective.
+* Superconduct is Razor’s core reaction, as it lowers enemy resistance to physical damage. Thus, most cryo characters are generally very effective.
 
 ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_barbara.png) 
 
-* Xingqiu’s Elemental Skill and Burst helps to heal, reduce damage, and increase Razor’s resistance to interruption, making him an extremely good SubDps for Razor.
-* Barbara’s Elemental Skill heals Razor and cleanses pyro debuffs periodically, making her a good pair for him since he benefits the most from off-field effects.
-* Both provide off-field support, making them great additions to the team, they do not get in the way of superconduct reactions as well.
+* Xingqiu’s Elemental Skill and Elemental Burst can help to heal, reduce damage, and increase Razor’s resistance to interruption, making him an extremely good Sub-DPS for Razor.
+* Barbara’s Elemental Skill heals Razor and cleanses pyro debuffs periodically, making her a good pair for him since he benefits the most from Off-Field effects.
+* Both provide Off-Field support, making them good additions to the team. 
+* Hydro characters will not disrupt superconduct reactions.
 
 ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) 
 
-* Beidou’s Elemental Burst deals high amounts of electro damage while being off field, and gives Razor more survivability due to damage reduction and resistance to interruption. Just note that Beidou requires quite a bit of energy recharge as her Burst costs 80 energy.
-* Fischl provides energy for Razor and provides more off field electro damage. 
-* As Electro resonance is active when using either, it gives Razor even more ability to recharge his ult, keeping it active in prolonged fights.
-
-![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_xinyan.png) 
-
-* What support guide can I write without mentioning Bennett amirite?
-* His Elemental Burst can cleanse, heal and buff ATK, he has a lot of energy recharge to regain his burst as well, making him a solid choice.
-* Xiangling works as an off-field damage dealer for Razor, making her a heavy damaging SubDPS with good investment.
-* Xinyan provides a shield that gives Razor a 15% Physical damage boost while shielded.
-* Only issue is that they apply Pyro, which makes Overload reactions very likely to happen, forcing Razor to chase after the knockback enemies.
+* Beidou’s Elemental Burst deals high amounts of Off-Field electro damage and gives Razor more survivability due to damage reduction and resistance to interruption. Note that Beidou requires investment into energy recharge as her Burst costs 80 energy.
+* Fischl provides energy for Razor and deals Off-Field electro damage. 
+* Both characters provide Electro Resonance, which can help with Razor's Elemental Burst uptime.
 
 ![](../../.gitbook/assets/image%20%281%29.png) 
 
-* You crowd control them into an area for Razor to hit them, pretty simple.
+* Anemo characters can provide crowd control, grouping enemies such that Razor's attacks can hit multiple times.
 
 ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) 
 
