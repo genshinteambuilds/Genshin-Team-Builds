@@ -66,7 +66,7 @@ Geo: [https://docs.google.com/document/d/1uHeMyjXSGAVqm8dPratXqTEs18RBgnLukPdGLb
 
 ## Write
 
-|  |  |
+| Name | Role |
 | :--- | :--- |
 | folie \(CC\) | zhongli |
 | hyper \(CC\) | klee |
@@ -80,6 +80,7 @@ Geo: [https://docs.google.com/document/d/1uHeMyjXSGAVqm8dPratXqTEs18RBgnLukPdGLb
 | miko | - |
 | bich | noelle, porting/editing/proofreading |
 | rag | editing / proofreading |
+| ChiliLion | porting/editing/proofreading |
 
 ## Unassigned
 
