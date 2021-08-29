@@ -51,7 +51,7 @@
 
 ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_ayaka.png) 
 
-* Ganyu and Ayaka both synergize well with Beidou since they're both cryo DPS, meaning superconduct would be not as beneficial as to physical or electro charged team comps.
+* Ganyu and Ayaka both don't synergize well with Beidou since they're both cryo DPS, meaning superconduct would be not as beneficial as to physical or electro charged team comps.
 
 ![](../../.gitbook/assets/element_pyro.webp) 
 
