@@ -44,7 +44,7 @@
 * Fischl provides energy for Razor and deals Off-Field Electro damage. 
 * Both characters provide Electro Resonance, which can help with Razor's Elemental Burst uptime.
 
-![](../../.gitbook/assets/image%20%281%29.png) 
+ 
 
 * Most Anemo characters can crowd control and group enemies, allowing for Razor to hit multiple enemies more easily. 
 
