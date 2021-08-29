@@ -82,9 +82,9 @@ Mono Electro
 
 [Physical](../../teams/physical.md)
 
-![](../../.gitbook/assets/ui_avataricon_keqing.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
+![](../../.gitbook/assets/ui_avataricon_keqing.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
-![](../../.gitbook/assets/ui_avataricon_keqing.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+![](../../.gitbook/assets/ui_avataricon_keqing.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
 *  just like electro is fairly flexible, it’s usually Keqing + a cryo user then it depends on either you want more damage or utility
 
