@@ -60,6 +60,7 @@
   * [Xiangling](characters/pyro/xiangling.md)
   * [Xinyan](characters/pyro/xinyan.md)
   * [Yanfei](characters/pyro/yanfei.md)
+  * [Yoimiya](characters/pyro/yoimiya.md)
 
 ## Teams
 
