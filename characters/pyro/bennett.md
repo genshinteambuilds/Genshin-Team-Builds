@@ -8,15 +8,26 @@
 
 ## **Character Breakdown:**
 
-* Normal Attack: Strike of Fortune: Bennett has a 5 string auto attack sequence, dealing phys damage unless infused with another element.
-* Passion Overload: Bennett’s elemental skill has a tap sequence, where he unleashes a single swipe dealing pyro damage. His elemental skill can also be held to charge up and release consecutive attacks of pyro damage.
-* Fantastic Voyage: Bennett’s elemental burst deals AoE pyro damage upon activation and leaves behind a field. While Allies are inside the field, they will be periodically healed and afflicted with the pyro element. Bennett’s elemental burst also provides a flat attack buff when ally members are above 70% hp.
-* Bennett’s first ascension talent, Rekindle, decreases his elemental skill cooldown by 20%.
-* Bennett’s second ascension talent, Fearnaught, decreases the cooldown of his elemental skill while inside his burst by 50%, and will prevent knockback taken from a level 2 charged elemental skill.
+* Bennett is extremely versatile and can serve a variety of roles within a team.
+* Elemental Skill changes based on whether it is tapped or held.
+  * On tap, he deals an instance of Pyro Damage directly in front of him.
+  * On hold, Bennett will begin charging.
+    * At charge level two, he strikes twice and deals increased knockback.
+    * At charge level three, he strikes thrice and triggers an ending explosion that launches both himself\* and the enemy.
+      * Bennett's A4 passive prevents himself from being launched by this effect.
+* Elemental Burst deals AoE Pyro damage and creates a field on the ground. Allies within this field gain the following effects:
+  * If the active character is below 70% HP, regain HP until the character is at or above 70% HP
+  * If the active character is above 70% HP, gain a flat ATK buff.
+  * Periodically applies Pyro to the active character.
+* Bennett's passives decrease the cooldown of his Elemental Skill.
+  * At A4, the cooldown of the Elemental skill is decreased by 50% when cast inside of the field created by his Elemental Burst.
 
 ## **Additional Notes:**
 
 * It is often not worth activating Bennett’s Constellation 6 as it limits his viability in many team comps.
+* Bennett's healing will scale based on his Maximum HP, while his attack buff will scale based on his **Base ATK**. 
+* Bennett's Constellation 1 allows him to buff ATK regardless of active character HP.
+  * Bennett's Constellation 1 does **NOT** allow Bennett to continue healing past 70% HP.
 
 ## Works Well With
 
@@ -28,20 +39,20 @@
 
 \*\*\*\*![](../../.gitbook/assets/ui_avataricon_razor.png) ****
 
-* Bennett does not work well with Razor because Bennett will continuously infuse Razor with pyro. However, Razor infuses himself with electro, leading to constant overload procs and knocking away enemies.
+* Using Razor's Elemental Burst inside of Bennett's Elemental Burst will cause constant Overload reactions, which will knock smaller enemies away from Razor. However, Bennett can be used on larger enemies for additional damage.
 
 ![](../../.gitbook/assets/ui_avataricon_eula.png) 
 
-* Since Eula’s ult does not snapshot, the timing between dropping Bennett’s burst and Eula’s burst is very tight. It is also generally more useful to use Diona as a battery for Eula rather than Bennett.
+* Since Eula’s Elemental Burst does not snapshot, the timing between dropping Bennett’s burst and Eula’s burst is very tight. It is also generally more useful to use Diona as a battery and healer for Eula rather than Bennett.
 
 ![](../../.gitbook/assets/ui_avataricon_ayaka.png)  ![](../../.gitbook/assets/ui_avataricon_chongyun.png)  ![](../../.gitbook/assets/ui_avataricon_ganyu.png)  ![](../../.gitbook/assets/ui_avataricon_kaeya.png)  ![](../../.gitbook/assets/ui_avataricon_rosaria.png) 
 
-* Bennett will unfreeze frozen enemies, resetting the 4p blizzard strayer effect on freeze team compositions.
+* Bennett will unfreeze frozen enemies, negating some of the Crit Rate bonuses available to Cryo Characters.
 
 ## **Teams**
 
 {% hint style="info" %}
-click on the team names below for more details on how the team works and alternative support options that can work with that team.
+Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
 ### **Main DPS Comps**
@@ -50,13 +61,15 @@ click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
 
-* Bennett’s short Elemental Skill cooldown and slow pyro application allows him to consistently melt his Elemental Skill and Elemental Burst ****using Chongyun's Elemental Skill to infuse his Normal Attacks to Cryo, dealing large damage.
+* Bennett’s short Elemental Skill cooldown and controllable pyro application allow him to consistently melt his Elemental Skill and Elemental Burst. 
+* Chongyun's Elemental Skill allows Bennett to apply Cryo to enemies very consistently with his infused Normal Attacks.
 
 [Overload](../../teams/overload.md)
 
 ![](../../.gitbook/assets/ui_avataricon_bennett.png)  ![](../../.gitbook/assets/ui_avataricon_beidou.png)  ![](../../.gitbook/assets/ui_avataricon_fischl.png)  ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) 
 
-*  Bennett with the 4 set Thundering Fury allows him to have a 1 second Elemental Skill cooldown while inside his Elemental Burst if he procs overload using Beidou's Elemental Burst and Fischl's Elemental Skill. This team comp allows Bennett to generate lots of particles for teammates, greatly reducing their ER cost requirement.
+* The low cooldown of Bennett's Elemental Skill synergizes with the 4 piece effect of Thundering Fury, which can allow Bennett to have a 1-second cooldown on his elemental skill. 
+* Beidou and Fischl apply Electro and deal damage, while Bennett both deals damage and generates particles with his shortened skill cooldown, allowing for lower Energy Recharge requirements on Beidou.
 
 ### Support Comps
 
@@ -66,14 +79,14 @@ click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Bennett acts as the healer for these comps, 2nd pyro character to activate Pyro Resonance, and gives attack buff to the whole party.
-* For the Xiangling composition, he also acts as Xiangling's Energy Battery due to her having high energy cost on her Elemental Burst.
+* In these comps, Bennett plays the role of healer, Pyro Resonance activator, and support.
+* For teams with Xiangling, Bennett will also act as an Energy Battery and give Xiangling enough Energy to use her Elemental Burst more frequently.
 
 [Geo](../../teams/geo.md)
 
 ![](../../.gitbook/assets/ui_avataricon_ningguang.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Bennett acts as the healer for these comps, 2nd pyro character to activate Pyro Resonance, and gives attack buff to the whole party.
+* In these comps, Bennett plays the role of healer, Pyro Resonance activator, and support.
 
 [Electro-Charged](../../teams/electro-charged.md)
 
@@ -85,7 +98,7 @@ click on the team names below for more details on how the team works and alterna
 
 ​ ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* The National Team is a popular Team Composition in China. Bennett acts as the healer for these comps, 2nd pyro character to activate Pyro Resonance, and gives attack buff to the whole party.
+* The National Team is a popular Team Composition in China. In this party, Bennett plays the role of healer, Pyro Resonance activator, and support.
 
 [Oneshot](../../teams/other/oneshot.md)
 
