@@ -63,7 +63,9 @@ Refer to the character notes below for how characters work in this particular te
       </td>
     </tr>
     <tr>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/ui_avataricon_sayu.png" alt/>
+      </td>
       <td style="text-align:center">
         <p>
           <img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt/>
@@ -78,7 +80,9 @@ Refer to the character notes below for how characters work in this particular te
       </td>
     </tr>
     <tr>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/ui_avataricon_yoimiya.png" alt/>
+      </td>
       <td style="text-align:center">
         <p>
           <img src="../.gitbook/assets/ui_avataricon_venti.png" alt/>
