@@ -34,9 +34,8 @@
 
 ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_barbara.png) 
 
-* Xingqiu’s Elemental Skill and Elemental Burst can help to heal, reduce damage, and increase Razor’s resistance to interruption, making him an extremely good Sub-DPS for Razor.
-* Barbara’s Elemental Skill heals Razor and cleanses pyro debuffs periodically, making her a good pair for him since he benefits the most from Off-Field effects.
-* Both provide Off-Field support, making them good additions to the team. 
+* Xingqiu can heal, reduce damage, and increase Razor’s resistance to interruption, making him an extremely good Sub-DPS for Razor.
+* Barbara can heal Off-Field and cleanses pyro debuffs periodically, making her a good pair for Razor since he benefits the most from Off-Field effects.
 * Hydro characters will not disrupt superconduct reactions.
 
 ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) 
