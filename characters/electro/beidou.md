@@ -81,7 +81,9 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) 
 
-* Beidou's high off field dps makes this team comp work especially with Bennett using 4 Thundering Fury.
+![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+
+* Beidou's high off field dps makes this team comp work especially with big or heavy enemies that can't get blown away with the reaction.
 
 
 
