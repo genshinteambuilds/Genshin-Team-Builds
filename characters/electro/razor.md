@@ -47,26 +47,22 @@
 
 ![](../../.gitbook/assets/image%20%281%29.png) 
 
-* Anemo characters can provide crowd control, grouping enemies such that Razor's attacks can hit multiple times.
+* Most Anemo characters can crowd control and group enemies, allowing for Razor to hit multiple enemies more easily. 
 
 ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) 
 
-* Zhongli has the best shield for off-field protection, and reduces enemy physical resistance by 20%, additionally his burst petrifies enemies for Razor to hit them.
-* Albedo provides a bit of additional damage, and the occasional shield that can be used, solid pick for Razor as well
+* Zhongli's shield both allows Razor to negate incoming damage that might otherwise stagger him and reduces enemy physical resistance. His burst also locks enemies in place, preventing them from being knocked back by Razor's attacks.
+* Albedo provides Off-Field damage and can generate crystallize shields.
 
 ## **Does Not Work Well With**
 
-\*\*\*\*![](../../.gitbook/assets/ui_avataricon_jean.png) ****
-
-* Jean needs to be swapped to on the field to activate her Elemental Skill and Burst, making it hard to work with Razor as he prefers to be on field for long periods.
-
-![](../../.gitbook/assets/ui_avataricon_eula.png) 
-
-* As a physical damage dealer himself, he does not work with other physical damage carriers like Eula.
-
 ![](../../.gitbook/assets/ui_avataricon_chongyun.png) 
 
-* Chonyun’s Elemental Skill infuses weapons with Cryo, Razor is not meant to deal cryo damage, using Razor while Chongyun’s Skill is on the field would severely cripple Razor’s damage, avoid using him at all.
+* Razor's kit innately favors Physical damage. Chongyun's elemental skill converts Razor's Normal Attacks to Cryo damage, which negates his build's Physical damage bonuses.
+
+ ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnn83PO_KJLh2P8e%2FUI_AvatarIcon_Xiangling.png?alt=media&token=4b5d565c-370f-41b5-a07e-65c832474acb) ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnn94J69ajjrp2QN%2FUI_AvatarIcon_Bennett.png?alt=media&token=cccf8858-0bde-4ede-8990-8c9b976d4b74)
+
+* Overload reactions will knock smaller enemies away from Razor. However, pyro can be used on larger enemies for additional damage.
 
 ## **Teams**
 
@@ -76,18 +72,21 @@ Click on the team names below for more details on how the team works and alterna
 
 [Physical](../../teams/physical.md)
 
+Superconduct
+
   ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png)   
 
 
-* Kaeya helps to create superconduct reactions with his Skill and Elemental Burst, Diona helps to heal and shield Razor against attacks, last slot is a flex slot based on your needs.
-* Overall this team works on activating superconduct reactions to deal lots of physical damage with Razor.
-* Kaeya can be replaced with another Cryo application character and Diona with another healer to keep Razor alive.
+* A team that runs Razor as Main Dps and Cryo supports to cause Superconduct.
+* Two Cryo characters are often run to act as Energy Batteries for one another.
+* The last slot can be any utility or damaging character.
 
 Non-Superconduct  
 
-![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_xinyan.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png)![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
-* Alternate team composition you can try if you do not want to build a superconduct based team
-* Zhongli for the shield and debuff, Xinyan for the bonus physical damage and Xingqiu for electrocharge reaction and additional damage from his Burst.
-* Though this works \(and replaceable with other chars\), I’d still recommend using a superconduct based team as it’s more useful in bringing out Razor’s physical damage.
+* Building a non-Superconduct team is possible, but generally not recommended as it takes away priority support options from other teams.
+* Strong Sub-DPS and/or Geo or Pyro resonances are generally used here to boost the team's damage.
+
+
 
