@@ -84,8 +84,8 @@ Non-Superconduct
 
 ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png)![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
-* Building a non-Superconduct team is possible, but generally not recommended as it takes away priority support options from other teams.
-* Strong Sub-DPS and/or Geo or Pyro resonances are generally used here to boost the team's damage.
+* Building a non-Superconduct team is possible, but not highly recommended as it takes away priority support options from other teams.
+* Strong Sub-DPS and/or Geo or Pyro resonances are used here to boost the team's damage.
 
 
 
