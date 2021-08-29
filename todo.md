@@ -24,7 +24,7 @@
 
 ### Characters:
 
-Razor: [https://docs.google.com/document/d/1ThlM3MwkTUopDJbcsZazVLPa3Jzh9la4mliryJ2zoJk/edit?usp=sharing](https://docs.google.com/document/d/1ThlM3MwkTUopDJbcsZazVLPa3Jzh9la4mliryJ2zoJk/edit?usp=sharing)
+~~Razor:~~ [~~https://docs.google.com/document/d/1ThlM3MwkTUopDJbcsZazVLPa3Jzh9la4mliryJ2zoJk/edit?usp=sharing~~](https://docs.google.com/document/d/1ThlM3MwkTUopDJbcsZazVLPa3Jzh9la4mliryJ2zoJk/edit?usp=sharing)~~~~
 
 Lisa: [https://docs.google.com/document/d/1ZBIkxeRe0x5FWDQ1PCPtWJw5WRFlVHsKW\_wFqzwGteM/edit?usp=sharing](https://docs.google.com/document/d/1ZBIkxeRe0x5FWDQ1PCPtWJw5WRFlVHsKW_wFqzwGteM/edit?usp=sharing)
 
