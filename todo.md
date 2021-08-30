@@ -1,6 +1,8 @@
 # TODO
 
-### Proofread
+## Already Proofread
+
+Jean, Sucrose, Kazuha, Xiao, Ayaka, Diluc, Xingqiu, Ganyu, Tartaglia
 
 {% page-ref page="characters/geo/albedo.md" %}
 
@@ -10,15 +12,13 @@
 
 {% page-ref page="characters/electro/razor.md" %}
 
-### Not Proofread
+## Not Proofread
 
 {% page-ref page="characters/pyro/hu-tao.md" %}
 
 {% page-ref page="characters/cryo/diona.md" %}
 
 {% page-ref page="characters/anemo/venti.md" %}
-
-{% page-ref page="teams/pyro.md" %}
 
 {% page-ref page="characters/geo/noelle.md" %}
 
@@ -40,9 +40,11 @@
 
 {% page-ref page="characters/geo/traveler-geo.md" %}
 
-{% page-ref page="characters/geo/noelle.md" %}
+#### Teams
 
 {% page-ref page="teams/freeze.md" %}
+
+{% page-ref page="teams/pyro.md" %}
 
 {% page-ref page="teams/melt.md" %}
 
@@ -84,6 +86,14 @@ Characters left to do:
 * xinyan
 * sayu
 * traveler \(electro\)
+
+## Work In Progress
+
+* zhongli
+* fischl
+* xiangling
+* chongyun
+* kaeya
 
 ## Random References to go through once we're done:
 
