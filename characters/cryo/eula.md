@@ -7,11 +7,16 @@
 
 ## **Character Breakdown**
 
-* Eula primarily uses her Elemental Burst along with Normal Attacks for the bulk of her damage
-* Elemental skill \(tap\) has a short base cooldown and builds stacks of Grimheart which increase Eula’s defense and resistance to interruption \(Maximum of 2 stacks\)
-* Holding Eula’s Elemental skill consumes all Grimheart stacks to unleash a strong multihit attack with a high Physical hit at the end of it \(if you had at 2 Grimheart stacks\) and applies a Physical and Cryo resistance debuff, making it necessary for optimal DPS and is especially important to apply before her burst damage
-* Elemental Burst also grants a stack of Grimheart and resets the cooldown of her Elemental skill, making it very easy to get max Grimheart in a quick burst combo
-* Elemental Burst deals a colossal amount of Physical Damage at the end of its effect based on how many times Eula hit enemies with Normal Attacks and Elemental Skills while her Lightfall Sword is present \(right after her initial burst cast\). Should always aim to get your damage and debuffs out immediately after casting her burst.
+* Eula relies on her Elemental Burst along with Normal Attacks to deal Physical damage.
+* Elemental Skill \(tap\) has a short base cooldown and builds stacks of Grimheart which increase Eula’s defense and resistance to interruption \(Maximum of 2 stacks\)
+* Elemental Skill changes based on whether it is tapped or held.
+  * On tap, she deals Cryo damage and gains a stack of Grimheart.
+    * Grimheart increases Eula's defense and resistance to interruption. A maximum of two stacks can be held.
+  * On hold, she consumes all Grimheart stacks are consumed to unleash a strong multihit attack finished by a very strong Physical strike. Enemies are also given a Physical and Cryo resistance debuff.
+* Elemental Burst grants a stack of Grimheart and resets the cooldown of her Elemental Skill.
+  * As such, Eula should generally always use her Elemental Skill \(tap\) before using her Elemental Burst. 
+* Elemental Burst deals huge AOE Physical Damage after a set duration, or if Eula is switched out.
+  * Elemental Burst damage will change based on how many times Eula hits enemies during its duration.
 
 ## **Additional Notes**
 
