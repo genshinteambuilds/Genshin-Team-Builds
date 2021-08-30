@@ -12,9 +12,11 @@ Jean, Sucrose, Kazuha, Xiao, Ayaka, Diluc, Xingqiu, Ganyu, Tartaglia
 
 {% page-ref page="characters/electro/razor.md" %}
 
-## Not Proofread
-
 {% page-ref page="characters/pyro/hu-tao.md" %}
+
+{% page-ref page="teams/freeze.md" %}
+
+## Not Proofread
 
 {% page-ref page="characters/cryo/diona.md" %}
 
@@ -41,8 +43,6 @@ Jean, Sucrose, Kazuha, Xiao, Ayaka, Diluc, Xingqiu, Ganyu, Tartaglia
 {% page-ref page="characters/geo/traveler-geo.md" %}
 
 #### Teams
-
-{% page-ref page="teams/freeze.md" %}
 
 {% page-ref page="teams/pyro.md" %}
 
