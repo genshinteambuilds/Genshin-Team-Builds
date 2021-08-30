@@ -7,13 +7,14 @@
 
 ## **Character Breakdown**
 
-* Elemental Skill creates a geo construct that deals AoE Geo damage upon skill activation and creates a field. 
+* Elemental Skill creates a Geo construct that deals AoE Geo damage upon skill activation and creates a field. 
   * While inside this field, whenever an enemy takes damage, an instance of AoE Geo damage will also be dealt periodically.
     * At A1, AoE Geo damage generated this way will deal increased damage to enemies under 50% HP.
+  * The construct itself acts as an elevator.
 * Elemental Burst deals AoE Geo damage in a frontal area. 
   * If Albedo's Elemental Burst is cast within the field created by his Elemental Skill, it will do 7 more instances of AoE Geo damage around the field. 
     * Damage dealt this way will not activate his Elemental Skill's effects.
-* At A4, buffs Elemental Mastery after activating his Elemental Burst
+* At A4, buffs Elemental Mastery after activating his Elemental Burst.
 
 ## **Additional Notes**
 
@@ -33,7 +34,7 @@
 
 ![](../../.gitbook/assets/ui_avataricon_ayaka.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_rosaria.png) 
 
-* Since Albedo does Geo damage with his whole kit, he would shatter frozen enemies, thus making him detrimental to freeze team compositions.
+* Since Albedo does Geo damage with his whole kit, he shatters frozen enemies. This makes him detrimental to freeze team compositions.
 
 ## **Teams**
 
