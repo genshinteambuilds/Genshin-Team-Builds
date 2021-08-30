@@ -2,9 +2,13 @@
 
 ## Proofreading / Editing:
 
+### Proofread
+
 {% page-ref page="characters/geo/albedo.md" %}
 
 {% page-ref page="characters/pyro/bennett.md" %}
+
+### Not Proofread
 
 {% page-ref page="characters/cryo/eula.md" %}
 
