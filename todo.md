@@ -6,11 +6,15 @@
 
 {% page-ref page="characters/geo/albedo.md" %}
 
+{% page-ref page="characters/cryo/eula.md" %}
+
 {% page-ref page="characters/pyro/bennett.md" %}
 
-### Not Proofread
+{% page-ref page="characters/electro/razor.md" %}
 
-{% page-ref page="characters/cryo/eula.md" %}
+
+
+### Not Proofread
 
 {% page-ref page="characters/pyro/hu-tao.md" %}
 
@@ -28,8 +32,6 @@
 
 ### Characters:
 
-~~Razor:~~ [~~https://docs.google.com/document/d/1ThlM3MwkTUopDJbcsZazVLPa3Jzh9la4mliryJ2zoJk/edit?usp=sharing~~](https://docs.google.com/document/d/1ThlM3MwkTUopDJbcsZazVLPa3Jzh9la4mliryJ2zoJk/edit?usp=sharing)~~~~
-
 Lisa: [https://docs.google.com/document/d/1ZBIkxeRe0x5FWDQ1PCPtWJw5WRFlVHsKW\_wFqzwGteM/edit?usp=sharing](https://docs.google.com/document/d/1ZBIkxeRe0x5FWDQ1PCPtWJw5WRFlVHsKW_wFqzwGteM/edit?usp=sharing)
 
 Keqing: [https://docs.google.com/document/d/19xU4sMTZBt8o2Df6WYat5Y\_KlgZB1uNvF8DdtSSHswQ/edit](https://docs.google.com/document/d/19xU4sMTZBt8o2Df6WYat5Y_KlgZB1uNvF8DdtSSHswQ/edit)
@@ -44,7 +46,13 @@ Ningguang: [https://docs.google.com/document/d/1vSguTIoPY0IEE-k3M4dFH5XbA\_t77fp
 
 Qiqi: [https://docs.google.com/document/d/1DMwzPez6M\_etj9KtEvtp6g-oXn8Zl5V5BdolaXsYCCA/edit\#heading=h.r5e3qkkmdryk](https://docs.google.com/document/d/1DMwzPez6M_etj9KtEvtp6g-oXn8Zl5V5BdolaXsYCCA/edit#heading=h.r5e3qkkmdryk)
 
-Traveller \(Anemo\): [https://docs.google.com/document/d/14-LNVioxrU1qy3PahL\_kz7Ii8Bl8LyJJDNikiZXl\_ao/edit?usp=sharing](https://docs.google.com/document/d/14-LNVioxrU1qy3PahL_kz7Ii8Bl8LyJJDNikiZXl_ao/edit?usp=sharing)
+Traveler \(Anemo\): [https://docs.google.com/document/d/14-LNVioxrU1qy3PahL\_kz7Ii8Bl8LyJJDNikiZXl\_ao/edit?usp=sharing](https://docs.google.com/document/d/14-LNVioxrU1qy3PahL_kz7Ii8Bl8LyJJDNikiZXl_ao/edit?usp=sharing)
+
+Yanfei: [https://docs.google.com/document/d/1YQ7mq4jLBzcDZXsc6OfRZGMoZSVZIDIOn6EgpgnmsvE/edit?usp=sharing](https://docs.google.com/document/d/1YQ7mq4jLBzcDZXsc6OfRZGMoZSVZIDIOn6EgpgnmsvE/edit?usp=sharing)
+
+Barbara: [https://docs.google.com/document/d/1zzawSCiUN3bAqsYaKl9inSmF0Se-mrHkhv4gHSHfc18/edit?usp=sharing](https://docs.google.com/document/d/1zzawSCiUN3bAqsYaKl9inSmF0Se-mrHkhv4gHSHfc18/edit?usp=sharing)
+
+
 
 
 
@@ -68,6 +76,8 @@ Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteq
 
 Geo: [https://docs.google.com/document/d/1uHeMyjXSGAVqm8dPratXqTEs18RBgnLukPdGLba1mic/edit?usp=sharing](https://docs.google.com/document/d/1uHeMyjXSGAVqm8dPratXqTEs18RBgnLukPdGLba1mic/edit?usp=sharing)
 
+
+
 ## Write
 
 | Name | Role |
@@ -84,7 +94,7 @@ Geo: [https://docs.google.com/document/d/1uHeMyjXSGAVqm8dPratXqTEs18RBgnLukPdGLb
 | miko | - |
 | bich | noelle, porting/editing/proofreading |
 | rag | editing / proofreading |
-| ChiliLion | porting/editing/proofreading |
+| ChiliLion | editing / proofreading |
 
 ## Unassigned
 
