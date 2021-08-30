@@ -1,7 +1,5 @@
 # Work Log
 
-
-
 ## Write
 
 | Name | Role |
