@@ -1,7 +1,5 @@
 # TODO
 
-## Proofreading / Editing:
-
 ### Proofread
 
 {% page-ref page="characters/geo/albedo.md" %}
@@ -11,8 +9,6 @@
 {% page-ref page="characters/pyro/bennett.md" %}
 
 {% page-ref page="characters/electro/razor.md" %}
-
-
 
 ### Not Proofread
 
@@ -28,39 +24,45 @@
 
 {% page-ref page="characters/hydro/mona.md" %}
 
+{% page-ref page="characters/electro/lisa.md" %}
+
+{% page-ref page="characters/electro/keqing.md" %}
+
+{% page-ref page="characters/electro/beidou.md" %}
+
+{% page-ref page="characters/pyro/amber.md" %}
+
+{% page-ref page="characters/geo/ningguang.md" %}
+
+{% page-ref page="characters/cryo/qiqi.md" %}
+
+{% page-ref page="characters/anemo/traveler-anemo.md" %}
+
+{% page-ref page="characters/geo/traveler-geo.md" %}
+
+{% page-ref page="characters/geo/noelle.md" %}
+
+{% page-ref page="teams/freeze.md" %}
+
+{% page-ref page="teams/melt.md" %}
+
+{% page-ref page="teams/reverse-melt.md" %}
+
+{% page-ref page="teams/pyro.md" %}
+
 ## Porting:
 
 ### Characters:
-
-Lisa: [https://docs.google.com/document/d/1ZBIkxeRe0x5FWDQ1PCPtWJw5WRFlVHsKW\_wFqzwGteM/edit?usp=sharing](https://docs.google.com/document/d/1ZBIkxeRe0x5FWDQ1PCPtWJw5WRFlVHsKW_wFqzwGteM/edit?usp=sharing)
-
-Keqing: [https://docs.google.com/document/d/19xU4sMTZBt8o2Df6WYat5Y\_KlgZB1uNvF8DdtSSHswQ/edit](https://docs.google.com/document/d/19xU4sMTZBt8o2Df6WYat5Y_KlgZB1uNvF8DdtSSHswQ/edit)
-
-Beidou: [https://docs.google.com/document/d/1prciwpf9ILpcxMOByRWtavYuSeN8gCpW5jP2xaxWB2E/edit](https://docs.google.com/document/d/1prciwpf9ILpcxMOByRWtavYuSeN8gCpW5jP2xaxWB2E/edit)
-
-Amber: [https://docs.google.com/document/d/1-oCm7l0Ian4zynjWYLmYGMbzP\_HoVZ9AEsus8h2wzpw/edit](https://docs.google.com/document/d/1-oCm7l0Ian4zynjWYLmYGMbzP_HoVZ9AEsus8h2wzpw/edit)
-
-Mona \(ported, proofread lightly\): [https://docs.google.com/document/d/1cxLmJ4MUJV2rz28NC6jTwiZjDwLIejENsl5DumWBPcQ/edit](https://docs.google.com/document/d/1cxLmJ4MUJV2rz28NC6jTwiZjDwLIejENsl5DumWBPcQ/edit)
-
-Ningguang: [https://docs.google.com/document/d/1vSguTIoPY0IEE-k3M4dFH5XbA\_t77fpBKCKzTG1-VaI/edit](https://docs.google.com/document/d/1vSguTIoPY0IEE-k3M4dFH5XbA_t77fpBKCKzTG1-VaI/edit)
-
-Qiqi: [https://docs.google.com/document/d/1DMwzPez6M\_etj9KtEvtp6g-oXn8Zl5V5BdolaXsYCCA/edit\#heading=h.r5e3qkkmdryk](https://docs.google.com/document/d/1DMwzPez6M_etj9KtEvtp6g-oXn8Zl5V5BdolaXsYCCA/edit#heading=h.r5e3qkkmdryk)
-
-Traveler \(Anemo\): [https://docs.google.com/document/d/14-LNVioxrU1qy3PahL\_kz7Ii8Bl8LyJJDNikiZXl\_ao/edit?usp=sharing](https://docs.google.com/document/d/14-LNVioxrU1qy3PahL_kz7Ii8Bl8LyJJDNikiZXl_ao/edit?usp=sharing)
 
 Yanfei: [https://docs.google.com/document/d/1YQ7mq4jLBzcDZXsc6OfRZGMoZSVZIDIOn6EgpgnmsvE/edit?usp=sharing](https://docs.google.com/document/d/1YQ7mq4jLBzcDZXsc6OfRZGMoZSVZIDIOn6EgpgnmsvE/edit?usp=sharing)
 
 Barbara: [https://docs.google.com/document/d/1zzawSCiUN3bAqsYaKl9inSmF0Se-mrHkhv4gHSHfc18/edit?usp=sharing](https://docs.google.com/document/d/1zzawSCiUN3bAqsYaKl9inSmF0Se-mrHkhv4gHSHfc18/edit?usp=sharing)
 
+Klee: [https://docs.google.com/document/d/1ZvoQstCo9KQOggeq4Dyrg5Bc33LQepdBB87vUrJDWa4/edit?usp=sharing](https://docs.google.com/document/d/1ZvoQstCo9KQOggeq4Dyrg5Bc33LQepdBB87vUrJDWa4/edit?usp=sharing)
 
-
-
+Yoimiya: [https://docs.google.com/document/d/1cHG3ndjIVW73loN7iV55ppvKx0OKB0\_6bSAAKSqtU8w/edit](https://docs.google.com/document/d/1cHG3ndjIVW73loN7iV55ppvKx0OKB0_6bSAAKSqtU8w/edit)
 
 ### Teams:
-
-Reverse Melt: [https://docs.google.com/document/d/1FLKeNWrtWb5iMUNSHL1l4WwTumuIkaKK\_xsciIIDLUQ/edit](https://docs.google.com/document/d/1FLKeNWrtWb5iMUNSHL1l4WwTumuIkaKK_xsciIIDLUQ/edit)
-
-Melt: [https://docs.google.com/document/d/1CZh0JVjuqHrPNf9xcAZ\_hDv0nQ1lfmEp97wZa-WGHOk/edit](https://docs.google.com/document/d/1CZh0JVjuqHrPNf9xcAZ_hDv0nQ1lfmEp97wZa-WGHOk/edit)
 
 Physical: [https://docs.google.com/document/d/1BXRx17UcpJttQSVEIOXtz\_GXGqWmGMwRodHijp\_mX48/edit](https://docs.google.com/document/d/1BXRx17UcpJttQSVEIOXtz_GXGqWmGMwRodHijp_mX48/edit)
 
@@ -70,111 +72,18 @@ Electro-Charged: [https://docs.google.com/document/d/1cu\_wlOa1f\_iRZ6Z-cJWW0-yh
 
 One-Shots: [https://docs.google.com/document/d/1n6B6cqfS4Fy09-3OTrbSy4l-iihOpp0ZKjfDoYV5ARo/edit](https://docs.google.com/document/d/1n6B6cqfS4Fy09-3OTrbSy4l-iihOpp0ZKjfDoYV5ARo/edit)
 
-Freeze \(ported, proofread + edited\): [https://docs.google.com/document/d/1rBTfuwfl64MlujOHvS9hsWAxtpl1rxTcAOaLqYF6QBw/edit](https://docs.google.com/document/d/1rBTfuwfl64MlujOHvS9hsWAxtpl1rxTcAOaLqYF6QBw/edit)
-
 Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteqFDGDBDvT8YU/edit](https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd_rteqFDGDBDvT8YU/edit)
 
 Geo: [https://docs.google.com/document/d/1uHeMyjXSGAVqm8dPratXqTEs18RBgnLukPdGLba1mic/edit?usp=sharing](https://docs.google.com/document/d/1uHeMyjXSGAVqm8dPratXqTEs18RBgnLukPdGLba1mic/edit?usp=sharing)
-
-
-
-## Write
-
-| Name | Role |
-| :--- | :--- |
-| folie \(CC\) | zhongli |
-| hyper \(CC\) | klee |
-| ultikiller/Kicc \(CC\) | barbara, yanfei |
-| CoFt/Chair | traveler \(geo\) |
-| shockwhite | fischl, xiangling |
-| aidan | yoimiya |
-| albeiro | anemo team |
-| seagull | chongyun, kaeya |
-| khino | porting |
-| miko | - |
-| bich | noelle, porting/editing/proofreading |
-| rag | editing / proofreading |
-| ChiliLion | editing / proofreading |
 
 ## Unassigned
 
 Characters left to do: 
 
-* rosaria,  
-* xinyan,
-
-New characters we need to add after this initial pass: 
-
+* rosaria,
+* xinyan
 * sayu
 * traveler \(electro\)
-
-## Credits
-
-seagull
-
-* sucrose \(8/15\)
-* kazuha \(8/16\)
-* xiao \(8/16\)
-
-khino 
-
-* tartaglia \(8/15\)
-* xingqiu \(8/16\)
-* albedo \(8/16\)
-* venti \(8/20\)
-
-albeiro
-
-* pyro \(8/16\)
-* reverse melt \(8/16\)
-* melt \(8/15\)
-* physical \(8/13\)
-* overload \(8/12\)
-* EC \(8/6\)
-* oneshot \(8/6\)
-* freeze \(8/18\)
-* vaporize \(8/18\)
-* geo \(8/26\)
-
-CoFT/chair 
-
-* hutao \(8/15\)
-* Lisa \(8/19\)
-* Traveller \(Anemo\) \(8/26\)
-
-rag
-
-* jean \(8/8\)
-* diluc \(8/8\)
-* ayaka \(8/15\)
-
-shockwhite
-
-* eula \(8/15\)
-* mona \(8/22\)
-
-hyper
-
-* bennett \(8/17\)
-* amber \(8/21\)
-
-folie
-
-* ganyu \(8/17\)
-* ningguang \(8/23\)
-
-aidan
-
-* razor \(8/19\)
-
-Ultikiller
-
-* Keqing \(8/21\)
-* Beidou \(8/21\)
-
-bich
-
-* Noelle \(8/27\)
 
 ## Random References to go through once we're done:
 

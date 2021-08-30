@@ -83,4 +83,5 @@
 ---
 
 * [TODO](todo.md)
+* [Work Log](work-log.md)
 
