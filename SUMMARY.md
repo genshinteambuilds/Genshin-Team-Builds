@@ -76,6 +76,8 @@
 * [Vaporize](teams/vaporize.md)
 * [Reverse Vaporize](teams/reverse-vaporize.md)
 * [Other](teams/other/README.md)
+  * [Taser Comps?](teams/other/taser-comps.md)
+  * [Rosaria Reverse Melt Klee?](teams/other/rosaria-reverse-melt-klee.md)
   * [Oneshot](teams/other/oneshot.md)
   * [Quickswap](teams/other/quickswap.md)
   * [National](teams/other/national.md)
