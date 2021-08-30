@@ -19,7 +19,8 @@
   * `NA → NA → CA → NA → NA → CA` at constellation 0
   * `NA → CA → NA → CA → NA → CA` at constellation 1
     * where `NA` = Normal Attack and `CA` = Charged Attack
-    * Note: `NA → CA` is the result of using a Charged Attack. Hu Tao will always start her Charged Attack with an initial Normal Attack. 
+    * Note: `NA → CA` is the result of using a Charged Attack. Hu Tao will always start her Charged Attack with an initial Normal Attack.
+    * Animation cancelling the end of the Charge Attack is necessary for optimal DPS f using `NA → CA`. Can be done with dash or jump. 
 
 ## **Works Well With**
 
