@@ -1,6 +1,6 @@
 # Freeze
 
-This comp centers around the freeze reaction, requiring both Cryo and Hydro to be applied to the enemies with the goal of near permanently freezing the enemy units and gaining up to 55% Crit Rate while the enemies are frozen through 4pc Blizzard Strayer set \(40%\) and Cryo resonance \(15%\). 
+This comp centers around the freeze reaction, requiring both Cryo and Hydro to be applied to the enemies with the goal of near permanently freezing the enemy units and gaining up to 55% Crit Rate while the enemies are frozen through Blizzard Strayer 4 set \(40%\) and Cryo resonance \(15%\). 
 
 The optimal party setup would be to have a Cryo Main DPS, Hydro Support, Cryo Support, Anemo Support. One of the supports should have some healing/shielding capabilities. This setup gains full benefits of extra Crit Rate \(55%\) on enemies with Frozen status as well as grouping CC and/or Viridescent Venerer to apply 40% Cryo/Hydro resistance shred. 
 
@@ -244,8 +244,8 @@ Refer to the character notes below for how characters work in this particular te
           <li>Can work well with either Mona or Xingqui. While Rosaria&apos;s Normal
             and Charged Attacks deal physical damage, she can apply enough Cryo with
             her Elemental Skill and Elemental Burst.</li>
-          <li>Ascension 4 does not share the additional Crit Rate from 4pc Blizzard
-            Strayer.</li>
+          <li>Ascension 4 does not share the additional Crit Rate from Blizzard Strayer
+            4 set.</li>
         </ul>
       </td>
     </tr>
@@ -289,7 +289,7 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <ul>
           <li>Applies Hydro with her Elemental Skill and Burst primarily, but can also
-            do so with her normal and charged attacks.</li>
+            do so with her Normal and Charged Attacks.</li>
           <li>Amplifies team damage with the Omen that is applied on enemies from her
             Elemental Burst.</li>
           <li>Constellation 1 can increase the freeze duration which in turn increases
@@ -317,38 +317,6 @@ Refer to the character notes below for how characters work in this particular te
             often (Ayaka).</li>
           <li>Elemental Skill and Elemental Burst also deal a large amount of damage
             on their own when properly geared.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <p>&#x200B;
-          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnn4inkuK24QRQUP%2FUI_AvatarIcon_Rosaria.png?alt=media&amp;token=64bdc9f7-d7fc-4f82-9a51-a858df47da86"
-          alt/>&#x200B;</p>
-        <p>Rosaria</p>
-      </td>
-      <td style="text-align:left">
-        <ul>
-          <li>Provides an off field Elemental Burst that damages and applies Cryo around
-            every 2 seconds.</li>
-          <li>Can increase the whole party&apos;s Crit Rate (up to 15%) at Ascension
-            4.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <p>&#x200B;
-          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnn0izIXtNz-_oRm%2FUI_AvatarIcon_Chongyun.png?alt=media&amp;token=d8c78177-31fc-4d24-9355-5364f52c6fe9"
-          alt/>&#x200B;</p>
-        <p>Chongyun</p>
-      </td>
-      <td style="text-align:left">
-        <ul>
-          <li>Converts melee normal and charged attacks to Cryo. Allows for unconventional
-            carries such as Keqing, Rosaria, Kaeya to be run as main carry for this
-            team, usually paired with Xingqiu. He should essentially only be run if
-            you plan on doing this.</li>
         </ul>
       </td>
     </tr>
@@ -490,7 +458,7 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Converts melee normal and charged attacks to Cryo. Allows for unconventional
+          <li>Converts melee Normal and Charged attacks to Cryo. Allows for unconventional
             carries such as Keqing, Rosaria, Kaeya to be run as main carry for this
             team, usually paired with Xingqiu. He should essentially only be run if
             you plan on doing this.</li>
