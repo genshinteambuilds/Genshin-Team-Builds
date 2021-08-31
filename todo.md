@@ -14,13 +14,13 @@ Jean, Sucrose, Kazuha, Xiao, Ayaka, Diluc, Xingqiu, Ganyu, Tartaglia
 
 {% page-ref page="characters/pyro/hu-tao.md" %}
 
-{% page-ref page="teams/freeze.md" %}
+{% page-ref page="characters/cryo/diona.md" %}
 
 {% page-ref page="characters/anemo/venti.md" %}
 
-## Not Proofread
+{% page-ref page="teams/freeze.md" %}
 
-{% page-ref page="characters/cryo/diona.md" %}
+## Not Proofread
 
 {% page-ref page="characters/geo/noelle.md" %}
 
