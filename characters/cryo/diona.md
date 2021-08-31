@@ -6,75 +6,71 @@
 
 ## **Character Breakdown**
 
-* Elemental skill fires icy paws that deal damage and form a shield on hit.
-  * Pressing Elemental skill rapidly fires 2 icy paws.
-  * Holding Elemental skill makes Diona dash backwards rapidly firing 5 icy paws and have an additional 75% damage absorption bonus.
-    * Shield duration is affected by the amount of icy paws hits.
-    * Shield base damage absorption scale with Diona’s max HP
-* Elemental skill will cause your active character to be affected by cryo for a short duration during the shield formation and is able to remove \(cleanse\) pyro and electro aura.
-* Elemental Burst deals a continuous cryo damage in an AoE and creates a Drunken Mist which continuously heals characters that stand in it.
-  * Constellation 6 allows Diona’s Drunken Mist to buff Elemental Mastery by 200 when HP is above 50%
+* Elemental Skill changes based on whether it is tapped or held. 
+  * On tap, she fires two homing projectiles that deal Cryo damage, then gains a Shield.
+  * On hold, she fires 5 such projectiles and gains a more powerful Shield.
+  * At A1, characters shielded by this Elemental Skill gain increased movement speed and decreased stamina consumption.
+  * The Shield's Absorption scales with Diona's Maximum HP.
+* Elemental Skill will apply Cryo for a short duration to the active character upon cast or switch \(while shielded\) and can cleanse Pyro and Electro auras.
+* Elemental Burst creates a field that deals continuous Cryo damage in an AoE and continuously heals characters that stand in it.
+  * Constellation 6 Buffs the Elemental Mastery of characters with more than 50% HP that are standing within the field.
 
 ## **Additional Notes**
 
-* Often paired with another cryo character in the freeze team to help battery them and also to get regenerate energy for herself as her Elemental Burst has a high energy requirement.
-* Used in physical teams as its healer, shielder and cryo applier for superconduct reactions.
-* Diona’s ascension 2 talent decreases stamina consumption and increases their movement speed when they are shielded by icy paws.
-* Diona’s ascension 4 talent reduces enemies atk by 10% when they are inside Diona’s Elemental Burst.
-* Diona’s constellations that greatly enhance her is as follows:
-  * C1 - essentially makes her Elemental Burst cost 65 energy instead of 80
-  * C2 - makes her shield stronger and allows diona to shield allies in co-op 
-  * C3/5 - increase Elemental skill and Elemental burst talent level
-  * C6 - Increase Healing effect when HP is equal or below 50% and provide 200 EM when HP is greater than 50% to the character inside her Elemental burst.
+* Often paired with another Cryo character in Freeze teams to act as an Energy Battery and receive Energy in return.
+* Her Elemental Skill's Shield duration is affected by the number of projectiles that hit enemies.
+* At A4, enemy Attack is reduced by 10% when they are inside the field created by Diona’s Elemental Burst.
 
 ## **Works Well With**
 
 ![](../../.gitbook/assets/ui_avataricon_ganyu.png) 
 
-* Diona serves as a battery, healer and enables cyro resonance that freeze ganyu prefers to have. For a more detail Freeze team comp, check out Freeze \[hyperlink\]
+* Diona serves as an Energy Battery and Cyro resonance enabler for freeze Ganyu. For a more detailed Freeze team comp, check out Freeze \[hyperlink\]
 
 ![](../../.gitbook/assets/ui_avataricon_razor.png) 
 
-* Diona provides a way to proc superconduct reaction, reducing enemies physical resistance by 40%. Diona also serves as the healer and shielder. For more information about physical teams, refer to physical \[hyperlink\]
+* Diona reduces Razor's Stamina Consumption and can also aid with Superconduct. For more information about Physical teams, refer to physical \[hyperlink\]
 
 ![](../../.gitbook/assets/element_anemo.webp) ![](../../.gitbook/assets/element_cryo.webp) ![](../../.gitbook/assets/element_electro.webp) ![](../../.gitbook/assets/element_hydro.webp) ![](../../.gitbook/assets/element_pyro.webp) ![](../../.gitbook/assets/element_geo.webp) 
 
-* Diona works well with almost all teams in the game. On a non-freeze or non-physical team she can function simply as a healer and shielder for them.
-* Diona C6 EM buff is great for teams that do a lot of reaction damage.
+* Diona works well with almost all teams in the game by universally functioning as a Healer and Shielder.
+* Diona's Constellation 6 Elemental Mastery Buff aids in teams that focus on reaction damage.
 
 ## **Does Not Work Well With**
 
 ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Bennett is considered one of the best support the game currently has due to the massive attack buff he provides to the team. He also serves as a healer of the team he’s in, putting diona on a difficult spot where replacing Bennett on the team might result in a DPS loss.
-* Generally not a big problem since you need 2 teams in abyss, one team with Bennett as the healer and the other using Diona.
-* Can be used together in a one-shot team compositions
+* Bennett already functions as a Healer and Support, and Diona is often unneeded on teams that include Bennett.
+  * Generally not problematic as later Abyss floors require two teams.
+* However, they can be used together in One-shot team compositions
 
 ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
-* Reduce the overall effectiveness of diona’s kit as zhongli offer a lot better shield protection reducing the need for heals, however diona can still be used with zhongli just be mindful when using diona’s shield along with zhongli as both shield will take damage at the same time. 
-* Zhongli’s geo attacks cause shatter if the enemies are frozen and are often not used in freeze teams.
+* Zhongli's Shield often outperforms Diona's Shield and reduces the need for healing.  
+  * If two Shields are active at the same time, both will take damage simultaneously.
+* Zhongli’s Geo pillar can shatter frozen enemies.
 
 
 
 ## Teams
 
+{% hint style="info" %}
+In all the teams listed below, Diona universally provides Healing and Shielding utility.
+{% endhint %}
+
 [Freeze](../../teams/freeze.md)
 
 \*\*\*\*![](../../.gitbook/assets/ui_avataricon_ganyu.png) ****![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
-* A typical Freeze team composition where Ganyu can freeze her enemies using the Hydro applied to the enemy by Mona’s Elemental Skill and Burst along with Venti’s CC capability and elemental infusions from his Elemental Burst..
-* Diona provides healing, shielding and enables cyro resonance with Ganyu.
+* Activates Cyro resonance.
 
 ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
-*  Another example of a freeze team composition that’s almost the same as the one on top where Kaeya can freeze his enemies using the Hydro applied to the enemy by Xingqiu's Elemental Burst.
-* Chongyun provides elemental infusions with his Elemental skill that enables kaeya’s normal attacks to deal cryo damage .
-* Diona provides healing, and shielding
+* Activates Cryo resonance.
 
 [Physical](../../teams/physical.md)
 
 ![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_aether_electro.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
-* A team that focuses on sustained damage instead of one shots burst damage, electro traveler and diona acts as the battery to fuel Eula’s Elemental burst while beidou offer additional damage from her Elemental Burst.
+* Acts as an Energy Battery and can aid in Superconduct application.
 
