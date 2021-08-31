@@ -2,19 +2,19 @@
 
 ## Roles
 
-* Support \(Debuffer at C2 and C6, Crowd Control, Energy Battery\)
+* Support \(Debuffer, Crowd Control, Energy Battery\)
 
 ## Character Breakdown
 
-* Tapping Venti's Elemental Skill deals AoE Anemo damage in front of Venti and launches enemies hit into the air.
-* Holding Venti's Elemental Skill is the same as tapping the skill but it has bigger AoE radius and Venti launches into the air and deals higher AoE Anemo damage.
-* Elemental Burst creates a massive Stormeye that sucks in opponents in the middle and deals continuous Anemo damage. If the Stormeye comes into contact to any elements besides geo, it will deal additional elemental damage depending on the element that is infused.
+* Elemental Skill \(Tap\) deals AOE Anemo damage in front of Venti and launches enemies hit into the air.
+* Elemental Skill \(Hold\) deals increased AOE Anemo damage around Venti and launches him into the air.
+* Elemental Burst creates a massive Stormeye that sucks in opponents in the middle and deals continuous Anemo damage. If the Stormeye comes into contact to any other elements besides geo, it will deal additional elemental damage depending on the element that is infused.
 
 ## **Additional Notes**
 
-* His A1 talent, when Venti uses his hold elemental skill, it creates an upward current that the active characters can use to glide into the air.
-* A4 talents regenerates 15 energy for venti after his elemental burst ends. If the burst is infused into any element besides geo, every character that has the same element as the infused Venti burst gains 15 energy as well after Venti's elemental burst ends.
-* Debuffs Anemo Resistance at C2 when enemies are hit by Venti's Elemental Skill.
+* A1 creates an upward current that the active characters can use to glide into the air when using Elemental Skill \(Hold\).
+* A4 regenerates 15 energy for Venti after his Elemental Burst ends. If the Elemental Burst is infused with an element, every character with that infused element gains 15 energy.
+* Debuffs Anemo Resistance at C2 when enemies are hit by Venti's Elemental Skill. 
 * Debuffs Anemo Resistance and Elemental Resistance of the swirled element at C6 when enemies are hit by Venti's Elemental Burst.
 
 ## Works Well With
@@ -44,27 +44,27 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/ui_avataricon_xiao.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
-* Venti acts as Xiao's Energy Battery and a main source of CC to group up big numbers of mobs.
+* Venti acts as Xiao's Energy Battery and a main source of grouping CC.
 * He can also decrease Anemo resistance to enemies when he has C2 or C6 active.
 
 [Electro-Charged](../../teams/electro-charged.md)
 
 ![](../../.gitbook/assets/ui_avataricon_keqing.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Venti provides Keqing and Mona CC to group up the mobs for both of their bursts to hit and can also be a battery since Keqing and Mona uses their bursts a lot with this team comp. He also debuffs enemies when he is equipped with 4 Viridescent Venerer.
+* Venti provides Keqing and Mona CC to group up the mobs for both of their bursts to hit and can also be an Energy Battery since Keqing and Mona uses their bursts a lot with this team comp. He also Debuffs enemies when he is equipped with 4 Viridescent Venerer.
 
 [Freeze](../../teams/freeze.md)
 
 ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
-* Venti on this team main uses his elemental burst to keep enemies frozen for Ganyu to shoot down using her fully aimed charged attacks. He also debuffs enemies when he is equipped with 4 Viridescent Venerer.
+* Venti on this team main uses his Elemental Burst to keep enemies grouped and frozen for Ganyu to shoot down using her fully aimed charged attacks. He also Debuffs enemies when he is equipped with 4 Viridescent Venerer.
 
 [Reverse Vaporize](../../teams/reverse-vaporize.md)
 
 ![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Venti in this comp is the primary source of CC for the whole team. With his pyro infused elemental burst, Tartaglia can use his elemental burst to deal high amounts of vaporized damage. Venti also debuffs enemies when he is equipped with 4 Viridescent Venerer.
-* Venti can also act as a battery for Xiangling with his A4 talent because of Xiangling's high burst energy cost.
+* Venti in this comp is the primary source of grouping CC for the whole team. Venti also Debuffs enemies when he is equipped with 4 Viridescent Venerer.
+* Venti can also act as a battery for Xiangling with his A4 talent because of Xiangling's high energy requirements.
 
 
 
