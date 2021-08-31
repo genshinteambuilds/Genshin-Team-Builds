@@ -16,11 +16,11 @@ Jean, Sucrose, Kazuha, Xiao, Ayaka, Diluc, Xingqiu, Ganyu, Tartaglia
 
 {% page-ref page="teams/freeze.md" %}
 
+{% page-ref page="characters/anemo/venti.md" %}
+
 ## Not Proofread
 
 {% page-ref page="characters/cryo/diona.md" %}
-
-{% page-ref page="characters/anemo/venti.md" %}
 
 {% page-ref page="characters/geo/noelle.md" %}
 
