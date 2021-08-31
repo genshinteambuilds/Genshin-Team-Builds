@@ -6,17 +6,17 @@
 
 ## Character Breakdown
 
-* Chongyun's Elemental Skill involves a strike on the ground which deals AoE Cryo Damage and creates a Chonghua Frost field
+* Chongyun's Elemental Skill involves a strike on the ground which deals AoE Cryo damage and creates a Chonghua Frost field
   * Claymore, Sword, and Polearm wielding characters gain a Cryo infusion on their Normal Attacks while in this field, as well as increased Attack Speed
-* Elemental Burst 
-* Elemental Burst deals a huge amount of damage over 5 seconds and slowly moves forward away from the character.
-* The Elemental Burst will stop moving forwards upon encountering large or frozen enemies resulting in that enemy potentailly taking up to 20 hits from this ability.
-* Ayaka's primary source of damage is her Elemental Burst.
+  * At A4, a spirit blade is released at the end of the duration of the Frost field, and deals AoE Cryo damage
+* Elemental Burst summons 3 spirit blades that deal large AoE Cryo damage and knocks enemies back
 
 ## **Additional Notes**
 
-* Ayaka can technically be used in Melt teams as both a Burst DPS role as well has providing Off-Field Cryo application to the enemy for 5 seconds with her Elemental Burst.
-  * This is typically only done with very powerful teams and Oneshot setups since her Off-Field capabilities outside of those 5 seconds is nonexistent.
+* Chongyun's main utility comes from his Frost field, which enables Freeze or Melt with other characters
+* With Constellation 2, Chongun's Frost field will reduce the cooldowns of all Skills and Bursts casted within it by 15% 
+* The majority of Chongyun's damage comes from his Elemental Burst, which is improved by Constellation 6
+* Can act as a Noblesse Oblige set holder for a team as he has both low cooldown and energy cost on his Elemental Burst
 
 ## Works Well With
 
