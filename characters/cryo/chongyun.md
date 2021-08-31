@@ -7,10 +7,8 @@
 ## Character Breakdown
 
 * Chongyun's Elemental Skill involves a strike on the ground which deals AoE Cryo Damage and creates a Chonghua Frost field
-  * Claymore, Sword, and Polearm wielding characters gain a Cryo infusion on their Normal Attacks while in this field
-  * At A4, characters
-* Charged Attack has an increased range over Ayaka's Normal Attacks
-* Elemental Skill deals AoE Cryo damage.
+  * Claymore, Sword, and Polearm wielding characters gain a Cryo infusion on their Normal Attacks while in this field, as well as increased Attack Speed
+* Elemental Burst 
 * Elemental Burst deals a huge amount of damage over 5 seconds and slowly moves forward away from the character.
 * The Elemental Burst will stop moving forwards upon encountering large or frozen enemies resulting in that enemy potentailly taking up to 20 hits from this ability.
 * Ayaka's primary source of damage is her Elemental Burst.
