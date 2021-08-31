@@ -23,9 +23,9 @@
 ## **Additional Notes**
 
 * In order to maximize damage, Eula should first tap her Elemental Skill before using her Elemental Burst. She should then take advantage of the cooldown reset and hold her Elemental Skill. 
-  * This will consume the 2 stacks of Grimheart generated beforehand to both debuff Enemy Resistances deal 4 instances of damage, which counts toward her Elemental Burst.
+  * This will consume the 2 stacks of Grimheart generated beforehand to both debuff Enemy Resistances and deal 4 instances of damage, which count toward her Elemental Burst.
 * Eula’s Burst does NOT snapshot buffs.
-  * This makes short-lasting buffs much less useful for her burst rotation
+  * This makes short-lasting buffs much less useful for her Elemental Burst damage.
 
 ## **Works Well With**
 
@@ -39,7 +39,10 @@
 
 ![](../../.gitbook/assets/ui_avataricon_aether_electro.png) 
 
-* Electro Traveler specifically can be a great Superconduct support for Eula if additional Energy generation is required for Eula’s Elemental Burst.![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+* Electro Traveler specifically can be a great Superconduct support for Eula if additional Energy generation is required for Eula’s Elemental Burst.
+
+![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+
 * Zhongli's Shield can prevent Eula from being interrupted, which lets her more easily stack hits for her Burst.
 * His Shield also further debuffs Enemy Resistances, making Eula's attacks stronger.
 
@@ -55,7 +58,7 @@
 
 ![](../../.gitbook/assets/element_anemo.webp) 
 
-* In general, Anemo buffs and debuffs do not affect Physical damage. Anemo characters can still be used for their crowd control and utility but should generally be avoided.
+* Anemo buffs and debuffs do not affect Physical damage. Anemo characters can still be used for their crowd control and utility but should generally be avoided.
 
 ## **Teams**
 

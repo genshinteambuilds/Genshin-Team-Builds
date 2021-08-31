@@ -7,12 +7,12 @@
 
 ## Character Breakdown
 
-* Elemental Skill creates a vacuum which launches Kazuha into the air and can group smaller enemies.
+* Elemental Skill creates a vacuum that launches Kazuha into the air and can group smaller enemies.
 * Performing a Plunge Attack after using his Elemental Skill creates a "small wind tunnel" and groups enemies. 
-* Elemental Burst creates a field that that can absorb Cryo, Electro, Hydro or Pyro and will continually deal damage of that elemental type along with anemo and swirl damage.  
-  * Once the Elemental Burst absorbs an element, enemies within the field are continually damaged with that element, allowing other Elemental Reactions with that element to constantly take place.
-* At A4, any element swirled by Kazuha will give the entire team an elemental damage boost of 0.04% of Kazuha's EM.
-  * Kazuha can reach EM values as high as 1000 which would give 40% additional damage for any swirled element.
+* Elemental Burst creates a field that can absorb Cryo, Electro, Hydro or Pyro and will continually deal damage of that elemental type along with Anemo and swirl damage.  
+  * Once the Elemental Burst absorbs an element, enemies within the field are periodically damaged with that element, allowing other Elemental Reactions with that element to frequently take place.
+* At A4, any element swirled by Kazuha will give the entire team an Elemental Damage boost to that element, proportional to his Elemental Mastery.
+  * Kazuha can reach Elemental Mastery values as high as 1000, which gives 40% additional damage for any swirled element.
 * Will act as a Debuffer with Viridescent Venerer 4-set.
 
 ## **Additional Notes**
@@ -27,15 +27,15 @@
   ![](../../.gitbook/assets/element_anemo.webp) ![](../../.gitbook/assets/element_cryo.webp) ![](../../.gitbook/assets/element_electro.webp) ![](../../.gitbook/assets/element_hydro.webp) ![](../../.gitbook/assets/element_pyro.webp) 
 
 * Kazuha pairs well with almost all characters in the game as Viridescent Venerer 4-set can Debuff Elemental Resistance on enemies for 4 of the elements \(Cryo, Electro, Hydro and Pyro\).
-* With other Anemo characters, Kazuha can act as a Battery and also receive energy from other anemo characters.
-* Kazuha can buff up to 3 other Elements in his party, allows for variety in Elemental Reactions
-  * Can even run him in mono element teams, and he still does fine as a buffer/debuffer.
+* Kazuha can act as an Energy Battery for other Anemo characters, while those other Anemo characters can in turn act as Energy Batteries for Kazuha, as well.
+* Kazuha can buff up to 3 other Elements in his party, which allows for variety in Elemental Reactions
+  * Can even run him in mono element teams, and he still does fine as a Buffer/Debuffer.
 
 ## Does Not Work Well With
 
  ![](../../.gitbook/assets/ui_avataricon_ningguang.png) ![](../../.gitbook/assets/ui_avataricon_noelle.png) ![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_xinyan.png) 
 
-* Kazuha cannot cause elemental reactions with Geo and cannot provide Debuffing for Physical Damage characters.
+* Kazuha cannot cause elemental reactions with Geo and cannot provide Debuffs for Physical Damage characters.
 
 ![](../../.gitbook/assets/ui_avataricon_xiao.png) 
 
@@ -48,7 +48,7 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-In all the teams listed below, Kazuha universally provides Debuffing using the Viridescent Venerer 4-set and can also provides boosts to multiple elemental damage types.
+In all the teams listed below, Kazuha universally provides Debuffing using the Viridescent Venerer 4-set and can also provide boosts to multiple elemental damage types.
 {% endhint %}
 
 #### [Reverse Melt](../../teams/reverse-melt.md)
@@ -73,7 +73,7 @@ In all the teams listed below, Kazuha universally provides Debuffing using the V
 
 ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* While Kazuha's Elemental Skill can provide decent Grouping Crowd Control and his Elemental Burst help cause more overload reactions take place, this may not work efficiently for large numbers of smaller enemies that are displaced by Overload's knockback.
+* While Kazuha's Elemental Skill can provide decent Grouping Crowd Control and his Elemental Burst can cause Overload reactions, this may not work efficiently for large numbers of smaller enemies that are displaced by Overload's knockback.
 
 #### [Freeze](../../teams/freeze.md)
 
