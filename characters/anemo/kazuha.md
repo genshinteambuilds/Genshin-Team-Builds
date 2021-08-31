@@ -17,7 +17,7 @@
 
 ## **Additional Notes**
 
-* Kazuha can swirl multiple elements quite easily, providing Buffs and Debuffs for those elements with his A4 and Viridescent Venerer.
+* Kazuha can swirl multiple different elements quite easily, providing Buffs and Debuffs for those elements with his A4 and Viridescent Venerer.
 * C2 increases the entire team's EM by 200 after using Kazuha's Elemental Burst.
 * C4 allows Kazuha generate much more Energy for himself.
 * C6 infuses Kazuha's attacks with Anemo and boosts their damage by 0.2% of his EM. This allows him to be used as the Main DPS character in an [Anemo team.](../../teams/anemo.md)
@@ -28,8 +28,6 @@
 
 * Kazuha pairs well with almost all characters in the game as Viridescent Venerer 4-set can Debuff Elemental Resistance on enemies for 4 of the elements \(Cryo, Electro, Hydro and Pyro\).
 * Kazuha can act as an Energy Battery for other Anemo characters, while those other Anemo characters can in turn act as Energy Batteries for Kazuha, as well.
-* Kazuha can buff up to 3 other Elements in his party, which allows for variety in Elemental Reactions
-  * Can even run him in mono element teams, and he still does fine as a Buffer/Debuffer.
 
 ## Does Not Work Well With
 
