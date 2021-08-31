@@ -72,7 +72,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * Yanfei spams 3 normal attacks followed by a charged attack to do both vaporize and overload
 
-Melt 
+[Melt](../../teams/melt.md) 
 
 ![](../../.gitbook/assets/ui_avataricon_yanfei.png) ![](../../.gitbook/assets/ui_avataricon_rosaria.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
