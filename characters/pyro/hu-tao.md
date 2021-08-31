@@ -7,8 +7,8 @@
 
 ## **Character Breakdown**
 
-* Elemental Skill knocks back enemies near Hu Tao on activation and buffs Hu Tao’s Attack based on her maximum HP for 9 seconds. It also increases her resistance to interruptions.
-* Elemental Skill infuses Hu Tao’s Normal Attack and Charged Attacks with Pyro for 9 seconds. Using Charged Attacks applies Blood Blossom to the enemies hit. Enemies affected by Blood Blossom will take Pyro damage every 4 seconds that last for 8 seconds.
+* Elemental Skill knocks back enemies near Hu Tao on activation and buffs Hu Tao’s Attack based on her maximum HP. It also increases her resistance to interruptions.
+* Elemental Skill infuses Hu Tao’s Normal Attack and Charged Attacks with Pyro. Using Charged Attacks applies Blood Blossom to the enemies hit. Enemies affected by Blood Blossom will take Pyro damage periodically.
 * Elemental Burst both deals a large amount of damage in an AOE circle around her and heals Hu Tao based on the amount of enemies hit with a maximum of 5 enemies.
 * Elemental Burst damage and healing are increased if Hu Tao’s HP is equal to or less than 50%
 
