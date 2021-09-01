@@ -7,20 +7,24 @@
 
 ## **Character Breakdown**
 
-* Noelle can function as a main DPS \(ideally at C6\) or a support \(weak healing/shield or used for geo resonance\).
-* Elemental Skill \(Breastplate\) is a high cooldown shield that deals geo dmg when it breaks or the duration is over. Does not generate particles.
-* Elemental Burst \(Sweeping Time\) gives geo infusion and massive range increase on her auto attacks as well as an ATK bonus that scales off her DEF stat.
+* Noelle can function as a Main DPS \(ideally at Constellation 6\) or a Support \(weak healing/shield or used for Geo Resonance\).
+* Elemental Skill is a high cooldown shield that deals Geo dmg when cast and when broken or the duration is over. 
+  * Elemental Skill does not generate particles.
+* Elemental Burst deals Geo damage in a wide AoE. Noelle gains the following effects:
+  * Attack range greatly increased.
+  * Gains a Geo infusion which cannot be overridden.
+  * Gains an ATK bonus that scales off her DEF.
 
 ## **Additional Notes**
 
-* Noelle should be played as a main DPS with geo resonance + geo battery for 100% uptime on her burst. Not recommended to use as main DPS before C6.
-* Noelle’s geo infusion through burst stays even when she is swapped out, making it easy to rotate through the rest of the team during her burst.
+* A Main DPS Noelle should be played with both Geo resonance and a Geo Energy Battery in order to reach 100% uptime on her Elemental Burst. It is not recommended to use her as a Main DPS before C6.
+* Noelle’s Geo infusion from her Elemental Burst persists when she is swapped out, allowing players to rotate through the rest of the team during its duration.
 
 ## **Works Well With**
 
 ![](../../.gitbook/assets/element_geo.webp)
 
-* All the current Geo characters are solid choices to add to a Noelle team. Zhongli is the best geo to pair her with, giving a much stronger shield with constant uptime and an additional 20% geo resistance shred \(when Zhong shield is up\) however cannot battery Noelle by himself. Ning \(C2+\) and Geo MC can solo battery Noelle with Ning being able to also provide strong burst damage in rotations. Albedo can provide off field DPS and geo resonance \(if no other geo available\).
+* All current Geo characters are solid choices to add to a Noelle team, both for Geo resonance and for their individual supporting or damaging capabilities.
 
 ![](../../.gitbook/assets/ui_avataricon_bennett.png)
 

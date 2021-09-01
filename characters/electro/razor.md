@@ -30,17 +30,17 @@
 
 ![](../../.gitbook/assets/element_cryo.webp) 
 
-* Superconduct is Razor’s core reaction, as it lowers enemy resistance to physical damage. Thus, most cryo characters are generally very effective.
+* Superconduct is Razor’s core reaction, as it lowers enemy resistance to physical damage. Thus, most Cryo characters are generally very effective.
 
 ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_barbara.png) 
 
 * Xingqiu can heal, reduce damage, and increase Razor’s resistance to interruption, making him an extremely good Sub-DPS for Razor.
 * Barbara can heal Off-Field, making her a decent pair for Razor since he benefits the most from Off-Field effects.
-* Hydro characters will not disrupt superconduct reactions.
+* Hydro characters will not disrupt Superconduct reactions.
 
 ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) 
 
-* Beidou’s Elemental Burst deals high amounts of Off-Field electro damage and gives Razor damage reduction and resistance to interruption. Note that Beidou requires investment into energy recharge as her Burst costs 80 energy.
+* Beidou’s Elemental Burst deals high amounts of Off-Field Electro damage and gives Razor damage reduction and resistance to interruption. Note that Beidou requires investment into Energy Recharge.
 * Fischl provides energy for Razor and deals Off-Field Electro damage. 
 * Both characters provide Electro Resonance, which can help with Razor's Elemental Burst uptime.
 
@@ -57,7 +57,7 @@
 
 ![](../../.gitbook/assets/ui_avataricon_chongyun.png) 
 
-* Razor's kit innately favors Physical damage. Chongyun's elemental skill converts Razor's Normal Attacks to Cryo damage, which negates his build's Physical damage bonuses.
+* Razor's kit innately favors Physical damage. Chongyun's Elemental Skill converts Razor's Normal Attacks to Cryo damage, which negates his build's Physical damage bonuses.
 
  ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnn83PO_KJLh2P8e%2FUI_AvatarIcon_Xiangling.png?alt=media&token=4b5d565c-370f-41b5-a07e-65c832474acb) ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnn94J69ajjrp2QN%2FUI_AvatarIcon_Bennett.png?alt=media&token=cccf8858-0bde-4ede-8990-8c9b976d4b74)
 
