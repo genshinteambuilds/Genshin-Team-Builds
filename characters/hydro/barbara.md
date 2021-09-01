@@ -27,13 +27,13 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-Freeze
+[Freeze](../../teams/freeze.md)
 
 ![](../../.gitbook/assets/ui_avataricon_ayaka.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_barbara.png) 
 
 * only recommended if the other team needs Xingqiu more and you have no Mona
 
-Tazer  
+[Tazer](../../teams/other/taser-comps.md)  
   
  ![](../../.gitbook/assets/ui_avataricon_barbara.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) 
 
