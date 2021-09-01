@@ -40,6 +40,10 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
+{% hint style="info" %}
+In all the teams listed below, Venti universally provides Debuff utility using the Viridescent Venerer 4-set.
+{% endhint %}
+
 [Anemo](../../teams/anemo.md)
 
 ![](../../.gitbook/assets/ui_avataricon_xiao.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
