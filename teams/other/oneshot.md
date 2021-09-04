@@ -12,213 +12,23 @@ This game plan focuses on dealing a large amount of burst damage to enemies \(id
 
 ## **Main Carry: Hutao**
 
-**Primary enablers used**
+**Primary enablers used:** Ganyu, Kaeya, Chongyun, Mona
 
- ****![](../../.gitbook/assets/ui_avataricon_ganyu.png) ****![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) 
+**Supporting cast:** Amber, Mona, Sucrose, Zhongli, Bennett, Kazuha
 
- **Supporting cast**
-
- ****![](../../.gitbook/assets/ui_avataricon_amber.png) ****![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) 
-
-\*\*\*\*
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center"><b>Notes</b>
-      </th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">
-        <p><b>Main Carry</b>
-          <img src="../../.gitbook/assets/ui_avataricon_hutao.png"
-          alt/><b> </b>
-        </p>
-        <p>Hutao</p>
-      </td>
-      <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-        <ul>
-          <li>Hutao is a rather complex character in terms of damage scaling, due to
-            her constellations and hp scaling on her e ability, play around with EM
-            and HP timepieces to see which gives you the most damage with your artifacts.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center"><b>Primary Enablers</b>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_ganyu.png" alt/>
-        </p>
-        <p>Ganyu
-          <img src="../../.gitbook/assets/ui_avataricon_chongyun.png" alt/>
-        </p>
-        <p>Chongyun
-          <img src="../../.gitbook/assets/ui_avataricon_kaeya.png" alt/>Kaeya</p>
-      </td>
-      <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-        <ul>
-          <li>None<b> </b>of the cryo enablers provide too much outside of their main
-            application. Typically Ganyu is used for her elemental burst, as she is
-            able to apply cryo fairly quickly and to a large area. If she is not available
-            Kaeya and Chongyun are able to perform the role as well. Artifact sets
-            should be to maximize damage (usually 2 blizzard strayer 2 noblesse oblige)
-            or to amplify your main carry&#x2019;s damage(4 noblesse or 4 instructor)</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center"><b>Supporting Cast</b>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_amber.png" alt/>Amber</td>
-      <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-        <ul>
-          <li>Amber is a surprising character that has grown to be a part of many of
-            the more whale burst setups. This is due to her c6 ability, which gives
-            her team a small attack % buff, as well as her ability to apply Elegy for
-            the End&#x2019;s weapon passive, granting the rest of the team a large
-            amount of EM and additional attack % buff.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_mona.png" alt/>Mona</td>
-      <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-        <ul>
-          <li><b>Mona</b> is a rather odd character, providing a damage increase on enemies
-            marked by her elemental burst. She is listed in both the enabler section
-            and the supporting section due to this, as though she does not provide
-            the full melt damage multiplier, her omen combined with having another
-            supporting slot open may make up for this difference. (In addition, this
-            allows dragon&#x2019;s bane users to get their weapon passive activated)
-            She can also function as a damage amplifier alongside a cryo enabler, as
-            her omen is a 5 second debuff that grants the increased damage during that
-            duration. As an enabler, she typically will run Thrilling Tales.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_sucrose.png" alt/>Sucrose</td>
-      <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-        <ul>
-          <li>Sucrose is rather straightforward, you stack em on her and she gives some
-            em to the rest of her team upon hitting an ability. Her weapon will either
-            be Sacrificial Fragments or The Widsith depending on your ability and willingness
-            to accept more randomness. She really only has 2 artifact sets she would
-            run, either 4 Noblesse Oblige or 4 Viridescent Venerer should you be running
-            Bennett. You should aim to use her after another element has been applied,
-            since swirl increases the EM transfer.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_zhongli.png" alt/>Zhongli</td>
-      <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-        <ul>
-          <li>Zhongli<b> </b>has 2 main contributions, his shield shreds elemental resistances
-            while protecting you from interrupts, and his ult does a large amount of
-            damage while crowd controlling things. Due to the amount of damage he can
-            add through his burst, I do recommend going with a setup designed to increase
-            his damage rather than his shielding.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_bennett.png" alt/>Bennett</td>
-      <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-        <ul>
-          <li>Bennett is there for his transfer of attack and the possibility of swirling
-            pyro with Sucrose. Do note, he does heal your units so make sure that Hutao
-            is very low in health before you switch her in so that she does not over
-            heal the 50% threshold. If needed, you can give him a non-upgraded flower
-            to lower his healing.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_kazuha.png" alt/>Kazuha</td>
-      <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-        <ul>
-          <li>Kazuha<b> </b>can be run as a Viridescent Venerer carrier, provides a
-            damage boost to your team based on his own em, his second constellation
-            grants 200 EM to everyone on the team, and if you have his sword Freedom
-            Sworn, he buffs his party members even more.</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
+### **Main Carry**
 
 \*\*\*\*![](../../.gitbook/assets/ui_avataricon_hutao.png) ****
 
 * Hutao is a rather complex character in terms of damage scaling, due to her constellations and hp scaling on her e ability, play around with EM and HP timepieces to see which gives you the most damage with your artifacts.
 
-\*\*\*\*![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png)   
-****
+### **Primary Enablers** 
+
+\*\*\*\*![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) 
 
 * None ****of the cryo enablers provide too much outside of their main application. Typically Ganyu is used for her elemental burst, as she is able to apply cryo fairly quickly and to a large area. If she is not available Kaeya and Chongyun are able to perform the role as well. Artifact sets should be to maximize damage \(usually 2 blizzard strayer 2 noblesse oblige\) or to amplify your main carry’s damage\(4 noblesse or 4 instructor\)
+
+### **Supporting cast**
 
 \*\*\*\*![](../../.gitbook/assets/ui_avataricon_amber.png) ****
 
@@ -242,9 +52,202 @@ Amber is a surprising character that has grown to be a part of many of the more 
 
 \*\*\*\*![](../../.gitbook/assets/ui_avataricon_kazuha.png) 
 
-* Kazuha ****can be run as a Viridescent Venerer carrier, provides a damage boost to your team based on his own em, his second constellation grants 200 EM to everyone on the team, and if you have his sword Freedom Sworn, he buffs his party members even more. 
+* Kazuha ****can be run as a Viridescent Venerer carrier, provides a damage boost to your team based on his own em, his second constellation grants 200 EM to everyone on the team, and if you have his sword Freedom Sworn, he buffs his party members even more.
 
-  
-  
-****
+### Sample Hutao Teams ****
+
+### \*\*\*\*![](../../.gitbook/assets/ui_avataricon_hutao.png) ****![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+
+ Make sure Hutao hp starts off very low to counter Bennett’s healing
+
+ Bennett Q &gt; Sucrose E &gt; Mona Q &gt; Hutao E &gt; Hutao Q
+
+![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_amber.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+
+ Amber Q &gt; Zhongli E &gt; Zhongli Q &gt; Ganyu Q &gt; Hutao E &gt; Hutao Q
+
+![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
+
+ Make sure Hutao hp starts off very low to counter Bennett’s healing
+
+ Bennett Q &gt; Sucrose E &gt; Kaeya E &gt; Kaeya Q &gt; Hutao E &gt; Hutao Q
+
+![](../../.gitbook/assets/ui_avataricon_hutao.png) ****![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
+
+ Kaeya Q &gt; Sucrose E &gt; Mona Q &gt; Hutao E &gt; check/wait for cryo application &gt; Hutao Q  
+
+
+This is not an exhaustive list, just a few examples. The core concept is the same, which is to activate all of your buffs, debuffs, and enabler burst in an order that allows the enemy to end with cryo\( or hydro if you do not run cryo\) applied on them to get the full damage multiplier off with Hutao’s burst.
+
+## **Main Carry: Mona**
+
+**Primary enablers used:** Bennett, Klee \(C2 helps a lot because it shreds DEF\), any Pyro.
+
+**Supporting cast:** Sucrose, Kazuha, any Anemo \(for the resistance shred\)
+
+### Main Carry
+
+![](../../.gitbook/assets/ui_avataricon_mona.png) 
+
+* Mona has a huge multiplier on her burst \(and the damage boost from Omen is added to her burst multiplier\), and it can be vaporized, meaning you can do a lot of damage with her. The issue is, there are some weird mechanics behind her burst and there’s a setup that needs to be done for you to be able to pop Mona’s burst properly and deal huge damage.
+
+### **Primary Enablers**
+
+\*\*\*\*![](../../.gitbook/assets/ui_avataricon_bennett.png) ****
+
+* Bennett applies Pyro and his burst buffs Mona’s ATK by a lot. There’s too much value in Bennett to not utilize him.
+
+![](../../.gitbook/assets/ui_avataricon_klee.png) ![](../../.gitbook/assets/ui_avataricon_yanfei.png) ![](../../.gitbook/assets/element_pyro.webp) 
+
+* Klee and Yanfei helps at applying Pyro and using an R5 Thrilling tales of Dragon Slayers which buffs your Mona with 48% atk and if you Klee's have her C2, her Elemental Skill shreds the enemy's DEF by 23%, which helps a lot to deal even more damage. If you don’t have Klee or Yanfei, any Pyro works.
+
+### Supporting Cast
+
+![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
+
+* Sucrose buffs Mona’s EM based on her own EM and being an anemo means Sucrose also has access to the 4 Viridescent Venerer set which means if you swirl with Sucrose, the enemy will have the swirled element resistance decreased by 40%.
+
+![](../../.gitbook/assets/ui_avataricon_kazuha.png) 
+
+* Kazuha can be run as a Viridescent Venerer carrier, provides a damage boost to your team based on his own em, his second constellation grants 200 EM to everyone on the team, and if you have his sword Freedom Sworn, he buffs his party members even more.
+
+### Mona Vaporize Setup
+
+**Step 1**: Apply Hydro with Mona’s AA
+
+**Step 2**: Swirl with Sucrose’s E \(to decrease Hydro resistance by 40% with 4Viridescent Venerer’s effect\)
+
+**Step 3**: Bennett E to completely remove Hydro aura on enemies after swirling with sucrose \(some Hydro aura still linger on the enemy, this is just to make sure that Step 4 won’t trigger any vaporize reactions from Bennett\)
+
+**Step 4**: Bennett Q to buff up your Mona while also applying Pyro aura to the enemy
+
+**Step 5**: Mona Q and wait for ± 2 seconds before swapping \(there’s ICD\*/ Internal CoolDown on Mona’s burst, and you need to wait before swapping so that when you swap to Bennett, Mona will still gain the ATK buffs given by Bennett’s burst \(it lingers for a while\)\)
+
+**Step 6**: Bennett E or apply any Pyro to “pop” the bubble
+
+_Step 1 & Step 2_ are skippable but it does boost your burst damage by a lot since it shreds 40% Hydro resistance.
+
+**\*ICD/ Internal CoolDown**
+
+For ICDs, it’s a concept so that a skill cannot do the same elemental reactions right after it has just caused one. This means you cannot trigger Vaporize from the same source right after triggering one. Mona’s initial burst on enemies affected with Pyro aura acts as a Vaporize reaction, and you must wait for about 2 seconds to apply another instance of Pyro so that her burst is vaporized properly.
+
+### Sample Mona Teams
+
+![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_klee.png) 
+
+ Mona AA &gt; Sucrose E &gt; Bennett E &gt; Bennett Q &gt; Klee E &gt; Mona Q &gt; wait 2 seconds for ICD before swapping &gt; Bennett E  
+
+
+## **Main Carry:** Tartaglia / Childe
+
+ **Primary enablers used:** Bennett, Amber, other pyros\(less common\)
+
+ **Supporting cast:** Sucrose, Jean/Anemo MC, Zhongli, Mona, Bennett, Kazuha
+
+### **Main Carry**
+
+\*\*\*\*![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ****
+
+* Tartaglia has two bursts, based on which form he is in. Bow form does less damage but occurs much faster, Melee form requires the transformation and does much more damage. \(Need verification on riptide activation, prob not important\)
+
+### Primary Enablers
+
+![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+
+* Bennett is a very common choice, he gives you a lot of attack, he gives the enemies a fairly strong pyro application. What else could you want?
+
+![](../../.gitbook/assets/ui_avataricon_amber.png) 
+
+* Amber provides very quick pyro application at a range. Also can activate Elegy for the End and her c6 if available can buff your teammates. 
+
+![](../../.gitbook/assets/ui_avataricon_xiangling.png) 
+
+* Xiangling was quite a common sight in the prior abyss primarily, but is still a solid choice for certain setups. She provides pyro application, as well as quite a lot of personal damage.
+
+### Supporting Cast
+
+![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
+
+* Sucrose gives you elemental mastery when hitting an ability, and allows you to swirl hydro with Viridescent Venerer artifacts, lowering resistances and giving even more EM. Mostly runs Widsith or Sacrificial fragments.
+
+![](../../.gitbook/assets/ui_avataricon_jean.png) 
+
+* Jean is an option for a Viridescent Venerer carrier that does a decent amount of damage if built and applies the swirl in an area around you. The Viridescent Venerer role can be performed by the other anemo characters as well but this is seen much less frequently.
+
+![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+
+* Zhongli has 2 main contributions, his shield shreds elemental resistances while protecting you from interrupts, and his ult does a large amount of damage while crowd controlling things. Due to the amount of damage he can add through his burst, I do recommend going with a setup designed to increase his damage rather than his shielding.
+
+![](../../.gitbook/assets/ui_avataricon_mona.png) 
+
+* Mona can either be used as a damage amplifier only with her burst, or can be attempted to be used in a similar burst role, where you try to activate her double vaporize combo to have her nuke the enemy before using Childe’s burst. Both of these hits will be smaller than a dedicated build focusing on one only, but the combination of both may be worth it.
+
+![](../../.gitbook/assets/ui_avataricon_kazuha.png) 
+
+* Kazuha can be run as a Viridescent Venerer carrier, provides a damage boost to your team based on his own em, his second constellation grants 200 EM to everyone on the team, and if you have his sword Freedom Sworn, he buffs his party members even more.
+
+### Sample Childe Teams
+
+![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
+
+ Mona Q &gt; Sucrose E &gt; Bennett Q &gt; Childe E &gt; Childe Q 
+
+![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) 
+
+ Bennett Q &gt; Mona Q &gt; Wait for 2 seconds &gt; Xiangling Q &gt; Childe E &gt; Childe Q
+
+![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+
+ Zhongli hold E &gt; Childe charge shot &gt; Sucrose E &gt; Bennett Q &gt; Childe E &gt; Childe Q  
+
+
+Notes:
+
+Mona debuff only lasts 5 seconds, so when using her try to land your entire combo within 5 seconds of hitting the enemy marked by Mona Q
+
+You should **ALWAYS** make sure that the enemy has a pyro tag on them before using your main burst skills
+
+Sucrose E should be used while the enemy has a hydro tag on them to swirl hydro and activate Viridescent Venerer
+
+## **Main Carry: Eula** 
+
+**Supporting cast:** Fischl, Beidou, Lisa, Zhongli, Bennett, Jean \(C2\), Klee \(C2\), Mona
+
+### Main Carry
+
+![](../../.gitbook/assets/ui_avataricon_eula.png) 
+
+* Eula’s burst is the centerpiece to this team. It does a fair amount of damage on cast, but primarily we are focused on the explosion at the end. The more stacks you get on it, the more additional damage gets added to the explosion when the skill ends. You are given up to 7 seconds to charge it as much as you can, and it gains stacks upon damaging enemies with her normal attack, skill, and burst \(and additionally, if you have her C6, you gain 5 stacks upon its use and every hit has an additional chance to add another stack\). Note that the final explosion does physical damage and switching characters will immediately end the ultimate and cause the explosion to happen. This means that whatever setup is to be done must be done before casting her ultimate, and since it is physical damage, we are left with very few ways to scale this damage \(Physical resistance shred, defense debuffs, and self buffs\). 
+
+### Supporting Cast
+
+![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) 
+
+* Their primary role in the team is to allow for the superconduct reaction, as well as adding whatever damage you can get out of them \(Oz and Fischl’s C6, or Beidou’s elemental burst\)
+
+![](../../.gitbook/assets/ui_avataricon_lisa.png) 
+
+* Lisa is very similar to the prior two characters, where she is primarily there to allow for superconduct to occur. However, she comes with the added benefit of being able to lower enemy defense with her elemental burst \(as well as the downside of not having much energy generation to get said burst up\).
+
+![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+
+* He provides a massive shield with his E, shreds enemy physical resistance with his shield, and provides a fairly sizeable amount of damage and a petrify with his burst. Also can be paired with another geo character to activate the geo resonance.
+
+![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+
+* He provides healing with his burst, as well as an attack buff to characters standing in his field.
+
+![](../../.gitbook/assets/ui_avataricon_jean.png) 
+
+* Jean’s second constellation gives all characters in the party additional attack speed and movement speed upon gathering a particle. This means you get one additional attack, and one additional stack on your ultimate. Also is a healer.
+
+![](../../.gitbook/assets/ui_avataricon_klee.png) 
+
+* Klee’s second constellation allows for her to shred enemy defense. In addition, when paired with Bennett, pyro resonance is activated giving you more attack.
+
+![](../../.gitbook/assets/ui_avataricon_mona.png) 
+
+* Mona is only going to be useful for speed purposes, as omen debuff requires that you end your Eula ultimate early. So if you have C6 on Eula, and know how many stacks you need, then she can save you a little bit of time and allow you to switch characters to immediately detonate your ultimate earlier.
+
+## **Example Videos \[ W I P \]**
 
