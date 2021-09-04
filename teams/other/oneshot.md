@@ -173,27 +173,76 @@ This game plan focuses on dealing a large amount of burst damage to enemies \(id
   </tbody>
 </table>
 
-**Hutao** is a rather complex character in terms of damage scaling, due to her constellations and hp scaling on her e ability, play around with EM and HP timepieces to see which gives you the most damage with your artifacts.  
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*![](../../.gitbook/assets/ui_avataricon_hutao.png) ****
+
+* Hutao is a rather complex character in terms of damage scaling, due to her constellations and hp scaling on her e ability, play around with EM and HP timepieces to see which gives you the most damage with your artifacts.
+
+\*\*\*\*![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png)   
 ****
 
-**None** of the cryo enablers provide too much outside of their main application. Typically Ganyu is used for her elemental burst, as she is able to apply cryo fairly quickly and to a large area. If she is not available Kaeya and Chongyun are able to perform the role as well. Artifact sets should be to maximize damage \(usually 2 blizzard strayer 2 noblesse oblige\) or to amplify your main carry’s damage\(4 noblesse or 4 instructor\)  
-****
+* None ****of the cryo enablers provide too much outside of their main application. Typically Ganyu is used for her elemental burst, as she is able to apply cryo fairly quickly and to a large area. If she is not available Kaeya and Chongyun are able to perform the role as well. Artifact sets should be to maximize damage \(usually 2 blizzard strayer 2 noblesse oblige\) or to amplify your main carry’s damage\(4 noblesse or 4 instructor\)
 
-**Amber** is a surprising character that has grown to be a part of many of the more whale burst setups. This is due to her c6 ability, which gives her team a small attack % buff, as well as her ability to apply Elegy for the End’s weapon passive, granting the rest of the team a large amount of EM and additional attack % buff.  
-****
+\*\*\*\*![](../../.gitbook/assets/ui_avataricon_amber.png) ****
 
-**Mona** is a rather odd character, providing a damage increase on enemies marked by her elemental burst. She is listed in both the enabler section and the supporting section due to this, as though she does not provide the full melt damage multiplier, her omen combined with having another supporting slot open may make up for this difference. \(In addition, this allows dragon’s bane users to get their weapon passive activated\) She can also function as a damage amplifier alongside a cryo enabler, as her omen is a 5 second debuff that grants the increased damage during that duration. As an enabler, she typically will run Thrilling Tales.   
-****
+Amber is a surprising character that has grown to be a part of many of the more whale burst setups. This is due to her c6 ability, which gives her team a small attack % buff, as well as her ability to apply Elegy for the End’s weapon passive, granting the rest of the team a large amount of EM and additional attack % buff.
 
-**Sucrose** is rather straightforward, you stack em on her and she gives some em to the rest of her team upon hitting an ability. Her weapon will either be Sacrificial Fragments or The Widsith depending on your ability and willingness to accept more randomness. She really only has 2 artifact sets she would run, either 4 Noblesse Oblige or 4 Viridescent Venerer should you be running Bennett. You should aim to use her after another element has been applied, since swirl increases the EM transfer.  
+\*\*\*\*![](../../.gitbook/assets/ui_avataricon_mona.png) ****
 
+* Mona is a rather odd character, providing a damage increase on enemies marked by her elemental burst. She is listed in both the enabler section and the supporting section due to this, as though she does not provide the full melt damage multiplier, her omen combined with having another supporting slot open may make up for this difference. \(In addition, this allows dragon’s bane users to get their weapon passive activated\) She can also function as a damage amplifier alongside a cryo enabler, as her omen is a 5 second debuff that grants the increased damage during that duration. As an enabler, she typically will run Thrilling Tales. 
 
-**Zhongli** has 2 main contributions, his shield shreds elemental resistances while protecting you from interrupts, and his ult does a large amount of damage while crowd controlling things. Due to the amount of damage he can add through his burst, I do recommend going with a setup designed to increase his damage rather than his shielding.  
+\*\*\*\*![](../../.gitbook/assets/ui_avataricon_sucrose.png) ****
 
+* Sucrose is rather straightforward, you stack em on her and she gives some em to the rest of her team upon hitting an ability. Her weapon will either be Sacrificial Fragments or The Widsith depending on your ability and willingness to accept more randomness. She really only has 2 artifact sets she would run, either 4 Noblesse Oblige or 4 Viridescent Venerer should you be running Bennett. You should aim to use her after another element has been applied, since swirl increases the EM transfer.
 
-**Bennett** is there for his transfer of attack and the possibility of swirling pyro with Sucrose. Do note, he does heal your units so make sure that Hutao is very low in health before you switch her in so that she does not over heal the 50% threshold. If needed, you can give him a non-upgraded flower to lower his healing.  
-**Kazuha** can be run as a Viridescent Venerer carrier, provides a damage boost to your team based on his own em, his second constellation grants 200 EM to everyone on the team, and if you have his sword Freedom Sworn, he buffs his party members even more.  
+![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
+* Zhongli ****has 2 main contributions, his shield shreds elemental resistances while protecting you from interrupts, and his ult does a large amount of damage while crowd controlling things. Due to the amount of damage he can add through his burst, I do recommend going with a setup designed to increase his damage rather than his shielding.
+
+![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+
+* Bennett is there for his transfer of attack and the possibility of swirling pyro with Sucrose. Do note, he does heal your units so make sure that Hutao is very low in health before you switch her in so that she does not over heal the 50% threshold. If needed, you can give him a non-upgraded flower to lower his healing.
+
+\*\*\*\*![](../../.gitbook/assets/ui_avataricon_kazuha.png) 
+
+* Kazuha ****can be run as a Viridescent Venerer carrier, provides a damage boost to your team based on his own em, his second constellation grants 200 EM to everyone on the team, and if you have his sword Freedom Sworn, he buffs his party members even more. 
 
   
   
