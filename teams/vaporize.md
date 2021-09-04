@@ -2,6 +2,14 @@
 
 There are no strong vaporise team compositions, due to hydro’s lack of characters that can use the reaction well. The closest two would be Childe and Mona’s one shot team compositions, which we cover in the one shot section. The Childe + Xiangling focused composition, which in actuality relies on Xiangling to reverse vaporise to do damage \(we will include that team in this page as well as the Mona alternative\). The last hydro character that could be used in a vaporise team is Barbara, due to her abnormally high charged attack numbers, but this is very off meta and significantly weaker than most other teams you could build around. We will still include the team here for fun.
 
+{% hint style="info" %}
+Characters are ranked roughly according to how well they perform in this team composition.
+
+Most of the characters within a given role are interchangeable except if mentioned above.  
+  
+Refer to the character notes below for how characters work in this particular team composition or click on their portraits for a description of how the character works in general.
+{% endhint %}
+
 <table>
   <thead>
     <tr>
