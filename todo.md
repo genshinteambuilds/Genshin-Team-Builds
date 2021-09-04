@@ -70,17 +70,15 @@ Jean, Sucrose, Kazuha, Xiao, Ayaka, Diluc, Xingqiu, Ganyu, Tartaglia
 
 {% page-ref page="teams/other/oneshot.md" %}
 
+{% page-ref page="teams/vaporize.md" %}
+
+{% page-ref page="teams/geo.md" %}
+
 ## Porting:
 
 ### Characters:
 
-
-
 ### Teams:
-
-Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteqFDGDBDvT8YU/edit](https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd_rteqFDGDBDvT8YU/edit)
-
-Geo: [https://docs.google.com/document/d/1uHeMyjXSGAVqm8dPratXqTEs18RBgnLukPdGLba1mic/edit?usp=sharing](https://docs.google.com/document/d/1uHeMyjXSGAVqm8dPratXqTEs18RBgnLukPdGLba1mic/edit?usp=sharing)
 
 ## Unassigned
 
