@@ -42,6 +42,16 @@ Jean, Sucrose, Kazuha, Xiao, Ayaka, Diluc, Xingqiu, Ganyu, Tartaglia
 
 {% page-ref page="characters/geo/traveler-geo.md" %}
 
+{% page-ref page="characters/pyro/yanfei.md" %}
+
+{% page-ref page="characters/hydro/barbara.md" %}
+
+{% page-ref page="characters/pyro/klee.md" %}
+
+{% page-ref page="characters/pyro/yoimiya.md" %}
+
+{% page-ref page="characters/cryo/rosaria.md" %}
+
 #### Teams
 
 {% page-ref page="teams/pyro.md" %}
@@ -52,27 +62,21 @@ Jean, Sucrose, Kazuha, Xiao, Ayaka, Diluc, Xingqiu, Ganyu, Tartaglia
 
 {% page-ref page="teams/pyro.md" %}
 
+{% page-ref page="teams/physical.md" %}
+
+{% page-ref page="teams/overload.md" %}
+
+{% page-ref page="teams/electro-charged.md" %}
+
+{% page-ref page="teams/other/oneshot.md" %}
+
 ## Porting:
 
 ### Characters:
 
-Yanfei: [https://docs.google.com/document/d/1YQ7mq4jLBzcDZXsc6OfRZGMoZSVZIDIOn6EgpgnmsvE/edit?usp=sharing](https://docs.google.com/document/d/1YQ7mq4jLBzcDZXsc6OfRZGMoZSVZIDIOn6EgpgnmsvE/edit?usp=sharing)
 
-Barbara: [https://docs.google.com/document/d/1zzawSCiUN3bAqsYaKl9inSmF0Se-mrHkhv4gHSHfc18/edit?usp=sharing](https://docs.google.com/document/d/1zzawSCiUN3bAqsYaKl9inSmF0Se-mrHkhv4gHSHfc18/edit?usp=sharing)
-
-Klee: [https://docs.google.com/document/d/1ZvoQstCo9KQOggeq4Dyrg5Bc33LQepdBB87vUrJDWa4/edit?usp=sharing](https://docs.google.com/document/d/1ZvoQstCo9KQOggeq4Dyrg5Bc33LQepdBB87vUrJDWa4/edit?usp=sharing)
-
-Yoimiya: [https://docs.google.com/document/d/1cHG3ndjIVW73loN7iV55ppvKx0OKB0\_6bSAAKSqtU8w/edit](https://docs.google.com/document/d/1cHG3ndjIVW73loN7iV55ppvKx0OKB0_6bSAAKSqtU8w/edit)
 
 ### Teams:
-
-Physical: [https://docs.google.com/document/d/1BXRx17UcpJttQSVEIOXtz\_GXGqWmGMwRodHijp\_mX48/edit](https://docs.google.com/document/d/1BXRx17UcpJttQSVEIOXtz_GXGqWmGMwRodHijp_mX48/edit)
-
-Overload: [https://docs.google.com/document/d/1OT5vDVi1pGwrXrbuXwk3prRHWYWo\_mIypmi5DrMrCNA/edit](https://docs.google.com/document/d/1OT5vDVi1pGwrXrbuXwk3prRHWYWo_mIypmi5DrMrCNA/edit)
-
-Electro-Charged: [https://docs.google.com/document/d/1cu\_wlOa1f\_iRZ6Z-cJWW0-yh9WAjwckpjALTHFE\_mSo/edit](https://docs.google.com/document/d/1cu_wlOa1f_iRZ6Z-cJWW0-yh9WAjwckpjALTHFE_mSo/edit)
-
-One-Shots: [https://docs.google.com/document/d/1n6B6cqfS4Fy09-3OTrbSy4l-iihOpp0ZKjfDoYV5ARo/edit](https://docs.google.com/document/d/1n6B6cqfS4Fy09-3OTrbSy4l-iihOpp0ZKjfDoYV5ARo/edit)
 
 Vaporize: [https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd\_rteqFDGDBDvT8YU/edit](https://docs.google.com/document/d/1sEeoqToZg-ls8MlMZJsyJQfNZQd_rteqFDGDBDvT8YU/edit)
 
@@ -82,7 +86,6 @@ Geo: [https://docs.google.com/document/d/1uHeMyjXSGAVqm8dPratXqTEs18RBgnLukPdGLb
 
 Characters left to do: 
 
-* rosaria,
 * xinyan
 * sayu
 * traveler \(electro\)
