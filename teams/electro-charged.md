@@ -6,6 +6,14 @@ Before you decide to actually play one of these teams, do note that they are in 
 
 You want to be using abilities as often as possible. There are no big reactions to aim for so skill order largely does not matter too much. If you are running Childe, do note that he has a fairly long cooldown on his melee stance so try to only switch to him and use his melee form when you have a period of time when your other abilities are on cooldown/waiting for energy.
 
+{% hint style="info" %}
+Characters are ranked roughly according to how well they perform in this team composition.
+
+Most of the characters within a given role are interchangeable except if mentioned above.  
+  
+Refer to the character notes below for how characters work in this particular team composition or click on their portraits for a description of how the character works in general.
+{% endhint %}
+
 <table>
   <thead>
     <tr>
