@@ -121,10 +121,7 @@ Refer to the character notes below for how characters work in this particular te
   </tbody>
 </table>
 
-
-
-**Hydro applier, Electro applier, Healer, Additional Damage/Utility**   
-
+Hydro applier, Electro applier, Healer, Additional Damage/Utility 
 
 |  | \*\*\*\* | \*\*\*\* |
 | :--- | :--- | :--- |
@@ -281,7 +278,7 @@ Refer to the character notes below for how characters work in this particular te
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <ul>
           <li>Useful for grouping up enemies and providing a bit of extra crowd control.
-            Also can apply viridescent venerer&#x2019;s debuff to enemies</li>
+            Also can apply Viridescent venerer&#x2019;s debuff to enemies</li>
         </ul>
       </td>
     </tr>
