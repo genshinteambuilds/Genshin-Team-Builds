@@ -278,7 +278,7 @@ Hydro applier, Electro applier, Healer, Additional Damage/Utility
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <ul>
           <li>Useful for grouping up enemies and providing a bit of extra crowd control.
-            Also can apply Viridescent venerer&#x2019;s debuff to enemies</li>
+            Also can apply Viridescent Venerer&#x2019;s debuff to enemies</li>
         </ul>
       </td>
     </tr>
@@ -293,7 +293,7 @@ Hydro applier, Electro applier, Healer, Additional Damage/Utility
         <p></p>
         <ul>
           <li>Useful for grouping up enemies and providing a bit of extra crowd control.
-            Also can apply viridescent venerer&#x2019;s debuff to enemies</li>
+            Also can apply Viridescent Venerer&#x2019;s debuff to enemies</li>
           <li>Buffs the team&apos;s Elemental DMG bonus thru his talents and based on
             his Elemental Mastery.</li>
         </ul>
@@ -310,7 +310,7 @@ Hydro applier, Electro applier, Healer, Additional Damage/Utility
         <p></p>
         <ul>
           <li>Useful for grouping up enemies and providing a bit of extra crowd control.
-            Also can apply viridescent venerer&#x2019;s debuff to enemies</li>
+            Also can apply Viridescent Venerer&#x2019;s debuff to enemies</li>
           <li>Buffs the team&apos;s Elemental Mastery thru her talents and based on
             his Elemental Mastery.</li>
         </ul>
@@ -406,7 +406,7 @@ Hydro applier, Electro applier, Healer, Additional Damage/Utility
           <li>Elemental skill provides some crowd control and the ability to apply fall
             damage to light enemies. Burst is an aoe heal that heals your entire team
             by a lot and leaves a field of healing that heals the character that is
-            standing on it. She can carry 4 noblesse oblige or 4 viridescent venerer.</li>
+            standing on it. She can carry 4 noblesse oblige or 4 Viridescent Venerer.</li>
         </ul>
       </td>
     </tr>
