@@ -74,8 +74,7 @@ Amber is a surprising character that has grown to be a part of many of the more 
 
 ![](../../.gitbook/assets/ui_avataricon_hutao.png) ****![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
 
- Kaeya Q &gt; Sucrose E &gt; Mona Q &gt; Hutao E &gt; check/wait for cryo application &gt; Hutao Q  
-
+ Kaeya Q &gt; Sucrose E &gt; Mona Q &gt; Hutao E &gt; check/wait for cryo application &gt; Hutao Q
 
 This is not an exhaustive list, just a few examples. The core concept is the same, which is to activate all of your buffs, debuffs, and enabler burst in an order that allows the enemy to end with cryo\( or hydro if you do not run cryo\) applied on them to get the full damage multiplier off with Hutao’s burst.
 
