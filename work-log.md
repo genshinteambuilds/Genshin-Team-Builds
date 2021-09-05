@@ -9,9 +9,9 @@
 | ultikiller/Kicc \(CC\) |  |
 | CoFt/Chair | xinyan |
 | shockwhite | raiden, sara |
-| aidan |  |
+| aidan | kaeya |
 | albeiro | sayu |
-| seagull | kaeya, traveller \(electro\) |
+| seagull | traveller \(electro\) |
 | khino | porting, editing / proofreading |
 | miko | - |
 | bich | zhongli, editing / proofreading |
@@ -26,7 +26,6 @@ seagull
 * kazuha \(8/16\)
 * xiao \(8/16\)
 * chongyun \(8/31\)
-* kaeya ???
 * traveler \(electro\) ???
 
 albeiro
@@ -73,6 +72,7 @@ aidan
 * razor \(8/19\)
 * Yoimiya \(8/29\)
 * qiqi \(8/24\)
+* kaeya ???
 
 bich
 
