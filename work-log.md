@@ -4,17 +4,17 @@
 
 | Name | Role |
 | :--- | :--- |
-| folie \(CC\) | zhongli |
+| folie \(CC\) |  |
 | hyper \(CC\) |  |
 | ultikiller/Kicc \(CC\) |  |
-| CoFt/Chair |  |
-| shockwhite | fischl, xiangling |
+| CoFt/Chair | xinyan |
+| shockwhite | raiden, sara |
 | aidan |  |
-| albeiro | anemo team |
-| seagull | chongyun, kaeya |
-| khino | porting |
+| albeiro | editing / proofreading |
+| seagull | kaeya, traveller \(electro\) |
+| khino | sayu, porting |
 | miko | - |
-| bich | porting / editing / proofreading |
+| bich | zhongli, editing / proofreading |
 | rag | editing / proofreading |
 | ChiliLion | editing / proofreading |
 
@@ -25,13 +25,9 @@ seagull
 * sucrose \(8/15\)
 * kazuha \(8/16\)
 * xiao \(8/16\)
-
-khino 
-
-* tartaglia \(8/15\)
-* xingqiu \(8/16\)
-* albedo \(8/16\)
-* venti \(8/20\)
+* chongyun \(8/31\)
+* kaeya ???
+* traveler \(electro\) ???
 
 albeiro
 
@@ -45,6 +41,7 @@ albeiro
 * freeze \(8/18\)
 * vaporize \(8/18\)
 * geo \(8/26\)
+* anemo \(8/31\)
 
 CoFT/chair 
 
@@ -53,6 +50,7 @@ CoFT/chair
 * Traveller \(Anemo\) \(8/26\)
 * Traveller \(Geo\) \(8/29\)
 * Diona \(8/18\)
+* xinyan ???
 
 rag
 
@@ -64,6 +62,37 @@ shockwhite
 
 * eula \(8/15\)
 * mona \(8/22\)
+* fischl \(9/2\)
+* xiangling \(9/3\)
+* raiden ???
+* sara ???
+
+aidan
+
+* razor \(8/19\)
+* Yoimiya \(8/29\)
+* qiqi \(8/24\)
+
+bich
+
+* Noelle \(8/27\)
+* zhongli ???
+
+khino 
+
+* tartaglia \(8/15\)
+* xingqiu \(8/16\)
+* albedo \(8/16\)
+* venti \(8/20\)
+* rosaria \(9/01\)
+* sayu ???
+
+Ultikiller
+
+* Keqing \(8/21\)
+* Beidou \(8/21\)
+* Yanfei \(8/29\)
+* Barbara \(8/29\)
 
 hyper
 
@@ -76,20 +105,7 @@ folie
 * ganyu \(8/17\)
 * ningguang \(8/23\)
 
-aidan
 
-* razor \(8/19\)
-* Yoimiya \(8/29\)
-* qiqi \(8/24\)
 
-Ultikiller
 
-* Keqing \(8/21\)
-* Beidou \(8/21\)
-* Yanfei \(8/29\)
-* Barbara \(8/29\)
-
-bich
-
-* Noelle \(8/27\)
 

@@ -78,23 +78,23 @@ Jean, Sucrose, Kazuha, Xiao, Ayaka, Diluc, Xingqiu, Ganyu, Tartaglia
 
 ### Characters:
 
+Fischl: [https://docs.google.com/document/d/1UzD4ysWhZ\_FyTFgodo5En7bOTbLlRjlNwQx8YCBHB5A/edit?usp=sharing](https://docs.google.com/document/d/1UzD4ysWhZ_FyTFgodo5En7bOTbLlRjlNwQx8YCBHB5A/edit?usp=sharing)
+
+Xiangling: [https://docs.google.com/document/d/1UibjHQkGLTVPpSDSHk0iqqedWJQTQyVt1AyZhj0TKJA/edit](https://docs.google.com/document/d/1UibjHQkGLTVPpSDSHk0iqqedWJQTQyVt1AyZhj0TKJA/edit)
+
 ### Teams:
 
-## Unassigned
-
-Characters left to do: 
-
-* xinyan
-* sayu
-* traveler \(electro\)
+Anemo: [https://docs.google.com/document/d/1qaUcuq7YPN34rURWp9Pgt3lF52MfmlmHlZRvyEatLgE/edit?usp=sharing ](https://docs.google.com/document/d/1qaUcuq7YPN34rURWp9Pgt3lF52MfmlmHlZRvyEatLgE/edit?usp=sharing%20)
 
 ## Work In Progress
 
 * zhongli
-* fischl
-* xiangling
-* chongyun
 * kaeya
+* raiden
+* sara
+* sayu
+* xinyan
+* traveler \(electro\)
 
 ## Random References to go through once we're done:
 
