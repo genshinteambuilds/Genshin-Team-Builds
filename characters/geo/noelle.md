@@ -17,7 +17,8 @@
 
 ## **Additional Notes**
 
-* A Main DPS Noelle should be played with both Geo resonance and a Geo Energy Battery in order to reach 100% uptime on her Elemental Burst. It is not recommended to use her as a Main DPS before C6.
+* A Main DPS Noelle should be played with both Geo resonance and a Geo Energy Battery in order to reach 100% uptime on her Elemental Burst. It is not recommended to use her as a Main DPS before Constellation 6.
+  * Noelle's inability to heal Off-Field weakens her functionality as a Support, espicially when compared to other Supports. As such, she should generally be used as the Main DPS in most teams.
 * Noelle’s Geo infusion from her Elemental Burst persists when she is swapped out, allowing players to rotate through the rest of the team during its duration.
 
 ## **Works Well With**
