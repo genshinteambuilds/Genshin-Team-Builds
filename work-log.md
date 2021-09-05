@@ -10,9 +10,9 @@
 | CoFt/Chair | xinyan |
 | shockwhite | raiden, sara |
 | aidan |  |
-| albeiro | editing / proofreading |
+| albeiro | sayu |
 | seagull | kaeya, traveller \(electro\) |
-| khino | sayu, porting |
+| khino | porting, editing / proofreading |
 | miko | - |
 | bich | zhongli, editing / proofreading |
 | rag | editing / proofreading |
@@ -42,6 +42,7 @@ albeiro
 * vaporize \(8/18\)
 * geo \(8/26\)
 * anemo \(8/31\)
+* sayu ???
 
 CoFT/chair 
 
@@ -85,7 +86,6 @@ khino
 * albedo \(8/16\)
 * venti \(8/20\)
 * rosaria \(9/01\)
-* sayu ???
 
 Ultikiller
 
