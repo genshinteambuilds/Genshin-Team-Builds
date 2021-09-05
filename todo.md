@@ -116,6 +116,8 @@ keqing mains: [https://keqingmains.com/](https://keqingmains.com/)
 
 yoimiya team comps: [https://docs.google.com/document/d/11Xo7jlLU33LWJ0dfcSmxu3Cr6LoPbMcXVXEJPbrIYYs/edit](https://docs.google.com/document/d/11Xo7jlLU33LWJ0dfcSmxu3Cr6LoPbMcXVXEJPbrIYYs/edit)
 
+Frozen Rock!
+
 ![](.gitbook/assets/image.png)
 
 
