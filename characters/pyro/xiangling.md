@@ -43,6 +43,10 @@
 
 ## Teams
 
+{% hint style="info" %}
+Click on the team names below for more details on how the team works and alternative support options that can work with that team.
+{% endhint %}
+
 [Melt](../../teams/melt.md)
 
 ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
