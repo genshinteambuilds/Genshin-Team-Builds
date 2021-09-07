@@ -1,6 +1,6 @@
 # Oneshot
 
-This game plan focuses on dealing a large amount of burst damage to enemies \(ideally ending the encounter immediately\) without caring much about repeatability and follow up damage. This is usually accomplished by utilizing hydro or pyro characters with a large single hit burst, notably, Hutao, Childe, and Mona in combination with their respective 2x reaction \(Hutao has a slight caveat which will be discussed later\), which is melt for Hutao and vaporise for Childe and Mona. The other character slots are used to apply the element being reacted with, as well as to provide damage increases to the main damage dealer. Skill usage order and character order is very important in these types of compositions. This style of play also benefits heavily from the Elemental Mastery stat and often have different artifacts and weapon choices than traditional play, and setups vary widely by availability of characters and equipment. Note that the damage you get out of a setup is extremely dependent upon your character’s artifact stats, supporting character’s stats, constellations, and weapons. Eula, a relatively new addition, works in a slightly different way than the other three, as she simply relies on her burst’s extremely high damage scaling to accomplish this task.
+This game plan focuses on dealing a large amount of burst damage to enemies \(ideally ending the encounter immediately\) without caring much about repeatability and follow up damage. This is usually accomplished by utilizing hydro or pyro characters with a large single hit burst, notably, Hu Tao, Tartaglia, and Mona in combination with their respective 2x reaction \(Hu Tao has a slight caveat which will be discussed later\), which is melt for Hu Tao and vaporize for Tartaglia and Mona. The other character slots are used to apply the element being reacted with, as well as to provide damage increases to the main damage dealer. Skill usage order and character order is very important in these types of compositions. This style of play also benefits heavily from the Elemental Mastery stat and often have different artifacts and weapon choices than traditional play, and setups vary widely by availability of characters and equipment. Note that the damage you get out of a setup is extremely dependent upon your character’s artifact stats, supporting character’s stats, constellations, and weapons. Eula, a relatively new addition, works in a slightly different way than the other three, as she simply relies on her burst’s extremely high damage scaling to accomplish this task.
 
 ## **A Brief Overview of Terminology**
 
@@ -139,15 +139,15 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 
 ## **Main Carry:** Tartaglia / Childe
 
- **Primary enablers used:** Bennett, Amber, other pyros\(less common\)
+ **Primary Enablers used:** Bennett, Amber, other pyros\(less common\)
 
- **Supporting cast:** Sucrose, Jean/Anemo MC, Zhongli, Mona, Bennett, Kazuha
+ **Supporting Cast:** Sucrose, Jean/Anemo MC, Zhongli, Mona, Bennett, Kazuha
 
 ### **Main Carry**
 
 \*\*\*\*![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ****
 
-* Tartaglia has two bursts, based on which form he is in. Bow form does less damage but occurs much faster, Melee form requires the transformation and does much more damage. \(Need verification on riptide activation, prob not important\)
+* Tartaglia has two bursts, based on which form he is in. Bow form does less damage but occurs much faster since it returns 20 energy back to Tartaglia, Melee form requires the transformation and does much more damage. 
 
 ### Primary Enablers
 
@@ -167,11 +167,11 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 
 ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
 
-* Sucrose gives you elemental mastery when hitting an ability, and allows you to swirl hydro with Viridescent Venerer artifacts, lowering resistances and giving even more EM. Mostly runs Widsith or Sacrificial fragments.
+* Sucrose gives you elemental mastery when hitting an ability, and allows you to swirl hydro with 4 set Viridescent Venerer artifacts, lowering resistances and giving even more Elemental Mastery. Mostly runs Widsith or Sacrificial fragments.
 
 ![](../../.gitbook/assets/ui_avataricon_jean.png) 
 
-* Jean is an option for a Viridescent Venerer carrier that does a decent amount of damage if built and applies the swirl in an area around you. The Viridescent Venerer role can be performed by the other anemo characters as well but this is seen much less frequently.
+* Jean is an option as the 4 set Viridescent Venerer carrier that does a decent amount of damage if built and applies the swirl in an area around you. The 4 set Viridescent Venerer role can be performed by the other Anemo characters as well but this is seen much less frequently.
 
 ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
