@@ -1,6 +1,6 @@
 # Oneshot
 
-This game plan focuses on dealing a large amount of burst damage to enemies \(ideally ending the encounter immediately\) without caring much about repeatability and follow up damage. This is usually accomplished by utilizing hydro or pyro characters with a large single hit burst, notably, Hu Tao, Tartaglia, and Mona in combination with their respective 2x reaction \(Hu Tao has a slight caveat which will be discussed later\), which is melt for Hu Tao and vaporize for Tartaglia and Mona. The other character slots are used to apply the element being reacted with, as well as to provide damage increases to the main damage dealer. Skill usage order and character order is very important in these types of compositions. This style of play also benefits heavily from the Elemental Mastery stat and often have different artifacts and weapon choices than traditional play, and setups vary widely by availability of characters and equipment. Note that the damage you get out of a setup is extremely dependent upon your character’s artifact stats, supporting character’s stats, constellations, and weapons. Eula, a relatively new addition, works in a slightly different way than the other three, as she simply relies on her burst’s extremely high damage scaling to accomplish this task.
+This game plan focuses on dealing a large amount of burst damage to enemies \(ideally ending the encounter immediately\) without caring much about repeatability and follow up damage. This is usually accomplished by utilizing hydro or pyro characters with a large single hit burst, notably, Hu Tao, Tartaglia, and Mona in combination with their respective 2x reaction \(Hu Tao has a slight caveat which will be discussed later\), which is melt for Hu Tao and vaporize for Tartaglia and Mona. The other character slots are used to apply the element being reacted with, as well as to provide damage increases to the main damage dealer. Elemental skill and burst usage order and character swapping order is very important in these types of compositions. This playstyle also benefits heavily from Elemental Mastery and often have different artifacts and weapon choices than traditional play, and setups vary widely by availability of characters and equipment. Note that the damage you get out of a setup is extremely dependent upon your character’s artifact stats, supporting character’s stats, constellations, and weapons. Eula, a relatively new addition, works in a slightly different way than the other three, as she simply relies on her burst’s extremely high damage scaling to accomplish this task.
 
 ## **A Brief Overview of Terminology**
 
@@ -60,23 +60,25 @@ This game plan focuses on dealing a large amount of burst damage to enemies \(id
 
  Make sure Hu Tao's HP starts off very low to counter Bennett’s healing
 
-Bennett burst &gt; Sucrose skill &gt; Mona burst &gt; Hu Tao skill &gt; Hu Tao burst
+Bennett Elemental Burst -&gt; Sucrose Elemental Skill -&gt; Mona Elemental Burst -&gt; Hu Tao Elemental Skill -&gt; Hu Tao Elemental Burst
 
 ![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_amber.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
- Amber burst &gt; Zhongli hold skill &gt; Zhongli burst &gt; Ganyu burst &gt; Hu Tao skill &gt; Hu Tao burst
+ Amber Elemental Burst -&gt; Zhongli hold Elemental Skill -&gt; Zhongli Elemental burst -&gt; Ganyu Elemental Burst -&gt; Hu Tao Elemental Skill -&gt; Hu Tao Elemental Burst
 
 ![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
 
  Make sure Hu Tao's hp starts off very low to counter Bennett’s healing
 
- Bennett burst &gt; Sucrose skill &gt; Kaeya skill &gt; Kaeya burst &gt; Hu Tao skill &gt; Hu Tao burst
+ Bennett Elemental Burst -&gt; Sucrose Elemental Skill -&gt; Kaeya Elemental Skill  -&gt; Kaeya Elemental Burst -&gt; Hu Tao skill -&gt; Hu Tao Elemental Burst
 
 ![](../../.gitbook/assets/ui_avataricon_hutao.png) ****![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
 
- Kaeya Q &gt; Sucrose E &gt; Mona Q &gt; Hu TaoE &gt; check/wait for cryo application &gt; Hu Tao Q
+ Kaeya Elemental Burst -&gt; Sucrose Elemental Skill -&gt; Mona Elemental Burst -&gt; Hu Tao Elemental Skill -&gt; check/wait for cryo application -&gt; Hu Tao Elemental Burst 
 
-This is not an exhaustive list, just a few examples. The core concept is the same, which is to activate all of your buffs, debuffs, and enabler burst in an order that allows the enemy to end with cryo\( or hydro if you do not run cryo\) applied on them to get the full damage multiplier off with Hutao’s burst.
+**NOTES:**
+
+This is not an exhaustive list, just a few examples. The core concept is the same, which is to activate all of your buffs, debuffs, and enabler burst in an order that allows the enemy to end with cryo\( or hydro if you do not run cryo\) applied on them to get the full damage multiplier off with Hu Tao’s burst.
 
 ## **Main Carry: Mona**
 
@@ -134,8 +136,7 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 
 ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_klee.png) 
 
- Mona Normal Attack &gt; Sucrose skill &gt; Bennett skill &gt; Bennett burst &gt; Klee skill \(if C2\) if not Normal Attack is fine &gt; Mona Burst &gt; wait 2 seconds for ICD before swapping &gt; Bennett skill  
-
+Mona Normal Attack -&gt; Sucrose Elemental Skill  -&gt; Bennett Elemental Skill -&gt; Bennett  Elemental Burst -&gt; Klee skill \(if C2\) if not Normal Attack is fine -&gt; Mona  Elemental Burst -&gt; wait 2 seconds for ICD before swapping -&gt; Bennett Elemental Skill 
 
 ## **Main Carry:** Tartaglia / Childe
 
@@ -153,7 +154,7 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 
 ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Bennett is a very common choice, he gives you a lot of attack, he gives the enemies a fairly strong pyro application. What else could you want?
+* Bennett is a very common choice, he gives you a lot of attack, he gives the enemies a fairly strong pyro application. 
 
 ![](../../.gitbook/assets/ui_avataricon_amber.png) 
 
@@ -183,24 +184,23 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 
 ![](../../.gitbook/assets/ui_avataricon_kazuha.png) 
 
-* Kazuha can be run as a Viridescent Venerer carrier, provides a damage boost to your team based on his own em, his second constellation grants 200 EM to everyone on the team, and if you have his sword Freedom Sworn, he buffs his party members even more.
+* Kazuha can be run as a 4 set Viridescent Venerer carrier, provides a damage boost to your team based on his own em, his second constellation grants 200 EM to everyone on the team, and if you have his sword Freedom Sworn, he buffs his party members even more.
 
 ### Sample Childe Teams
 
 ![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
 
- Mona Q &gt; Sucrose E &gt; Bennett Q &gt; Childe E &gt; Childe Q 
+Mona Elemental Burst -&gt; Sucrose E -&gt; Bennett Elemental Burst -&gt; Tartaglia E -&gt; Tartaglia Elemental Burst 
 
 ![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) 
 
- Bennett Q &gt; Mona Q &gt; Wait for 2 seconds &gt; Xiangling Q &gt; Childe E &gt; Childe Q
+Bennett Elemental Burst -&gt; Mona Elemental Burst -&gt; Wait for 2 seconds -&gt; Xiangling Elemental Burst -&gt; Tartaglia E -&gt; Tartaglia Elemental Burst 
 
 ![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
- Zhongli hold E &gt; Childe charge shot &gt; Sucrose E &gt; Bennett Q &gt; Childe E &gt; Childe Q  
+Zhongli hold Elemental Skill -&gt; Tartaglia Charged Aimed Shot -&gt; Sucrose Elemental Skill  -&gt; Bennett Elemental Burst -&gt; Tartaglia Elemental Skill  -&gt; Tartaglia Elemental Burst
 
-
-Notes:
+**NOTES:**
 
 Mona debuff only lasts 5 seconds, so when using her try to land your entire combo within 5 seconds of hitting the enemy marked by Mona Q
 
@@ -210,7 +210,7 @@ Sucrose E should be used while the enemy has a hydro tag on them to swirl hydro 
 
 ## **Main Carry: Eula** 
 
-**Supporting cast:** Fischl, Beidou, Lisa, Zhongli, Bennett, Jean \(C2\), Klee \(C2\), Mona
+**Supporting Cast:** Fischl, Beidou, Lisa, Zhongli, Bennett, Jean \(C2\), Klee \(C2\), Mona
 
 ### Main Carry
 
