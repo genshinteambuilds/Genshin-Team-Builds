@@ -6,12 +6,13 @@
 
 ## Character Breakdown
 
-* Sayu functions as an anemo healer, primarily used for her burst, which provides healing to active characters.
+* Sayu's Elemental Skill has 2 functions: pressing it will roll her forward in a short distance then kicks enemies dealing anemo damage. Holding the elemental skill makes her roll forward continuously increasing her resistance to interruption while continuously dealing anemo damage while rolling, pressing it again will make her stop from rolling and kicks enemies in front of her. 
+* Sayu functions as an anemo healer, primarily used for her elemental burst, which provides healing to active characters.
 * She is also an Anemo character and thus is able to carry Viridescent Venerer allowing her to shred resistances.
 
 ## Additional Notes
 
-* Her skill acts as a no-stamina cost sprint when held that also gives her slight stagger resistance. But, should you choose to do this, the cooldown is increased depending on how long you spend rolling. Good for exploration, very niche in combat.
+* Her elemental skill acts as a no-stamina cost sprint when held that also gives her slight stagger resistance. But, should you choose to do this, the cooldown is increased depending on how long you spend rolling. Good for exploration, very niche in combat.
 * Her first constellation makes healing with her much more consistent, while her fourth constellation helps with maintaining energy to maximize her burst uptime.
 * Her sixth constellation makes elemental mastery on her much more important, as it increases her scaling with elemental mastery significantly.
 
