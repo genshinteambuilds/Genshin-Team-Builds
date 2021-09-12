@@ -68,7 +68,7 @@
 
 * Yoimiya acts as a good enabler for Beidou.
 * When Beidou’s Burst is active, Yoimiya can use her skill and proc overload reactions and keep them away.
-* Last slot is a flex comp, such as Bennett for pyro resonance or Zhongli for more protection and CC.
+* Last slot is a flex comp, such as Bennett for pyro resonance, healing, and attack buff or Zhongli for more protection and crowd control.
 
 [Reverse Vaporise ](../../teams/reverse-vaporize.md)
 
@@ -76,11 +76,11 @@
 
 ![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
-* Xingqiu’s Burst creates vaporise reaction with Yoimiya’s skill to amplify her damage
+* Xingqiu’s Elemental Burst applies hydro aura on enemies that synergizes well with Yoimiya's Normal Attacks infused with pyro to vaporize.
 
 [Melt](../../teams/melt.md)
 
 ![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
-* Ganyu and Venti’s Burst will create a cryo infused CC hole, enabling Yoimiya to use her Skill and create melt reactions.
+* Ganyu and Venti’s Burst will create a cryo infused Venti Burst, enabling Yoimiya to use her Skill and create melt reactions.
 
