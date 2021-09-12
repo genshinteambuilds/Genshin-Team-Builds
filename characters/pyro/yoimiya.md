@@ -7,16 +7,16 @@
 ## Character Breakdown
 
 * When charging her aimed shot, at charge level 1, she fires off a flaming arrow. At level 2, she can generate up to 3 kindling arrows based on charge time, which will home onto nearby enemies.
-* Her Elemental Skill increases her DMG and converts it to Pyro damage, which cannot be overridden and ends early if Yoimiya leaves the field.
-* Her Elemental Burst deals AOE Pyro damage and marks an opponent hit with a marker. Characters other than Yoimiya that hit the marked enemy would trigger an explosion and deal extra Pyro AOE damage. The mark is transferred when the enemy is defeated before the duration of the Burst ends.
+* Yoimiya's Elemental Skill increases her DMG and converts it to Pyro damage, which cannot be overridden and ends early if Yoimiya leaves the field.
+* Yoimiya's Elemental Burst deals AOE Pyro damage and marks an opponent hit with a marker. Characters other than Yoimiya that hit the marked enemy would trigger an explosion and deal extra Pyro AOE damage. The mark is transferred when the enemy is defeated before the duration of the Burst ends.
 
 ## Additional Notes
 
 * She cannot charge kindling arrows when her Elemental Skill is active
 * The explosion from her burst can only be triggered once every 2 seconds
 * Her 1st, 3rd, and 5th Normal attack can react with elements which has potential for vaporize or melt reactions.
-* Her first passive \(Tricks of the Troublemaker\), increases Yoimiya’s pyro damage during her Skill’s duration by 2% per hit, which lasts for 3s and stacks up to 10 times.
-* Her second passive \(Summer Night’s Dawn\), after using her Burst, gives her other party members a 10% increase im DMG, based on how many stacks her first passive has, it also boosts the DMG increase by 1% per stack.
+* Her first passive talent, increases Yoimiya’s pyro damage during her Skill’s duration by 2% per hit, which lasts for 3s and stacks up to 10 times.
+* Her second passive talent, after using her Burst, gives her other party members a 10% increase im DMG, based on how many stacks her first passive has, it also boosts the DMG increase by 1% per stack.
 
 ## Works Well With
 
@@ -64,8 +64,7 @@
 
 ![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_aether_electro.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)   
-
+![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_aether_electro.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
 * Yoimiya acts as a good enabler for Beidou.
 * When Beidou’s Burst is active, Yoimiya can use her skill and proc overload reactions and keep them away.
