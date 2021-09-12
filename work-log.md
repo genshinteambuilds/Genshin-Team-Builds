@@ -13,7 +13,7 @@
 | albeiro | sayu |
 | seagull | traveller \(electro\) |
 | khino | porting, editing / proofreading |
-| miko | - |
+| miko | editing / proofreading |
 | bich | zhongli, editing / proofreading |
 | rag | editing / proofreading |
 | ChiliLion | editing / proofreading |
