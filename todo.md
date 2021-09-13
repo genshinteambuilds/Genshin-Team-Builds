@@ -90,11 +90,7 @@ Jean, Sucrose, Kazuha, Xiao, Ayaka, Diluc, Xingqiu, Ganyu, Tartaglia
 
 ### Characters:
 
-
-
 ### Teams:
-
-
 
 ## Work In Progress
 
