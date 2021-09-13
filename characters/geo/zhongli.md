@@ -47,6 +47,8 @@ Flex Fill
 
 ![](https://lh6.googleusercontent.com/B4xYwN-GIqagYV38pRTTgqvfCVSW8WW1tr3no6hYGeD8mu72CttaG9kMW6hHzTmExfJlhbdNgVfQ5EOrXb-JUAJ2G4aG8sPYQJ3qnLI_2rmd0IvI46t0mTxiBQO8J1zi6EizFPgV=s0) ****![](https://lh5.googleusercontent.com/zJ60F_3QDeA3tiMZmJPMAGB1q-h0gLKAXDO_0ePPaDzh3rgyzaHMpwcTKpKhNaI0Ikci3dh80vAxxU_v0azkUuYjfHhbHHgB8Oj91zEwveh7qAubdv1RjKV0nHjDJioiygff2AYV=s0) ****![](https://lh5.googleusercontent.com/Xl8UdiMs21aHYbzA-sYOfkzuc-1aMtvrQAtoHTOkDOoSaX-6Riz99Tp8scJrZePcqgn45QCfb2OuYC-ODHNiJUuR0lmQRbFt1CDrA-75j-17YUALpxCn0B5WvaOFgAEDrKEiC-8P=s0) ****![](https://lh3.googleusercontent.com/pbaCYBVP9lxol80esBeM62QP03Esc8ijE6y5AHH9Sxy67Qy_4jktIr1HHGgEKJn664fREKd_yZcrEF9Sqnd6PfuVChX5dof24xj2YhNWUX3b0k289-l9ZOSbJ9taSgnL3Xcs9Ew3=s0) ****Yoimiya Reverse Vape
 
+![](../../.gitbook/assets/ui_avataricon_shougun.png)![](../../.gitbook/assets/ui_avataricon_sara.png) ![](https://lh5.googleusercontent.com/Xl8UdiMs21aHYbzA-sYOfkzuc-1aMtvrQAtoHTOkDOoSaX-6Riz99Tp8scJrZePcqgn45QCfb2OuYC-ODHNiJUuR0lmQRbFt1CDrA-75j-17YUALpxCn0B5WvaOFgAEDrKEiC-8P=s0) ![](https://lh3.googleusercontent.com/pbaCYBVP9lxol80esBeM62QP03Esc8ijE6y5AHH9Sxy67Qy_4jktIr1HHGgEKJn664fREKd_yZcrEF9Sqnd6PfuVChX5dof24xj2YhNWUX3b0k289-l9ZOSbJ9taSgnL3Xcs9Ew3=s0)Raiden Hypercarry
+
 * These party setups above are a few examples of utilizing Zhongli as a Support with Geo Resonance. 
 * Teams with Zhongli are not usually ever centered around Zhongli. He has a universally strong Support kit and can be slotted as the 3rd or 4th flex Support in any team composition that can make use of his Shielding, Stagger Resistance, universal resistance shred, and crowd control. 
 
