@@ -96,7 +96,6 @@ Jean, Sucrose, Kazuha, Xiao, Ayaka, Diluc, Xingqiu, Ganyu, Tartaglia
 
 ## Work In Progress
 
-* zhongli
 * kaeya
 * raiden
 * sara
