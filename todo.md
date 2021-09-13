@@ -98,7 +98,6 @@ Jean, Sucrose, Kazuha, Xiao, Ayaka, Diluc, Xingqiu, Ganyu, Tartaglia
 * kaeya
 * raiden
 * sara
-* sayu
 * xinyan
 * traveler \(electro\)
 
