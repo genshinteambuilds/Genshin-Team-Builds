@@ -40,6 +40,7 @@
   * [Fischl](characters/electro/fischl.md)
   * [Keqing](characters/electro/keqing.md)
   * [Lisa](characters/electro/lisa.md)
+  * [Electro Traveler](characters/electro/electro-traveler.md)
   * [Razor](characters/electro/razor.md)
 * [Geo](characters/geo/README.md)
   * [Albedo](characters/geo/albedo.md)
