@@ -103,9 +103,7 @@ hyper
 folie
 
 * ganyu \(8/17\)
-* ningguang \(8/23\)
-
-
+* ningguang \(8/23
 
 
 
