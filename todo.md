@@ -60,6 +60,8 @@ Jean, Sucrose, Kazuha, Xiao, Ayaka, Diluc, Xingqiu, Ganyu, Tartaglia
 
 {% page-ref page="characters/geo/zhongli.md" %}
 
+{% page-ref page="characters/cryo/kaeya.md" %}
+
 #### Teams
 
 {% page-ref page="teams/pyro.md" %}
@@ -96,7 +98,6 @@ Jean, Sucrose, Kazuha, Xiao, Ayaka, Diluc, Xingqiu, Ganyu, Tartaglia
 
 ## Work In Progress
 
-* kaeya
 * raiden
 * sara
 * xinyan
