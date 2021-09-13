@@ -62,11 +62,12 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_klee.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* A team that swaps to Chongyun after pyro application from either Bennett or Klee to enable large Reverse Melt damage
+* A team that swaps to Chongyun after Pyro application from either Bennett or Klee to enable large Reverse Melt damage
 
 [**National Team**](../../teams/other/national.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
 * A variation of the popular "National Team" where Chongyun acts as a Sub DPS as well as a Freeze/Melt enabler.
+* This variation is very well rounded, and Chongyun still does a large amount of damage with Reverse Melt and Bennett.
 
