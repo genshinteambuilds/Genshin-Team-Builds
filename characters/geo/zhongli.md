@@ -2,7 +2,7 @@
 
 ## **Roles**
 
-* **Support**
+* **Support:** Shielder, ****Debuffer, Crowd Control, Healer \(Constellation 6\)
 
 ## **Character Breakdown**
 
@@ -26,7 +26,7 @@
 
 **Support**
 
-Geo Resonance
+[Geo](../../teams/geo.md)
 
 ![](https://lh5.googleusercontent.com/zGSNJt_xjRds2SchJiVhhYySWfRGcUnYKXdECAfuFapSFpPN2Gshh-8DuE0s8t6MSgh-u3tLUdlf_646H3pSZubYjjB7D3gWFkSTSw_qQWIPDA4f20jdLKP1cEpPk8Bnda1sSyye=s0) ![](https://lh4.googleusercontent.com/OMfkfrguqm8CnPKkWyHLJTFq2UNfkW15VfAXJxcCyySiFx9pW1JS16qfHN0KSGrVuH1xYWbKTNY5GWEDFnJTsu4vdaDybYGye5iig2Uxb2XxI4_qbz913t2j4qskPYVDCLyso8jZ=s0) ![](https://lh3.googleusercontent.com/wPp54gl7m-qQQCsXkoELWJ-Mi844qE9AXf_1nb-FpkjUUAkgjVX4XT5kXWN0ewv54_mDCPVmV4kZl6xbFWTTxbUjMyirVBFglFwHW6wRiRlxbNtWz2G41AMwBhCZL4kZ_v4zEWik=s0)**​** ![](https://lh6.googleusercontent.com/1a7KgXw3Ot1HJ_s-OafuiUU3FeQh1qabFF5SVFmFcKE_syqaAKmpdWr_-TIufzelMBudig4lO-v9xrP8ldFnPK1zQxYMTXF6X1dl6UPAB1fj9KbKsMqltfrxK03I2oggNEvJCoUB=s0) ****
 
@@ -47,8 +47,6 @@ Flex Fill
 
 ![](https://lh6.googleusercontent.com/B4xYwN-GIqagYV38pRTTgqvfCVSW8WW1tr3no6hYGeD8mu72CttaG9kMW6hHzTmExfJlhbdNgVfQ5EOrXb-JUAJ2G4aG8sPYQJ3qnLI_2rmd0IvI46t0mTxiBQO8J1zi6EizFPgV=s0) ****![](https://lh5.googleusercontent.com/zJ60F_3QDeA3tiMZmJPMAGB1q-h0gLKAXDO_0ePPaDzh3rgyzaHMpwcTKpKhNaI0Ikci3dh80vAxxU_v0azkUuYjfHhbHHgB8Oj91zEwveh7qAubdv1RjKV0nHjDJioiygff2AYV=s0) ****![](https://lh5.googleusercontent.com/Xl8UdiMs21aHYbzA-sYOfkzuc-1aMtvrQAtoHTOkDOoSaX-6Riz99Tp8scJrZePcqgn45QCfb2OuYC-ODHNiJUuR0lmQRbFt1CDrA-75j-17YUALpxCn0B5WvaOFgAEDrKEiC-8P=s0) ****![](https://lh3.googleusercontent.com/pbaCYBVP9lxol80esBeM62QP03Esc8ijE6y5AHH9Sxy67Qy_4jktIr1HHGgEKJn664fREKd_yZcrEF9Sqnd6PfuVChX5dof24xj2YhNWUX3b0k289-l9ZOSbJ9taSgnL3Xcs9Ew3=s0) ****Yoimiya Reverse Vape
 
-
-
 * These party setups above are a few examples of utilizing Zhongli as a Support with Geo Resonance. 
-* Teams with Zhongli are not usually ever centered around Zhongli. He has a universally strong Support kit and can be slotted as the 3rd or 4th flex Support in almost any team composition. 
+* Teams with Zhongli are not usually ever centered around Zhongli. He has a universally strong Support kit and can be slotted as the 3rd or 4th flex Support in any team composition that can make use of his Shielding, Stagger Resistance, universal resistance shred, and crowd control. 
 

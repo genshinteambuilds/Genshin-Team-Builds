@@ -58,6 +58,8 @@ Jean, Sucrose, Kazuha, Xiao, Ayaka, Diluc, Xingqiu, Ganyu, Tartaglia
 
 {% page-ref page="characters/anemo/sayu.md" %}
 
+{% page-ref page="characters/geo/zhongli.md" %}
+
 #### Teams
 
 {% page-ref page="teams/pyro.md" %}
