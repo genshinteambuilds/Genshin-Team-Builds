@@ -8,7 +8,7 @@
 
 ## **Character Breakdown**
 
-* Raiden Shogun is a multipurpose character who can provide many sources of off-field damage including consistent DPS, Burst Damage and buffs
+* Raiden Shogun is a multipurpose character who can provide off-field damage, consistent DPS, Burst Damage and party buffs.
 * With the Raiden Shogun in your party, casting Elemental Bursts from other party members will grant her Resolve based on the cost of the Burst used. Resolve increases her own Elemental Burst damage
 * Elemental Skill unveils a shard of her Euthymia, which causes a coordinated attack to be launched whenever an active party member deals damage to an enemy that deals AoE Electro Damage \(with a short cooldown of 0.9s\). In addition to this, it grants active characters the Eye of Stormy Judgement, which raises their Elemental Burst DMG% relative to the total Energy cost of the Burst.
 * Elemental Burst consumes all Resolve and causes the Raiden Shogun to deal massive AoE Electro Damage in the direction she is facing. Following the initial burst, she then converts her attacks to Electro which also counts as Elemental Burst DMG for 7 seconds. The Raiden Shogun’s attacks during her Elemental Burst generate Energy for the rest of the party.
