@@ -1,10 +1,10 @@
 # Bennett
 
-## **Roles:**
+## **Roles**
 
 * **Main DPS**
-* **Sub DPS**
-* **Support** \(Healer, Buffer, Cleanser, Energy Battery\)
+* **Sub DPS** \(Burst\)
+* **Support:** Healer, Buffer, Cleanser, Energy Battery
 
 ## **Character Breakdown:**
 

@@ -1,6 +1,6 @@
 # Klee
 
-## Roles:
+## Roles
 
 * **Main DPS**
 

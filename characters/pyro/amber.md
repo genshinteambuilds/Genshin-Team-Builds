@@ -1,9 +1,9 @@
 # Amber
 
-## Roles:
+## Roles
 
 * **Main DPS**
-* **Support**
+* **Support:** Crowd Control 
 
 ## Character Breakdown: 
 
