@@ -18,7 +18,7 @@ Alternatively, you can also use this guide by selecting a character you would li
 
 ### Anemo
 
-[![](.gitbook/assets/ui_avataricon_jean.png) ](characters/anemo/jean.md)[![](.gitbook/assets/ui_avataricon_kazuha.png) ](characters/anemo/kazuha.md)[![](.gitbook/assets/ui_avataricon_sucrose.png) ](characters/anemo/sucrose.md)[![](.gitbook/assets/ui_avataricon_venti.png) ](characters/anemo/venti.md)[![](.gitbook/assets/ui_avataricon_xiao.png) ](characters/anemo/xiao.md)[![](.gitbook/assets/ui_avataricon_lumine_anemo.png) ](characters/anemo/traveler-anemo.md)
+[![](.gitbook/assets/ui_avataricon_jean.png) ](characters/anemo/jean.md)[![](.gitbook/assets/ui_avataricon_kazuha.png) ](characters/anemo/kazuha.md)[![](.gitbook/assets/ui_avataricon_sayu.png) ](characters/anemo/sayu.md) [![](.gitbook/assets/ui_avataricon_sucrose.png) ](characters/anemo/sucrose.md)[![](.gitbook/assets/ui_avataricon_venti.png) ](characters/anemo/venti.md)[![](.gitbook/assets/ui_avataricon_xiao.png) ](characters/anemo/xiao.md)[![](.gitbook/assets/ui_avataricon_lumine_anemo.png) ](characters/anemo/traveler-anemo.md)
 
 ### Cryo
 
@@ -26,7 +26,7 @@ Alternatively, you can also use this guide by selecting a character you would li
 
 ### Electro
 
-[![](.gitbook/assets/ui_avataricon_beidou.png)](characters/electro/beidou.md) [![](.gitbook/assets/ui_avataricon_fischl.png) ](characters/electro/fischl.md)[![](.gitbook/assets/ui_avataricon_keqing.png) ](characters/electro/keqing.md)[![](.gitbook/assets/ui_avataricon_lisa.png) ](characters/electro/lisa.md)[![](.gitbook/assets/ui_avataricon_razor.png) ](characters/electro/razor.md)
+[![](.gitbook/assets/ui_avataricon_beidou.png)](characters/electro/beidou.md) [![](.gitbook/assets/ui_avataricon_fischl.png) ](characters/electro/fischl.md)[![](.gitbook/assets/ui_avataricon_keqing.png) ](characters/electro/keqing.md)[![](.gitbook/assets/ui_avataricon_lisa.png)](characters/electro/lisa.md)[![](.gitbook/assets/ui_avataricon_shougun.png) ](characters/electro/raiden-shogun.md)[![](.gitbook/assets/ui_avataricon_razor.png) ](characters/electro/razor.md)[![](.gitbook/assets/ui_avataricon_sara.png) ](characters/electro/kujou-sara.md)
 
 ### Geo
 
@@ -38,7 +38,7 @@ Alternatively, you can also use this guide by selecting a character you would li
 
 ### Pyro
 
-[![](.gitbook/assets/ui_avataricon_amber.png)](characters/pyro/amber.md) [![](.gitbook/assets/ui_avataricon_bennett.png) ](characters/pyro/bennett.md)[![](.gitbook/assets/ui_avataricon_diluc.png) ](characters/pyro/diluc.md)[![](.gitbook/assets/ui_avataricon_hutao.png) ](characters/pyro/hu-tao.md)[![](.gitbook/assets/ui_avataricon_klee.png) ](characters/pyro/klee.md)[![](.gitbook/assets/ui_avataricon_xiangling.png)](characters/pyro/xiangling.md) [![](.gitbook/assets/ui_avataricon_xinyan.png)](characters/pyro/xinyan.md) [![](.gitbook/assets/ui_avataricon_yanfei.png) ](characters/pyro/yanfei.md)
+[![](.gitbook/assets/ui_avataricon_amber.png)](characters/pyro/amber.md) [![](.gitbook/assets/ui_avataricon_bennett.png) ](characters/pyro/bennett.md)[![](.gitbook/assets/ui_avataricon_diluc.png) ](characters/pyro/diluc.md)[![](.gitbook/assets/ui_avataricon_hutao.png) ](characters/pyro/hu-tao.md)[![](.gitbook/assets/ui_avataricon_klee.png) ](characters/pyro/klee.md)[![](.gitbook/assets/ui_avataricon_xiangling.png)](characters/pyro/xiangling.md) [![](.gitbook/assets/ui_avataricon_xinyan.png)](characters/pyro/xinyan.md) [![](.gitbook/assets/ui_avataricon_yanfei.png) ](characters/pyro/yanfei.md)[![](.gitbook/assets/ui_avataricon_yoimiya.png) ](characters/pyro/yoimiya.md)
 
 Lastly, if you would like to simply check out a collection of working teams in Genshin Impact, they can be accessed from the sidebar on the left or from the list below:
 
