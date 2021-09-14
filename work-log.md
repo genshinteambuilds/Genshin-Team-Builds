@@ -89,7 +89,7 @@ khino
 * albedo \(8/16\)
 * venti \(8/20\)
 * rosaria \(9/01\)
-* Porting
+* Porting God
 
 Chilli
 
