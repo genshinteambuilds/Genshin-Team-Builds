@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Support** \(Healer, Shielder, Energy Battery, Cleanser, Buffer, Debuffer\)
+* **Support:** Healer, Shielder, Energy Battery, Cleanser, Buffer, Debuffer
 
 ## **Character Breakdown**
 
