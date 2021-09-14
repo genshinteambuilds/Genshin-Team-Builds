@@ -2,7 +2,7 @@
 
 ## Role
 
-* Main DPS
+* **Main DPS**
 
 ## Character Breakdown
 

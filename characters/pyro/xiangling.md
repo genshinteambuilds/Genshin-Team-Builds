@@ -2,7 +2,7 @@
 
 ## Roles
 
-* Sub DPS \(Pyro\)
+* **Sub DPS** \(Pyro\)
 
 ## Character Breakdown
 
