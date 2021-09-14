@@ -86,3 +86,7 @@
   * [2.1](changelogs/versions/2.1.md)
   * [2.0](changelogs/versions/2.0.md)
 
+---
+
+* [About Us](about-us.md)
+
