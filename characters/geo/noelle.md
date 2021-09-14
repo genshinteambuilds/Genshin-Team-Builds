@@ -3,7 +3,7 @@
 ## **Roles**
 
 * **Main DPS**
-* **Support:** shield, off healer
+* **Support:** shield, healer
 
 ## **Character Breakdown**
 
