@@ -17,11 +17,11 @@ This guide is maintained by players that frequent the \#help channels on the off
 | crit |  |
 | seagull |  |
 
-Special Thanks
+## Special Thanks
 
-|  |  |
-| :--- | :--- |
-| Folie |  |
-| Ultikiller |  |
-| Hyper |  |
+|  |
+| :--- |
+| Folie |
+| Ultikiller |
+| Hyper |
 
