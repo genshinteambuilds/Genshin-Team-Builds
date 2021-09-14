@@ -2,9 +2,8 @@
 
 ## **Roles**
 
-* Burst DPS
-* Sub DPS
-* Support
+* **Sub DPS** \(Burst\)
+* **Support:** battery
 
 ## **Character Breakdown**
 
