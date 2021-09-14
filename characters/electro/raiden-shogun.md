@@ -16,8 +16,9 @@
 
 **Additional Notes**
 
-* The Raiden Shogun’s Elemental skill will not launch a coordinated attack against enemies protected by certain shields, such as Abyss Mages.
+* Raiden Shogun’s Elemental skill will not launch a coordinated attack against enemies protected by certain shields, such as Abyss Mages.
 * The Energy generated for the party from the Raiden Shogun’s Elemental Burst can only be applied 5 times, with a 1 second cooldown between activations.
+* The Raiden Shogun can't cook.
 
 **Works Well With**
 
@@ -77,5 +78,6 @@ Hypercarry
 
 ![](../../.gitbook/assets/ui_avataricon_shougun.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_sara.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) 
 
-* A slightly less conventional team that utilizes the Raiden Shogun as your primary DPS and buffing her damage to its limits while feeding the whole team high amounts of Energy. While her Burst damage here is extreme, the main downside to this composition is that your DPS will tank greatly when the Raiden Shogun is not in her Elemental Burst
+* A slightly less conventional team that utilizes the Raiden Shogun as your primary DPS and buffing her damage to its limits while feeding the whole team high amounts of Energy. While her Burst damage here is extreme, the main downside to this composition is that your DPS will tank greatly when the Raiden Shogun is not in her Elemental Burst.
+* This team composition is much more effective with Constellation 2+. 
 
