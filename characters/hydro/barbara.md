@@ -33,7 +33,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * only recommended if the other team needs Xingqiu more and you have no Mona
 
-[Tazer](../../teams/other/taser-comps.md)  
+[Tazer]()  
   
  ![](../../.gitbook/assets/ui_avataricon_barbara.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) 
 

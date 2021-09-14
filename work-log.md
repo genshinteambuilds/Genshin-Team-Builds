@@ -1,25 +1,5 @@
 # Work Log
 
-## Write
-
-| Name | Role |
-| :--- | :--- |
-| folie \(CC\) |  |
-| hyper \(CC\) |  |
-| ultikiller/Kicc \(CC\) |  |
-| CoFt/Chair |  |
-| shockwhite | raiden, sara |
-| aidan |  |
-| albeiro |  |
-| seagull |  |
-| khino |  |
-| miko |  |
-| bich | xinyan |
-| rag |  |
-| ChiliLion |  |
-
-## Credits
-
 seagull
 
 * sucrose \(8/15\)

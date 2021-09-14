@@ -259,7 +259,7 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <ul>
           <li>Since Xiangling does not deal Pyro damage outside of her Elemental Skill
-            and Elemental Burst, this composition primarily relies on being a <a href="other/quickswap.md">Quickswap </a>team
+            and Elemental Burst, this composition primarily relies on being a <a href>Quickswap </a>team
             where supports with low cooldown abilities are primarily chosen to fill
             the roster.
             <ul>

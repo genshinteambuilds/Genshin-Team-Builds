@@ -66,9 +66,9 @@ Click on the team names below for more details on how the team works and alterna
 * A typical Diluc-Xingqiu Reverse Vaporize team composition where Diluc can vaporize his attacks using the Hydro applied to the enemy by Xingqiu's Elemental Burst.
 * Zhongli provides debuffing and shielding while Bennett provides buffing and healing.
 
-#### [Oneshot](../../teams/other/oneshot.md)
+#### [Oneshot]()
 
 ![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* A Oneshot team composition where Diluc and Mona typically only cast their Elemental Bursts and the fight ends before any actual use of Normal Attacks needs to take place. For a detailed look at how Oneshots work, [check out the Oneshot page](../../teams/other/oneshot.md).
+* A Oneshot team composition where Diluc and Mona typically only cast their Elemental Bursts and the fight ends before any actual use of Normal Attacks needs to take place. For a detailed look at how Oneshots work, [check out the Oneshot page]().
 

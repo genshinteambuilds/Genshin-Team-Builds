@@ -69,7 +69,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * While Xingqiu does not contribute to the Superconduct reaction required for Physical teams at all, he is in general, just an incredbly useful support for incidentally Freezing enemies, dealing large amounts of damage by himself, reducing damage and increasing Interruption Resistance.
 
-#### [National](../../teams/other/national.md)
+#### [National]()
 
 ![](../../.gitbook/assets/ui_avataricon_xiangling.png)  ![](../../.gitbook/assets/ui_avataricon_xingqiu.png)  ![](../../.gitbook/assets/ui_avataricon_chongyun.png)  ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 

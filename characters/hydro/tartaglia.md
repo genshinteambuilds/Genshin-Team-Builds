@@ -89,9 +89,9 @@ Click on the team names below for more details on how the team works and alterna
 * This exact team is often called Fireworks due to the many different coloured numbers that pop up on the screen when playing this exact team composition. Check out the Electro-Charged team page for variations on this team composition.
 * Tartarglia's ability to attack rapidly while in his Melee stance allows Beidou's Elemental Burst to take effect multiple times.
 
-#### [Oneshot](../../teams/other/oneshot.md)
+#### [Oneshot]()
 
 ![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
 
-* A common Oneshot team setup for Tartaglia. For a detailed look at how Oneshots work, check out the [Oneshot ](../../teams/other/oneshot.md)team page.
+* A common Oneshot team setup for Tartaglia. For a detailed look at how Oneshots work, check out the [Oneshot ]()team page.
 

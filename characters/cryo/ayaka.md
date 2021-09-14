@@ -4,7 +4,7 @@
 
 * **Main DPS**
 * **Burst DPS**
-* **Off-Field DPS** \(In a limited capacity, mostly for [Oneshot ](../../teams/other/oneshot.md)setups\)
+* **Off-Field DPS** \(In a limited capacity, mostly for [Oneshot ]()setups\)
 
 ## Character Breakdown
 
@@ -43,7 +43,7 @@
 
 ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Primarily only used for Ayaka [Oneshot ](../../teams/other/oneshot.md)setups or [Melt teams](../../teams/melt.md) as Pryo can interfere with [Freeze team](../../teams/freeze.md) compositions.
+* Primarily only used for Ayaka [Oneshot ]()setups or [Melt teams](../../teams/melt.md) as Pryo can interfere with [Freeze team](../../teams/freeze.md) compositions.
 
 ![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_klee.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_yanfei.png) 
 
@@ -84,7 +84,7 @@ Click on the team names below for more details on how the team works and alterna
 * A Melt team that swaps to Yanfei after Ayaka uses her Elemental Burst in order to perform Charged Attacks on Yanfei that Melt for large amounts of damage.
 * Ayaka's Elemental Burst still does a very large amount of damage on this team.
 
-#### [Oneshot](../../teams/other/oneshot.md)
+#### [Oneshot]()
 
 ![](../../.gitbook/assets/ui_avataricon_ayaka.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 

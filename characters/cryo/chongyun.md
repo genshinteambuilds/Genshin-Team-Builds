@@ -64,7 +64,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * A team that swaps to Chongyun after Pyro application from either Bennett or Klee to enable large Reverse Melt damage
 
-[**National Team**](../../teams/other/national.md)\*\*\*\*
+[**National Team**]()\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 

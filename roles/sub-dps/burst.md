@@ -18,11 +18,7 @@ For an overview on how teams like this work, check out the following two pages b
 
 For Teams that depend on defeating enemies incredibly fast:
 
-{% page-ref page="../../teams/other/oneshot.md" %}
-
 For Teams that constantly switch from character to character using their low cooldown abilities across all characters to constantly rotate **Elemental Skills** and **Elemental Bursts**:
-
-{% page-ref page="../../teams/other/quickswap.md" %}
 
 ## Burst DPS Characters
 

@@ -64,7 +64,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * Standard Reverse Vaporize Team. Xingqiu allows Yanfei to vaporize her Charged Attack
 
-[Tazer](../../teams/other/taser-comps.md)
+[Tazer]()
 
 ![](../../.gitbook/assets/ui_avataricon_yanfei.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 

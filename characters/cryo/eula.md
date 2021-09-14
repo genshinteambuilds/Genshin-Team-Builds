@@ -72,7 +72,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * Compared to a Oneshot team, this team focuses more on giving Eula higher sustained DPS and Burst uptime with the addition of Diona as a Cryo Energy Battery.
 
-[Oneshot](../../teams/other/oneshot.md)
+[Oneshot]()
 
 ![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_lisa.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
