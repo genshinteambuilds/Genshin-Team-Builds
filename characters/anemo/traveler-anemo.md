@@ -3,7 +3,7 @@
 ## Roles
 
 * **Main DPS** 
-* **Support:** CC, Buffer, Debuffer
+* **Support:** Crowd Control, Buffer, Debuffer
 
 ## Character Breakdown
 
