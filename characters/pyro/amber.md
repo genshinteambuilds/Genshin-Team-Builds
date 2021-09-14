@@ -2,8 +2,8 @@
 
 ## Roles:
 
-* Main DPS
-* Support
+* **Main DPS**
+* **Support**
 
 ## Character Breakdown: 
 
