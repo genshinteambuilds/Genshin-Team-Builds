@@ -4,7 +4,7 @@
 
 * **Burst DPS** 
 * **Sub DPS** \(Off-Field\)
-* **Support:** battery
+* **Support:** Energy Battery
 
 ## **Character Breakdown**
 

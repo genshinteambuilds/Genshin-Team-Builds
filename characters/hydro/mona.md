@@ -2,8 +2,8 @@
 
 ## **Roles**
 
-* **Burst DPS** \(Hydro\)
-* **Support**
+* **Burst DPS**
+* **Support:** Crowd Control, Buffer
 
 ## **Character Breakdown**
 

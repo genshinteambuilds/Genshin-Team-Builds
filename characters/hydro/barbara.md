@@ -2,7 +2,7 @@
 
 ## Roles:
 
-* **Support** \(Healer\)
+* **Support:** Healer
 
 ## Character Breakdown
 
