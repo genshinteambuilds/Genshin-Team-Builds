@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Sub DPS \(Burst\)**
+* **Sub DPS** \(Burst\)
 
 ## Character Breakdown
 
