@@ -7,16 +7,16 @@
 | folie \(CC\) |  |
 | hyper \(CC\) |  |
 | ultikiller/Kicc \(CC\) |  |
-| CoFt/Chair | xinyan |
+| CoFt/Chair |  |
 | shockwhite | raiden, sara |
-| aidan | kaeya |
-| albeiro | sayu |
-| seagull | traveller \(electro\) |
-| khino | porting, editing / proofreading |
-| miko | editing / proofreading |
-| bich | zhongli, editing / proofreading |
-| rag | editing / proofreading |
-| ChiliLion | editing / proofreading |
+| aidan |  |
+| albeiro |  |
+| seagull |  |
+| khino |  |
+| miko |  |
+| bich | xinyan |
+| rag |  |
+| ChiliLion |  |
 
 ## Credits
 
@@ -41,7 +41,7 @@ albeiro
 * vaporize \(8/18\)
 * geo \(8/26\)
 * anemo \(8/31\)
-* sayu ???
+* sayu \(9/9\)
 
 CoFT/chair 
 
@@ -50,13 +50,13 @@ CoFT/chair
 * Traveller \(Anemo\) \(8/26\)
 * Traveller \(Geo\) \(8/29\)
 * Diona \(8/18\)
-* xinyan ???
 
 rag
 
 * jean \(8/8\)
 * diluc \(8/8\)
 * ayaka \(8/15\)
+* Proofread: Jean, Sucrose, Kazuha, Xiao, Ayaka, Diluc, Xingqiu, Ganyu, Tartaglia \(8/25\)
 
 shockwhite
 
@@ -72,12 +72,15 @@ aidan
 * razor \(8/19\)
 * Yoimiya \(8/29\)
 * qiqi \(8/24\)
-* kaeya ???
+* kaeya \(9/12\)
 
 bich
 
 * Noelle \(8/27\)
-* zhongli ???
+* zhongli \(9/1\)
+* proofreading: hutao \(9/1\)
+* proofreading: freeze \(9/1\)
+* xinyan ???
 
 khino 
 
@@ -86,6 +89,15 @@ khino
 * albedo \(8/16\)
 * venti \(8/20\)
 * rosaria \(9/01\)
+* Porting
+
+Chilli
+
+* proofreading: Razor - Aug 29th 
+* proofreading: Bennett - Aug 29th 
+* proofreading: Albedo - Aug 30th 
+* proofreading: Eula - Aug 31st 
+* proofreading: Diona - Sept 1st
 
 Ultikiller
 

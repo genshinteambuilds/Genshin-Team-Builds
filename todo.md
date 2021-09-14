@@ -97,7 +97,6 @@ Jean, Sucrose, Kazuha, Xiao, Ayaka, Diluc, Xingqiu, Ganyu, Tartaglia
 * raiden
 * sara
 * xinyan
-* traveler \(electro\)
 
 ## Random References to go through once we're done:
 
