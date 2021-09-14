@@ -2,8 +2,8 @@
 
 ## Roles
 
-* Main DPS 
-* Support \(CC, Buffer, Debuffer\)
+* **Main DPS** 
+* **Support:** CC, Buffer, Debuffer
 
 ## Character Breakdown
 
