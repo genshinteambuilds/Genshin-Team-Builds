@@ -2,7 +2,7 @@
 
 ## Roles
 
-* Support \(Debuff, Healer\)
+* **Support:** Debuff, Healer
 
 ## Character Breakdown
 

@@ -2,7 +2,8 @@
 
 ## Roles
 
-* Support \(Debuffer, Crowd Control, Energy Battery\)
+* **Sub DPS** \(Off-Field\)
+* **Support:** Debuffer, Crowd Control, Energy Battery
 
 ## Character Breakdown
 
