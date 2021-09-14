@@ -3,7 +3,7 @@
 ## **Roles**
 
 * **Main DPS**
-* **Off-Field DPS**
+* **Sub DPS** \(Off-Field\)
 * **Support:** Crowd Control \(Taunting\)
 
 ## **Character Breakdown**
