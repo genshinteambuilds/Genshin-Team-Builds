@@ -2,7 +2,7 @@
 
 ## Roles
 
-* Sub DPS \(Electro\)
+* **Sub DPS** \(Electro\)
 
 ## Character Breakdown
 
