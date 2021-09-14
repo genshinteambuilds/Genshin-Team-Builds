@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Main DPS \(**Selfish\)
+* **Main DPS** \(Selfish\)
 
 ## Character Breakdown
 
