@@ -79,7 +79,7 @@ MAIN DPS
 
 SUB DPS
 
-[Pyro](../../teams/pyro.md)
+[Pyro](../../teams/pure-pyro.md)
 
 ![](../../.gitbook/assets/ui_avataricon_klee.png) ![](../../.gitbook/assets/ui_avataricon_aether_geo.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 

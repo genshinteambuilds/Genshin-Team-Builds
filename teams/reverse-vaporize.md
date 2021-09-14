@@ -305,7 +305,7 @@ Refer to the character notes below for how characters work in this particular te
             raw Pyro Damage in a short period of time resulting in a much burstier
             playstyle.
             <ul>
-              <li>Typically, this results in closer to a <a href="pyro.md">Raw Pyro</a> team
+              <li>Typically, this results in closer to a <a href="pure-pyro.md">Raw Pyro</a> team
                 composition and playstyle where mona is a damage amplifier and not utilised
                 as much for Elemental Reactions.</li>
             </ul>

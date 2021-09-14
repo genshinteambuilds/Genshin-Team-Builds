@@ -35,7 +35,7 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-[Pyro](../../teams/pyro.md)
+[Pyro](../../teams/pure-pyro.md)
 
 ![](../../.gitbook/assets/ui_avataricon_klee.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 

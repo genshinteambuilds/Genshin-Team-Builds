@@ -60,7 +60,7 @@ In all the teams listed below, Jean universally provides Debuff utility using th
 
 ![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_jean.png) 
 
-#### [Raw Pyro](../../teams/pyro.md)
+#### [Raw Pyro](../../teams/pure-pyro.md)
 
 ![](../../.gitbook/assets/ui_avataricon_klee.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_jean.png) 
 

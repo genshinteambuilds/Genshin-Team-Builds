@@ -5,7 +5,7 @@ seagull
 * sucrose \(8/15\)
 * kazuha \(8/16\)
 * xiao \(8/16\)
-* chongyun \(8/31,9/13\)
+* chongyun \(8/31\)
 * traveler \(electro\) \(9/13\)
 
 albeiro

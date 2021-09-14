@@ -1,4 +1,4 @@
-# Pyro
+# Pure Pyro
 
 This comp is due to the nature of some pyro characters, primarily Klee, not working well with reactions. Thus, we abandon those reactions and just jam as many pyro, geo, and anemo supports into the team. The main reaction we can take advantage of is swirl for Viridescent Venerer. As long as you have Klee and one of the Healers on your team, you can’t really go wrong as the other slots are simple damage increases.
 

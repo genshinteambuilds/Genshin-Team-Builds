@@ -63,7 +63,7 @@ In all the teams listed below, Kazuha universally provides Debuffing using the V
 
 ![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) 
 
-#### [Raw Pyro](../../teams/pyro.md)
+#### [Raw Pyro](../../teams/pure-pyro.md)
 
 ![](../../.gitbook/assets/ui_avataricon_klee.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) 
 
