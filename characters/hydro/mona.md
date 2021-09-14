@@ -2,7 +2,7 @@
 
 ## **Roles**
 
-* **Burst DPS \(Hydro\)**
+* **Burst DPS** \(Hydro\)
 * **Support**
 
 ## **Character Breakdown**
