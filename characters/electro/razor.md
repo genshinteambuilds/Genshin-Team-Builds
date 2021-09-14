@@ -9,7 +9,7 @@
 * Normal Attacks are the most vital part of Razor's kit, and he heavily relies on dealing Physical damage.
 * Elemental Skill changes based on whether it is tapped or held. 
   * On tap, he deals AOE Electro damage and gains an Electro Sigil \(of which he can hold a maximum of 3\). Each Sigil increases his Energy Recharge. 
-  * On hold, he deals Electro damage in a circle around him and converts all of his electro sigils into energy.
+  * On hold, he deals Electro damage in a circle around him and converts all of his Electro Sigils into energy.
 * Elemental Burst deals an instance of AoE Electro damage around him and consumes all his Sigils, which then grant him energy. He gains the following effects:
   * Electro damage is dealt alongside each attack
   * Attack Speed increased
