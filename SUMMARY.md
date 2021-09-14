@@ -73,6 +73,7 @@
 * [Freeze](teams/freeze.md)
 * [Geo](teams/geo.md)
 * [Melt](teams/melt.md)
+* [National](teams/national.md)
 * [Reverse Melt](teams/reverse-melt.md)
 * [Physical](teams/physical.md)
 * [Pure Pyro](teams/pure-pyro.md)
