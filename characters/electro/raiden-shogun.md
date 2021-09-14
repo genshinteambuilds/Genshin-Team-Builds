@@ -51,6 +51,7 @@
 ![](../../.gitbook/assets/ui_avataricon_beidou.png) 
 
 * Beidou's Elemental Burst cannot be procced by Raiden Shogun's Normal Attacks in her Elemental Burst, making Beidou lose her usefulness in providing powerful off-field Damage. 
+* Note: a Beidou pairing can be utilized somewhat by staggering the Elemental Burst rotations such that Raiden uses her Elemental Burst after Beidou's Elemental Burst duration is over. 
 
 ![](../../.gitbook/assets/ui_avataricon_diluc.png) 
 
