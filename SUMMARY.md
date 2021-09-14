@@ -76,6 +76,7 @@
 * [Reverse Melt](teams/reverse-melt.md)
 * [Physical](teams/physical.md)
 * [Pure Pyro](teams/pure-pyro.md)
+* [Oneshot](teams/oneshot.md)
 * [Overload](teams/overload.md)
 * [Vaporize](teams/vaporize.md)
 * [Reverse Vaporize](teams/reverse-vaporize.md)
