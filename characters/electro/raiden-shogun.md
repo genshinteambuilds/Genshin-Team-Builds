@@ -1,12 +1,12 @@
 # Raiden Shogun
 
-**Roles**
+## **Roles**
 
-* **Burst DPS \(Electro\)**
-* **Sub DPS \(Electro\)**
-* **Support**
+* Burst DPS
+* Sub DPS
+* Support
 
-**Character Breakdown**
+## **Character Breakdown**
 
 * Raiden Shogun is a multipurpose character who can provide many sources of off-field damage including consistent DPS, Burst Damage and buffs
 * With the Raiden Shogun in your party, casting Elemental Bursts from other party members will grant her Resolve based on the cost of the Burst used. Resolve increases her own Elemental Burst damage
@@ -14,13 +14,13 @@
 * Elemental Burst consumes all Resolve and causes the Raiden Shogun to deal massive AoE Electro Damage in the direction she is facing. Following the initial burst, she then converts her attacks to Electro which also counts as Elemental Burst DMG for 7 seconds. The Raiden Shogun’s attacks during her Elemental Burst generate Energy for the rest of the party.
 * Energy Recharge will increase the Raiden Shogun’s Electro DMG as well as the Energy Generated for the party from her Elemental Burst
 
-**Additional Notes**
+## **Additional Notes**
 
 * Raiden Shogun’s Elemental skill will not launch a coordinated attack against enemies protected by certain shields, such as Abyss Mages.
 * The Energy generated for the party from the Raiden Shogun’s Elemental Burst can only be applied 5 times, with a 1 second cooldown between activations.
 * The Raiden Shogun can't cook.
 
-**Works Well With**
+## **Works Well With**
 
  ****![](../../.gitbook/assets/ui_avataricon_sara.png) 
 
@@ -46,7 +46,7 @@
 
 * Xingqui's Elemental Burst can be procced by Raiden Shogun's Normal Attacks in her Elemental Burst. Along with the Damage Reduction, small amounts of Healing, and 80 Energy cost Elemental Burst, Xingqui is able to provide a strong mix of offensive DPS and defensive utility while also benefiting from the Energy Raiden Shogun can generate. 
 
-**Does Not Work Well With**
+## **Does Not Work Well With**
 
 ![](../../.gitbook/assets/ui_avataricon_beidou.png) 
 
@@ -60,7 +60,7 @@
 
 * Hu Tao, similarly to Diluc, wants to benefit from Vaporize and Melt much more than transformative reactions like Overload. 
 
-**Teams**
+## **Teams**
 
 Raiden National
 
@@ -79,5 +79,5 @@ Hypercarry
 ![](../../.gitbook/assets/ui_avataricon_shougun.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_sara.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) 
 
 * A slightly less conventional team that utilizes the Raiden Shogun as your primary DPS and buffing her damage to its limits while feeding the whole team high amounts of Energy. While her Burst damage here is extreme, the main downside to this composition is that your DPS will tank greatly when the Raiden Shogun is not in her Elemental Burst.
-* This team composition is much more effective with Constellation 2+. 
+* This team composition is much more effective with Raiden Shogun's Constellation 2+. 
 

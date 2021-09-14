@@ -1,18 +1,18 @@
 # Kujou Sara
 
-**Roles**
+## **Roles**
 
-* **Burst DPS \(Electro\)**
-* **Support**
+* Burst DPS
+* Support
 
-**Character Breakdown**
+## **Character Breakdown**
 
 * Kujou Sara focuses on buffing the ATK of other members of her party and is also capable of dealing large Burst damage herself.
 * Elemental Skill causes Kujou Sara to dash backwards and gain a buff to her next Aimed shot. This Aimed shot will leave a Crowfeather on the floor for a brief period before detonating, dealing AoE Electro damage and triggering Tengu Juurai, buffing the ATK of any active party member within the explosion based on Kujou Sara’s own base ATK.
 * Elemental Burst will summon a lightning strike to deal a massive amount of initial Electro Damage before spreading out into smaller lightning strikes for additional Electro hits, these lightning strikes can also trigger Tengu Juurai and provide same ATK boost from Kujou Sara’s Elemental Skill for active party members. 
 * With her final Ascension talent, Kujou Sara will also generate bonus Energy for the team based on her own Energy Recharge when her Elemental Skill hits opponents.
 
-**Additional Notes**
+## **Additional Notes**
 
 * Kujou Sara’s first Ascension talent will greatly boost the speed at which Aimed Shots empowered by her Elemental Skill charge up, making it much easier to activate.
 * Kujou Sara’s ATK buff will only benefit the active character, and has a very short duration of 6 seconds
@@ -20,7 +20,7 @@
 * Constellation 2 creates a Crowfeather upon activation, greatly increasing the speed and ease at which she can provide her ATK buff.
 * Constellation 6 is one of the most powerful Electro buffs in the game currently, providing 60% Crit DMG on any Electro DMG of characters who have their ATK buffed by Tengu Juurai.
 
-**Works Well With**
+## **Works Well With**
 
 ![](../../.gitbook/assets/ui_avataricon_shougun.png) 
 
@@ -34,11 +34,11 @@
 
 * Kujou Sara can provide Superconduct and ATK buff to a Physical Main DPS that is Cryo. 
 
-**Does Not Work Well With**
+## **Does Not Work Well With**
 
 * Kujou Sara is relatively straightforward and her abilities do not have lengthy lingering effects that could cause her to mess up other elemental reactions, therefore she is a solid option as an offensive Support.
 
-**Teams**
+## **Teams**
 
 **Burst Support**
 
