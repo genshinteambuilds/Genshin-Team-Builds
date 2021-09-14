@@ -51,7 +51,7 @@
 ![](../../.gitbook/assets/ui_avataricon_beidou.png) 
 
 * Beidou's Elemental Burst cannot be procced by Raiden Shogun's Normal Attacks in her Elemental Burst, making Beidou lose her usefulness in providing powerful off-field Damage. 
-* Note: a Beidou pairing can be utilized somewhat by staggering the Elemental Burst rotations such that Raiden uses her Elemental Burst after Beidou's Elemental Burst duration is over. 
+* Note: a Beidou pairing can be utilized somewhat by staggering the Elemental Burst rotations such that Raiden uses her Elemental Burst before and after Beidou's Elemental Burst duration is over. 
 
 ![](../../.gitbook/assets/ui_avataricon_diluc.png) 
 
@@ -71,7 +71,9 @@ Raiden National
 
 [Physical](../../teams/physical.md)
 
-![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_shougun.png) 
+![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_shougun.png) ![](../../.gitbook/assets/ui_avataricon_rosaria.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png)
+
+![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_shougun.png)
 
 * A standard team composition for Raiden Shogun that focuses on utilizing her off-field Electro Damage for consistent Superconduct upkeep as well as increasing the teams Burst Damage and Energy economy.
 
