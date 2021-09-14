@@ -8,7 +8,7 @@
 
 * When charging her aimed shot, at charge level 1, she fires off a flaming arrow. At level 2, she can generate up to 3 kindling arrows based on charge time, which will home onto nearby enemies.
 * Yoimiya's Elemental Skill increases her DMG and converts it to Pyro damage, which cannot be overridden and ends early if Yoimiya leaves the field.
-* Yoimiya's Elemental Burst deals AOE Pyro damage and marks an opponent hit with a marker. Characters other than Yoimiya that hit the marked enemy would trigger an explosion and deal extra Pyro AOE damage. The mark is transferred when the enemy is defeated before the duration of the Burst ends.
+* Yoimiya's Elemental Burst deals AoE Pyro damage and marks an opponent hit with a marker. Whenever a character hit the marked enemy besides Yoimiya would trigger an explosion and deal extra Pyro AOE damage. The mark is transferred when the enemy is defeated before the duration of the Burst ends.
 
 ## Additional Notes
 
@@ -26,32 +26,32 @@
 
 ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) 
 
-* Xingqiu’s Elemental Skill and Burst help to protect Yoimiya and proc Vaporise reactions with his burst. It also triggers her Burst damage.
+* Xingqiu’s Elemental Skill and Burst help to protect Yoimiya and proc Vaporise reactions with his burst. It also triggers her Burst damage on marked targets while being off-field.
 
 ![](../../.gitbook/assets/ui_avataricon_beidou.png) 
 
-* Beidou’s Elemental Burst allows Yoimiya to proc Beidou’s damage by activating Beidou’s Burst as much as possible
+* Beidou’s Elemental Burst allows Yoimiya to proc Beidou’s damage by activating Beidou’s On-hit burst as much as possible as well as triggering Yoimiya's burst off-field.
 
 ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Bennett boosts Yoimiya’s damage and a battery for her, making him an excellent support.
-* He also enables pyro resonance, which allows Yoimiya to deal even more damage.
+* Bennett boosts Yoimiya’s ATK and a battery for her, making him an excellent support.
+* He also enables pyro resonance, which allows Yoimiya to have more ATK.
 
 ![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) 
 
 * As with all Elemental Damage DPS, Anemo supports and Zhongli work well by reducing the enemy's Elemental Resistance via Viridescent Venerer or Zhongli's Jade Shield. Anemo characters often also supply useful grouping CC and additional offensive party buffs.
-* Albedo provides Elemental Mastery buff when using his elemental burst and further enhances Hu Tao’s reaction damage.
+* Albedo provides Elemental Mastery buff when using his elemental burst and further enhances Yoimiya's reaction damage.
 
 ![](../../.gitbook/assets/ui_avataricon_jean.png) 
 
-* Jean is just an all rounder support, can heal and provide utility.
+* Jean is an all rounded support, can heal, provide CC, hold 4 Viridescent Venerer, and is overall a great utility for Yoimiya.
 
 ## Does Not Work Well With
 
 ![](../../.gitbook/assets/ui_avataricon_mona.png) 
 
 * Mona’s burst buff lasts for only a few seconds, and her bubble pops immediately.
-* She also isn’t good at causing vaporisation reactions, making Xingqiu a much better support.
+* She also isn’t good as hydro applicator for Yoimiya to vaporize, making Xingqiu a much better support.
 
 ![](../../.gitbook/assets/element_cryo.webp) 
 
@@ -70,13 +70,13 @@
 * When Beidou’s Burst is active, Yoimiya can use her skill and proc overload reactions and keep them away.
 * Last slot is a flex comp, such as Bennett for pyro resonance, healing, and attack buff or Zhongli for more protection and crowd control.
 
-[Reverse Vaporise ](../../teams/reverse-vaporize.md)
+[Reverse Vaporize](../../teams/reverse-vaporize.md)
 
 ![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
 ![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
-* Xingqiu’s Elemental Burst applies hydro aura on enemies that synergizes well with Yoimiya's Normal Attacks infused with pyro to vaporize.
+* Xingqiu’s Elemental Burst applies hydro aura on enemies that synergizes well with Yoimiya's Normal Attacks infused with pyro to vaporize. It also triggers Yoimiya's burst on marked enemies.
 
 [Melt](../../teams/melt.md)
 
