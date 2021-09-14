@@ -2,7 +2,7 @@
 
 ## Roles
 
-* Main DPS
+* **Main DPS**
 
 ## Character Breakdown
 
@@ -22,19 +22,19 @@
 
 ![](../../.gitbook/assets/ui_avataricon_ganyu.png) 
 
-* Ganyu’s Burst can trigger melt reactions with Yoimiya’s Burst and Skill, applying the DMG.
+* Ganyu’s Elemental Burst can trigger melt reactions with Yoimiya’s Burst and Skill, applying the DMG.
 
 ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) 
 
-* Xingqiu’s Elemental Skill and Burst help to protect Yoimiya and proc Vaporise reactions with his burst. It also triggers her Burst damage on marked targets while being off-field.
+* Xingqiu’s Elemental Skill and Burst help to protect Yoimiya with the DMG reduction and proc Vaporize reactions with his elemental burst. It also triggers her Burst damage on marked targets while being off-field.
 
 ![](../../.gitbook/assets/ui_avataricon_beidou.png) 
 
-* Beidou’s Elemental Burst allows Yoimiya to proc Beidou’s damage by activating Beidou’s On-hit burst as much as possible as well as triggering Yoimiya's burst off-field.
+* Beidou’s Elemental Burst synergizes well with Yoimiya's Normal Attacks, causing overload that helps Yoimiya with AoE damage since she only has one on her burst.
 
 ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Bennett boosts Yoimiya’s ATK and a battery for her, making him an excellent support.
+* Bennett heals and increases Yoimiya’s ATK with his burst, and can battery for her, making him an excellent support.
 * He also enables pyro resonance, which allows Yoimiya to have more ATK.
 
 ![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) 
@@ -51,7 +51,7 @@
 ![](../../.gitbook/assets/ui_avataricon_mona.png) 
 
 * Mona’s burst buff lasts for only a few seconds, and her bubble pops immediately.
-* She also isn’t good as hydro applicator for Yoimiya to vaporize, making Xingqiu a much better support.
+* She also isn’t good as hydro applicator for Yoimiya to vaporize, making Xingqiu a much better option.
 
 ![](../../.gitbook/assets/element_cryo.webp) 
 
@@ -67,8 +67,8 @@
 ![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_aether_electro.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
 * Yoimiya acts as a good enabler for Beidou.
-* When Beidou’s Burst is active, Yoimiya can use her skill and proc overload reactions and keep them away.
-* Last slot is a flex comp, such as Bennett for pyro resonance, healing, and attack buff or Zhongli for more protection and crowd control.
+* When Beidou’s Burst is active, Yoimiya can use her skill and proc overload reactions and keep them away. Beidou's burst also help in dealing AoE damage to enemies which Yoimiya lacks.w
+* Last slot is a flexible spot, could be someone such as Bennett for pyro resonance, healing, and attack buff or Zhongli for more protection and crowd control. Any healer, shielder, or buffer would do.
 
 [Reverse Vaporize](../../teams/reverse-vaporize.md)
 
