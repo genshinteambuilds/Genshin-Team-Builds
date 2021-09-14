@@ -1,6 +1,6 @@
 # Ningguang
 
-## Recommended roles
+## Roles
 
 - Main DPS
 
