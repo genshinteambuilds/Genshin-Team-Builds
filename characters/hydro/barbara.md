@@ -1,6 +1,6 @@
 # Barbara
 
-## Roles:
+## Roles
 
 * **Support:** Healer
 
