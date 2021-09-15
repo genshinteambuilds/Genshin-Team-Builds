@@ -6,8 +6,8 @@
 
 ## Character Breakdown
 
-* Fischl primarily uses her Elemental Skill to deal sustained Electro Damage from off-field.
-* Elemental Skill summons Oz, a pet that deals a larger burst of damage when it appears then continues to damage a single enemy with Electro for a set duration, which remains even when Fischl isn’t on the field.
+* Electro Traveler serves as an Energy battery with their Elemental Skill, as well as a substantial sub DPS with their Elemental Skill and Burst.
+* Elemental Skill discharges 
 * Reactivating Fischl’s Elemental Skill while it’s already active will teleport Oz to her current location.
 * Fischl’s Elemental burst will cause her to damage all enemies she comes into contact with during its duration and immediately summon Oz, this can greatly extend Oz’s uptime.
 
