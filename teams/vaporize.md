@@ -160,10 +160,10 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <ul>
-          <li>You rely on Xiangling and Bennett to keep the enemy tagged with pyro as
-            often as possible and use your charged attack&#x2019;s almost 300% ratio
-            to vaporize. In theory it sounds nice, in practice it is debatably barely
-            functional.</li>
+          <li>More of a joke team than an actual team. You rely on Xiangling and Bennett
+            to keep the enemy tagged with pyro as often as possible and use your charged
+            attack&#x2019;s almost 300% ratio to vaporize. In theory it sounds nice,
+            in practice it is debatably barely functional.</li>
         </ul>
       </td>
     </tr>
