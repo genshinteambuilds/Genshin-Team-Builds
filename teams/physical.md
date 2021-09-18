@@ -35,15 +35,16 @@ Refer to the character notes below for how characters work in this particular te
       </td>
       <td style="text-align:center">
         <p>
-          <img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
+          <img src="../.gitbook/assets/ui_avataricon_rosaria.png" alt/>
         </p>
-        <p>Zhongli</p>
+        <p>Rosaria</p>
       </td>
       <td style="text-align:center">
         <p>
           <img src="../.gitbook/assets/ui_avataricon_diona.png" alt/>
         </p>
         <p>Diona</p>
+        <p>(Shielder, Healer, Buffer)</p>
       </td>
     </tr>
     <tr>
@@ -55,21 +56,25 @@ Refer to the character notes below for how characters work in this particular te
       </td>
       <td style="text-align:center">
         <p>
-          <img src="../.gitbook/assets/ui_avataricon_beidou.png" alt/>
+          <img src="../.gitbook/assets/ui_avataricon_shougun.png" alt/>
         </p>
-        <p>Beidou</p>
+        <p>Raiden Shogun</p>
+        <p>(Battery)</p>
       </td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_albedo.png" alt/>
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnLUog7ikP0v89m%2FUI_AvatarIcon_Zhongli.png?alt=media&amp;token=9b64d852-861e-4631-80db-53783e61cadd"
+          alt/>
         </p>
-        <p>Albedo</p>
+        <p>Zhongli</p>
+        <p>(Shielder, Buffer/Debuffer, Burst)</p>
       </td>
       <td style="text-align:center">
         <p>
           <img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/>
         </p>
         <p>Bennett</p>
+        <p>Bennett (Healer, Buffer)</p>
       </td>
     </tr>
     <tr>
@@ -80,50 +85,98 @@ Refer to the character notes below for how characters work in this particular te
         <p>Keqing</p>
       </td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_lisa.png" alt/>
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnFmBkG9Krj3zWL%2FUI_AvatarIcon_Beidou.png?alt=media&amp;token=3593e253-64c8-4000-8f6b-e02a6c19cdee"
+          alt/>
+        </p>
+        <p>Beidou</p>
+      </td>
+      <td style="text-align:center">
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MjRmcwHkZnfnFY4DT_w%2F-MjRmixsQzsNhp2lWZpD%2FUI_AvatarIcon_Sara.png?alt=media&amp;token=9929ebc2-d054-4f4b-8814-bfd39bfcae82"
+          alt/>
+        </p>
+        <p>Sara</p>
+        <p>(Buffer)</p>
+      </td>
+      <td style="text-align:center">
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnLUog7ikP0v89m%2FUI_AvatarIcon_Zhongli.png?alt=media&amp;token=9b64d852-861e-4631-80db-53783e61cadd"
+          alt/>
+        </p>
+        <p>Zhongli</p>
+        <p>(Shielder, Buffer/Debuffer, Burst)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgJ-hpDX6XPD00bkeAW%2FUI_AvatarIcon_Lisa.png?alt=media&amp;token=84d39ccf-b21a-4962-8a92-09d54d1fd525"
+          alt/>
         </p>
         <p>Lisa</p>
       </td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/>
-        </p>
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnJf4Wx6YM4Ib1r%2FUI_AvatarIcon_Xingqiu.png?alt=media&amp;token=4b2c3ec7-8d2c-4389-a13b-39411f2ac690"
+          alt/>&#x200B;</p>
         <p>Xingqiu</p>
       </td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_jean.png" alt/>
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnE2b0TUFWNLI64%2FUI_AvatarIcon_Jean.png?alt=media&amp;token=1e9d1c8a-8c64-45f8-883a-7c460a03cb5f"
+          alt/>
         </p>
         <p>Jean</p>
+        <p>(Healer)&#x200B;&#x200B;</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:center"></td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_kaeya.png" alt/>
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnn3JzX0_GaEGdHI%2FUI_AvatarIcon_Kaeya.png?alt=media&amp;token=6b832fc0-9834-401d-bfb3-fd787c70b839"
+          alt/>
         </p>
         <p>Kaeya</p>
       </td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>&#x200B;&#x200B;&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnn3JzX0_GaEGdHI%2FUI_AvatarIcon_Kaeya.png?alt=media&amp;token=6b832fc0-9834-401d-bfb3-fd787c70b839"
+          alt/>&#x200B;</p>
+        <p>Kaeya</p>
+      </td>
       <td style="text-align:center">
         <p>
-          <img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
+          <img src="../.gitbook/assets/ui_avataricon_qiqi.png" alt/>
         </p>
-        <p>Zhongli</p>
+        <p>Qiqi</p>
+        <p>(Healer)</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:center"></td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_ayaka.png" alt/>
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgJ-hpCoRidaO_5ITp_%2FUI_AvatarIcon_Ayaka.png?alt=media&amp;token=b079bc92-ac91-4c29-82b9-0b68eba3adb8"
+          alt/>
         </p>
         <p>Ayaka</p>
       </td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>&#x200B;&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnKuNWVK04NETuZ%2FUI_AvatarIcon_Albedo.png?alt=media&amp;token=820af558-f350-43c3-8f93-3e87a0f2e4ff"
+          alt/>&#x200B;</p>
+        <p>Albedo</p>
+      </td>
+      <td style="text-align:center">
+        <p>&#x200B;
+          <img src="../.gitbook/assets/ui_avataricon_barbara.png" alt/>
+        </p>
+        <p>Barbara</p>
+        <p>(Healer)</p>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -210,10 +263,33 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Fischl&apos;s elemental skill is an electro turret. Her burst is used
-            to refresh said electro turret rather than used on cooldown. Her 6th constellation
-            allows for additional electro hits to your main carry&#x2019;s damage to
-            help with superconduct application.</li>
+          <li>Her Elemental skill summons a turret that frequently applies Electro and
+            can be used as an Energy Battery from how much energy particles it generates.</li>
+          <li>Her Elemental Burst is used to summon the turret again instead of waiting
+            for the cooldown. Do not use her elemental skill if it comes off cooldown
+            while the turret from her burst is still on-field as it will get replaced.</li>
+          <li>Her 6th constellation allows for additional electro hits to your main
+            carry&#x2019;s damage to help with superconduct application. These extra
+            hits however do not give you additional energy particles.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_shougun.png" alt/>
+        </p>
+        <p>Raiden Shogun</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Elemental skill deals damage and applies electro off-field. It can also
+            generate a high number of energy particles. This skill also has a 100%
+            uptime.</li>
+          <li>When her Elemental Burst deals damage to enemies it regenerates energy
+            for the entire party. Raiden&apos;s Elemental Burst can deal large amounts
+            of damage when properly geared</li>
         </ul>
       </td>
     </tr>
@@ -227,8 +303,12 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Used for her elemental burst, which applies electro damage and adds extra
-            electro damage to attacks.</li>
+          <li>Elemental skill can be tapped or held and is used to parry enemy attacks.
+            You get more energy particles if you parry as close to the perfect timing
+            or taking multiple hits while holding the skill.</li>
+          <li>Beidou&apos;s Elemental Burst applies electro and chains towards multiple
+            enemies.</li>
+          <li>Elemental Burst can deal a large amount of damage if properly geared.</li>
         </ul>
       </td>
     </tr>
@@ -242,8 +322,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Less common option, mostly used for her defense decrease along with electro
-            application. Very difficult to gain energy on her.</li>
+          <li>Elemental Burst can consistenly apply electro to enemies within its AOE.</li>
+          <li>Elemental Burst is able to shred enemies Defence (-15%) at Ascension 4.</li>
         </ul>
       </td>
     </tr>
@@ -257,7 +337,9 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Applies cryo with skill and burst for superconduct.</li>
+          <li>Elemental Skill and Elemental Burst applies cryo on enemies. His Elemental
+            Burst can also work off-field which makes him great for constant Superconduct
+            Reactions.</li>
         </ul>
       </td>
     </tr>
@@ -271,7 +353,11 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Applies cryo with skill and burst. Burst does a fair bit of damage.</li>
+          <li>Elemental Skill and Elemental Burst can consistently apply cryo on enemies
+            for constant Superconduct Reactions.</li>
+          <li>Elemental Burst can deal a large amount of damage if Ayaka is properly
+            geared making her a viable Main DPS option with her own team.</li>
+          <li>Can be used as an Energy Battery.</li>
         </ul>
       </td>
     </tr>

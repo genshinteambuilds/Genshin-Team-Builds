@@ -7,13 +7,13 @@ This guide is maintained by players that frequent the \#help channels on the off
 | Contributor | Contact |
 | :--- | :--- |
 | Rag | Rag\#7161 |
-| Miko |  |
+| Miko | Miko-chan\#0698 |
 | Shockwhite |  |
 | ChiliLion |  |
 | kupp |  |
 | Aidan047 |  |
 | Albeiro |  |
-| khino |  |
+| Khino |  |
 | crit |  |
 | seagull |  |
 
