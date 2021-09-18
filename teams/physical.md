@@ -1,6 +1,6 @@
 # Physical
 
-Physical teams only benefit off of the superconduct reaction. Thus that is the reaction that all of these teams are based around. Besides that, there are few ways to scale physical damage, which are buffs, defense shreds, and physical resistance shreds.
+Physical teams only benefit off of the superconduct reaction. Thus it is the reaction that all of these teams are based around. Besides that, there are few ways to scale physical damage, which are buffs, defense decrease, and physical resistance decrease.
 
 {% hint style="info" %}
 Characters are ranked roughly according to how well they perform in this team composition.
@@ -148,10 +148,10 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>A lot of her damage comes from her burst ability. Your goal is to proc
-            superconduct, along with her hold skill at 2 stacks to shred as much resistances
-            while stacking up burst as much as possible. For a more in-depth look at
-            her burst team, check out the one-shot page.</li>
+          <li>A lot of her damage comes from her elemental burst. Your goal is to create
+            superconduct reaction, along with her hold skill at 2 stacks to decrease
+            as much resistances while stacking up her burst as much as possible. For
+            a more in-depth look at her burst team, check out the <a href="oneshot.md">Oneshot </a>page.</li>
         </ul>
       </td>
     </tr>
@@ -165,8 +165,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Press ultimate, spam normal attacks. Very generic physical claymore user,
-            does not scale particularly well but is usable. At higher constellations,
+          <li>Press elemental burst, spam normal attacks. Very generic physical claymore
+            user, does not scale particularly well but is usable. At higher constellations,
             does a decent amount of electro damage along with physical damage.</li>
         </ul>
       </td>
@@ -181,8 +181,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>More often played as electro damage, but phys build is doable. Do not
-            use her second cast of her skill or you will do electro damage instead.
+          <li>More often played as electro damage, but physical build is doable. Do
+            not use her second cast of her skill or you will do electro damage instead.
             It is recommended to use her charge attacks for higher damage.</li>
         </ul>
       </td>
@@ -210,10 +210,10 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Skill is an electro turret. Her burst is used to refresh said electro
-            turret rather than used on cooldown. Her 6th constellation allows for additional
-            electro hits to your main carry&#x2019;s damage to help with superconduct
-            application.</li>
+          <li>Fischl&apos;s elemental skill is an electro turret. Her burst is used
+            to refresh said electro turret rather than used on cooldown. Her 6th constellation
+            allows for additional electro hits to your main carry&#x2019;s damage to
+            help with superconduct application.</li>
         </ul>
       </td>
     </tr>
@@ -227,8 +227,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Used for her burst, which applies electro damage and adds extra electro
-            damage to attacks.</li>
+          <li>Used for her elemental burst, which applies electro damage and adds extra
+            electro damage to attacks.</li>
         </ul>
       </td>
     </tr>
@@ -242,7 +242,7 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Less common option, mostly used for her defense shred along with electro
+          <li>Less common option, mostly used for her defense decrease along with electro
             application. Very difficult to gain energy on her.</li>
         </ul>
       </td>
@@ -257,8 +257,7 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Applies cryo with skill and burst for superconduct. That&apos;s about
-            it.</li>
+          <li>Applies cryo with skill and burst for superconduct.</li>
         </ul>
       </td>
     </tr>
@@ -272,8 +271,7 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Applies cryo with skill and burst. Burst does a fair bit of damage. That&#x2019;s
-            about it.</li>
+          <li>Applies cryo with skill and burst. Burst does a fair bit of damage.</li>
         </ul>
       </td>
     </tr>
@@ -300,8 +298,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>His skill is a physical resistance shred and a large shield. Burst is
-            a petrify. Part of the geo pair for resonance.</li>
+          <li>His elemental skill decreases physical and elemental resistance and creates
+            a shield. Burst is a petrify. Part of the geo pair for resonance.</li>
         </ul>
       </td>
     </tr>
@@ -315,8 +313,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Only ran alongside Zhongli for resonance and a bit of free damage and
-            energy from his skill.</li>
+          <li>Only ran alongside Zhongli for geo resonance and extra damage off-field
+            and energy from his skill.</li>
         </ul>
       </td>
     </tr>
@@ -330,8 +328,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Burst adds extra damage to normals. Run if nothing better to use. Make
-            sure that you can still apply superconduct.</li>
+          <li>Burst adds extra damage to normal attacks. Run if nothing better to use.
+            Make sure that you can still apply superconduct.</li>
         </ul>
       </td>
     </tr>
@@ -359,9 +357,9 @@ Refer to the character notes below for how characters work in this particular te
         <p></p>
         <ul>
           <li>Her skill is a shield that applies cryo on initial cast. Her burst is
-            an area heal over time that requires you to stand on it. Can function as
-            your primary cryo application for superconduct but it is advisable to have
-            sacrificial bow.</li>
+            an area heal over time that requires you to be inside the circle. Can function
+            as your primary cryo application for superconduct and battery but it is
+            advisable to have sacrificial bow.</li>
         </ul>
       </td>
     </tr>
@@ -428,9 +426,9 @@ Refer to the character notes below for how characters work in this particular te
 
 ![](../.gitbook/assets/ui_avataricon_keqing.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png) ![](../.gitbook/assets/ui_avataricon_zhongli.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
 
-*  Keqing and Kaeya should be able to keep superconduct running. Zhongli provides shielding, shred, and crowd control. Bennett is extra healing and a buff to attack.
+*  Keqing and Kaeya should be able to keep superconduct running. Zhongli provides shielding, decreases resistances, and crowd control. Bennett is extra healing and a buff to attack.
 
 ## Extraneous information
 
-It is technically possible to create a phys team using other characters as a main carry. The most notable examples are Kaeya, Rosaria, and Xiangling. While it is playable, it is not recommended as there are often better options and better uses for those characters.
+It is technically possible to create a physical team using other characters as a main carry. The most notable examples are Kaeya, Rosaria, and Xiangling. While it is playable, it is not recommended as there are often better options and better uses for those characters.
 
