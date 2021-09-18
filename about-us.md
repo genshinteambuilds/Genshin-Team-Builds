@@ -13,7 +13,7 @@ This guide is maintained by players that frequent the \#help channels on the off
 | kupp |  |
 | Aidan047 |  |
 | Albeiro |  |
-| Khino |  |
+| khino |  |
 | crit |  |
 | seagull |  |
 
