@@ -1,6 +1,6 @@
 # Geo
 
-There really is not a reaction that Geo teams are able to take advantage of. Thus, team building for geo is very straightforward. You run two geo for resonance, and then find other bits of damage and utility using the last two slots, either via buffs, turrets, or pyro resonance since almost nothing else benefits you.
+There really is not a reaction that Geo teams are able to take advantage of. Thus, team building for geo is very straightforward. You run two geo for their resonance, and then find other sources of damage and utility using the last two slots, either via buffs, turrets, or pyro resonance since almost nothing else benefits you.
 
 {% hint style="info" %}
 Characters are ranked roughly according to how well they perform in this team composition.
@@ -134,7 +134,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Standard Catalyst user. See her page for usage.</li>
+          <li>Standard Catalyst user. See <a href="../characters/geo/ningguang.md">Ningguang&apos;s</a> page
+            for usage.</li>
         </ul>
       </td>
     </tr>
@@ -176,7 +177,7 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <ul>
-          <li>His skill provides a bit of free damage from stacking defense and its
+          <li>His skill provides extra damage off field from stacking defense and its
             procs. Can run tenacity for an attack boost.</li>
         </ul>
       </td>
@@ -191,8 +192,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <ul>
-          <li>His skill is a shield and shreds resistances. Burst is a petrify that
-            does a fair bit of damage.</li>
+          <li>His skill is a shield and decreases shreds. Burst is a petrify that does
+            a fair bit of damage.</li>
         </ul>
       </td>
     </tr>
@@ -234,7 +235,7 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <ul>
-          <li>Skill and burst both provide some off field damage.</li>
+          <li>Skill and burst both provide some off-field damage.</li>
         </ul>
       </td>
     </tr>
@@ -276,7 +277,7 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Provides off field electro damage via skill and burst.</li>
+          <li>Provides off-field electro damage via skill and burst.</li>
         </ul>
       </td>
     </tr>
@@ -290,7 +291,7 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Provides off field electro damage via burst.</li>
+          <li>Provides off-field electro damage via burst.</li>
         </ul>
       </td>
     </tr>
@@ -343,7 +344,7 @@ Refer to the character notes below for how characters work in this particular te
 
 ![](../.gitbook/assets/ui_avataricon_ningguang.png) ****![](../.gitbook/assets/ui_avataricon_zhongli.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Zhongli gives you some extra damage via resonance and shield shredding resistances. Xiangling gives you extra damage with skill, burst, and pyro resonance paired with Bennett. Bennett heals and buffs your Ningguang. Ningguang stays on the field for damage. 
+* Zhongli gives you extra damage via resonance and shield decreasing resistances. Xiangling gives you extra damage with skill, burst, and pyro resonance paired with Bennett. Bennett heals and buffs your Ningguang. Ningguang stays on the field for damage. 
 
 ![](../.gitbook/assets/ui_avataricon_ningguang.png) ![](../.gitbook/assets/ui_avataricon_albedo.png) ![](../.gitbook/assets/ui_avataricon_fischl.png) ![](../.gitbook/assets/ui_avataricon_zhongli.png) 
 
