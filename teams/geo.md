@@ -348,7 +348,7 @@ Refer to the character notes below for how characters work in this particular te
 
 ![](../.gitbook/assets/ui_avataricon_ningguang.png) ![](../.gitbook/assets/ui_avataricon_albedo.png) ![](../.gitbook/assets/ui_avataricon_fischl.png) ![](../.gitbook/assets/ui_avataricon_zhongli.png) 
 
-* Albedo provides extra damage and buffs Ning with his ToM artifacts. Fischl provides extra damage with Oz and potentially her 6th constellation. Zhongli keeps your team alive with skill and burst.  
+* Albedo provides extra damage and buffs Ning with his Tenacity of the Millelith. Fischl provides extra damage with Oz and potentially her 6th constellation. Zhongli keeps your team alive with skill and burst.  
 
 ![](../.gitbook/assets/ui_avataricon_noelle.png) ![](../.gitbook/assets/ui_avataricon_aether_geo.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
 
