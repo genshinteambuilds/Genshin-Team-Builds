@@ -190,6 +190,15 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
+        <p><a href="../../characters/pyro/xinyan.md"><img src="../../.gitbook/assets/ui_avataricon_xinyan.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/pyro/xinyan.md">Xinyan</a>
+        </p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
         <p><a href="../../characters/geo/zhongli.md"><img src="../../.gitbook/assets/ui_avataricon_zhongli.png" alt/> </a>
         </p>
         <p><a href="../../characters/geo/zhongli.md">Zhongli</a>
