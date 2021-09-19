@@ -71,7 +71,7 @@
 
 [Freeze](../../teams/freeze.md)
 
-![](https://lh4.googleusercontent.com/l0qL088kHiBHIJgm3ciVEic6y04Mk7gpLVmbhl7mInBfZu3YVAdwKKBrSE8HoWCdQqlJkqDCfpzk57QoR0Usy5LWvCoQKqcp9cXakNvymX0WMLK4ilez-8kn44kwHWOsiqYsxhGL=s0) ****![](https://lh4.googleusercontent.com/45biYfxUUUo5iobgs7e2Tr3Lo7Z6XAFYc9OTuRpOu7yq_7pZT4Axm6fCHn3ClLifxqQ02t0VQgsaPUkkX51CuAixCDTFqSwJfPAhmVBjjFPfUi0DiucgiRUUmmR8MfF5aup_-ywm=s0) ****![](https://lh5.googleusercontent.com/KgS2wH469ELZ2RzPh_kumorUGHDlFZAdo-sgw1SnAYdrVVAovsVTfarpeJeT5eI2tqZYUm8s8_MfcIjUyrWc4CnR4zTqrGV7Uc_Pwu2DWu0nIDj7jgC2m4yp10Hqauj76KrvyUKD=s0) ****[![](https://lh3.googleusercontent.com/aRFzkwm3b5YAGG0DDYA9TL9ONq799nbDFUx9jyebwvMsbMJmmzuHLNFRw8KD__supJ_IlZdDS1GSZ6ui5_5QGXyCFcRlAu_62drBqIqAC0Ui4RsVNZ73Awg49ASuanSAVepU5pCm=s0) ****](zhongli.md)\*\*\*\*
+![](https://lh4.googleusercontent.com/l0qL088kHiBHIJgm3ciVEic6y04Mk7gpLVmbhl7mInBfZu3YVAdwKKBrSE8HoWCdQqlJkqDCfpzk57QoR0Usy5LWvCoQKqcp9cXakNvymX0WMLK4ilez-8kn44kwHWOsiqYsxhGL=s0) ****![](https://lh4.googleusercontent.com/45biYfxUUUo5iobgs7e2Tr3Lo7Z6XAFYc9OTuRpOu7yq_7pZT4Axm6fCHn3ClLifxqQ02t0VQgsaPUkkX51CuAixCDTFqSwJfPAhmVBjjFPfUi0DiucgiRUUmmR8MfF5aup_-ywm=s0) ****![](https://lh5.googleusercontent.com/KgS2wH469ELZ2RzPh_kumorUGHDlFZAdo-sgw1SnAYdrVVAovsVTfarpeJeT5eI2tqZYUm8s8_MfcIjUyrWc4CnR4zTqrGV7Uc_Pwu2DWu0nIDj7jgC2m4yp10Hqauj76KrvyUKD=s0)![](https://lh5.googleusercontent.com/X4zHSrKgLydETo_dfy2KgYEdzBYyYwvxskPWM5Cu-frMRKU2WnUYf3zKBbsVCDS3jU6_URe6jRl1hDavsNxKcL1hCPq1Q1PsQ_abI1L0aPKcT75G06xZmxjAqJkgNvs2bq8OTrt9=s0)
 
 * Zhongli's main role in this team is to provide easy resistance shred while the enemies stay frozen.
 * Positioning of Zhongli's pillar is important in this team, as its periodic damage can break your Freeze. 
