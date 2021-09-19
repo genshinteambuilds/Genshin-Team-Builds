@@ -119,6 +119,21 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
+        <p><a href="../../characters/anemo/sucrose.md"><img src="../../.gitbook/assets/ui_avataricon_sucrose.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/anemo/sucrose.md">Sucrose</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Deals Off-Field Anemo damage via Elemental Burst</li>
+          <li>Elemental Burst can absorb another element causing additional swirl damage
+            and inflicting the absorbed element on enemies</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
         <p><a href="../../characters/anemo/venti.md"><img src="../../.gitbook/assets/ui_avataricon_venti.png" alt/> </a>
         </p>
         <p><a href="../../characters/anemo/venti.md">Venti</a>
