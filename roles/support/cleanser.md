@@ -38,10 +38,10 @@ Some Elemental Reactions, while removing the debuff, may be detrimental to your 
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_barbara.png" alt/>
+        <p><a href="../../characters/hydro/barbara.md"><img src="../../.gitbook/assets/ui_avataricon_barbara.png" alt/> </a>
         </p>
-        <p>Barbara</p>
+        <p><a href="../../characters/hydro/barbara.md">Barbara</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -51,10 +51,10 @@ Some Elemental Reactions, while removing the debuff, may be detrimental to your 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_beidou.png" alt/>
+        <p><a href="../../characters/electro/beidou.md"><img src="../../.gitbook/assets/ui_avataricon_beidou.png" alt/> </a>
         </p>
-        <p>Beidou</p>
+        <p><a href="../../characters/electro/beidou.md">Beidou</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -65,10 +65,10 @@ Some Elemental Reactions, while removing the debuff, may be detrimental to your 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_bennett.png" alt/>
+        <p><a href="../../characters/pyro/bennett.md"><img src="../../.gitbook/assets/ui_avataricon_bennett.png" alt/> </a>
         </p>
-        <p>Bennett</p>
+        <p><a href="../../characters/pyro/bennett.md">Bennett</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -79,10 +79,10 @@ Some Elemental Reactions, while removing the debuff, may be detrimental to your 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_diona.png" alt/>
+        <p><a href="../../characters/cryo/diona.md"><img src="../../.gitbook/assets/ui_avataricon_diona.png" alt/> </a>
         </p>
-        <p>Diona</p>
+        <p><a href="../../characters/cryo/diona.md">Diona</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -93,10 +93,10 @@ Some Elemental Reactions, while removing the debuff, may be detrimental to your 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_jean.png" alt/>
+        <p><a href="../../characters/anemo/jean.md"><img src="../../.gitbook/assets/ui_avataricon_jean.png" alt/> </a>
         </p>
-        <p>Jean</p>
+        <p><a href="../../characters/anemo/jean.md">Jean</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -107,10 +107,10 @@ Some Elemental Reactions, while removing the debuff, may be detrimental to your 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_xingqiu.png" alt/>
+        <p><a href="../../characters/hydro/xingqiu.md"><img src="../../.gitbook/assets/ui_avataricon_xingqiu.png" alt/> </a>
         </p>
-        <p>Xingqiu</p>
+        <p><a href="../../characters/hydro/xingqiu.md">Xingqiu</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -121,10 +121,10 @@ Some Elemental Reactions, while removing the debuff, may be detrimental to your 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_xinyan.png" alt/>
+        <p><a href="../../characters/pyro/xinyan.md"><img src="../../.gitbook/assets/ui_avataricon_xinyan.png" alt/> </a>
         </p>
-        <p>Xinyan</p>
+        <p><a href="../../characters/pyro/xinyan.md">Xinyan</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>

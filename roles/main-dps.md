@@ -201,6 +201,26 @@ Click on a character's portrait to see how the character works and functions in 
         </ul>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../characters/pyro/yoimiya.md"><img src="../.gitbook/assets/ui_avataricon_yoimiya.png" alt/> </a>
+        </p>
+        <p><a href="../characters/pyro/yoimiya.md">Yoimiya</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Infuses their weapon with <b>Pyro </b>upon using their <b>Elemental Skill.</b>
+          </li>
+          <li>Requires supports to fill time while Elemental Skill cools down.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
 

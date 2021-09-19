@@ -110,8 +110,9 @@ Click on a character's portrait to see how the character works and functions in 
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Though her primary roles are Support and Healer, Jean&apos;s Element Burst
-            and Elemental Skill can deal large amounts of damage when properly geared.</li>
+          <li>Though her primary roles are Support and Healer, Jean&apos;s Elemental
+            Burst and Elemental Skill can deal large amounts of damage when properly
+            geared.</li>
         </ul>
       </td>
     </tr>
@@ -126,6 +127,20 @@ Click on a character's portrait to see how the character works and functions in 
         <ul>
           <li>Her Elemental Burst only deals significant damage when geared as an Electro
             DPS</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../../characters/electro/kujou-sara.md"><img src="../../.gitbook/assets/ui_avataricon_sara.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/electro/kujou-sara.md">Kujou Sara</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Primarily used as a buffer, but Kujou Sara&apos;s Elemental Burst can
+            deal significant Burst Damage depending on gear and constellations.</li>
         </ul>
       </td>
     </tr>
@@ -153,6 +168,15 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
+        <p><a href="../../characters/electro/raiden-shogun.md"><img src="../../.gitbook/assets/ui_avataricon_shougun.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/electro/raiden-shogun.md">Raiden Shogun</a>
+        </p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
         <p><a href="../../characters/hydro/tartaglia.md"><img src="../../.gitbook/assets/ui_avataricon_tartaglia.png" alt/> </a>
         </p>
         <p><a href="../../characters/hydro/tartaglia.md">Tartaglia</a>
@@ -175,10 +199,10 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_aether_geo.png" alt/>
+        <p><a href="../../characters/geo/traveler-geo.md"><img src="../../.gitbook/assets/ui_avataricon_aether_geo.png" alt/> </a>
         </p>
-        <p>Traveler (Geo)</p>
+        <p><a href="../../characters/geo/traveler-geo.md">Traveler (Geo)</a>
+        </p>
       </td>
       <td style="text-align:left"></td>
     </tr>

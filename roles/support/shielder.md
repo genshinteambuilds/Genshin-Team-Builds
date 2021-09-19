@@ -32,43 +32,128 @@ Click on a character's portrait to see how the character works and functions in 
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_diona.png" alt/>
+        <p><a href="../../characters/hydro/barbara.md"><img src="../../.gitbook/assets/ui_avataricon_barbara.png" alt/> </a>
         </p>
-        <p>Diona</p>
+        <p><a href="../../characters/hydro/barbara.md">Barbara</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Elemental Burst provides burst healing to all characters.</li>
+          <li>Elemental Skill provides sustained healing ticks to the active character.</li>
+          <li>Attacking enemies with Normal Attacks or Charged Attacks with Barbara
+            while her Elemental Skill is active will regenerate small amounts of HP
+            for all characters.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../../characters/pyro/bennett.md"><img src="../../.gitbook/assets/ui_avataricon_bennett.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/pyro/bennett.md">Bennett</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Elemental Burst creates a field that heals the active character through
+            sustained healing ticks while the character stays inside the field.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../../characters/cryo/diona.md"><img src="../../.gitbook/assets/ui_avataricon_diona.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/cryo/diona.md">Diona</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
           <li>Creates a shield upon using their Elemental Skill. The shield&apos;s strength
             scales with HP.</li>
-          <li>Heals via her Elemental Burst which creates a field that heals the active
-            character through sustained healing ticks while the character stays inside
-            the field.</li>
+          <li>Elemental Burst creates a field that heals the active character through
+            sustained healing ticks while the character stays inside the field.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_noelle.png" alt/>
+        <p><a href="../../characters/anemo/jean.md"><img src="../../.gitbook/assets/ui_avataricon_jean.png" alt/> </a>
         </p>
-        <p>Noelle</p>
+        <p><a href="../../characters/anemo/jean.md">Jean</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Elemental Burst provides burst healing to all characters.</li>
+          <li>Elemental Burst creates a field that heals the active character through
+            sustained healing ticks while the character stays inside the field.</li>
+          <li>At A1, attacking enemies with Normal Attacks with Jean will regenerate
+            small amounts of HP for all characters.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../../characters/geo/noelle.md"><img src="../../.gitbook/assets/ui_avataricon_noelle.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/geo/noelle.md">Noelle</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
           <li>Creates a shield upon using their Elemental Skill. The shield&apos;s strength
             scales with DEF.</li>
-          <li>Heals when attacking anemies while protected by the shield generated from
+          <li>Heals when attacking enemies while protected by the shield generated from
             her Elemental Skill.</li>
         </ul>
+        <p></p>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_xinyan.png" alt/>
+        <p><a href="../../characters/cryo/qiqi.md"><img src="../../.gitbook/assets/ui_avataricon_qiqi.png" alt/> </a>
         </p>
-        <p>Xinyan</p>
+        <p><a href="../../characters/cryo/qiqi.md">Qiqi</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Elemental Burst provides burst healing to all characters.</li>
+          <li>Elemental Burst marks nearby enemies with a talisman. Attacking enemies
+            marked with a talisman heals the active character.</li>
+          <li>At C4, Qiqi can mark enemies with the same talisman as her Elemental Burst
+            when using Normal Attacks or Charged Attacks against enemies.</li>
+          <li>Elemental Skill provides sustained healing ticks to the active character.</li>
+          <li>Attacking enemies with Normal Attacks or Charged Attacks with Qiqi while
+            her Elemental Skill is active will regenerate small amounts of HP for all
+            characters.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../../characters/hydro/xingqiu.md"><img src="../../.gitbook/assets/ui_avataricon_xingqiu.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/hydro/xingqiu.md">Xingqiu</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Xingqiu&apos;s rain swords from his Elemental Skill will heal the active
+            character when they break.</li>
+          <li>This is normally not enough healing to classify Xingqiu as a healer but
+            may still be sufficient healing for the team with sufficient shielding.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../../characters/pyro/xinyan.md"><img src="../../.gitbook/assets/ui_avataricon_xinyan.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/pyro/xinyan.md">Xinyan</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -79,10 +164,10 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_yanfei.png" alt/>
+        <p><a href="../../characters/pyro/yanfei.md"><img src="../../.gitbook/assets/ui_avataricon_yanfei.png" alt/> </a>
         </p>
-        <p>Yanfei</p>
+        <p><a href="../../characters/pyro/yanfei.md">Yanfei</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -93,10 +178,10 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
+        <p><a href="../../characters/geo/zhongli.md"><img src="../../.gitbook/assets/ui_avataricon_zhongli.png" alt/> </a>
         </p>
-        <p>Zhongli</p>
+        <p><a href="../../characters/geo/zhongli.md">Zhongli</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>

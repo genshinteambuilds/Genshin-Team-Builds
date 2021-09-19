@@ -113,6 +113,19 @@ Click on a character's portrait to see how the character works and functions in 
         </ul>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../../characters/electro/traveler-electro.md"><img src="../../.gitbook/assets/ui_avataricon_aether_electro.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/electro/traveler-electro.md">Traveler (Electro)</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Deals Off-Field Electro damage via Elemental Burst</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 

@@ -12,6 +12,7 @@ The current **character stats** that can be **buffed** by characters \(talents/c
 * Elemental Mastery
 * Physical Damage
 * Attack
+* Critical Damage
 * Critical Rate
 * Ability Cool Down Time
 * Attack Speed
@@ -202,6 +203,24 @@ Click on a character's portrait to see how the character works and functions in 
         <ul>
           <li>Debuffs Defense at C2 when enemies are hit by Klee&apos;s Elemental Skill.</li>
           <li>Buffs Pyro Damage at C6 when Klee uses her Elemental Burst.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../../characters/electro/kujou-sara.md"><img src="../../.gitbook/assets/ui_avataricon_sara.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/electro/kujou-sara.md">Kujou Sara</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Buffs Attack after using Elemental Burst and after using a fully-charged
+            Aimed Shot after using her Elemental Skill.
+            <ul>
+              <li>This effect also buffs Critical Damage for Electro characters at C6.</li>
+            </ul>
+          </li>
         </ul>
       </td>
     </tr>

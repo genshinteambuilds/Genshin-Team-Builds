@@ -40,10 +40,10 @@ Click on a character's portrait to see how the character works and functions in 
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_jean.png" alt/>
+        <p><a href="../../characters/anemo/jean.md"><img src="../../.gitbook/assets/ui_avataricon_jean.png" alt/> </a>
         </p>
-        <p>Jean</p>
+        <p><a href="../../characters/anemo/jean.md">Jean</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -55,10 +55,10 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_kazuha.png" alt/>
+        <p><a href="../../characters/anemo/kazuha.md"><img src="../../.gitbook/assets/ui_avataricon_kazuha.png" alt/> </a>
         </p>
-        <p>Kazuha</p>
+        <p><a href="../../characters/anemo/kazuha.md">Kazuha</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -68,10 +68,10 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_sucrose.png" alt/>
+        <p><a href="../../characters/anemo/sucrose.md"><img src="../../.gitbook/assets/ui_avataricon_sucrose.png" alt/> </a>
         </p>
-        <p>Sucrose</p>
+        <p><a href="../../characters/anemo/sucrose.md">Sucrose</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -82,10 +82,10 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_venti.png" alt/>
+        <p><a href="../../characters/anemo/venti.md"><img src="../../.gitbook/assets/ui_avataricon_venti.png" alt/> </a>
         </p>
-        <p>Venti</p>
+        <p><a href="../../characters/anemo/venti.md">Venti</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -96,10 +96,10 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_lumine_anemo.png" alt/>
+        <p><a href="../../characters/anemo/traveler-anemo.md"><img src="../../.gitbook/assets/ui_avataricon_lumine_anemo.png" alt/> </a>
         </p>
-        <p>Traveler (Anemo)</p>
+        <p><a href="../../characters/anemo/traveler-anemo.md">Traveler (Anemo)</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -125,10 +125,10 @@ Click on a character's portrait to see how the character works and functions in 
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_mona.png" alt/>
+        <p><a href="../../characters/hydro/mona.md"><img src="../../.gitbook/assets/ui_avataricon_mona.png" alt/> </a>
         </p>
-        <p>Mona</p>
+        <p><a href="../../characters/hydro/mona.md">Mona</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -142,10 +142,10 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
+        <p><a href="../../characters/geo/zhongli.md"><img src="../../.gitbook/assets/ui_avataricon_zhongli.png" alt/> </a>
         </p>
-        <p>Zhongli</p>
+        <p><a href="../../characters/geo/zhongli.md">Zhongli</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -169,10 +169,10 @@ Click on a character's portrait to see how the character works and functions in 
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_amber.png" alt/>
+        <p><a href="../../characters/pyro/amber.md"><img src="../../.gitbook/assets/ui_avataricon_amber.png" alt/> </a>
         </p>
-        <p>Amber</p>
+        <p><a href="../../characters/pyro/amber.md">Amber</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -183,10 +183,10 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_ganyu.png" alt/>
+        <p><a href="../../characters/cryo/ganyu.md"><img src="../../.gitbook/assets/ui_avataricon_ganyu.png" alt/> </a>
         </p>
-        <p>Ganyu</p>
+        <p><a href="../../characters/cryo/ganyu.md">Ganyu</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -198,10 +198,10 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_mona.png" alt/>
+        <p><a href="../../characters/hydro/mona.md"><img src="../../.gitbook/assets/ui_avataricon_mona.png" alt/> </a>
         </p>
-        <p>Mona</p>
+        <p><a href="../../characters/hydro/mona.md">Mona</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>

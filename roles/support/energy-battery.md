@@ -30,19 +30,19 @@ Click on a character's portrait to see how the character works and functions in 
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_bennett.png" alt/>
+        <p><a href="../../characters/pyro/bennett.md"><img src="../../.gitbook/assets/ui_avataricon_bennett.png" alt/> </a>
         </p>
-        <p>Bennett</p>
+        <p><a href="../../characters/pyro/bennett.md">Bennett</a>
+        </p>
       </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_diona.png" alt/>
+        <p><a href="../../characters/cryo/diona.md"><img src="../../.gitbook/assets/ui_avataricon_diona.png" alt/> </a>
         </p>
-        <p>Diona</p>
+        <p><a href="../../characters/cryo/diona.md">Diona</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -53,46 +53,46 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_fischl.png" alt/>
+        <p><a href="../../characters/electro/fischl.md"><img src="../../.gitbook/assets/ui_avataricon_fischl.png" alt/> </a>
         </p>
-        <p>Fischl</p>
+        <p><a href="../../characters/electro/fischl.md">Fischl</a>
+        </p>
       </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_jean.png" alt/>
+        <p><a href="../../characters/anemo/jean.md"><img src="../../.gitbook/assets/ui_avataricon_jean.png" alt/> </a>
         </p>
-        <p>Jean</p>
+        <p><a href="../../characters/anemo/jean.md">Jean</a>
+        </p>
       </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_kaeya.png" alt/>
+        <p><a href="../../characters/cryo/kaeya.md"><img src="../../.gitbook/assets/ui_avataricon_kaeya.png" alt/> </a>
         </p>
-        <p>Kaeya</p>
+        <p><a href="../../characters/cryo/kaeya.md">Kaeya</a>
+        </p>
       </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_kazuha.png" alt/>
+        <p><a href="../../characters/anemo/kazuha.md"><img src="../../.gitbook/assets/ui_avataricon_kazuha.png" alt/> </a>
         </p>
-        <p>Kazuha</p>
+        <p><a href="../../characters/anemo/kazuha.md">Kazuha</a>
+        </p>
       </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_ningguang.png" alt/>
+        <p><a href="../../characters/geo/ningguang.md"><img src="../../.gitbook/assets/ui_avataricon_ningguang.png" alt/> </a>
         </p>
-        <p>Ningguang</p>
+        <p><a href="../../characters/geo/ningguang.md">Ningguang</a>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -103,12 +103,38 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_venti.png" alt/>
+        <p><a href="../../characters/electro/raiden-shogun.md"><img src="../../.gitbook/assets/ui_avataricon_shougun.png" alt/> </a>
         </p>
-        <p>Venti</p>
+        <p><a href="../../characters/electro/raiden-shogun.md">Raiden Shogun</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Can be used to recharge all elemental types using her Elemental Burst.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../../characters/anemo/venti.md"><img src="../../.gitbook/assets/ui_avataricon_venti.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/anemo/venti.md">Venti</a>
+        </p>
       </td>
       <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../../characters/electro/traveler-electro.md"><img src="../../.gitbook/assets/ui_avataricon_aether_electro.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/electro/traveler-electro.md">Traveler (Electro)</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Can be used to recharge all elemental types using their Elemental Skill.</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>

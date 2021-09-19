@@ -26,7 +26,7 @@ Alternatively, you can also use this guide by selecting a character you would li
 
 ### Electro
 
-[![](.gitbook/assets/ui_avataricon_beidou.png)](characters/electro/beidou.md) [![](.gitbook/assets/ui_avataricon_fischl.png) ](characters/electro/fischl.md)[![](.gitbook/assets/ui_avataricon_keqing.png) ](characters/electro/keqing.md)[![](.gitbook/assets/ui_avataricon_lisa.png)](characters/electro/lisa.md) [![](.gitbook/assets/ui_avataricon_shougun.png) ](characters/electro/raiden-shogun.md)[![](.gitbook/assets/ui_avataricon_razor.png) ](characters/electro/razor.md)[![](.gitbook/assets/ui_avataricon_sara.png) ](characters/electro/kujou-sara.md)[![](.gitbook/assets/ui_avataricon_aether_electro.png)](characters/electro/traveler-electro.md) 
+[![](.gitbook/assets/ui_avataricon_beidou.png)](characters/electro/beidou.md) [![](.gitbook/assets/ui_avataricon_fischl.png) ](characters/electro/fischl.md)[![](.gitbook/assets/ui_avataricon_keqing.png) ](characters/electro/keqing.md)[![](.gitbook/assets/ui_avataricon_sara.png)](characters/electro/kujou-sara.md) [![](.gitbook/assets/ui_avataricon_lisa.png)](characters/electro/lisa.md) [![](.gitbook/assets/ui_avataricon_shougun.png) ](characters/electro/raiden-shogun.md)[![](.gitbook/assets/ui_avataricon_razor.png) ](characters/electro/razor.md)[![](.gitbook/assets/ui_avataricon_aether_electro.png)](characters/electro/traveler-electro.md) 
 
 ### Geo
 
@@ -48,10 +48,11 @@ Lastly, if you would like to simply check out a collection of working teams in G
 * [Geo](characters/geo/)
 * [Melt](teams/melt.md)
 * [Reverse Melt](teams/reverse-melt.md)
-* [Oneshot]()
+* [National](teams/national.md)
 * [Physical](teams/physical.md)
-* [Quickswap]()
-* [Turbo](teams/overload.md)
+* [Pure Pyro](teams/pure-pyro.md)
+* [Oneshot](teams/oneshot.md)
+* [Overload](teams/overload.md)
 * [Vaporize](teams/reverse-vaporize.md)
 * [Reverse Vaporize](teams/vaporize.md)
 

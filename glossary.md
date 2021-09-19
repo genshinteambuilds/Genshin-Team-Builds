@@ -1,7 +1,6 @@
 # Glossary
 
-Battery  
-Off-Field
+
 
 
 
