@@ -259,7 +259,7 @@ The following characters listed below can be used as Main DPS characters in a pi
       <td style="text-align:left">
         <ul>
           <li>Can be used as a <a href="../teams/physical.md">Physical</a> Main DPS in
-            a pinch.</li>
+            a pinch although generally not recommended.</li>
         </ul>
       </td>
     </tr>

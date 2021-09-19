@@ -3,6 +3,7 @@
 ## Roles
 
 * **Off-Field DPS**
+* **Support:** Debuffer \(C6\), Cleanser \(Self Only\)
 
 ##  Character Breakdown
 

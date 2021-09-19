@@ -53,15 +53,6 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
-        <p><a href="../../characters/electro/fischl.md"><img src="../../.gitbook/assets/ui_avataricon_fischl.png" alt/> </a>
-        </p>
-        <p><a href="../../characters/electro/fischl.md">Fischl</a>
-        </p>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
         <p><a href="../../characters/anemo/jean.md"><img src="../../.gitbook/assets/ui_avataricon_jean.png" alt/> </a>
         </p>
         <p><a href="../../characters/anemo/jean.md">Jean</a>
