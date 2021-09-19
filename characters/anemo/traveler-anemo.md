@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Support:** Crowd Control, Debuffer \(VV, C6\)
+* **Support:** Crowd Control \(Grouping\), Debuffer \(VV, C6\)
 * **Main DPS**
 
 ## Character Breakdown
