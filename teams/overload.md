@@ -1,6 +1,6 @@
 # Overload
 
-Overload occurs when you hit an enemy marked with pyro using an electro attack or vice versa, creating a small AoE hit of pyro damage and applying knockback to enemies that can be knocked back. This is not a very high amount of damage, so this will primarily be used to supplement your damage rather than be the primary focus. Thus, we still require a primary damage dealer similar to other teams, and as Overload is pyro + electro, said carry will be from one of these elements \(most often pyro\).
+Overload occurs when you hit an enemy marked with pyro using an electro attack or vice versa, creating a small AoE hit of pyro damage and applying knockback to enemies that can be knocked back. This is not a very high amount of damage, so this will primarily be used to supplement your damage rather than be the primary focus. Thus, we still require a primary damage dealer similar to other teams, and as Overload is pyro + electro, said carry will be from one of these elements \(often pyro\).
 
 {% hint style="info" %}
 Characters are ranked roughly according to how well they perform in this team composition.
@@ -149,7 +149,7 @@ Refer to the character notes below for how characters work in this particular te
 | **On-Field Electro Application** | Does not work. | Works |
 | **Off-Field Electro Application** | Works | Does not work |
 
-Carries represent on field application of their respective elements \(electro for Keqing, pyro for the others\). After those two roles are fulfilled, the remaining slots are there to add additional damage/ supplement survivability.
+Carries represent on-field application of their respective elements \(electro for Keqing, pyro for the others\). After those two roles are fulfilled, the remaining slots are there to add additional damage/supplement survivability.
 
 ## Main DPS
 
@@ -407,7 +407,7 @@ Carries represent on field application of their respective elements \(electro fo
         <p></p>
         <ul>
           <li>Skill applies geo hits every so often. Typically only ran along with Zhongli
-            for resonance.</li>
+            for geo resonance.</li>
         </ul>
       </td>
     </tr>
