@@ -1,6 +1,6 @@
 # Sucrose
 
-## Roles
+Roles
 
 * **Support:** Buffer, Debuffer, Crowd Control, Energy Battery
 

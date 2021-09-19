@@ -12,7 +12,7 @@ For the Elemental Resistance debuff to take effect, the character with the set *
 
 ## Characters
 
-[![](../../.gitbook/assets/ui_avataricon_jean.png) ](jean.md)[![](../../.gitbook/assets/ui_avataricon_kazuha.png) ](kazuha.md)[![](../../.gitbook/assets/ui_avataricon_sucrose.png) ](sucrose.md) [![](../../.gitbook/assets/ui_avataricon_venti.png) ](venti.md)[![](../../.gitbook/assets/ui_avataricon_xiao.png) ](xiao.md)
+[![](../../.gitbook/assets/ui_avataricon_jean.png) ](jean.md)[![](../../.gitbook/assets/ui_avataricon_kazuha.png) ](kazuha.md)[![](../../.gitbook/assets/ui_avataricon_sayu.png) ](sayu.md)[![](../../.gitbook/assets/ui_avataricon_sucrose.png) ](sucrose.md)[![](../../.gitbook/assets/ui_avataricon_venti.png) ](venti.md)[![](../../.gitbook/assets/ui_avataricon_xiao.png)](xiao.md) [![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png) ](traveler-anemo.md)
 
 ## Teams
 
