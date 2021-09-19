@@ -3,6 +3,7 @@
 ## Roles
 
 * **Support:** Buffer, Debuffer, Crowd Control, Energy Battery
+* **Off-Field DPS**
 * **Main DPS** \(Requires C6\)
 
 ## Character Breakdown

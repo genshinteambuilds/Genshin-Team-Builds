@@ -3,7 +3,7 @@
 ## Roles
 
 * **Main DPS**
-* **Support:** Crowd Control 
+* **Support:** Taunting, Buffer \(Requires C6\)
 
 ## Character Breakdown: 
 
