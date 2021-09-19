@@ -2,6 +2,7 @@
 
 ## Roles
 
+* **Off-Field DPS**
 * **Support:** Energy Battery
 
 ## Character Breakdown
