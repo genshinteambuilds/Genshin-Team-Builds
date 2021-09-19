@@ -86,7 +86,12 @@ Refer to the character notes below for how characters work in this particular te
         </p>
         <p>Venti</p>
       </td>
-      <td style="text-align:center"><b>Any Healer</b>
+      <td style="text-align:center">
+        <p>&lt;b&gt;&lt;/b&gt;
+          <img src="../.gitbook/assets/ui_avataricon_diona.png"
+          alt/><b> </b>
+        </p>
+        <p>Diona</p>
       </td>
     </tr>
     <tr>
@@ -98,7 +103,12 @@ Refer to the character notes below for how characters work in this particular te
         </p>
         <p>Beidou</p>
       </td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_barbara.png" alt/><b> </b>
+        </p>
+        <p>Barbara</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center"></td>
