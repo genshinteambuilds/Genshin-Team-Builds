@@ -3,6 +3,7 @@
 ## Roles
 
 * **Support:** Healer, Debuffer \(Requires Viridescent Venerer\)
+* **Off-Field DPS** \(Elemental Burst\)
 
 ## Character Breakdown
 

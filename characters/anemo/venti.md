@@ -3,6 +3,7 @@
 ## Roles
 
 * **Support:** Debuffer, Crowd Control, Energy Battery
+* **Off-Field DPS** \(Elemental Burst\)
 
 ## Character Breakdown
 

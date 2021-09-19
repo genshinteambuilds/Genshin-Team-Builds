@@ -134,6 +134,19 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
+        <p><a href="../../characters/anemo/sayu.md"><img src="../../.gitbook/assets/ui_avataricon_sayu.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/anemo/sayu.md">Sayu</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Elemental Burst heals nearby active characters continuously.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
         <p><a href="../../characters/hydro/xingqiu.md"><img src="../../.gitbook/assets/ui_avataricon_xingqiu.png" alt/> </a>
         </p>
         <p><a href="../../characters/hydro/xingqiu.md">Xingqiu</a>

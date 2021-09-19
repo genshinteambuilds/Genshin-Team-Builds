@@ -68,6 +68,21 @@ Click on a character's portrait to see how the character works and functions in 
       </td>
     </tr>
     <tr>
+      <td style="text-align:center">
+        <p><a href="../../characters/anemo/kazuha.md"><img src="../../.gitbook/assets/ui_avataricon_kazuha.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/anemo/kazuha.md">Kazuha</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Deals Off-Field Anemo damage via Elemental Burst</li>
+          <li>Elemental Burst can absorb another element causing additional swirl damage
+            and inflicting the absorbed element on enemies</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:center">&#x200B;<a href="../../characters/electro/lisa.md"><img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MXJWM35swXZoWarquTH%2F-MXJWQ0k1rpvO_hstPN-%2Fui_avataricon_lisa.png?alt=media&amp;token=3b3a2c75-6137-479b-bb13-355813b0d6ee" alt/> <br />Lisa</a>
       </td>
       <td style="text-align:left">
@@ -86,6 +101,34 @@ Click on a character's portrait to see how the character works and functions in 
       <td style="text-align:left">
         <ul>
           <li>Deals Off-Field Cryo damage via Elemental Burst</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../../characters/anemo/sayu.md"><img src="../../.gitbook/assets/ui_avataricon_sayu.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/anemo/sayu.md">Sayu</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Deals Off-Field Anemo damage via Elemental Burst</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../../characters/anemo/venti.md"><img src="../../.gitbook/assets/ui_avataricon_venti.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/anemo/venti.md">Venti</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Deals Off-Field Anemo damage via Elemental Burst</li>
+          <li>Elemental Burst can absorb another element causing additional swirl damage
+            and inflicting the absorbed element on enemies</li>
         </ul>
       </td>
     </tr>
