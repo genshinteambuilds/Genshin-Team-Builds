@@ -2,8 +2,8 @@
 
 ## **Roles**
 
-* **Sub DPS** \(Burst\)
 * **Support:** Buffer
+* **Burst DPS**
 
 ## **Character Breakdown**
 

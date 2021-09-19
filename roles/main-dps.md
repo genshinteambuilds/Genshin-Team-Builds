@@ -256,7 +256,12 @@ The following characters listed below can be used as Main DPS characters in a pi
     <tr>
       <td style="text-align:center"><a href="../characters/electro/fischl.md"><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt/> <br />Fischl</a>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li>Can be used as a <a href="../teams/physical.md">Physical</a> Main DPS in
+            a pinch.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -267,7 +272,7 @@ The following characters listed below can be used as Main DPS characters in a pi
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Can work quite well as the Main DPS in <a href="../teams/freeze.md"><b>Freeze </b></a>teams</li>
+          <li>Can be used as a Main DPS in <a href="../teams/freeze.md">Freeze </a>teams.</li>
         </ul>
       </td>
     </tr>
@@ -280,10 +285,25 @@ The following characters listed below can be used as Main DPS characters in a pi
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Deals substantial damage while her Elemental Burst is active.</li>
+          <li>Deals damage primarily while her Elemental Burst is active.</li>
           <li>Does not generate energy for herself with her Elemental Skill and typically
             requires an <a href="support/energy-battery.md">Energy Battery</a> support
             to provide energy for her to maintain Elemental Burst Uptime.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../characters/cryo/rosaria.md"><img src="../.gitbook/assets/ui_avataricon_rosaria.png" alt/> </a>
+        </p>
+        <p><a href="../characters/cryo/rosaria.md">Rosaria</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Can be used as a Main DPS in <a href="../teams/freeze.md">Freeze </a>or
+            <a
+            href="../teams/physical.md">Physical</a>teams.</li>
         </ul>
       </td>
     </tr>

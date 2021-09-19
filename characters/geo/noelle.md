@@ -2,8 +2,8 @@
 
 ## **Roles**
 
+* **Support:** Healer, Shielder
 * **Main DPS**
-* **Support:** shield, healer
 
 ## **Character Breakdown**
 

@@ -2,9 +2,8 @@
 
 ## **Roles**
 
-* **Main DPS**
-* **Sub DPS** \(Burst\)
 * **Support:** Healer, Buffer, Cleanser, Energy Battery
+* **Main DPS**
 
 ## **Character Breakdown:**
 

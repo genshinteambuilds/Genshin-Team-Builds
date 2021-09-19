@@ -3,6 +3,8 @@
 ## Roles
 
 * **Main DPS**
+* **Burst DPS**
+* **Support:** Energy Battery
 
 ## Character Breakdown:
 

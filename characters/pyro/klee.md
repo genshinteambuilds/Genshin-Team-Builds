@@ -3,6 +3,7 @@
 ## Roles
 
 * **Main DPS**
+* **Support:** Debuffer \(Constellation 2\)
 
 ## Character Breakdown: 
 

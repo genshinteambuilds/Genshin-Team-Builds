@@ -116,6 +116,14 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
+        <p><a href="../../characters/anemo/sucrose.md"><img src="../../.gitbook/assets/ui_avataricon_sucrose.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/anemo/sucrose.md">Sucros<del>e</del></a>&lt;del&gt;&lt;/del&gt;</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
         <p><a href="../../characters/anemo/venti.md"><img src="../../.gitbook/assets/ui_avataricon_venti.png" alt/> </a>
         </p>
         <p><a href="../../characters/anemo/venti.md">Venti</a>

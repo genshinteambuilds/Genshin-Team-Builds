@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Sub DPS** \(Burst, Off-Field\)
+* **Off-Field DPS**
 
 ## Character Breakdown
 

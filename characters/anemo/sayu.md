@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Support:** Debuff, Healer
+* **Support:** Healer, Debuffer \(With Viridescent Venerer\)
 
 ## Character Breakdown
 

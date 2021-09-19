@@ -4,7 +4,7 @@
 
 * **Main DPS**
 * **Burst DPS**
-* **Off-Field DPS** \(In a limited capacity, mostly for [Oneshot ]()setups\)
+* **Off-Field DPS** \(In a limited capacity, mostly for [Oneshot](../../teams/oneshot.md) [Melt ](../../teams/melt.md)setups\)
 
 ## Character Breakdown
 

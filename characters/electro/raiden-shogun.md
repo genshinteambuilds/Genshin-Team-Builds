@@ -3,7 +3,7 @@
 ## **Roles**
 
 * **Burst DPS** 
-* **Sub DPS** \(Off-Field\)
+* **Off-Field DPS**
 * **Support:** Energy Battery
 
 ## **Character Breakdown**
