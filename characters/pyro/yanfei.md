@@ -3,6 +3,7 @@
 ## Roles
 
 * **Main DPS**
+* **Support:** Shielder
 
 ## Character Breakdown
 
