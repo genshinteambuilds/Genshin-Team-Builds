@@ -2,8 +2,8 @@
 
 ## **Roles**
 
-* **Off-Field DPS**
-* **Support:** Cleanser \(Self Only\)
+* **Off-Field DPS** \(Elemental Burst\)
+* **Support:** Debuffer \(C2\), Cleanser \(Self Only\), Healer \(Limited Capability\)
 
 ## **Character Breakdown**
 

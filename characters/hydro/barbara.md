@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Support:** Healer
+* **Support:** Healer, Cleanser
 
 ## Character Breakdown
 

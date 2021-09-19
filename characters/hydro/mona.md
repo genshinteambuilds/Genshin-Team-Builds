@@ -3,7 +3,7 @@
 ## **Roles**
 
 * **Burst DPS**
-* **Support:** Crowd Control, Buffer
+* **Support:** Crowd Control \(Taunting\), Buffer
 
 ## **Character Breakdown**
 

@@ -2,7 +2,8 @@
 
 ## **Roles**
 
-* **Support:** Shielder, ****Debuffer, Crowd Control, Healer \(Constellation 6\)
+* **Support:** Shielder, ****Debuffer, Crowd Control \(Immobilization\), Healer \(C6\)
+* **Burst DPS**
 
 ## **Character Breakdown**
 

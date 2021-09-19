@@ -2,8 +2,9 @@
 
 ## Roles
 
-* **Main DPS** 
 * **Burst DPS**
+* **Support:** Buffer \(C1\)
+* **Main DPS**
 
 ## Character Breakdown
 

@@ -323,6 +323,35 @@ The following characters listed below can be used as Main DPS characters in a pi
         </ul>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../characters/anemo/traveler-anemo.md"><img src="../.gitbook/assets/ui_avataricon_lumine_anemo.png" alt/> </a>
+        </p>
+        <p><a href="../characters/anemo/traveler-anemo.md">Traveler (Anemo)</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Can be used as a Main DPS at the early stages of the game but is best
+            retired as soon as possible for any better alternatives.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../characters/geo/traveler-geo.md"><img src="../.gitbook/assets/ui_avataricon_aether_geo.png" alt/> </a>
+        </p>
+        <p><a href="../characters/geo/traveler-geo.md">Traveler (Geo)</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Can be used as a Main DPS at the early stages of the game but is best
+            retired as soon as possible for any better alternatives.</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 

@@ -2,9 +2,9 @@
 
 ## **Roles**
 
-* **Off-Field DPS**
+* **Off-Field DPS** \(Elemental Skill\)
 * **Burst DPS**
-* **Support:** Buffer
+* **Support:** Buffer \(A4, C4, C6\)
 
 ## **Character Breakdown**
 

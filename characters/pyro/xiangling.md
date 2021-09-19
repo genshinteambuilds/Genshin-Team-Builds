@@ -4,6 +4,7 @@
 
 * **Off-Field DPS**
 * **Main DPS**
+* **Support:** Buffer \(C6\), Debuffer \(C1\)
 
 ## Character Breakdown
 
