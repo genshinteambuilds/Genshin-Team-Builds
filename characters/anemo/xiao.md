@@ -8,17 +8,21 @@
 
 * Elemental Skill has two charges and allows Xiao to dash quickly at an opponent dealing Anemo Damage.
 * Elemental Burst infuses Xiao's weapon with Anemo and provides additional damage on Normal, Charged, and Plunging Attacks. Additionally, Xiao's jump height is greatly increased, allowing Xiao to jump and perform Plunging Attacks continually while his Elemental Burst is active.
+  * Xiao continuously loses HP throughout the duration of his Elemental Burst.
 * Plunging Attacks during Xiao's Burst produce Anemo spears from the ground which have a significant Area of Effect.
 
 ## **Additional Notes**
 
 * Xiao is often played with another Anemo character that can provide energy to fuel his Elemental Burst.
-* Xiao continuously loses HP throughout the duration of his Elemental Burst.
 * C1 gives Xiao an extra charge to his Elemental Skill.
 * C6 allows Xiao to reset his Elemental Skill cooldown after a Plunging Attack.
 * Xiao cannot generate Elemental Particles during the duration of his Burst, and is often referred to as a Selfish Main DPS as swapping off of Xiao during his Elemental Burst will cancel it.
 
 ## Works Well With
+
+![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+
+* Xiao works particularly well with Zhongli as he provides one of the few Debuffs that work for Anemo type elemental damage. His shielding also helps Xiao from taking additional damage during his Elemental Burst.
 
   ![](../../.gitbook/assets/element_anemo.webp)   ![](../../.gitbook/assets/element_geo.webp) ![](../../.gitbook/assets/element_pyro.webp) 
 
