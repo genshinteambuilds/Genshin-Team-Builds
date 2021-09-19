@@ -15,7 +15,7 @@
 ## **Additional Notes**
 
 * Zhongli’s jade shield debuffs nearby enemy units Elemental and Physical Resistance by 20%. 
-* Both Zhongli's damage and shielding abilities scale off of his max HP, making it much more valuable on him than most other characters. 
+* Both Zhongli's damage and shielding abilities scale off of his max HP, making it a much more valuable on him than most other characters. 
 * Zhongli's Stone Stele additionally causes all other Geo Constructs in the nearby area to pulse, doing additional Geo Damage. 
 
 ## **Works Well With**
