@@ -107,9 +107,9 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>While Xiangling burst is going, you want to melt your charged attacks
-            using the applied pyro. Do not use Ganyu burst while Xiangling burst is
-            available.</li>
+          <li>While Xiangling burst is on-going, you want to melt your aimed shot charged
+            attacks using the applied pyro. Do not use Ganyu burst while Xiangling
+            burst is active.</li>
         </ul>
       </td>
     </tr>
@@ -123,7 +123,7 @@ Refer to the character notes below for how characters work in this particular te
             Non-Ganyu teams are very unstable in their reactions so you may find that
             it often switches from reverse melting with your cryo carry to melting
             with Xiangling, which isn&#x2019;t really a problem when it happens because
-            her hits do a lot of damage anyways.</li>
+            Xiangling&apos;s pyronado do a lot of damage as well.</li>
         </ul>
       </td>
     </tr>
@@ -151,8 +151,8 @@ Refer to the character notes below for how characters work in this particular te
         <p></p>
         <ul>
           <li>She is essentially mandatory as she is currently the only character able
-            to apply pyro at a reasonable rate while off of the field using her burst
-            and elemental skill.</li>
+            to apply pyro at a reasonable rate while off-field using her elemental
+            burst and skill.</li>
         </ul>
       </td>
     </tr>
@@ -179,7 +179,7 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <ul>
-          <li>Some people opt to run Kaeya on the Rosaria team under the assumption
+          <li>Some people choose to run Kaeya on the Rosaria team under the assumption
             that as reverse melt is a weak side reaction, in theory you would be able
             to melt both Kaeya and Rosaria&#x2019;s bursts simultaneously. Just be
             prepared for that not to be the case sometimes.</li>
@@ -196,9 +196,9 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>She gives your other characters a part of her elemental mastery, as well
-            as provides minor crowd control. Can run Viridescent Venerer artifacts
-            to shred resistances.</li>
+          <li>She buffs the party&apos;s elemental mastery based on her elemental mastery,
+            as well as provides minor crowd control. Can run 4 set Viridescent Venerer
+            artifacts to decrease elemental resistances.</li>
         </ul>
       </td>
     </tr>
@@ -213,8 +213,8 @@ Refer to the character notes below for how characters work in this particular te
         <p></p>
         <ul>
           <li>He gives your other characters extra elemental damage based on his elemental
-            mastery, as well as provides minor crowd control. Can run Viridescent Venerer
-            artifacts to shred resistances.
+            mastery, as well as provides minor crowd control. Can run 4 set Viridescent
+            Venerer artifacts to decrease elemental resistances.
             <br />
           </li>
         </ul>
@@ -271,7 +271,7 @@ Refer to the character notes below for how characters work in this particular te
 
 ![](../.gitbook/assets/ui_avataricon_ganyu.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_zhongli.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Land Ganyu charged attacks during Xiangling burst while near the enemy. Zhongli provides his shield to make this task easier to do. Bennett is here to heal and buff your team and get Xiangling energy should you need it.
+* Land Ganyu charged attacks during Xiangling burst while near the enemy. Zhongli provides shield to protect ganyu from getting staggered and take no damage while charging her attacks. Bennett is here to heal and buff your team and get Xiangling energy should you need it.
 
 ![](../.gitbook/assets/ui_avataricon_rosaria.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
 
