@@ -67,14 +67,15 @@ Refer to the character notes below for how characters work in this particular te
           alt/>
         </p>
         <p>Zhongli</p>
-        <p>(Shielder, Buffer/Debuffer, Burst)</p>
+        <p>(Shielder, Buffer/Debuffer,</p>
+        <p>Burst)</p>
       </td>
       <td style="text-align:center">
         <p>
           <img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/>
         </p>
         <p>Bennett</p>
-        <p>Bennett (Healer, Buffer)</p>
+        <p>(Healer, Buffer)</p>
       </td>
     </tr>
     <tr>
@@ -105,7 +106,8 @@ Refer to the character notes below for how characters work in this particular te
           alt/>
         </p>
         <p>Zhongli</p>
-        <p>(Shielder, Buffer/Debuffer, Burst)</p>
+        <p>(Shielder, Buffer/Debuffer,</p>
+        <p>Burst)</p>
       </td>
     </tr>
     <tr>
@@ -218,8 +220,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Press elemental burst, spam normal attacks. Very generic physical claymore
-            user, does not scale particularly well but is usable. At higher constellations,
+          <li>Press his elemental burst, then take advantage of the increased attack
+            speed to deal more damage with his normal attacks. At higher constellations,
             does a decent amount of electro damage along with physical damage.</li>
         </ul>
       </td>
