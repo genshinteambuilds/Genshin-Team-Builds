@@ -14,7 +14,7 @@
   * [Crowd Control](roles/support/crowd-control.md)
   * [Cleanser](roles/support/cleanser.md)
   * [Energy Battery](roles/support/energy-battery.md)
-  * [Healer / Shielder](roles/support/shielder.md)
+  * [Healer / Shielder](roles/support/healer-shielder.md)
 
 ## Characters
 

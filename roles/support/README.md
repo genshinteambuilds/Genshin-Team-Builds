@@ -16,7 +16,7 @@ Check the following pages for all the different types of support characters in G
 
 {% page-ref page="energy-battery.md" %}
 
-{% page-ref page="shielder.md" %}
+{% page-ref page="healer-shielder.md" %}
 
 
 
