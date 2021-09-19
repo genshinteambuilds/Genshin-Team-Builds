@@ -7,56 +7,60 @@
 
 ##  Character Breakdown
 
-* Her Elemental Skill Absorbs damage that scales off based on her Max HP and has levels of damage depending on the number of times hit or by perfectly parrying the enemy.
-* Beidou's Elemental Burst is her most important ability, after doing a normal or charged attack, deals a lightning discharge that jumps between enemies. 
+* Elemental Skill provides a brief shield based off of her max HP, followed up by a counterattack that scales in both damage and energy generated through either absorbing multiple attacks or activating the skill at the moment where an attack hits you.
+* Beidou's Elemental Burst is her most important ability, creating chain lightning when your on-field character connects with Normal or Charged Attacks while also providing a substantial amount of damage reduction. 
+* Damage massively depends on there being multiple enemies on field, as lightning from Elemental Burst doesn't chain on a single enemy, leading to a huge damage loss of 66% \(or 80% at C2+\)
+* Beidou excels most as an Off-Field DPS, relying on her massive Elemental Burst scaling to provide damage. 
 
-## Additional Notes
+## Additional Notes 
 
-* She excels the most at being a Sub=dps.
-* To perfect parry with her E, within 20frames on the cast you want to get hit.
-* C2 is her best constellation as its a 66% damage increase on just her Q.
-* Her Q snapshots so make sure to get buffs before casting her Q as they won’t apply after. 
+* Casting Elemental Skill within 20 frames of an attack connecting with you will instantly fully charge it's damage.
+* C2 is her most important constellation, providing a 66% increase in potential damage on her Elemental Burst.
+* Beidou's Elemental Burst snapshots buffs on cast, allowing supports such a Bennet to provide a damage increase for the entire duration.
+* A second electro character is typically a good pairing with Beidou, as her energy generation falls behind the immense cost of her Elemental Burst even with perfect activations of her Elemental Skill. 
 
 ## Works Well With
 
 ![](../../.gitbook/assets/ui_avataricon_keqing.png) 
 
-* Arguably Keqing’s best subdps due to her being electro and making it easier to generate particles for her.
+* Arguably Keqing’s best Sub DPS due to Keqing's energy particle generation allowing you to fuel Beidou's high cost Elemental Burst.
+* Keqing's tendency to spend large amounts of time Normal or Charged Attacking allows Beidou's Elemental Burst to constantly trigger. 
 
 ![](../../.gitbook/assets/ui_avataricon_tartaglia.png) 
 
-* Usually used for “Fireworks” comp where you keep proccing Electro-Charged.
+* Usually used for “Fireworks” comp where Childe's high Hydro application combines with Beidou's high Electro application to constantly trigger Electrocharged. 
 
 ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) 
 
-* Same case with childe, to keep proccing Electro-Charged and they both work together well as subdps.
+* Fills a similar function to Childe, with Xingqiu's Elemental Burst providing the Hydro application for Electrocharged.
+* The combination of damage reduction on both Beidou and Xingqiu's elemental burst provides near invulnerability while both are active.
 
 ![](../../.gitbook/assets/ui_avataricon_eula.png)
 
-* Beidou applies electro for superconduct and her Electro damage can make up for the physical damage Eula does against physical resistant enemies. 
+* Beidou applies Electro for Superconduct and her high Electro damage can assist Eula against enemies with high Physical resistance. 
 
 ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) 
 
-* Typically used in a “Taser Comp” where Xingqiu and Fischl attack with Beidou and Sucrose just keeps swirling the enemies.
-* Kazuha buffs Beidou and the team’s damage with his elemental dmg buff and Viridescent Venerer \(4\).
+* Typically used in a “Taser Comp” where Xingqiu and Fischl provide damage with Beidou and the Anemo character triggers Swirl to reduce enemy resistances. 
+* Kazuha provides additional damage with his elemental damage increase, especially in dual electro teams.
 
-![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../../.gitbook/assets/ui_avataricon_bennett.png) ****![](../../.gitbook/assets/ui_avataricon_sara.png) 
 
-* Due to how Beidou Q snapshots, you can cast her Q around the middle of the duration of Bennett Q to make full use of the buff for the team.
+* Beidou's ability to snapshot buffs with her Elemental Burst allows her to take full advantage of both Bennet and Kujou Sara's attack buffs. \(Note that the Electro Crit Damage Increase from Kujou Sara's C6 cannot be snapshot and will not buff the entirety of Beidou's Elemental Burst.\) 
 
 ![](../../.gitbook/assets/ui_avataricon_fischl.png) 
 
-* Helps deal electro damage with Beidou and helps generate particles for her due to her high burst energy cost.
+* Provides additional Off-Field damage to compliment Beidou and helps generate energy particles to fuel her expensive Elemental Burst. 
 
 ## Does Not Work Well With
 
 ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_ayaka.png) 
 
-* Ganyu and Ayaka both don't synergize well with Beidou since they're both cryo DPS, meaning superconduct would be not as beneficial as to physical or electro charged team comps.
+* Pairing Beidou with Ganyu or Ayaka will largely lead to triggering Superconduct, a reaction which does not increase the pure Cryo damage of these characters and make take away from other more beneficial reactions.
 
 ![](../../.gitbook/assets/element_pyro.webp) 
 
-* Overload can be a problem against enemies that can be knock backed as you might waste too much time chasing after the enemies.
+* Against enemies with low knockback resistance, the knockback of Overload can lead to spending too much time chasing around enemies.
 
 ## Teams
 
@@ -70,13 +74,14 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Beidou's burst offers a lot of off field dps that these comps can take advantage due to their attack patters and their AoE damage.
+* Beidou is typically used as an Off-Field DPS in these teams with an on-field character such as Keqing or Childe to trigger her Elemental Burst's chain lightning.
+* A second Electro character is recommended to help fund Beidou's Elemental Burst. 
 
 [Physical](../../teams/physical.md)
 
 ![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
-* Beidou provides off field electro damage for Eula to superconduct and decrease enemies physical res.
+* Beidou provides Off-Field Electro damage for Eula to trigger Superconduct and decrease enemies Physical Resistance. 
 
 [Overload](../../teams/overload.md)
 
@@ -84,7 +89,8 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Beidou's high off field dps makes this team comp work especially with big or heavy enemies that can't get blown away with the reaction.
+* Beidou's high Off-Field DPS makes this team comp work especially against large or heavy enemies who don't get blown away by Overload.
+* Yoimiya's range can help negate some of the downsides of Overload's Knockback.
 
 
 
