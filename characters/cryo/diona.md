@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Support:** Healer, Shielder, Energy Battery, Cleanser, Buffer \(NO, C6\)
+* **Support:** Healer, Shielder, Energy Battery, Cleanser, Buffer \(C6\)
 
 ## **Character Breakdown**
 
