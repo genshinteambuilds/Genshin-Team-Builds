@@ -144,8 +144,9 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Standard Catalyst user. See <a href="../characters/geo/ningguang.md">Ningguang&apos;s</a> page
-            for usage.</li>
+          <li>Deals Geo damage with all of her attacks due to being a Catalyst user.
+            See <a href="../characters/geo/ningguang.md">Ningguang&apos;s</a> page for
+            usage.</li>
         </ul>
       </td>
     </tr>
