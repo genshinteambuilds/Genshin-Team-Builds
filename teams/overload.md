@@ -1,6 +1,6 @@
 # Overload
 
-Overload occurs when you hit an enemy marked with pyro using an electro attack or vice versa, doing a small AoE hit of pyro damage and applying knockback to enemies that can be knocked back. This is not a very high amount of damage, so this will primarily be used to supplement your damage rather than be the primary focus. Thus, we still require a primary damage dealer similar to other teams, and as Overload is pyro + electro, said carry will be from one of these elements \(most often pyro\).
+Overload occurs when you hit an enemy marked with pyro using an electro attack or vice versa, creating a small AoE hit of pyro damage and applying knockback to enemies that can be knocked back. This is not a very high amount of damage, so this will primarily be used to supplement your damage rather than be the primary focus. Thus, we still require a primary damage dealer similar to other teams, and as Overload is pyro + electro, said carry will be from one of these elements \(most often pyro\).
 
 {% hint style="info" %}
 Characters are ranked roughly according to how well they perform in this team composition.
@@ -141,15 +141,13 @@ Refer to the character notes below for how characters work in this particular te
   </tbody>
 </table>
 
- You can think of team building for overload like this 
+ You can think of team building for overload like this: 
 
 |  |  |  |
 | :---: | :---: | :---: |
-|  | **On Field Pyro Application** | **Off Field Pyro Application** |
-| **On Field Electro Application** | Does not work. | Works |
-| **Off Field Electro Application** | Works | Does not work |
-
-
+|  | **On-Field Pyro Application** | **Off-Field Pyro Application** |
+| **On-Field Electro Application** | Does not work. | Works |
+| **Off-Field Electro Application** | Works | Does not work |
 
 Carries represent on field application of their respective elements \(electro for Keqing, pyro for the others\). After those two roles are fulfilled, the remaining slots are there to add additional damage/ supplement survivability.
 
@@ -173,10 +171,10 @@ Carries represent on field application of their respective elements \(electro fo
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Infuses autos and charge attacks via casting her skill twice and can apply
-            electro with autos and skill. Burst is very cheap energywise and applies
-            electro at a fairly high rate. Will be used as a main dps applying electro,
-            should be paired with pyro supports.</li>
+          <li>Infuses normal and charge attacks via casting her skill twice and can
+            apply electro with autos and skill. Burst is very cheap, energy wise, and
+            applies electro at a fairly high rate. Will be used as a main dps applying
+            electro, should be paired with pyro supports.</li>
         </ul>
       </td>
     </tr>
@@ -341,8 +339,9 @@ Carries represent on field application of their respective elements \(electro fo
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Elemental Mastery scaling buffer, gives you more damage and minor grouping
-            potential. Can run Viridescent Venerer to shred both pyro and electro resistances.</li>
+          <li>Elemental Mastery scaling buffer, gives you more elemental damage bonus
+            and minor grouping potential. Can run 4 set Viridescent Venerer to decrease
+            both pyro and electro resistances.</li>
         </ul>
       </td>
     </tr>
@@ -356,10 +355,10 @@ Carries represent on field application of their respective elements \(electro fo
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Em scaling buffer, provides teammates with additional em based on hers,
-            which results in more overload damage. Minor grouping and crowd control
-            from her skills will also help. Can be run with Viridescent Venerer to
-            shred either pyro or electro resistances.</li>
+          <li>Elemental Mastery scaling buffer, provides teammates with additional elemental
+            mastery based on hers, which results in more overload damage. Minor grouping
+            and crowd control from her skills will also help. Can be run with 4 set
+            Viridescent Venerer to decrease either pyro or electro resistances.</li>
         </ul>
       </td>
     </tr>
@@ -392,7 +391,7 @@ Carries represent on field application of their respective elements \(electro fo
         <ul>
           <li>Sometimes slotted in for additional damage, primarily from his burst firing
             hydro swords at enemies from normal and charged attacks. May potentially
-            cause other reactions (electrocharged and vaporise) instead of overload
+            cause other reactions (electrocharged and vaporize ) instead of overload
             to occur, but that is not typically an issue.</li>
         </ul>
       </td>
@@ -448,8 +447,9 @@ Carries represent on field application of their respective elements \(electro fo
         <p>Jean</p>
       </td>
       <td style="text-align:left">
+        <p></p>
         <ul>
-          <li>Healer that can double as a Viridescent Venerer carrier.</li>
+          <li>Healer that can double as a 4 set Viridescent Venerer carrier.</li>
         </ul>
       </td>
     </tr>
@@ -479,9 +479,9 @@ Carries represent on field application of their respective elements \(electro fo
 
 ![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_beidou.png) ![](../.gitbook/assets/ui_avataricon_fischl.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Keep Fischl’s pet Oz on the field as consistently as possible by alternating between her skill and burst. Beidou’s burst should be used whenever it is up. Xiangling’s skill and burst should also be used whenever available. During downtime, stay on Bennett and use his skill whenever available, as its cooldown is fairly short.
+* Keep Fischl’s Oz on the field as consistently as possible by alternating between her skill and burst. Beidou’s burst should be used whenever it is up. Xiangling’s skill and burst should also be used whenever available. During downtime, stay on Bennett and use his skill whenever available, as its cooldown is fairly short.
 
 ![](../.gitbook/assets/ui_avataricon_klee.png) ![](../.gitbook/assets/ui_avataricon_fischl.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) ![](../.gitbook/assets/ui_avataricon_zhongli.png) 
 
-* Keep Fischl’s pet Oz on the field as consistently as possible by alternating between her skill and burst. Zhongli and Bennett are there to keep you alive and provide buffs/ shred enemy resistances. Klee should be on the field doing damage while other character’s cooldowns are not available.
+* Keep Fischl’s Oz on the field as consistently as possible by alternating between her skill and burst. Zhongli and Bennett are there to keep you alive and provide buffs/ shred enemy resistances. Klee should be on the field doing damage while other character’s cooldowns are not available.
 
