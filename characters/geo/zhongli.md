@@ -7,7 +7,7 @@
 
 ## **Character Breakdown**
 
-* Zhongli is a universal support. He provides the strongest shield with over 100% uptime and reliable crowd control with his petrify from Elemental Burst.
+* Zhongli is a universal support. He provides the strongest shield with over 100% uptime and reliable crowd control with his petrify from his Elemental Burst.
 * Elemental Skill \(tap\) has a short base cooldown and summons a rock pillar \(Stone Stele, Geo Construct\) that pulses Geo Damage in short intervals. 
 * Holding Zhongli’s Elemental Skill will also summon a Stone Stele \(only if the maximum amount has not been reached yet\) and provide a jade shield based on his maximum HP. 
 * Elemental Burst summons a large meteor that deals a large amount of Geo Damage in a large area around the target and petrifies enemy units for several seconds. 
