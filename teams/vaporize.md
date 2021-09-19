@@ -335,51 +335,5 @@ Refer to the character notes below for how characters work in this particular te
 
 \*\*\*\*![](../.gitbook/assets/ui_avataricon_barbara.png) ****![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_venti.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Barbara does her damage using her charged attack after an enemy is affected with pyro. Her skill and burst can be used for healing purposes, though be sure not to stand too close to the enemy so her skill does not accidentally apply hydro. Xiangling is your main source of pyro application using her skill and burst. Venti is here for 4 set Viridescent Venerer’s resistance decrease, as well as being able to supplement Xiangling’s pyro application using his tornado. Bennett is here for his buff and ability to keep Xiangling’s burst charged. The healing is a nice bonus. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Barbara does her damage using her charged attack after an enemy is affected with pyro. Her skill and burst can be used for healing purposes, though be sure not to stand too close to the enemy so her skill does not accidentally apply hydro. Xiangling is your main source of pyro application using her skill and burst. Venti is here for 4 set Viridescent Venerer’s resistance decrease, as well as being able to supplement Xiangling’s pyro application using his tornado. Bennett is here for his buff and ability to keep Xiangling’s burst charged. The healing is a nice bonus.
 
