@@ -2,7 +2,8 @@
 
 ## Roles
 
-* **Support:** Buffer, Debuffer, Crowd Control, Energy Battery
+* **Support:** Buffer \(A4, C6\), Debuffer \(VV\), Crowd Control, Energy Battery
+* **Off-Field DPS** \(Elemental Burst\)
 
 ## Character Breakdown
 

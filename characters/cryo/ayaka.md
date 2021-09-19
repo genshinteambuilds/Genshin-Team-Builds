@@ -4,7 +4,8 @@
 
 * **Main DPS**
 * **Burst DPS**
-* **Off-Field DPS** \(In a limited capacity, mostly for [Oneshot](../../teams/oneshot.md) [Melt ](../../teams/melt.md)setups\)
+* **Off-Field DPS** \(Elemental Burst, in a limited capacity, mostly for [Oneshot](../../teams/oneshot.md) [Melt ](../../teams/melt.md)setups\)
+* **Support**: Debuffer \(C4\)
 
 ## Character Breakdown
 

@@ -32,6 +32,22 @@ Click on a character's portrait to see how the character works and functions in 
       </td>
     </tr>
     <tr>
+      <td style="text-align:center">
+        <p><a href="../../characters/cryo/ayaka.md"><img src="../../.gitbook/assets/ui_avataricon_ayaka.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/cryo/ayaka.md">Ayaka</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Deals Off-Field Cryo damage via Elemental Burst</li>
+          <li>This is only for a very short duration and is primarily only used for
+            <a
+            href="../../teams/oneshot.md">Oneshot</a> <a href="../../teams/melt.md">Melt</a> setups.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:center">&#x200B;<a href="../../characters/electro/beidou.md"><img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MXIGQrLbl2w5SJQB52E%2F-MXIHHGNDrwWxA0OuLku%2Fui_avataricon_beidou.png?alt=media&amp;token=728f8352-bbf8-4969-9fc2-cd1d8eb00fea" alt/> <br />Beidou</a>
       </td>
       <td style="text-align:left">

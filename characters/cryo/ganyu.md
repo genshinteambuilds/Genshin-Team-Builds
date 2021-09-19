@@ -4,7 +4,7 @@
 
 * **Main DPS**
 * **Off-Field DPS**
-* **Support:** Crowd Control \(Taunting\)
+* **Support:** Crowd Control \(Taunting\), Buffer \(C4\)
 
 ## **Character Breakdown**
 

@@ -2,7 +2,7 @@
 
 ## **Roles**
 
-* **Main DPS** \(Cryo/Physical\)
+* **Main DPS**
 * **Burst DPS**
 
 ## **Character Breakdown**

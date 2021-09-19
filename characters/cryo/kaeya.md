@@ -3,6 +3,7 @@
 ## Roles
 
 * **Off-Field DPS**
+* **Support:** Energy Battery
 * **Main DPS**
 
 ## Character Breakdown

@@ -3,6 +3,7 @@
 ## Roles
 
 * **Burst DPS**
+* **Support:** Buffer \(C2\)
 
 ## Character Breakdown
 

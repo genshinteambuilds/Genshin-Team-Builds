@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Support:** Healer, Debuffer, Energy Battery, Cleanser, Crowd Control
+* **Support:** Healer, Debuffer \(VV, C4\), Energy Battery, Cleanser, Crowd Control, Buffer \(NO, C2\)
 * **Burst DPS**
 
 ## Character Breakdown
