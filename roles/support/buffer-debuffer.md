@@ -257,6 +257,19 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
+        <p><a href="../../characters/electro/raiden-shogun.md"><img src="../../.gitbook/assets/ui_avataricon_shougun.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/electro/raiden-shogun.md">Raiden Shogun</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Buffs Attack after Raiden Shogun&apos;s Elemental Burst ends.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
         <p><a href="../../characters/cryo/rosaria.md"><img src="../../.gitbook/assets/ui_avataricon_rosaria.png" alt/> </a>
         </p>
         <p><a href="../../characters/cryo/rosaria.md">Rosaria</a>
@@ -368,6 +381,19 @@ Click on a character's portrait to see how the character works and functions in 
         <ul>
           <li>Debuffs Physical Resistance at C4 when enemies are hit by Xinyan&apos;s
             Elemental Skill.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../../characters/pyro/yoimiya.md"><img src="../../.gitbook/assets/ui_avataricon_yoimiya.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/pyro/yoimiya.md">Yoimiya</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Buffs Attack at A4 when using Yoimiya&apos;s Elemental Burst.</li>
         </ul>
       </td>
     </tr>

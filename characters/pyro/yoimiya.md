@@ -3,6 +3,8 @@
 ## Roles
 
 * **Main DPS**
+* **Off-Field DPS** \(Elemental Burst\)
+* **Support:** Buffer \(A4\)
 
 ## Character Breakdown
 

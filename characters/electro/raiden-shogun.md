@@ -4,7 +4,7 @@
 
 * **Burst DPS** 
 * **Off-Field DPS** \(Elemental Skill\)
-* **Support:** Energy Battery
+* **Support:** Energy Battery, Buffer \(C4\)
 
 ## **Character Breakdown**
 
