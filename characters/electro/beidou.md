@@ -14,7 +14,7 @@
 
 ## Additional Notes 
 
-* Casting Elemental Skill within 20 frames of an attack connecting with you will instantly fully charge it's damage.
+* Using Elemental Skill within 20 frames of an attack connecting with you will instantly fully charge it's damage.
 * C2 is her most important constellation, providing a 66% increase in potential damage on her Elemental Burst.
 * Beidou's Elemental Burst snapshots buffs on cast, allowing supports such a Bennet to provide a damage increase for the entire duration.
 * A second electro character is typically a good pairing with Beidou, as her energy generation falls behind the immense cost of her Elemental Burst even with perfect activations of her Elemental Skill. 
