@@ -109,6 +109,19 @@ Click on a character's portrait to see how the character works and functions in 
     </tr>
     <tr>
       <td style="text-align:center">
+        <p><a href="../../characters/electro/raiden-shogun.md"><img src="../../.gitbook/assets/ui_avataricon_shougun.png" alt/> </a>
+        </p>
+        <p><a href="../../characters/electro/raiden-shogun.md">Raiden Shogun</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Deals Off-Field Electro damage via Elemental Burst</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
         <p><a href="../../characters/cryo/rosaria.md"><img src="../../.gitbook/assets/ui_avataricon_rosaria.png" alt/> </a>
         </p>
         <p><a href="../../characters/cryo/rosaria.md">Rosaria</a>

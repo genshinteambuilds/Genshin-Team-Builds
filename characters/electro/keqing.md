@@ -3,6 +3,7 @@
 ## **Roles**
 
 * **Main DPS** \(Electro, Physical\)
+* **Burst DPS**
 
 ## **Character Breakdown**
 

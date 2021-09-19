@@ -3,6 +3,7 @@
 ## Roles
 
 * **Off-Field DPS**
+* **Support:** Debuffer \(C2\)
 
 ## Character Breakdown
 
