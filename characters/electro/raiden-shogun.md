@@ -3,7 +3,7 @@
 ## **Roles**
 
 * **Burst DPS** 
-* **Off-Field DPS**
+* **Off-Field DPS** \(Elemental Skill\)
 * **Support:** Energy Battery
 
 ## **Character Breakdown**

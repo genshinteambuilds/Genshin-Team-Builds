@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Off-Field DPS**
+* **Off-Field DPS** \(Elemental Burst\)
 * **Support:** Debuffer \(C6\), Cleanser \(Self Only\)
 
 ##  Character Breakdown

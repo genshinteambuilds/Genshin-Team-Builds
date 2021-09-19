@@ -61,7 +61,8 @@ Click on a character's portrait to see how the character works and functions in 
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Deals Off-Field Electro damage via Elemental Skill</li>
+          <li>Deals Off-Field Electro damage via Elemental Skill and when Oz is left
+            on the field after using her Elemental Burst.</li>
         </ul>
       </td>
     </tr>

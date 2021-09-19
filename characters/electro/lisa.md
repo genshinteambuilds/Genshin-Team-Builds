@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Off-Field DPS**
+* **Off-Field DPS** \(Elemental Burst\)
 * **Support:** Debuffer \(C2\)
 
 ## Character Breakdown

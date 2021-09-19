@@ -3,7 +3,7 @@
 ## **Roles**
 
 * **Main DPS**
-* **Off-Field DPS**
+* **Off-Field DPS** \(Elemental Burst\)
 * **Support:** Crowd Control \(Taunting\), Buffer \(C4\)
 
 ## **Character Breakdown**
