@@ -1,6 +1,6 @@
 # Freeze
 
-This comp centers around the freeze reaction, requiring both Cryo and Hydro to be applied to the enemies with the goal of near permanently freezing the enemy units and gaining up to 55% Crit Rate while the enemies are frozen through Blizzard Strayer 4 set \(40%\) and Cryo resonance \(15%\). 
+This team composition centers around the freeze reaction, requiring both Cryo and Hydro to be applied to the enemies with the goal of near permanently freezing the enemy units and gaining up to 55% Crit Rate while the enemies are frozen through Blizzard Strayer 4 set \(40%\) and Cryo resonance \(15%\). 
 
 The optimal party setup would be to have a Cryo Main DPS, Hydro Support, Cryo Support, Anemo Support. One of the supports should have some healing/shielding capabilities. This setup gains full benefits of extra Crit Rate \(55%\) on enemies with Frozen status as well as grouping CC and/or Viridescent Venerer to apply 40% Cryo/Hydro resistance shred. 
 
