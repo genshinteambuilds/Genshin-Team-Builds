@@ -1,6 +1,14 @@
 # Physical
 
-Physical teams only benefit off of the superconduct reaction. Thus it is the reaction that all of these teams are based around. Besides that, there are few ways to scale physical damage, which are buffs, defense decrease, and physical resistance decrease.
+This team composition mainly focuses around physical damage. This damage type isn't an elemental reaction but there are certain characters and elemental reactions that can increase physical damage, mainly the Superconduct reaction.
+
+Superconduct requires Cryo and Electro to be applied on an enemy which will then decrease their physical resistance by 40%. This makes all physical teams require a Cryo and Electro unit to take advantage of this reaction.
+
+{% hint style="info" %}
+If you add an extra Cryo Unit into your Party you will gain Cryo Resonance granting 15% Crit Rate to enemies affected by Cryo.  
+  
+If you add an extra Electro Unit into your Party you will gain Electro Resonance which will provide you with electro particles when you create electro-related elemental reactions. \(Electro-Charged, Overload and Superconduct\)
+{% endhint %}
 
 {% hint style="info" %}
 Characters are ranked roughly according to how well they perform in this team composition.
@@ -203,10 +211,11 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>A lot of her damage comes from her elemental burst. Your goal is to create
-            superconduct reaction, along with her hold skill at 2 stacks to decrease
-            as much resistances while stacking up her burst as much as possible. For
-            a more in-depth look at her burst team, check out the <a href="oneshot.md">Oneshot </a>page.</li>
+          <li>The majority of her damage comes from her Elemental Burst. Pairs well
+            with Raiden to provide Eula with Energy for her burst and also create Superconduct
+            Reactions.</li>
+          <li>Eula can also reduce the physical resistance of enemies with her Elemental
+            Skill.</li>
         </ul>
       </td>
     </tr>
@@ -220,9 +229,10 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Press his elemental burst, then take advantage of the increased attack
-            speed to deal more damage with his normal attacks. At higher constellations,
-            does a decent amount of electro damage along with physical damage.</li>
+          <li>Razor is a flexible carry and can work with alot of Support Units to increase
+            his damage. When casting his Elemental Burst he can deal his attack speed
+            is increased and can deal both Physical and Electro Damage at the same
+            time, which allows him to create elemental reactions.</li>
         </ul>
       </td>
     </tr>
@@ -270,9 +280,9 @@ Refer to the character notes below for how characters work in this particular te
           <li>Her Elemental Burst is used to summon the turret again instead of waiting
             for the cooldown. Do not use her elemental skill if it comes off cooldown
             while the turret from her burst is still on-field as it will get replaced.</li>
-          <li>Her 6th constellation allows for additional electro hits to your main
-            carry&#x2019;s damage to help with superconduct application. These extra
-            hits however do not give you additional energy particles.</li>
+          <li>Her 6th constellation allows for additional electro hits to the main carry&#x2019;s
+            damage to help with superconduct application. These extra hits however
+            do not give you additional energy particles.</li>
         </ul>
       </td>
     </tr>
@@ -306,8 +316,8 @@ Refer to the character notes below for how characters work in this particular te
         <p></p>
         <ul>
           <li>Elemental skill can be tapped or held and is used to parry enemy attacks.
-            You get more energy particles if you parry as close to the perfect timing
-            or taking multiple hits while holding the skill.</li>
+            More energy particles can be gained when parrying as close to the perfect
+            timing or taking multiple hits while holding the skill.</li>
           <li>Beidou&apos;s Elemental Burst applies electro and chains towards multiple
             enemies.</li>
           <li>Elemental Burst can deal a large amount of damage if properly geared.</li>
@@ -379,6 +389,23 @@ Refer to the character notes below for how characters work in this particular te
     <tr>
       <td style="text-align:center">
         <p>
+          <img src="../.gitbook/assets/ui_avataricon_rosaria.png" alt/>
+        </p>
+        <p>Rosaria</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Provides an off field Elemental Burst that damages and applies Cryo around
+            every 2 seconds.</li>
+          <li>Can increase the whole party&apos;s Crit Rate (up to 15%) at Ascension
+            4.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
           <img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
         </p>
         <p>Zhongli</p>
@@ -386,38 +413,84 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>His elemental skill decreases physical and elemental resistance and creates
-            a shield. Burst is a petrify. Part of the geo pair for resonance.</li>
+          <li>Provides Shielding and Debuffing whenever Zhongli&apos;s Jade Shield is
+            active.</li>
+          <li>Elemental Burst deals a large amount of damage.</li>
+          <li>Elemental Burst immobilizes Enemies for a short period of time.</li>
+          <li>Can buff the team when equipped with the Tenacity of Millelith 4-set.</li>
+          <li>The team may not require a dedicated Healer since Zhonglis shield is incredibly
+            strong when properly geared.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">
         <p>
-          <img src="../.gitbook/assets/ui_avataricon_albedo.png" alt/>
+          <img src="../.gitbook/assets/ui_avataricon_sara.png" alt/>
         </p>
-        <p>Albedo</p>
+        <p>Sara</p>
       </td>
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Only ran alongside Zhongli for geo resonance and extra damage off-field
-            and energy from his skill.</li>
+          <li>Elemental Skill leaves a crowfeather on her next charged shot. This crowfeather
+            gives the on-field character an attack boost.</li>
+          <li>Elemental Burst also gives the on-field character an attack boost. This
+            boost however scales from her Elemental Skill.</li>
+          <li>Will usually be carrying Noblesse Oblige 4-set to further buff characters
+            on using Elemental Burst.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/>
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnJf4Wx6YM4Ib1r%2FUI_AvatarIcon_Xingqiu.png?alt=media&amp;token=4b2c3ec7-8d2c-4389-a13b-39411f2ac690"
+          alt/>
         </p>
         <p>Xingqiu</p>
       </td>
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Burst adds extra damage to normal attacks. Run if nothing better to use.
-            Make sure that you can still apply superconduct.</li>
+          <li>Elemental Burst can consistently provide the Hydro allowing Electro supports
+            or Carries to create electro-charged reactions alongside frozen, shatter
+            and superconduct depending on which units are in the party.</li>
+          <li>Elemental Skill and Elemental Burst also deal a large amount of damage
+            on their own when properly geared.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>&#x200B;
+          <img src="../.gitbook/assets/ui_avataricon_kaeya.png" alt/>
+        </p>
+        <p>Kaeya</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>See notes in Supports Section</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnKuNWVK04NETuZ%2FUI_AvatarIcon_Albedo.png?alt=media&amp;token=820af558-f350-43c3-8f93-3e87a0f2e4ff"
+          alt/>&#x200B;</p>
+        <p>Albedo</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Mainly paired with Zhongli for Geo Resonance.</li>
+          <li>Elemental Skill leaves a construct that deals damage off-field and gives
+            energy particles.</li>
+          <li>Elemental Burst deals high burst damage and increases the Elemental Mastery
+            of the entire party. This however doesn&apos;t benefit physical carries
+            as physical damage isn&apos;t an elemental reaction.</li>
         </ul>
       </td>
     </tr>
@@ -444,10 +517,11 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Her skill is a shield that applies cryo on initial cast. Her burst is
-            an area heal over time that requires you to be inside the circle. Can function
-            as your primary cryo application for superconduct and battery but it is
-            advisable to have sacrificial bow.</li>
+          <li>Elemental Skill creates a shield that applies cryo on the enemy it hits.
+            The duration of the shield and the number particles it gives depends whenever
+            the elemental skill is tapped or held.</li>
+          <li>Elemental Burst creates a field that periodically applies cryo to enemies
+            and heals the on-field character in it&apos;s AoE.</li>
         </ul>
       </td>
     </tr>
@@ -461,9 +535,26 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>His burst is an area heal that requires you to stay in the circle, provides
-            you bonus attack equal to a percentage of his base attack while on the
-            circle.</li>
+          <li>Buffs the Attack of characters standing within the field created by Bennett&apos;s
+            Elemental Burst.</li>
+          <li>Will usually be carrying Noblesse Oblige 4-set to further buff characters
+            on using Elemental Burst.</li>
+          <li>Provides healing.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnLUog7ikP0v89m%2FUI_AvatarIcon_Zhongli.png?alt=media&amp;token=9b64d852-861e-4631-80db-53783e61cadd"
+          alt/>
+        </p>
+        <p>Zhongli</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>See notes in Flex Supports section.</li>
         </ul>
       </td>
     </tr>
@@ -477,25 +568,49 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Her burst is an area heal that requires you to stay in the circle, but
-            also comes with a massive initial heal to all members of your team. With
-            constellations, she can increase your attack speed as well.
-            <br />
-          </li>
+          <li>Provides CC with her Elemental Skill.</li>
+          <li>Elemental Burst both deals a large amount of damage and heals a large
+            amount to the entire party. It then leaves behind a large AOE which will
+            continue to heal the on-field character</li>
+          <li>Elemental Burst can remove (cleanse) all elemental debuffs.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">
         <p>
-          <img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
+          <img src="../.gitbook/assets/ui_avataricon_qiqi.png" alt/>
         </p>
-        <p>Zhongli</p>
+        <p>Qiqi</p>
       </td>
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>See notes in Flex Supports section.</li>
+          <li>Provides Healing.</li>
+          <li>Qiqi&apos;s Elemental Skill can apply Cryo to enemies that come close
+            enough to the active character although should not be relied on as a consistent
+            second source of Cryo application.</li>
+          <li>Other healers or shielders typically provide more utility than Qiqi but
+            she is a decent &quot;I lost pity&quot; option if you do not have any alternatives.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_barbara.png" alt/>
+        </p>
+        <p>Barbara</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Provides Healing.</li>
+          <li>Barbara&apos;s Elemental Skill can apply Hydro to enemies that come close
+            enough to the active character although should not be relied on as the
+            only source of Hydro application.</li>
+          <li>Other healers or shielders typically provide more utility than Barbara
+            but she is a decent F2P option if you do not have any alternatives.</li>
         </ul>
       </td>
     </tr>
@@ -504,17 +619,24 @@ Refer to the character notes below for how characters work in this particular te
 
 ## Sample Team Compositions
 
-![](../.gitbook/assets/ui_avataricon_eula.png) ![](../.gitbook/assets/ui_avataricon_fischl.png) ![](../.gitbook/assets/ui_avataricon_diona.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../.gitbook/assets/ui_avataricon_eula.png) ![](../.gitbook/assets/ui_avataricon_shougun.png) ![](../.gitbook/assets/ui_avataricon_rosaria.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Keep superconduct applied with a combination of Eula and Fischl’s skills. Use Bennett burst to heal and buff your Eula before her burst. Diona is a shielder that helps Eula generate energy, as well as backup healing.
+* This Team Composition mainly relies on Eula's Elemental Burst to deal massive Physical Damage which is amplified by the rest of her team. Keep superconduct applied to enemies with Raiden and Eula's Elemental skill. 
+* Raiden plays a key role in this composition as she is great Energy Battery for Eula. Raiden's Elemental Skill continuously provides particles and works off-field. When Eula has dealt damage with her Elemental Burst Raiden will then use her Elemental Burst to deal damage as well as providing more energy for the entire party, allowing Eula and the rest of her supports to cast their bursts more sooner.
+* Rosaria serves to buff your Eula's Critical rate with her Elemental Skill and helps generate Eula's Energy. 
+* Bennet's Elemental Burst provides healing and large offensive buff to Eula inside its AOE. 
 
-![](../.gitbook/assets/ui_avataricon_razor.png) ![](../.gitbook/assets/ui_avataricon_diona.png) ![](../.gitbook/assets/ui_avataricon_albedo.png) ![](../.gitbook/assets/ui_avataricon_zhongli.png) 
+![](../.gitbook/assets/ui_avataricon_razor.png) ![](../.gitbook/assets/ui_avataricon_fischl.png) ![](../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../.gitbook/assets/ui_avataricon_diona.png) 
 
-* Use Diona’s skill and burst to apply superconduct in combination with Razor’s burst and skill. Zhongli provides a large shield and shred while Albedo is there for energy and geo resonance.
+* Razor synergizes well with Xingqiu's Elemental Burst as his main source of damage is his normal attacks. This will provide frequent electro-charged reactions to any enemy hit. Fischl is served as an energy battery for Razor and provides consistent off-field damage. Diona is used to trigger Superconduct as well as provide both Healing and Shields for Razor.
 
-![](../.gitbook/assets/ui_avataricon_keqing.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png) ![](../.gitbook/assets/ui_avataricon_zhongli.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../.gitbook/assets/ui_avataricon_keqing.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png) ![](../.gitbook/assets/ui_avataricon_rosaria.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
 
-*  Keqing and Kaeya should be able to keep superconduct running. Zhongli provides shielding, decreases resistances, and crowd control. Bennett is extra healing and a buff to attack.
+* Keqing and Kaeya should be able to keep superconduct running. Zhongli provides shielding, decreases resistances, and crowd control. Bennett is extra healing and a buff to attack.
+* Keqing needs to continuously do charged attacks to optimally deal DPS and when casting her Elemental Skill do not cast it again a 2nd time or she will get infused with Electro. Rosaria serves to buff your Keqing's Critical rate with her Elemental Skill and with Kaeya they can apply cryo to enemies for Superconduct and also provide extra Crit Rate with Elemental Resonance. 
+* Bennet's Elemental Burst provides healing and large offensive buff to Keqing inside its AOE. It's recommended to build Bennet with high Energy Recharge in this party so he can consistently cast his Elemental Burst.
+
+  
 
 ## Extraneous information
 
