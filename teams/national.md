@@ -253,8 +253,25 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Mainly for her ability to boost ally elemental mastery. Provides modest
-            grouping potential.</li>
+          <li>Mainly for her ability to boost ally Elemental Mastery. Provides modest
+            grouping potential. One of the most powerful units in boosting Pyronado
+            reactions.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_chongyun.png" alt/>
+        </p>
+        <p>Chongyun</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Can set up Melt, Reverse Melt, and Freeze reactions, as well as Cryo Infusion
+            on Normal, Charged, and Plunging attacks. Can also Reverse Melt Elemental
+            Burst with Pyronado.</li>
         </ul>
       </td>
     </tr>
@@ -288,6 +305,22 @@ Refer to the character notes below for how characters work in this particular te
         </ul>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_shougun.png" alt/>
+        </p>
+        <p>Raiden Shogun</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Acts as an Elemental Energy battery for the team, allows for less investment
+            in Energy Recharge, and more into offensive gear for the team. Also a very
+            powerful sub DPS that can provide Overload and Electrocharge Reactions.</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -301,23 +334,6 @@ Refer to the character notes below for how characters work in this particular te
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_jean.png" alt/>
-        </p>
-        <p>Jean</p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>Can be run with viridescent venerer to shred resistances. Heals characters
-            using burst. Can help other anemo supports recover faster.
-            <br />
-          </li>
-        </ul>
-      </td>
-    </tr>
     <tr>
       <td style="text-align:center">
         <p>
@@ -338,14 +354,14 @@ Refer to the character notes below for how characters work in this particular te
 
 ## Sample Team Compositions
 
-![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../.gitbook/assets/ui_avataricon_chongyun.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_xingqiu.png)  ![](../.gitbook/assets/ui_avataricon_bennett.png)![](../.gitbook/assets/ui_avataricon_chongyun.png) 
 
 * A combination of Xingqiu burst and Chongyun’s field allows you to keep enemies tagged with cryo while Xiangling’s burst, skill, and Bennett’s skill use the application to melt. Make sure to keep using normal attacks to apply the cryo and hydro hits to keep up the reactions.
-* This team composition is also well known as CN National team or Nation team.
+* This team composition is known as the original CN National team or National team.
 
-![](../.gitbook/assets/ui_avataricon_hutao.png) ![](../.gitbook/assets/ui_avataricon_ayaka.png) ![](../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_xingqiu.png)![](../.gitbook/assets/ui_avataricon_bennett.png)![](../.gitbook/assets/ui_avataricon_sucrose.png)   
 
-* Damage comes primarily during Ayaka’s burst window. During Ayaka’s burst, Hutao can get 3 charge attacks and a burst to melt if you jump cancel/dash cancel correctly. Do not risk the 3rd charge attack if there has been any delay in getting the attacks off or if an animation cancel is failed, since the timing is quite strict. Xingqiu burst allows for some follow up damage using reverse vaporises as a backup plan.
+* Sucrose's role on this team is to provide an Elemental Mastery boost to all characters, as well as using the Viridescent Venerer set to reduce enemy Elemental Resistance. Sucrose can also hold Thrilling Tales of the Dragonslayer, which is a 3\* Catalyst, which at Refinement Rank 5, can provide up to 48% Attack bonus. Other Anemo supports such as Kazuha or Venti can fill her role by providing either boosts to Elemental Damage or powerful Crowd Control.
 
 ![](../.gitbook/assets/ui_avataricon_hutao.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png) ![](../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../.gitbook/assets/ui_avataricon_jean.png) 
 
