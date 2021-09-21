@@ -1,5 +1,5 @@
 ---
-description: by the Genshin Helper Team
+description: by the Genshin Party Setup Team
 ---
 
 # Introduction
