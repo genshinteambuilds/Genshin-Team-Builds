@@ -16,88 +16,10 @@ Refer to the character notes below for how characters work in this particular te
       <th style="text-align:center">Main DPS</th>
       <th style="text-align:center">Core Support / Sub DPS</th>
       <th style="text-align:center">Flex Support</th>
-      <th style="text-align:center">Healer</th>
+      <th style="text-align:center">Healer / Shielder</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/>
-        </p>
-        <p>Xiangling</p>
-      </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/>
-        </p>
-        <p>Xingqiu</p>
-      </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt/>
-        </p>
-        <p>Sucrose</p>
-      </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/>
-        </p>
-        <p>Bennett</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/>
-        </p>
-        <p>Xiangling</p>
-      </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/>
-        </p>
-        <p>Xingqiu</p>
-      </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_chongyun.png" alt/>
-        </p>
-        <p>Kazuha</p>
-      </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/>
-        </p>
-        <p>Bennett</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/>
-        </p>
-        <p>Xiangling</p>
-      </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/>
-        </p>
-        <p>Xingqiu</p>
-      </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt/>
-        </p>
-        <p>Kazuha</p>
-      </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/>
-        </p>
-        <p>Bennett</p>
-      </td>
-    </tr>
     <tr>
       <td style="text-align:center">
         <p>
@@ -125,17 +47,13 @@ Refer to the character notes below for how characters work in this particular te
       </td>
     </tr>
     <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
       <td style="text-align:center">
         <p>
-          <img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/>
+          <img src="../.gitbook/assets/ui_avataricon_chongyun.png" alt/>
         </p>
-        <p>Xiangling</p>
-      </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_tartaglia.png" alt/>
-        </p>
-        <p>Tartaglia</p>
+        <p>Chongyun</p>
       </td>
       <td style="text-align:center">
         <p>
@@ -143,17 +61,27 @@ Refer to the character notes below for how characters work in this particular te
         </p>
         <p>Zhongli</p>
       </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/>
-        </p>
-        <p>Bennett</p>
-      </td>
     </tr>
     <tr>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt/>
+        </p>
+        <p>Kazuha</p>
+      </td>
       <td style="text-align:center"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt/>
+        </p>
+        <p>Sucrose</p>
+      </td>
       <td style="text-align:center"></td>
     </tr>
   </tbody>
@@ -211,22 +139,6 @@ Refer to the character notes below for how characters work in this particular te
             Used to set up vaporises, as well as to clean pyro application off of enemies.
             Essentially mandatory for characters that expect longer damage windows
             (Xiangling).</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_tartaglia.png" alt/>
-        </p>
-        <p>Tartaglia</p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>A substitute for Xingqiu, uses very fast Hydro application to enable Xiangling&apos;s
-            Pyronado to Reverse Vaporize. Can also Vaporize for 2x Damage with an AoE
-            Elemental Burst</li>
         </ul>
       </td>
     </tr>
