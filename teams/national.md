@@ -55,12 +55,7 @@ Refer to the character notes below for how characters work in this particular te
         </p>
         <p>Chongyun</p>
       </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
-        </p>
-        <p>Zhongli</p>
-      </td>
+      <td style="text-align:center"></td>
     </tr>
     <tr>
       <td style="text-align:center"></td>
@@ -81,6 +76,17 @@ Refer to the character notes below for how characters work in this particular te
           <img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt/>
         </p>
         <p>Sucrose</p>
+      </td>
+      <td style="text-align:center"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
+        </p>
+        <p>Zhongli</p>
       </td>
       <td style="text-align:center"></td>
     </tr>
