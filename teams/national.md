@@ -16,7 +16,7 @@ Refer to the character notes below for how characters work in this particular te
       <th style="text-align:center">Main DPS</th>
       <th style="text-align:center">Core Support / Sub DPS</th>
       <th style="text-align:center">Flex Support</th>
-      <th style="text-align:center">Healer / Shielder</th>
+      <th style="text-align:center">Healer</th>
     </tr>
   </thead>
   <tbody>
@@ -218,7 +218,7 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>His skill shields and shreds enemy resistances. Burst does a decent amount
+          <li>His skill shields and reduces enemy resistances. Burst does a decent amount
             of damage and petrifies enemies allowing for some free damage.</li>
         </ul>
       </td>
@@ -242,7 +242,7 @@ Refer to the character notes below for how characters work in this particular te
   </tbody>
 </table>
 
-## Healer / Shielder
+## Healer
 
 <table>
   <thead>
@@ -281,12 +281,12 @@ Refer to the character notes below for how characters work in this particular te
 
 * Sucrose's role on this team is to provide an Elemental Mastery boost to all characters, as well as using the Viridescent Venerer set to reduce enemy Elemental Resistance. Sucrose can also hold Thrilling Tales of the Dragonslayer, which is a 3\* Catalyst, which at Refinement Rank 5, can provide up to 48% Attack bonus. Other Anemo supports such as Kazuha or Venti can fill her role by providing either boosts to Elemental Damage or powerful Crowd Control.
 
-![](../.gitbook/assets/ui_avataricon_hutao.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png) ![](../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../.gitbook/assets/ui_avataricon_jean.png) 
+![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) ![](../.gitbook/assets/ui_avataricon_shougun.png) 
 
-* A little inconsistent with melts using a combination of Xingqiu and Kaeya bursts to hopefully melt a few charged attacks and bursts from Hutao. A more consistent team composition damage wise would replace the healer with a second cryo burst, such as Ganyu or Rosaria, to try to make the melts more consistent. But would only be doable if confident enough with only Hutao bursts and Xingqiu’s swords for healing. 
+* Raiden Shogun's role is to boost the team's Energy Recharge, as well as act as a substantial sub DPS with her Elemental Burst. As a battery, using Raiden Shogun allows you to invest less into Energy Recharge for Xiangling and Xingqiu, and instead invest into higher offensive stats. Raiden Shogun also enables Overload and Electro Charge reactions while not interfering with Xiangling Reverse Vaporize that much. 
 
 ### Footnotes
 
-* There technically is the option of using Diluc in a melt team. This is not recommended outside of extremely early on in the game, as it lacks long term viability in comparison to other team compositions.
-* Diluc: not nearly as strong/viable as the other two options. He has a long string of pyro infused attacks and skill casts of which you can only melt with some of them. Do not run with both Xingqiu and a Cryo, since he does not melt frozen enemies, instead they are shattered.
+* Xiangling's Elemental Burst has the ability to "snapshot" or maintain all the buffs active at the start of the Burst, for the entire duration. This snapshot effect will remain active even if Xiangling steps out of Bennett Elemental Burst field.
+  * * Xiangling's Burst specifically snapshots after the third swing of Pyronado
 
