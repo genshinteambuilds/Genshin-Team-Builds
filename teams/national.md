@@ -142,7 +142,7 @@ Refer to the character notes below for how characters work in this particular te
         <p></p>
         <ul>
           <li>Very powerful on all teams due to him being the primary hydro application.
-            Used to set up vaporises, as well as to clean pyro application off of enemies.
+            Used to set up vaporizes, as well as to clean pyro application off of enemies.
             Essentially mandatory for characters that expect longer damage windows
             (Xiangling).</li>
         </ul>
