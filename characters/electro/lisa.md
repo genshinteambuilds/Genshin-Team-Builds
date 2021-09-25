@@ -9,9 +9,9 @@
 
 * Elemental skill applies Electro damage to enemies.
   * Pressing Elemental skill releases a homing Electro orb deal Electro damage and apply 1 stack of the conductive status \(max 3 stacks\)
-  * Holding Elemental skill causes lightning to strike down dealing massive Electro damage to all enemies within the AoE.
+  * Holding Elemental skill causes lightning to strike down dealing massive Electro damage to all enemies within the area of effect.
     * Deals more damage to enemies with higher conductive stacks.
-* Elemental Burst deals continuous Electro damage within its AoE and knocks back enemies on hit.
+* Elemental Burst deals continuous Electro damage within its area of effect and knocks back enemies on hit.
   * Ascension talent 4 reduce enemies def by 15% for 10 sec when hit by lighting rose
 
 ## Additional Notes
