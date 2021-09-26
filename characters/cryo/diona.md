@@ -54,15 +54,13 @@
 
 ## Teams
 
-{% hint style="info" %}
-In all the teams listed below, Diona universally provides Healing and Shielding utility.
+{% hint style="warning" %}
+This character is a healer. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
 {% endhint %}
 
 [Freeze](../../teams/freeze.md)
 
 \*\*\*\*![](../../.gitbook/assets/ui_avataricon_ganyu.png) ****![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
-
-* Activates Cyro resonance.
 
 ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
