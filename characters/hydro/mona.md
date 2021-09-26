@@ -7,26 +7,25 @@
 
 ## **Character Breakdown**
 
-* Mona primarily functions as a massive Burst Damage booster for her team usually through her Elemental Burst, though she’s a versatile character who can also do strong Burst Damage herself or function purely as a support
-* Elemental Skill is a taunt with multiple Hydro applications throughout its duration, making it strong in Freeze comps
-* Elemental Burst provides an enormous DMG% boost \(Omen\) against all enemies affected by followed up by a large amount of Hydro Damage
-* Mona should typically only be built for her own Burst Damage in Vaporize comps with a lot of setup; for teams that don’t focus on huge Burst Damage like Freeze, building her as a support with the Thrilling Tales of Dragon Slayers Catalyst and artifact sets like Noblesse Oblige or Tenacity of Millelith are typically stronger
+* Mona most often functions as a Damage Bonus buffer for her team through her Elemental Burst, but can also be used as a Burst Sub DPS.
+* Elemental Skill summons a taunt that deals multiple instances of AoE Hydro damage, making it strong in Freeze comps.
+* Elemental Burst applies Hydro to all enemies in an AoE, immobilizes and provides a large Damage Bonus buff against all enemies hit by it, and deals a large amount of Hydro Damage.
 
 ## **Additional Notes**
 
-* Mona’s Elemental Burst damage is affected by its own DMG% boost
-* Mona’s Elemental Burst will suspend smaller targets, effectively stunning them in place throughout its duration but will not suspend larger targets at all
-* Mona’s Omen will not break early on certain enemy units that cannot be crowd controlled
+* Mona’s Elemental Burst damage is affected by its own Damage Bonus buff.
+* Mona’s Elemental Burst will suspend smaller targets, effectively stunning them in place throughout its duration but will not suspend larger targets at all.
+* Mona can be built for her Elemental Burst's Damage but should only be done so in teams that can amplify this damage, like Vaporize. If in a team that cannot, like Freeze, it is recommended to build her more for Support.
 
 ## **Works Well With**
 
  [![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnn94J69ajjrp2QN%2FUI_AvatarIcon_Bennett.png?alt=media&token=cccf8858-0bde-4ede-8990-8c9b976d4b74)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/bennett)​
 
-* Bennett is perfect for Burst Mona comps since he easily enables her Burst to Vaporize while also granting her a huge ATK boost
+* Bennett both allows Mona's Elemental Burst to be Vaporized and grants an ATK buff to her, letting her become a Burst Sub DPS. 
 
  [![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgJ-hpCoRidaO_5ITp_%2FUI_AvatarIcon_Ayaka.png?alt=media&token=b079bc92-ac91-4c29-82b9-0b68eba3adb8)](https://genshinteambuilds.gitbook.io/teams/characters/cryo/ayaka)
 
-* Mona pairs perfectly with Ayaka’s playstyle since her Elemental Skill can keep opponents Frozen while her Elemental Burst serves as the perfect damage amp for Ayaka’s own Elemental Burst
+* Mona's Elemental Skill can keep opponents Frozen while her Elemental Burst can increase the damage of Ayaka’s Elemental Burst
 
  [![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnDUrnS3l-2ZWl0%2FUI_AvatarIcon_Hutao.png?alt=media&token=5e177400-dd77-442c-b75f-07f10d30d6a8)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/hu-tao)
 
@@ -34,7 +33,7 @@
 
  [![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnn50eOVewZQRdgM%2FUI_AvatarIcon_Ganyu.png?alt=media&token=00a49c16-eacf-49bd-8bc9-42d7acc2588e)](https://genshinteambuilds.gitbook.io/teams/characters/cryo/ganyu)
 
-* Similarly to Ayaka, Mona can easily keep enemies Frozen in Freeze Ganyu comps
+* Similarly to Ayaka, Mona can easily keep enemies Frozen and increase Ganyu's damage in Freeze Ganyu comps
 
 ## **Does Not Work Well With**
 
