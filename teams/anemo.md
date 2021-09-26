@@ -355,7 +355,7 @@ Refer to the character notes below for how characters work in this particular te
   </tbody>
 </table>
 
-## Sample Teams Composition
+## Sample Team Composition
 
  **NOTE:** Teams are very flexible as there are very few requirements and synergies in an anemo based team.  
 
