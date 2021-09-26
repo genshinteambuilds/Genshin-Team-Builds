@@ -66,7 +66,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * In these teams, Chongyun acts as a Burst DPS. His Elemental Burst should be melted by prior Pyro application from Bennett or Klee.
 
-[**National Team**]()\*\*\*\*
+\*\*\*\*[**National**](../../teams/national.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
