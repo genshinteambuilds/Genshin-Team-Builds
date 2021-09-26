@@ -25,80 +25,80 @@ Refer to the character notes below for how characters work in this particular te
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xiao.png" alt/>
+        <p><a href="../characters/anemo/xiao.md"><img src="../.gitbook/assets/ui_avataricon_xiao.png" alt/> </a>
         </p>
-        <p>Xiao</p>
+        <p><a href="../characters/anemo/xiao.md">Xiao</a>
+        </p>
       </td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt/>
+        <p><a href="../characters/anemo/sucrose.md"><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt/> </a>
         </p>
-        <p>Sucrose</p>
+        <p><a href="../characters/anemo/sucrose.md">Sucrose</a>
+        </p>
       </td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_fischl.png" alt/>
+        <p><a href="../characters/electro/fischl.md"><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt/> </a>
         </p>
-        <p>Fischl</p>
+        <p><a href="../characters/electro/fischl.md">Fischl</a>
+        </p>
       </td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
+        <p><a href="../characters/geo/zhongli.md"><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/> </a>
         </p>
-        <p>Zhongli</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt/>
+        <p><a href="../characters/geo/zhongli.md">Zhongli</a>
         </p>
-        <p>Kazuha (C6)</p>
-      </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_venti.png" alt/>
-        </p>
-        <p>Venti</p>
-      </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_beidou.png" alt/>
-        </p>
-        <p>Beidou</p>
-      </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/>
-        </p>
-        <p>Bennett</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/>
+        <p><a href="../characters/anemo/kazuha.md"><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt/> </a>
         </p>
-        <p>Xiangling</p>
+        <p><a href="../characters/anemo/kazuha.md">Kazuha (C6)</a>
+        </p>
       </td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_jean.png" alt/>
+        <p><a href="../characters/anemo/venti.md"><img src="../.gitbook/assets/ui_avataricon_venti.png" alt/> </a>
         </p>
-        <p>Jean</p>
+        <p><a href="../characters/anemo/venti.md">Venti</a>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <p><a href="../characters/electro/beidou.md"><img src="../.gitbook/assets/ui_avataricon_beidou.png" alt/> </a>
+        </p>
+        <p><a href="../characters/electro/beidou.md">Beidou</a>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <p><a href="../characters/pyro/bennett.md"><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/> </a>
+        </p>
+        <p><a href="../characters/pyro/bennett.md">Bennett</a>
+        </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/>
+        <p><a href="../characters/pyro/xiangling.md"><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/> </a>
         </p>
-        <p>Xingqiu</p>
+        <p><a href="../characters/pyro/xiangling.md">Xiangling</a>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <p><a href="../characters/anemo/jean.md"><img src="../.gitbook/assets/ui_avataricon_jean.png" alt/> </a>
+        </p>
+        <p><a href="../characters/anemo/jean.md">Jean </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p><a href="../characters/hydro/xingqiu.md"><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/> </a>
+        </p>
+        <p><a href="../characters/hydro/xingqiu.md">Xingqiu</a>
+        </p>
       </td>
       <td style="text-align:center"></td>
     </tr>
@@ -106,10 +106,10 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_albedo.png" alt/>
+        <p><a href="../characters/geo/albedo.md"><img src="../.gitbook/assets/ui_avataricon_albedo.png" alt/> </a>
         </p>
-        <p>Albedo</p>
+        <p><a href="../characters/geo/albedo.md">Albedo</a>
+        </p>
       </td>
       <td style="text-align:center"></td>
     </tr>
@@ -128,10 +128,10 @@ Refer to the character notes below for how characters work in this particular te
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xiao.png" alt/>
+        <p><a href="../characters/anemo/xiao.md"><img src="../.gitbook/assets/ui_avataricon_xiao.png" alt/> </a>
         </p>
-        <p>Xiao</p>
+        <p><a href="../characters/anemo/xiao.md">Xiao</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -144,10 +144,10 @@ Refer to the character notes below for how characters work in this particular te
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt/>
+        <p><a href="../characters/anemo/kazuha.md"><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt/> </a>
         </p>
-        <p>Kazuha</p>
+        <p><a href="../characters/anemo/kazuha.md">Kazuha</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -172,10 +172,10 @@ Refer to the character notes below for how characters work in this particular te
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt/>
+        <p><a href="../characters/anemo/sucrose.md"><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt/> </a>
         </p>
-        <p>Sucrose</p>
+        <p><a href="../characters/anemo/sucrose.md">Sucrose</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -187,10 +187,10 @@ Refer to the character notes below for how characters work in this particular te
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_venti.png" alt/><b> </b>
+        <p><a href="../characters/anemo/venti.md"><img src="../.gitbook/assets/ui_avataricon_venti.png" alt/><b> </b></a>
         </p>
-        <p>Venti</p>
+        <p><a href="../characters/anemo/venti.md">Venti</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -218,10 +218,10 @@ Refer to the character notes below for how characters work in this particular te
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_fischl.png" alt/>
+        <p><a href="../characters/electro/fischl.md"><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt/> </a>
         </p>
-        <p>Fischl</p>
+        <p><a href="../characters/electro/fischl.md">Fischl</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -232,10 +232,10 @@ Refer to the character notes below for how characters work in this particular te
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_beidou.png" alt/>
+        <p><a href="../characters/electro/beidou.md"><img src="../.gitbook/assets/ui_avataricon_beidou.png" alt/> </a>
         </p>
-        <p>Beidou</p>
+        <p><a href="../characters/electro/beidou.md">Beidou</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -246,10 +246,10 @@ Refer to the character notes below for how characters work in this particular te
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/>
+        <p><a href="../characters/pyro/xiangling.md"><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/> </a>
         </p>
-        <p>Xiangling</p>
+        <p><a href="../characters/pyro/xiangling.md">Xiangling</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -261,10 +261,10 @@ Refer to the character notes below for how characters work in this particular te
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/>
+        <p><a href="../characters/hydro/xingqiu.md"><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/> </a>
         </p>
-        <p>Xingqiu</p>
+        <p><a href="../characters/hydro/xingqiu.md">Xingqiu</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -277,10 +277,10 @@ Refer to the character notes below for how characters work in this particular te
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_albedo.png" alt/>
+        <p><a href="../characters/geo/albedo.md"><img src="../.gitbook/assets/ui_avataricon_albedo.png" alt/> </a>
         </p>
-        <p>Albedo</p>
+        <p><a href="../characters/geo/albedo.md">Albedo</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -306,10 +306,10 @@ Refer to the character notes below for how characters work in this particular te
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
+        <p><a href="../characters/geo/zhongli.md"><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/> </a>
         </p>
-        <p>Zhongli</p>
+        <p><a href="../characters/geo/zhongli.md">Zhongli</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -323,10 +323,10 @@ Refer to the character notes below for how characters work in this particular te
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/>
+        <p><a href="../characters/pyro/bennett.md"><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/> </a>
         </p>
-        <p>Bennett</p>
+        <p><a href="../characters/pyro/bennett.md">Bennett</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -337,10 +337,10 @@ Refer to the character notes below for how characters work in this particular te
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_jean.png" alt/>
+        <p><a href="../characters/anemo/jean.md"><img src="../.gitbook/assets/ui_avataricon_jean.png" alt/> </a>
         </p>
-        <p>Jean</p>
+        <p><a href="../characters/anemo/jean.md">Jean</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
