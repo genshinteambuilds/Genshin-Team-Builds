@@ -1,62 +1,96 @@
 # Oneshot
 
-This game plan focuses on dealing a large amount of burst damage to enemies \(ideally ending the encounter immediately\) without caring much about repeatability and follow up damage. This is usually accomplished by utilizing hydro or pyro characters with a large single hit burst, notably, Hu Tao, Tartaglia, and Mona in combination with their respective 2x reaction \(Hu Tao has a slight caveat which will be discussed later\), which is melt for Hu Tao and vaporize for Tartaglia and Mona. The other character slots are used to apply the element being reacted with, as well as to provide damage increases to the main damage dealer. Elemental skill and burst usage order and character swapping order is very important in these types of compositions. This playstyle also benefits heavily from Elemental Mastery and often have different artifacts and weapon choices than traditional play, and setups vary widely by availability of characters and equipment. Note that the damage you get out of a setup is extremely dependent upon your character’s artifact stats, supporting character’s stats, constellations, and weapons. Eula, a relatively new addition, works in a slightly different way than the other three, as she simply relies on her burst’s extremely high damage scaling to accomplish this task.
+These team compositions focus on dealing a large amount of burst damage to enemies \(ideally ending the encounter immediately\) without caring much about repeatability and follow up damage. This is usually accomplished by utilizing characters with very high Elemental Burst modifiers that can take full advantage of multiple scaling, Buffs, and/or Elemental Reactions. Notable Elemental Reactions are Melt and Vaporize as they are able to provide an additional final multiplier to Damage. The other character slots are used mainly to "setup" the Oneshot and stack multiple buffs and apply Elements in a specific order. 
+
+Elemental Skill and Burst usage order and character swapping order is very important in these types of compositions. This playstyle will often have different artifacts and weapon choices than traditional play, and setups vary widely by availability of characters and equipment. 
+
+{% hint style="info" %}
+Note: The damage you get out of a setup is extremely dependent upon your character’s artifact stats, supporting character’s stats, constellations, and weapons.
+{% endhint %}
 
 ## **A Brief Overview of Terminology**
 
-**Main Carry** - The character whose ability is responsible for the lion’s share of damage.
+**Main Carry** - The character whose ability is responsible for the one shot.
 
-**Enabler** - The character that is responsible for applying the opposite element for the main carry to react with
+**Enablers** - The characters that is responsible for applying the Element for the Main Carry to react with. Only applicable for Melt/Vaporize Carries.
 
-**For the mobile gamers:** AA refers to character’s Auto Attack, E refers to a character’s skill, Q is their burst
+**For the mobile gamers:** AA refers to character’s Auto Attack, E refers to a character’s Elemental Skill, Q is their Elemental Burst
 
 ## **Main Carry: Hu Tao**
 
-**Primary Enablers used:** Ganyu, Kaeya, Chongyun, Mona
+**Primary Enablers used:** Ayaka, Ganyu, Kaeya, Chongyun, Mona
 
-**Supporting Cast:** Amber, Mona, Sucrose, Zhongli, Bennett, Kazuha
+**Supporting Cast:** Bennett, Kazuha, Sucrose, Mona, Amber, Zhongli
 
 ### **Main Carry**
 
-\*\*\*\*![](../.gitbook/assets/ui_avataricon_hutao.png) _\*\*_
+![](../.gitbook/assets/ui_avataricon_hutao.png)
 
-* Hu Tao is a rather complex character in terms of damage scaling, due to her constellations and hp scaling on her e ability, play around with Elemental Mastery and HP timepieces to see which gives you the most damage with your artifacts.
+* Hu Tao is a rather complex character in terms of damage scaling, due to her constellations and HP scaling on her Elemental Burst as well as Staff of Homa, her signature weapon, giving even more HP scaling.
+* Testing Elemental Mastery and HP timepieces to see which gives the most damage with your current setup is a must. 
+  * HP timepiece will generally be better for those with Staff of Homa.
 
 ### **Primary Enablers**
 
-\*\*\*\*![](../.gitbook/assets/ui_avataricon_ganyu.png) ![](../.gitbook/assets/ui_avataricon_chongyun.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png)
+\*\*\*\*![](../.gitbook/assets/ui_avataricon_ayaka.png) ****
 
-* None _\*\*_of the cryo enablers provide too much outside of their main application. Typically Ganyu is used for her elemental burst, as she is able to apply cryo fairly quickly and to a large area. If she is not available Kaeya and Chongyun are able to perform the role as well. Artifact sets should be to maximize damage \(usually 2 blizzard strayer 2 noblesse oblige\) or to amplify your main carry’s damage \(4 noblesse or 4 instructor\).
+* Generally the best choice at Constellation 4+. The Def Shred \(Constellation 4+\) along with possible use of Freedom-Sworn make her the best choice at ultra high investment levels.
+
+![](../.gitbook/assets/ui_avataricon_ganyu.png)
+
+* Able to buff damage on enemies inside her Elemental Burst at Constellation 4.
+* Able to carry Elegy for the End and provide more ATK DMG and Elemental Mastery. 
+
+![](../.gitbook/assets/ui_avataricon_chongyun.png)
+
+* Able to carry Wolf's Gravestone and provide a large ATK buff through it.
+
+![](../.gitbook/assets/ui_avataricon_mona.png)
+
+* Although Mona is not Cryo, she is able to be used in specific scenarios \(Floor 7 with Cryogunner, Blizzard Strayer Domain\). If Melt is not an option, then Mona can be used as a Vaporize Enabler.
+* Provides large Buffs through her Elemental Burst and ability to carry Thrilling Tales of Dragon Slayer.
+
+![](../.gitbook/assets/ui_avataricon_kaeya.png)
+
+* Kaeya is able to provide constant Cryo and can carry Freedom-Sworn. Use him only if no other Enablers above are available.
 
 ### **Supporting cast**
 
-\*\*\*\*![](../.gitbook/assets/ui_avataricon_amber.png) _\*\*_
+\*\*\*\*![](../.gitbook/assets/ui_avataricon_bennett.png) ****
 
-* Amber is a surprising character that has grown to be a part of many of the more whale burst setups. This is due to her c6 ability, which gives her team a small attack % buff, as well as her ability to apply Elegy for the End’s weapon passive, granting the rest of the team a large amount of Elemental Mastery and additional attack % buff.
+* Bennett is in the team for his Attack Buff from his Elemental Burst and for Swirling Pyro for Viridescent Venerer's Debuff with an Anemo character.
+* Hu Tao should be very low in health before switching to her so that she does not heal past the 50% threshold for her passive. If needed, Bennett can be equipped with a non-upgraded flower to lower his Healing.
 
-\*\*\*\*![](../.gitbook/assets/ui_avataricon_mona.png) _\*\*_
+![](../.gitbook/assets/ui_avataricon_kazuha.png)
 
-* Mona is a rather odd character, providing a damage increase on enemies marked by her elemental burst. She is listed in both the enabler section and the supporting section due to this, as though she does not provide the full melt damage multiplier, her omen combined with having another supporting slot open may make up for this difference. \(In addition, this allows dragon’s bane users to get their weapon passive activated\) She can also function as a damage amplifier alongside a cryo enabler, as her omen is a 5 second debuff that grants the increased damage during that duration. As an enabler, she typically will run Thrilling Tales of Dragon Slayers at Refinement Level 5. 
+* Can be run as a 4 set Viridescent Venerer carrier and provides a large damage boost to your team based on his own Elemental Mastery and the Element that he Swirls. 
+* Constellation 2 grants 200 EM to everyone on the team.
+* Can carry Freedom-Sworn.
 
-\*\*\*\*![](../.gitbook/assets/ui_avataricon_sucrose.png) _\*\*_
+![](../.gitbook/assets/ui_avataricon_sucrose.png) 
 
-* Sucrose is rather straightforward, you stack Elemental Mastery on her and she gives some Elemental Mastery to the rest of her team upon hitting an ability. Her weapon will either be Sacrificial Fragments or The Widsith depending on your ability and willingness to accept more randomness. She really only has 2 artifact sets she would run, either 4 Noblesse Oblige or 4 Viridescent Venerer should you be running Bennett. You should aim to use her after another element has been applied, since swirl increases the Elemental Mastery transfer.
+* Can be run as a 4 set Viridescent Venerer carrier and is able to transfer a flat amount of Elemental Mastery along with a portion of her own Elemental Mastery to other party members.
+* Can carry Thrilling Tales of Dragon Slayer.
+* Aim to use her after another Element has been applied, since Swirl increases the Elemental Mastery transfer.
+
+![](../.gitbook/assets/ui_avataricon_mona.png) 
+
+* Mona can also function as a damage amplifier alongside a cryo enabler, as her Omen is a 5 second Debuff that grants the increased damage during that duration.
+* Can carry Thrilling Tales of Dragon Slayer.
+
+![](../.gitbook/assets/ui_avataricon_amber.png) 
+
+* Able to carry Elegy for the End and easily activate the passive through her Elemental Burst.
+* At Constellation 6, using her Elemental Burst gives her team a small ATK% Buff.
+* Used for Swirling Pyro for Viridescent Venerer's Debuff with an Anemo character.
 
 ![](../.gitbook/assets/ui_avataricon_zhongli.png)
 
-* Zhongli _\*\*_has 2 main contributions, his shield decreases elemental resistances while protecting you from interrupts, and his elemental burst does a large amount of damage while crowd controlling enemies. Due to the amount of damage he can add through his burst, I do recommend going with a setup designed to increase his damage rather than his shielding.
-
-![](../.gitbook/assets/ui_avataricon_bennett.png)
-
-* Bennett is in the team for his attack buff from his elemental burst and the possibility of swirling pyro with Sucrose. Do note, he does heal your units so make sure that Hutao is very low in health before you switch her in so that she does not over heal the 50% threshold. If needed, you can give him a non-upgraded flower to lower his healing.
-
-\*\*\*\*![](../.gitbook/assets/ui_avataricon_kazuha.png)
-
-* Kazuha _\*\*_can be run as a 4 set Viridescent Venerer carrier, provides a damage boost to your team based on his own Elemental Mastery, his second constellation grants 200 EM to everyone on the team, and if you have his sword Freedom Sworn, he buffs his party members even more.
+* Zhongli's Shield decreases all Elemental Resistance along with Stagger Resistance.
 
 ### Sample Hutao Teams
 
-### \*\*\*\*![](../.gitbook/assets/ui_avataricon_hutao.png) _\*\*_![](../.gitbook/assets/ui_avataricon_sucrose.png) ![](../.gitbook/assets/ui_avataricon_mona.png) ![](../.gitbook/assets/ui_avataricon_bennett.png)
+### ![](../.gitbook/assets/ui_avataricon_hutao.png) ![](../.gitbook/assets/ui_avataricon_sucrose.png) ![](../.gitbook/assets/ui_avataricon_mona.png) ![](../.gitbook/assets/ui_avataricon_bennett.png)
 
 Make sure Hu Tao's HP starts off very low to counter Bennett’s healing
 
