@@ -10,6 +10,7 @@
   * [Burst](roles/sub-dps/burst.md)
   * [Off-Field](roles/sub-dps/off-field.md)
 * [Support](roles/support/README.md)
+  * [Untitled](roles/support/untitled.md)
   * [Buffer / Debuffer](roles/support/buffer-debuffer.md)
   * [Crowd Control](roles/support/crowd-control.md)
   * [Cleanser](roles/support/cleanser.md)

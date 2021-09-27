@@ -1,6 +1,6 @@
 # Anemo
 
-Anemo Damage is not easily scalable. As such, The goal is to have your main carry infused with anemo as often as possible, and providing as many buffs as possible to them. There is a swirl based team but that will be discussed in another page. \(link req\)
+Anemo Main DPS do not have reactions to amplify their damage. As such, most team compositions focus on buffing the Main DPS and ensuring that the Main DPS's Elemental Burst is readily available.
 
 {% hint style="info" %}
 Characters are ranked roughly according to how well they perform in this team composition.
@@ -136,9 +136,9 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Uses his elemental burst to self infuse himself with anemo and does plunging
-            attacks for his damage. At higher constellations, a larger focus is shifted
-            to hitting his elemental skill.</li>
+          <li>Elemental Burst grants an Anemo infusion and a increased jump height,
+            allowing him to frequently use Plunging Attacks for damage.</li>
+          <li>At Constellation 6, his Elemental Skill becomes his main source of damage.</li>
         </ul>
       </td>
     </tr>
@@ -152,12 +152,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>
-            <ul>
-              <li>Gains an Anemo Infusion at Constellation 6. It is not recommended to use
-                Kazuha as the Main DPS before this Constellation.</li>
-            </ul>
-          </li>
+          <li>Gains an Anemo Infusion at Constellation 6. It is not recommended to use
+            Kazuha as the Main DPS before this Constellation.</li>
         </ul>
       </td>
     </tr>
@@ -184,8 +180,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Minor grouping potential and can generate a fair amount of energy to help
-            Xiao get energy particles maintain his burst uptime high.</li>
+          <li>Can Crowd Control enemies by grouping them and can act as an Energy Battery
+            to help Xiao maintain his Elemental Burst&apos;s uptime.</li>
         </ul>
       </td>
     </tr>
@@ -199,9 +195,9 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>More significant grouping potential and also generates energy for carries.
-            However, best used against slightly heavier enemies so your attacks do
-            not miss.</li>
+          <li>Is better at grouping than Sucrose but is worse as an Energy Battery.</li>
+          <li>Is best used against slightly heavier enemies, as light enemies in Venti&apos;s
+            Elemental Burst are too high to be reliably hit by Xiao&apos;s plunge.</li>
         </ul>
       </td>
     </tr>
@@ -210,7 +206,7 @@ Refer to the character notes below for how characters work in this particular te
 
 ## Flex Support
 
-**NOTE:** Very flexible slot as the team has very few requirements. Mainly there to contribute extra damage and allow for swirls.
+**NOTE:** Very flexible slot as the team has few requirements. Mainly there to contribute extra damage and allow for Swirls.
 
 <table>
   <thead>
@@ -230,7 +226,7 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Having Oz and her constellations can provide a bit of extra damage.</li>
+          <li>Can act as a Sub DPS.</li>
         </ul>
       </td>
     </tr>
@@ -244,7 +240,7 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Elemental Burst provides extra damage and some damage resistance.</li>
+          <li>Acts as a Sub DPS and grants damage reduction.</li>
         </ul>
       </td>
     </tr>
@@ -258,8 +254,7 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Can be part of a pyro resonance pair. Her elemental burst provides some
-            extra damage along with her skill.</li>
+          <li>Can be used to activate Pyro Resonance and act as a Sub DPS.</li>
         </ul>
       </td>
     </tr>
@@ -273,9 +268,7 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>His elemental burst provides some extra damage and applies hydro for swirl.
-            His swords also give a bit of extra healing, damage resistance, and stagger
-            resistance.</li>
+          <li>Acts as a Sub DPS and grants damage reduction and healing.</li>
         </ul>
       </td>
     </tr>
@@ -289,8 +282,11 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Mainly used with Zhongli for geo resonance.
-            <br />
+          <li>
+            <p>Can be used to activate Geo Resonance and act as a Sub DPS.</p>
+            <p>
+              <br />
+            </p>
           </li>
         </ul>
       </td>
@@ -318,8 +314,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Provides a large shield and shreds resistances. Ult provides a petrify
-            that allows for a safe damage phase.
+          <li>Provides a strong Shield and debuffs enemy Elemental Resistances.</li>
+          <li>Can be used to activate Geo Resonance.
             <br />
           </li>
         </ul>
@@ -335,7 +331,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>His elemental burst provides healing and a buff that increases attack.</li>
+          <li>Provides healing and buffs Attack.</li>
+          <li>Can be used to activate Pyro Resonance.</li>
         </ul>
       </td>
     </tr>
@@ -349,10 +346,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Jean&apos;s elemental burst provides healing and she also provides some
-            energy generation for your main carry. Her Constellation 4 is one of the
-            few sources of anemo resistance shred in the game and is a good damage
-            increase.</li>
+          <li>Provides healing and acts as an Energy Battery.</li>
+          <li>Jean&apos;s Constellation 4 debuffs enemy Anemo Resistances.</li>
         </ul>
       </td>
     </tr>
@@ -361,18 +356,14 @@ Refer to the character notes below for how characters work in this particular te
 
 ## Sample Team Composition
 
- **NOTE:** Teams are very flexible as there are very few requirements and synergies in an anemo based team.  
+ **NOTE:** Teams are very flexible as there are very few requirements and synergies in an Anemo-based team.  
 
 
 ![](../.gitbook/assets/ui_avataricon_xiao.png) ![](../.gitbook/assets/ui_avataricon_sucrose.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Very simple team, Xiao is there to do damage during his burst. Sucrose helps keep  Xiao’s burst charged. Xiangling provides a bit of extra damage and pyro resonance. Bennett keeps your Xiao healed up while doing his damage and provides his attack buff.
+* Xiao acts as the Main DPS and generally requires an Energy Battery \(in this case, Sucrose\), to maintain Elemental Burst uptime. Xiangling provides extra damage and activates Pyro Resonance with Bennett, who both heals and buffs Xiao's Attack.
 
 ![](../.gitbook/assets/ui_avataricon_xiao.png) ![](../.gitbook/assets/ui_avataricon_albedo.png) ![](../.gitbook/assets/ui_avataricon_zhongli.png) ![](../.gitbook/assets/ui_avataricon_jean.png) 
 
-* Xiao does damage during his burst. Jean keeps him healed up and helps keep his burst charged. Zhongli provides shield and resistance shred, letting you not have to worry about being hit. Albedo is just there for resonance and some energy for Zhongli.
-
-![](../.gitbook/assets/ui_avataricon_kazuha.png) ![](../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
-
-* Kazuha does damage while self infusing with his constellation 6. Xingqiu’s burst provides his hydro sword procs on attack for extra damage and hydro application. Xiangling is part of the pyro resonance pair and her burst provides a lot of damage via vaporise. Bennett heals and provides his attack buff to characters standing in the field.
+* Xiao acts as the Main DPS and uses Jean as an Energy Battery to maintain Elemental Burst uptime. Jean also functions as a Healer and possible Debuffer \(with Constellation 4\). Zhongli provides a Shield and debuffs enemies, while Albedo acts as a Sub DPS and activates Geo Resonance.
 

@@ -1,5 +1,7 @@
 # Geo
 
+
+
 There really is not a reaction that Geo teams are able to take advantage of. Thus, team building for geo is very straightforward. You run two geo for their resonance, and then find other sources of damage and utility using the last two slots, either via buffs, turrets, or pyro resonance since almost nothing else benefits you.
 
 {% hint style="info" %}
@@ -398,13 +400,5 @@ Refer to the character notes below for how characters work in this particular te
 
 ![](../.gitbook/assets/ui_avataricon_noelle.png) ![](../.gitbook/assets/ui_avataricon_aether_geo.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Noelle provides damage while the burst is up. Traveller helps generate particles with skill and buffs with burst. Xiangling provides extra damage with skill, burst, and pyro resonance while paired with Bennett. Bennett provides healing and an attack buff to Noelle. 
-
-
-
-
-
-
-
-
+* Noelle provides damage while the burst is up. Traveler helps generate particles with skill and buffs with burst. Xiangling provides extra damage with skill, burst, and pyro resonance while paired with Bennett. Bennett provides healing and an attack buff to Noelle. 
 
