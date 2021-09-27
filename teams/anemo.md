@@ -136,8 +136,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Elemental Burst grants an Anemo infusion and a increased jump height,
-            allowing him to frequently use Plunging Attacks for damage.</li>
+          <li>Elemental Burst grants an Anemo infusion and increased jump height, allowing
+            him to frequently use Plunging Attacks for damage.</li>
           <li>At Constellation 6, his Elemental Skill becomes his main source of damage.</li>
         </ul>
       </td>
