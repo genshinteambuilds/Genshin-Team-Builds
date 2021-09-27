@@ -29,9 +29,9 @@ Refer to the character notes below for how characters work in this particular te
       </td>
       <td style="text-align:center">
         <p>
-          <img src="../.gitbook/assets/ui_avataricon_albedo.png" alt/>
+          <img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
         </p>
-        <p>Albedo</p>
+        <p>Zhongli</p>
       </td>
       <td style="text-align:center">
         <p>
@@ -54,10 +54,11 @@ Refer to the character notes below for how characters work in this particular te
         <p>Noelle (C6)</p>
       </td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnKuNWVK04NETuZ%2FUI_AvatarIcon_Albedo.png?alt=media&amp;token=820af558-f350-43c3-8f93-3e87a0f2e4ff"
+          alt/>
         </p>
-        <p>Zhongli</p>
+        <p>Albedo</p>
       </td>
       <td style="text-align:center">
         <p>
@@ -105,9 +106,9 @@ Refer to the character notes below for how characters work in this particular te
       </td>
       <td style="text-align:center">
         <p>
-          <img src="../.gitbook/assets/ui_avataricon_barbara.png" alt/><b> </b>
+          <img src="../.gitbook/assets/ui_avataricon_qiqi.png" alt/><b> </b>
         </p>
-        <p>Barbara</p>
+        <p>Qiqi</p>
       </td>
     </tr>
     <tr>
@@ -119,7 +120,13 @@ Refer to the character notes below for how characters work in this particular te
         </p>
         <p>Fischl</p>
       </td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnIeywJ7mCkTlGJ%2FUI_AvatarIcon_Barbara.png?alt=media&amp;token=fdc2d5c3-1d0a-4787-b208-d9c26a103cde"
+          alt/>
+        </p>
+        <p>Barbara</p>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -144,9 +151,16 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Deals Geo damage with all of her attacks due to being a Catalyst user.
-            See <a href="../characters/geo/ningguang.md">Ningguang&apos;s</a> page for
-            usage.</li>
+          <li>Works best paired with Zhongli. Zhongli&apos;s shield with Geo Resonance
+            shreds the Geo Resistance of enemies which significantly boosts her damage.</li>
+          <li>Charged Attacks cost no stamina if she has Star Jades present.</li>
+          <li>Elemental Skill summons a construct which increases the Geo Damage when
+            walking through it and also shields from projectiles.</li>
+          <li>Elemental Burst summons projectiles which provide high burst damage especially
+            if her geo construct is present as it gets destroyed to summon more.</li>
+          <li>With Constellation 2 her Elemental Skill cooldown reset when the construct
+            gets destroyed allowing her to gain extra energy particles for her Elemental
+            Burst.</li>
         </ul>
       </td>
     </tr>
@@ -160,8 +174,14 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Stacks defense for damage, does minimal dps without her 6th constellation,
-            and fairly mediocre dps with her 6th constellation and ultimate up.</li>
+          <li>Damage scales from her Defence when Elemental Burst is active as it converts
+            it into attack. Works best paired with Zhongli for the Geo Resistance reduction.</li>
+          <li>Elemental Burst converts Normal and Charged attacks from Physical Damage
+            to Geo Damage and increases the its AOE.</li>
+          <li>Ascension 4 reduces the cooldown of her Elemental Skill with Normal and
+            Charged attacks.</li>
+          <li>Constellation 6 increases the attack gained from Defence even more during
+            her Elemental Burst and increases its duration when you defeat enemies.</li>
         </ul>
       </td>
     </tr>
@@ -180,31 +200,43 @@ Refer to the character notes below for how characters work in this particular te
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_albedo.png" alt/>
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnLUog7ikP0v89m%2FUI_AvatarIcon_Zhongli.png?alt=media&amp;token=9b64d852-861e-4631-80db-53783e61cadd"
+          alt/>
         </p>
-        <p>Albedo</p>
+        <p>Zhongli</p>
       </td>
       <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;</p>
+        <p></p>
         <ul>
-          <li>His skill provides extra damage off field from stacking defense and its
-            procs. Can run tenacity for an attack boost.</li>
+          <li>Provides Shielding and Debuffing whenever Zhongli&apos;s Jade Shield is
+            active.</li>
+          <li>Elemental Burst deals a large amount of damage.</li>
+          <li>Elemental Burst immobilizes Enemies for a short period of time..</li>
+          <li>Can buff the team when equipped with the Tenacity of Millelith 4-set.</li>
+          <li>The team may not require a dedicated Healer since Zhonglis shield is incredibly
+            strong when properly geared.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
-        </p>
-        <p>Zhongli</p>
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnKuNWVK04NETuZ%2FUI_AvatarIcon_Albedo.png?alt=media&amp;token=820af558-f350-43c3-8f93-3e87a0f2e4ff"
+          alt/>&#x200B;</p>
+        <p>Albedo</p>
       </td>
       <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;</p>
+        <p></p>
         <ul>
-          <li>His skill is a shield and decreases shreds. Burst is a petrify that does
-            a fair bit of damage.</li>
+          <li>His skill provides extra damage off field from stacking defence and its
+            procs. Can run tenacity for an attack boost.</li>
+          <li>Elemental Skill summons a construct that can deal damage off-field. The
+            damage scales from Defence.</li>
+          <li>Can buff the team when equipped with the Tenacity of Millelith 4-set.</li>
+          <li>Elemental Burst deals a large amount of damage and also provides the entire
+            party with Elemental Mastery. This however doesn&apos;t benefit your Main
+            DPS as they don&apos;t gain damage from Elemental Mastery.</li>
         </ul>
       </td>
     </tr>
@@ -218,8 +250,11 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Provides you resonance, skill is a bit of extra damage, burst is also
-            a bit of extra damage that also gives you some crit rate.</li>
+          <li>Mainly used for Geo Resonance and as a Battery for the Main DPS.</li>
+          <li>Elemental Skill summons a construct that protect from attacks. With Constellation
+            2 the construct explodes when destroyed dealing extra Geo Damage.</li>
+          <li>Constellation 1 will buff the Crit Rate of the party members within the
+            Elemental Burst AoE.</li>
         </ul>
       </td>
     </tr>

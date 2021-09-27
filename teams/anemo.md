@@ -1,6 +1,6 @@
 # Anemo
 
-There’s not much you can do to scale anemo damage. The goal is to have your main carry infused with anemo as often as possible, and providing as many buffs as possible to them. There is a swirl based team but that will be discussed in another page. \(link req\)
+Anemo Damage is not easily scalable. As such, The goal is to have your main carry infused with anemo as often as possible, and providing as many buffs as possible to them. There is a swirl based team but that will be discussed in another page. \(link req\)
 
 {% hint style="info" %}
 Characters are ranked roughly according to how well they perform in this team composition.
@@ -128,10 +128,10 @@ Refer to the character notes below for how characters work in this particular te
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p><a href="../characters/anemo/xiao.md"><img src="../.gitbook/assets/ui_avataricon_xiao.png" alt/> </a>
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_xiao.png" alt/>
         </p>
-        <p><a href="../characters/anemo/xiao.md">Xiao</a>
-        </p>
+        <p>Xiao</p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -144,16 +144,20 @@ Refer to the character notes below for how characters work in this particular te
     </tr>
     <tr>
       <td style="text-align:center">
-        <p><a href="../characters/anemo/kazuha.md"><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt/> </a>
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt/>
         </p>
-        <p><a href="../characters/anemo/kazuha.md">Kazuha</a>
-        </p>
+        <p>Kazuha</p>
       </td>
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Only has self anemo infusion at Constellation 6 and is only recommended
-            to be run as a carry at that stage.</li>
+          <li>
+            <ul>
+              <li>Gains an Anemo Infusion at Constellation 6. It is not recommended to use
+                Kazuha as the Main DPS before this Constellation.</li>
+            </ul>
+          </li>
         </ul>
       </td>
     </tr>
