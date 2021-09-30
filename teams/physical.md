@@ -188,6 +188,17 @@ Refer to the character notes below for how characters work in this particular te
         <p>(Healer)</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_aether_electro.png" alt/>
+        </p>
+        <p>Traveler (Electro)</p>
+      </td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+    </tr>
   </tbody>
 </table>
 
@@ -370,6 +381,17 @@ Refer to the character notes below for how characters work in this particular te
           <li>Elemental Burst can deal a large amount of damage if Ayaka is properly
             geared making her a viable Main DPS option with her own team.</li>
           <li>Can be used as an Energy Battery.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/ui_avataricon_aether_electro.png" alt/>Traveler (Electro)</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Provides off-field electro application while Elemental Burst is active.</li>
+          <li>Can provide large amounts of energy to other team members through both
+            Elemental Burst and Skill.</li>
         </ul>
       </td>
     </tr>
