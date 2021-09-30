@@ -204,6 +204,18 @@ Refer to the character notes below for how characters work in this particular te
       </td>
       <td style="text-align:center"></td>
     </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_aether_electro.png" alt/>
+        </p>
+        <p>Traveler (Electro)</p>
+        <p>(Buffer)</p>
+      </td>
+      <td style="text-align:center"></td>
+    </tr>
   </tbody>
 </table>
 
@@ -443,6 +455,19 @@ Main DPS
             using Elemental Skill.</li>
           <li>Can increase Crit Damage of the buffed character&apos;s Electro Damage
             at Constellation 6.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_aether_electro.png" alt/>Traveler</p>
+        <p>(Electro)</p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Provides high energy generation for other party members.</li>
+          <li>Provides small Electro resistance shred with Elemental Burst active.</li>
         </ul>
       </td>
     </tr>
