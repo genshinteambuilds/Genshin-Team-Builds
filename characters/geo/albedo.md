@@ -15,13 +15,13 @@
 * Elemental Burst deals AoE Geo damage in a frontal area. 
   * If Albedo's Elemental Burst is cast within the field created by his Elemental Skill, it will do 7 more instances of AoE Geo damage around the field. 
     * Damage dealt this way will not activate his Elemental Skill's effects.
-* At A4, buffs Elemental Mastery after activating his Elemental Burst.
+* At A4, buffs all members of the party's Elemental Mastery after activating his Elemental Burst.
 
 ## **Additional Notes**
 
-* His passive talent has a 10% chance to receive double product when albedo crafts weapon ascension materials.
-* At C4, buffs plunging damage when the active character is standing within the field created by Albedo's Elemental Skill.
-* At C6, buffs the Damage % of the active character when protected by a shield created by Crystallize and inside of the field created by his Elemental Skill.
+* His passive talent has a 10% chance to receive double product when Albedo crafts weapon ascension materials.
+* At C4, buffs Plunging Attack damage when the active character is standing within the field created by Albedo's Elemental Skill.
+* At C6, buffs the damage of the active character by 17% when protected by a shield created by Crystallize and inside of the field created by his Elemental Skill.
 
 ## **Works Well With**
 
@@ -35,7 +35,7 @@
 
 ![](../../.gitbook/assets/ui_avataricon_ayaka.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_rosaria.png) 
 
-* Since Albedo does Geo damage with his whole kit, he shatters frozen enemies. This makes him detrimental to freeze team compositions.
+* Since Albedo does Geo damage with his whole kit, he shatters frozen enemies. This makes him detrimental to Freeze team compositions.
 
 ## **Teams**
 
@@ -43,7 +43,7 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-[Reverse Vaporize](../../teams/reverse-vaporize.md) 
+[**Reverse Vaporize**](../../teams/reverse-vaporize.md) ****
 
 ![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
@@ -51,30 +51,30 @@ Click on the team names below for more details on how the team works and alterna
 
 * Albedo's Elemental Mastery buff enhances Vaporize reaction damage.
 
-[Geo ****](./)\*\*\*\*
+[**Geo** ](./)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_ningguang.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
 * Albedo both activates Geo Resonance and can act as an Energy Battery for the Main DPS. 
 
-[Physical](../../teams/physical.md)
+[**Physical**](../../teams/physical.md)\*\*\*\*
 
-![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_rosaria.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
 ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
 * Albedo can provide additional Off-Field damage and also activate Geo Resonance.
 
-[Anemo](../../teams/anemo.md)
+[**Anemo**](../../teams/anemo.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_xiao.png) ![](../../.gitbook/assets/ui_avataricon_jean.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)
 
 * Albedo can provide additional Off-Field damage and also activate Geo Resonance.
 * Xiao’s Plunge Attack damage is increased by Albedo’s 4th Constellation.
 
-[Electro-Charged](../../teams/electro-charged.md) 
+[**Electro-Charged**](../../teams/electro-charged.md) ****
 
-![](../../.gitbook/assets/ui_avataricon_keqing.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png)![](../../.gitbook/assets/ui_avataricon_albedo.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+![](../../.gitbook/assets/ui_avataricon_keqing.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
 * Albedo can provide additional Off-Field damage and also activate Geo Resonance.
 
