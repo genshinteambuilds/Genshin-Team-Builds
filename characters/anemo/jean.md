@@ -34,7 +34,7 @@
 
  ![](../../.gitbook/assets/ui_avataricon_ningguang.png) ![](../../.gitbook/assets/ui_avataricon_noelle.png) ![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_xinyan.png) 
 
-* Jean cannot cause elemental reactions with Geo and cannot provide Debuffing for Physical Damage characters.
+* Jean cannot cause elemental reactions with Geo and cannot provide Debuffs for Physical Damage characters.
 
 ## Teams
 
@@ -43,14 +43,18 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-In all the teams listed below, Jean universally provides Debuff utility using the Viridescent Venerer 4-set and can also provide healing and damage utility.
+This character is a healer, and can be used on any team provided you do not have better healing options.
+{% endhint %}
+
+{% hint style="info" %}
+In all the teams listed below, Jean universally provides Debuff utility using the Viridescent Venerer 4-set and can also provide healing, crowd control, and cleansing utility based on the needs of the team.
 {% endhint %}
 
 #### [Anemo](./)
 
 ![](../../.gitbook/assets/ui_avataricon_xiao.png) ![](../../.gitbook/assets/ui_avataricon_jean.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
-* Jean acts as an Energy Battery for Xiao in this team can also provide Crowd Control and Healing utility.
+* Jean acts as an Energy Battery for Xiao in this team and can also provide Crowd Control and Healing utility.
 
 #### [Electro-Charged](../../teams/electro-charged.md)
 
@@ -60,17 +64,17 @@ In all the teams listed below, Jean universally provides Debuff utility using th
 
 ![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_jean.png) 
 
-#### [Raw Pyro](../../teams/pure-pyro.md)
+#### [Pure Pyro](../../teams/pure-pyro.md)
 
 ![](../../.gitbook/assets/ui_avataricon_klee.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_jean.png) 
 
-* In this team, Jean will typically allow Venti to take the role of being a Debuffer with the Viridescent 4-set and instead provide the team with a Noblesse Oblige 4-set buff.
+* In this team, Jean will typically allow Venti to take the role of being a Debuffer with the Viridescent Venerer 4-set and instead provide the team with a Noblesse Oblige 4-set buff.
 * Jean acts as an Energy Battery for Venti in this team.
 
 #### [Turbo / Overload](../../teams/overload.md)
 
 ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_jean.png) 
 
-* In this team, Jean will typically allow Venti to take the role of being a Debuffer with the Viridescent 4-set and instead provide the team with a Noblesse Oblige 4-set buff.
+* In this team, Jean will typically allow Venti to take the role of being a Debuffer with the Viridescent Venerer 4-set and instead provide the team with a Noblesse Oblige 4-set buff.
 * This is a Quickswap team where all members have low Elemental Skill cooldowns and all members constantly generate energy particles to fuel their Elemental Bursts.
 
