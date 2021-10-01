@@ -1,8 +1,6 @@
 # Geo
 
-
-
-There really is not a reaction that Geo teams are able to take advantage of. Thus, team building for geo is very straightforward. You run two geo for their resonance, and then find other sources of damage and utility using the last two slots, either via buffs, turrets, or pyro resonance since almost nothing else benefits you.
+Geo Teams do not have an elemental reaction to amplify their damage. This means building a Geo team is very straightforward as it will mainly be 2 Geo Units for Geo Resonance, and then find other sources of damage and utility using the last two slots, either via buffs, turrets, or Pyro Resonance since almost nothing else benefits in their damage.
 
 {% hint style="info" %}
 Characters are ranked roughly according to how well they perform in this team composition.
@@ -24,110 +22,116 @@ Refer to the character notes below for how characters work in this particular te
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_ningguang.png" alt/>
+        <p><a href="../characters/geo/ningguang.md"><img src="../.gitbook/assets/ui_avataricon_ningguang.png" alt/> </a>
         </p>
-        <p>Ningguang</p>
+        <p><a href="../characters/geo/ningguang.md">Ningguang</a>
+        </p>
       </td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
+        <p><a href="../characters/geo/zhongli.md"><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/> </a>
         </p>
-        <p>Zhongli</p>
+        <p><a href="../characters/geo/zhongli.md">Zhongli</a>
+        </p>
+        <p>(Shielder, Buffer/Debuffer,</p>
+        <p>Burst)</p>
       </td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/>
+        <p><a href="../characters/pyro/xiangling.md"><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/> </a>
         </p>
-        <p>Xiangling</p>
+        <p><a href="../characters/pyro/xiangling.md">Xiangling</a>
+        </p>
       </td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
+        <p><a href="../characters/geo/zhongli.md"><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/> </a>
         </p>
-        <p>Zhongli</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_noelle.png" alt/>
+        <p><a href="../characters/geo/zhongli.md">Zhongli</a>
         </p>
-        <p>Noelle (C6)</p>
-      </td>
-      <td style="text-align:center">
-        <p>&#x200B;
-          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnKuNWVK04NETuZ%2FUI_AvatarIcon_Albedo.png?alt=media&amp;token=820af558-f350-43c3-8f93-3e87a0f2e4ff"
-          alt/>
-        </p>
-        <p>Albedo</p>
-      </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/>
-        </p>
-        <p>Xingqiu</p>
-      </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/>
-        </p>
-        <p>Bennett</p>
+        <p>(Shielder, Buffer/Debuffer,</p>
+        <p>Burst)</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center"></td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_aether_geo.png" alt/>
+        <p><a href="../characters/geo/noelle.md"><img src="../.gitbook/assets/ui_avataricon_noelle.png" alt/> </a>
         </p>
-        <p>Traveller (Geo)</p>
+        <p><a href="../characters/geo/noelle.md">Noelle (C6)</a>
+        </p>
       </td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_venti.png" alt/>
+        <p><a href="../characters/geo/albedo.md">&#x200B;<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnKuNWVK04NETuZ%2FUI_AvatarIcon_Albedo.png?alt=media&amp;token=820af558-f350-43c3-8f93-3e87a0f2e4ff" alt/></a>
         </p>
-        <p>Venti</p>
+        <p><a href="../characters/geo/albedo.md">Albedo</a>
+        </p>
       </td>
       <td style="text-align:center">
-        <p>&lt;b&gt;&lt;/b&gt;
-          <img src="../.gitbook/assets/ui_avataricon_diona.png"
-          alt/><b> </b>
+        <p><a href="../characters/hydro/xingqiu.md"><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/> </a>
         </p>
-        <p>Diona</p>
+        <p><a href="../characters/hydro/xingqiu.md">Xingqiu</a>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <p><a href="../characters/pyro/bennett.md"><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/> </a>
+        </p>
+        <p><a href="../characters/pyro/bennett.md">Bennett</a>
+        </p>
+        <p>(Buffer)</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_beidou.png" alt/>
+        <p><a href="../characters/geo/traveler-geo.md"><img src="../.gitbook/assets/ui_avataricon_aether_geo.png" alt/> </a>
         </p>
-        <p>Beidou</p>
+        <p><a href="../characters/geo/traveler-geo.md">Traveller (Geo)</a>
+        </p>
+        <p>(Battery)</p>
       </td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_qiqi.png" alt/><b> </b>
+        <p><a href="../characters/anemo/venti.md"><img src="../.gitbook/assets/ui_avataricon_venti.png" alt/> </a>
         </p>
-        <p>Qiqi</p>
+        <p><a href="../characters/anemo/venti.md">Venti</a>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <p>&lt;b&gt;&lt;/b&gt;<a href="../characters/cryo/diona.md">&lt;b&gt;&lt;/b&gt;<img src="../.gitbook/assets/ui_avataricon_diona.png" alt/><b> </b></a>
+        </p>
+        <p><a href="../characters/cryo/diona.md">Diona</a>
+        </p>
+        <p>(Healer)</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_fischl.png" alt/>
+        <p><a href="../characters/electro/beidou.md"><img src="../.gitbook/assets/ui_avataricon_beidou.png" alt/> </a>
         </p>
-        <p>Fischl</p>
+        <p><a href="../characters/electro/beidou.md">Beidou</a>
+        </p>
       </td>
       <td style="text-align:center">
-        <p>&#x200B;
-          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnIeywJ7mCkTlGJ%2FUI_AvatarIcon_Barbara.png?alt=media&amp;token=fdc2d5c3-1d0a-4787-b208-d9c26a103cde"
-          alt/>
+        <p><a href="../characters/cryo/qiqi.md"><img src="../.gitbook/assets/ui_avataricon_qiqi.png" alt/><b> </b></a>
         </p>
-        <p>Barbara</p>
+        <p><a href="../characters/cryo/qiqi.md">Qiqi</a>
+        </p>
+        <p>(Healer)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p><a href="../characters/electro/fischl.md"><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt/> </a>
+        </p>
+        <p><a href="../characters/electro/fischl.md">Fischl</a>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <p><a href="../characters/hydro/barbara.md">&#x200B;<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnIeywJ7mCkTlGJ%2FUI_AvatarIcon_Barbara.png?alt=media&amp;token=fdc2d5c3-1d0a-4787-b208-d9c26a103cde" alt/></a>
+        </p>
+        <p><a href="../characters/hydro/barbara.md">Barbara</a>
+        </p>
+        <p>(Healer)</p>
       </td>
     </tr>
   </tbody>
@@ -145,10 +149,10 @@ Refer to the character notes below for how characters work in this particular te
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_ningguang.png" alt/>
+        <p><a href="../characters/geo/ningguang.md"><img src="../.gitbook/assets/ui_avataricon_ningguang.png" alt/></a>
         </p>
-        <p>Ningguang</p>
+        <p><a href="../characters/geo/ningguang.md">Ningguang</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -168,10 +172,10 @@ Refer to the character notes below for how characters work in this particular te
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_noelle.png" alt/>
+        <p><a href="../characters/geo/noelle.md"><img src="../.gitbook/assets/ui_avataricon_noelle.png" alt/></a>
         </p>
-        <p>Noelle (C6)</p>
+        <p><a href="../characters/geo/noelle.md">Noelle (C6)</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -202,11 +206,10 @@ Refer to the character notes below for how characters work in this particular te
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>&#x200B;
-          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnLUog7ikP0v89m%2FUI_AvatarIcon_Zhongli.png?alt=media&amp;token=9b64d852-861e-4631-80db-53783e61cadd"
-          alt/>
+        <p><a href="../characters/geo/zhongli.md">&#x200B;<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnLUog7ikP0v89m%2FUI_AvatarIcon_Zhongli.png?alt=media&amp;token=9b64d852-861e-4631-80db-53783e61cadd" alt/></a>
         </p>
-        <p>Zhongli</p>
+        <p><a href="../characters/geo/zhongli.md">Zhongli</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -223,10 +226,10 @@ Refer to the character notes below for how characters work in this particular te
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>&#x200B;
-          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnKuNWVK04NETuZ%2FUI_AvatarIcon_Albedo.png?alt=media&amp;token=820af558-f350-43c3-8f93-3e87a0f2e4ff"
-          alt/>&#x200B;</p>
-        <p>Albedo</p>
+        <p><a href="../characters/geo/albedo.md">&#x200B;<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnKuNWVK04NETuZ%2FUI_AvatarIcon_Albedo.png?alt=media&amp;token=820af558-f350-43c3-8f93-3e87a0f2e4ff" alt/>&#x200B;</a>
+        </p>
+        <p><a href="../characters/geo/albedo.md">Albedo</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -244,10 +247,10 @@ Refer to the character notes below for how characters work in this particular te
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_aether_geo.png" alt/>
+        <p><a href="../characters/geo/traveler-geo.md"><img src="../.gitbook/assets/ui_avataricon_aether_geo.png" alt/> </a>
         </p>
-        <p>Traveller (Geo)</p>
+        <p><a href="../characters/geo/traveler-geo.md">Traveller (Geo)</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -275,71 +278,83 @@ Refer to the character notes below for how characters work in this particular te
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/>
+        <p><a href="../characters/pyro/xiangling.md"><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/></a>
         </p>
-        <p>Xiangling</p>
+        <p><a href="../characters/pyro/xiangling.md">Xiangling</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <ul>
-          <li>Skill and burst both provide some off-field damage.</li>
+          <li>Mainly used for Pyro Resonance.</li>
+          <li>Elemental Burst and Elemental Skill provides off-field damage. Deals a
+            large amount of damage on their own when properly geared.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/>
+        <p><a href="../characters/hydro/xingqiu.md"><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/></a>
         </p>
-        <p>Xingqiu</p>
+        <p><a href="../characters/hydro/xingqiu.md">Xingqiu</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Provides some extra damage via his burst throwing hydro swords on attack.</li>
+          <li>The Rain Swords from his Elemental Skill and Elemental Burst provide Damage
+            Reduction to all hits. This affects shields too making them stronger.</li>
+          <li>Elemental Skill and Elemental Burst also deal a large amount of damage
+            on their own when properly geared.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_venti.png" alt/>
+        <p><a href="../characters/anemo/venti.md"><img src="../.gitbook/assets/ui_avataricon_venti.png" alt/></a>
         </p>
-        <p>Venti</p>
+        <p><a href="../characters/anemo/venti.md">Venti</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Used with Ningguang to gather enemies and get some extra damage.</li>
+          <li>Works best paired with Ningguang or Albedo.</li>
+          <li>Elemental Burst is used to gather light enemies allowing for extra damage
+            from abilities and attacks that deal AoE.</li>
+          <li>Not recommended to use with Melee Main DPS as the light enemies are too
+            high for them to reach during with his Elemental Burst active.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_fischl.png" alt/>
+        <p><a href="../characters/electro/fischl.md"><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt/></a>
         </p>
-        <p>Fischl</p>
+        <p><a href="../characters/electro/fischl.md">Fischl</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Provides off-field electro damage via skill and burst.</li>
+          <li>Elemental Burst and Elemental Skill summons a turret that provides off-field
+            damage and energy particles.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_beidou.png" alt/>
+        <p><a href="../characters/electro/beidou.md"><img src="../.gitbook/assets/ui_avataricon_beidou.png" alt/></a>
         </p>
-        <p>Beidou</p>
+        <p><a href="../characters/electro/beidou.md">Beidou</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Provides off-field electro damage via burst.</li>
+          <li>Elemental Burst off-field Electro Damage that trigger when the active
+            characters Normal and Charged Attacks hit enemy units. Can deal a large
+            amount of damage on their own when properly geared.</li>
         </ul>
       </td>
     </tr>
@@ -358,10 +373,10 @@ Refer to the character notes below for how characters work in this particular te
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
+        <p><a href="../characters/geo/zhongli.md"><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/></a>
         </p>
-        <p>Zhongli</p>
+        <p><a href="../characters/geo/zhongli.md">Zhongli</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -372,16 +387,20 @@ Refer to the character notes below for how characters work in this particular te
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/>
+        <p><a href="../characters/pyro/bennett.md"><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/></a>
         </p>
-        <p>Bennett</p>
+        <p><a href="../characters/pyro/bennett.md">Bennett</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Provides an attack buff with his burst, as well as healing. Very recommended
-            if Xiangling is in the team</li>
+          <li>Buffs the Attack of characters standing within the field created by Bennett&apos;s
+            Elemental Burst.</li>
+          <li>Will usually be carrying Noblesse Oblige 4-set to further buff characters
+            on using Elemental Burst.</li>
+          <li>Provides healing.</li>
+          <li>Together with Xiangling, can provide Pyro Resonance to the team.</li>
         </ul>
       </td>
     </tr>
@@ -392,13 +411,17 @@ Refer to the character notes below for how characters work in this particular te
 
 ![](../.gitbook/assets/ui_avataricon_ningguang.png) ****![](../.gitbook/assets/ui_avataricon_zhongli.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Zhongli gives you extra damage via resonance and shield decreasing resistances. Xiangling gives you extra damage with skill, burst, and pyro resonance paired with Bennett. Bennett heals and buffs your Ningguang. Ningguang stays on the field for damage. 
+* Zhongli's shield and Geo Resonance when paired with Ningguang will reduce the Geo Resistance of Enemies by -40% which is a massive boost of damage. Xiangling and Bennet paired together will provide Pyro Resonance which increases the attack by 25% for the entire team.
+* Ningguang especially with Constellation 2 can provide a lot of energy particles allowing both her and Zhongli to frequently cast their Elemental Burst. Make sure you have Ningguang's Jade Screen on the field to summon more projectiles for her Elemental Burst. Bennet provides a large attack buff and healing with his Elemental Burst which everyone in the team can take advantage of.
+* When Elemental Bursts are not ready to be cast Ningguang can deal sustained damage with her Normal and Charged Attacks. 
 
-![](../.gitbook/assets/ui_avataricon_ningguang.png) ![](../.gitbook/assets/ui_avataricon_albedo.png) ![](../.gitbook/assets/ui_avataricon_fischl.png) ![](../.gitbook/assets/ui_avataricon_zhongli.png) 
 
-* Albedo provides extra damage and buffs Ning with his Tenacity of the Millelith. Fischl provides extra damage with Oz and potentially her 6th constellation. Zhongli keeps your team alive with skill and burst.  
 
 ![](../.gitbook/assets/ui_avataricon_noelle.png) ![](../.gitbook/assets/ui_avataricon_aether_geo.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Noelle provides damage while the burst is up. Traveler helps generate particles with skill and buffs with burst. Xiangling provides extra damage with skill, burst, and pyro resonance while paired with Bennett. Bennett provides healing and an attack buff to Noelle. 
+* This Team Composition is viable if your Noelle is Constellation 6 otherwise the overall damage output of this team will be low since Noelle's Elemental Burst is the biggest source of damage.
+* Noelle cannot generate Energy Particles on her own which is why she is paired with Geo Traveller which will provide her the particles as his Elemental skill cooldown is short. The Traveller's Elemental Burst also provides a Crit Rate buff when Noelle is inside the AoE.
+* Xiangling and Bennet paired together will provide Pyro Resonance which increases the attack by 25% for the entire team. Bennet also provides a large attack buff and healing with his Elemental Burst.
+
+  
 

@@ -83,7 +83,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [Geo](../../teams/geo.md)
 
-![](../../.gitbook/assets/ui_avataricon_ningguang.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../../.gitbook/assets/ui_avataricon_ningguang.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
 * In these Teams, Bennett plays the role of healer, Pyro Resonance activator, and support.
 

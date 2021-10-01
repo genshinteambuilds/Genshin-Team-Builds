@@ -84,11 +84,17 @@ SUB DPS
 
 ![](../../.gitbook/assets/ui_avataricon_klee.png) ![](../../.gitbook/assets/ui_avataricon_aether_geo.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Focuses on raw damage with Klee. Traveler \(Geo\) and Zhongli provide geo resonances along with the off field damage Zhongli’s stele can inflict with the help of Traveler’s \(Geo\) geo constructs. Bennett acts as the healer, buffer and activates pyro resonance with klee for more attack.
+* Focuses on raw damage with Klee. Traveler \(Geo\) and Zhongli provide geo resonances along with the off field damage Zhongli’s pillar can inflict with the help of Traveler’s \(Geo\) geo constructs. Bennett acts as the healer, buffer and activates pyro resonance with klee for more attack.
 
 [Geo](../../teams/geo.md)
 
 ![](../../.gitbook/assets/ui_avataricon_ningguang.png) ![](../../.gitbook/assets/ui_avataricon_aether_geo.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* A generally used team that used Ningguang as the main DPS with Traveler \(Geo\) to act as another source of energy particles and activate geo resonances. Traveler \(Geo\) will act as quick inbetween for a quick use of their Elemental skill and burst
+* A generally used team that used Ningguang as the main DPS with Traveler \(Geo\) to act as another source of energy particles and activate geo resonances. Traveler \(Geo\) will act as quick inbetween for a quick use of their Elemental skill and burst.
+
+![](../../.gitbook/assets/ui_avataricon_noelle.png) ![](../../.gitbook/assets/ui_avataricon_aether_geo.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png)
+
+* A team that mainly uses a Constellation 6 Noelle as a main dps. Since Noelle cannot regenerate energy particles on her own the Traveler \(Geo\) is the main battery for Noelle and also activate Geo Resonance 
+
+
 
