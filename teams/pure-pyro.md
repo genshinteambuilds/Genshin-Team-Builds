@@ -166,8 +166,9 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>He is Anemo for Viridescent shred. He buffs our elemental damage based
-            on his skill. He can also minorly group enemies.</li>
+          <li>Anemo character that can provide the Viridescent Venerer set bonus, as
+            well as minor crowd control. His passive can also provide Pyro Damage bonus
+            to the party.</li>
         </ul>
       </td>
     </tr>
@@ -177,10 +178,10 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>We essentially do not benefit from her elemental mastery transfer. She
-            is simply here for Viridescent shred and potentially carrying Thrilling
-            Tales for the attack buff. You may find some use with her grouping, though
-            it is quite weak</li>
+          <li>Provides Viridescent Venerer set bonus as well as decent crowd control.
+            Can also wield Thirlling Tales of The Dragon Slayer for an attack buff
+            for either Klee or Yanfei. With Constellation 6 her Elemental Burst can
+            provide a Pyro damage bonus when infused with Pyro</li>
         </ul>
       </td>
     </tr>
@@ -190,9 +191,9 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>His burst groups enemies and we are fine with swirling pyro with his tornado,
-            which gives us a bit of extra damage. He also carries Viridescent quite
-            well.</li>
+          <li>Provides Viridescent Venerer set bonus as well as powerful crown control
+            and Sub DPS. Passive provides a fixed amount of Energy for the team at
+            the end of Elemental Burst duration of the element infused.</li>
         </ul>
       </td>
     </tr>
@@ -203,7 +204,8 @@ Refer to the character notes below for how characters work in this particular te
         <p></p>
         <ul>
           <li>Provides geo resonance with Zhongli and can carry Tenacity of the Millileth
-            for some extra attack on Klee.</li>
+            for some extra attack on Klee. Also serves as a Sub DPS that can be activated
+            by Klee&apos;s normal and charged attacks</li>
         </ul>
       </td>
     </tr>
