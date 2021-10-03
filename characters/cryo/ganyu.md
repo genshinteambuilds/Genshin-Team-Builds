@@ -8,13 +8,16 @@
 
 ## **Character Breakdown**
 
-* Elemental Burst deals AoE Cryo Damage and leaves a Cryo Lotus on the ground that Taunts surrounding enemies. The Lotus deals AoE Cryo Damage if destroyed or when it's duration ends.
-* Elemental Skill creates a field which continually rains shards of ice on enemies inflicting Cryo damage.
+* Elemental Skill deals AoE Cryo Damage and leaves a Cryo Lotus on the ground that Taunts surrounding enemies. The Lotus deals AoE Cryo Damage if destroyed or when it's duration ends.
+* Elemental Burst creates a field which continually rains shards of ice on enemies inflicting Cryo damage.
+* Ganyu's charge attack has two levels:
+  * the first level fires a lone arrow dealing Cryo Damage
+  * the second level fires a Frostflake arrow which creates a bloom after hitting the target, dealing AoE Cryo damage 
 * Ganyu's primary source of damage when used as a Main DPS character is her fully charged Aimed Charged Attack.
 
 ## **Additional Notes**
 
-* Ganyu’s Frostflake Arrow Bloom from her fully charged Aimed Charged Attack has a separate ICD from the initial attack which allows Ganyu to trigger reactions with both components of her Aimed Charged Attack. This is incredibly powerful with Ganyu's Reverse Melt team compositions as both attacks can Melt.
+* Ganyu’s Frostflake Arrow Bloom from her fully charged Aimed Charged Attack has a separate internal cooldown for reactions from the initial attack which allows Ganyu to trigger reactions with both components of her Aimed Charged Attack. This is incredibly powerful with Ganyu's Reverse Melt team compositions as both attacks can Melt.
 * Ganyu's Elemental Burst is typically not used much in Reverse Melt team compositions as the application of Cryo to enemies from her Burst can interfere with the Reverse Melt reactions coming from her Aimed Charged Attacks.
 * When used in a Off-Field DPS or Support capability, Ganyu's Elemental Burst can apply Cryo to enemies but this is not fast enough to enable Melt team compositions by herself.
 * While Ganyu can be used to apply Cryo for Freeze teams or Physical teams in an Off-Field DPS and Support role as well, Ganyu deals so much damage as a Main DPS character that this often performs worse than simply just using Ganyu in the Main DPS character role.
@@ -23,7 +26,7 @@
 
 ![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
 
-* Anemo Support characters can Debuff Cryo Resistance of enemies with Viridescent Venerer.
+* Anemo Support characters can Debuff Cryo Resistance of enemies with the Viridescent Venerer set.
 * Many can also create persistent fields that can absorb elements to help enable Melt or Frozen Elemental Reactions to take place.
 
 ![](../../.gitbook/assets/ui_avataricon_mona.png) 
@@ -36,11 +39,11 @@
 
 * A second Cryo character is often used in Freeze team compositions to provide Cryo Resonance. Cryo Resonance increases the team's Critical Rate against enemies that are affected by Cryo or Frozen by 15%.
 * Not all Cryo characters are appropriate choices. Typically, Cryo characters that fulfill other roles are chosen.
-* One of the most popular options is Diona as she can additionally provide Healing, Shielding, carry the Noblesse Oblige 4-set to provide Buffing and additionally provide potential Cleansing for the team.
+* One of the most popular options is Diona as she can additionally provide Healing, Shielding/Cleansing, and carry the 4 piece Noblesse Oblige set. 
 
 ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
-* Zhongli works with virtually every character in Genshin Impact. He provides universal Debuffing for all elements as well as Physical team compositions while also providing the strongest Shielding in the game.
+* He provides a universal Debuff to enemy Resistance for all elements while also providing the strongest Shielding in the game.
 
 ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) 
 
