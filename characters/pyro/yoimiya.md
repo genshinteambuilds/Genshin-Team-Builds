@@ -68,9 +68,9 @@
 
 ![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_aether_electro.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
-* Yoimiya acts as a good enabler for Beidou.
-* When Beidou’s Burst is active, Yoimiya can use her skill and proc overload reactions and keep them away. Beidou's burst also help in dealing AoE damage to enemies which Yoimiya lacks.w
-* Last slot is a flexible spot, could be someone such as Bennett for pyro resonance, healing, and attack buff or Zhongli for more protection and crowd control. Any healer, shielder, or buffer would do.
+* Yoimiya acts as a good trigger for Beidou Burst procs.
+* When Beidou’s Burst is active, Yoimiya can use her skill and proc overload reactions and keep them away. Beidou's burst also help in dealing AoE damage to enemies which Yoimiya lacks.
+* Last slot is a flexible spot, could be someone such as Bennett for Pyro resonance, healing, and attack buff or Zhongli for more protection and crowd control. Any healer, shielder, or buffer would do.
 
 [**Reverse Vaporize**](../../teams/reverse-vaporize.md)\*\*\*\*
 
@@ -78,11 +78,11 @@
 
 ![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
-* Xingqiu’s Elemental Burst applies hydro aura on enemies that synergizes well with Yoimiya's Normal Attacks infused with pyro to vaporize. It also triggers Yoimiya's burst on marked enemies.
+* Xingqiu’s Elemental Burst applies Hydro aura on enemies that synergizes well with Yoimiya's Normal Attacks infused with Pyro to vaporize. It also triggers Yoimiya's burst on marked enemies.
 
 [**Melt**](../../teams/melt.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
-* Ganyu and Venti’s Burst will create a cryo infused Venti Burst, enabling Yoimiya to use her Skill and create melt reactions.
+* Ganyu and Venti’s Burst will create a Cryo infused Venti Burst, enabling Yoimiya to use her Skill and create melt reactions.
 
