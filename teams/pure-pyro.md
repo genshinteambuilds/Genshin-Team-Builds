@@ -155,8 +155,12 @@ Refer to the character notes below for how characters work in this particular te
         <img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/>Xiangling</td>
       <td style="text-align:left">
         <ul>
-          <li>For when you have nothing better to run. Klee ends up batterying her burst
-            up quite well, so you can ult and throw down her skill for some free damage.</li>
+          <li>Serves as an off-field DPS who can be charged by Klee.
+            <ul>
+              <li>With Constellation 1, Elemental Skill reduces enemy Pyro resistance</li>
+              <li>With Constellation 6, Elemental Burst increases team Pyro Damage</li>
+            </ul>
+          </li>
         </ul>
       </td>
     </tr>
@@ -203,9 +207,9 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Provides geo resonance with Zhongli and can carry Tenacity of the Millileth
+          <li>Provides Geo resonance with Zhongli and can carry Tenacity of the Millileth
             for some extra attack on Klee. Also serves as a Sub DPS that can be activated
-            by Klee&apos;s normal and charged attacks</li>
+            by any source of damage.</li>
         </ul>
       </td>
     </tr>
