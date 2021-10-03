@@ -38,18 +38,17 @@ Can fit into most team compositions as she is a powerful healer.
 
 ## Teams
 
-[Physical](../../teams/physical.md)
+[**Physical**](../../teams/physical.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_qiqi.png) 
 
-* Her best synergy, Qiqi heals him with her E off field and is able to activate superconduct reactions for Razor
-* Since she applies Cryo so slowly, this is her most effective team comp as it relies entirely on superconduct
+* Slowly applies Cryo to allow for Superconduct for prolonged durations, as well as provides consistent healing to the character on field.
 
-[Freeze](../../teams/freeze.md)
+[**Freeze**](../../teams/freeze.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_qiqi.png) 
 
 * Alternate team composition you can try if you don’t have Razor
-* Childe’s hydro melee attacks apply hydro that allows Qiqi to freeze them with her E, thus allowing Childe to attack without knocking them away
-* Wouldn’t recommend it as highly as a Superconduct team however, as the cryo application is too slow.
+* Childe’s hydro melee attacks apply hydro that allows Qiqi to freeze them with her Elemental Skill, thus allowing Childe to attack without knocking them away
+* Wouldn’t recommend it as highly as a Superconduct team however, as the Cryo application is too slow.
 
