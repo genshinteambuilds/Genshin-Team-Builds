@@ -236,9 +236,9 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Can carry Viridescent should you not run other Anemo characters. Besides
-            that she is a fairly standard healer. You may get some use out of her second
-            constellation&apos;s movement and attack speed buff.</li>
+          <li>Can take both the Healer and Viridescent Venerer slots on the team, allowing
+            for more utility/damage from other characters. A decent sub DPS with an
+            Elemental Burst that provides a full team heal.</li>
         </ul>
       </td>
     </tr>
@@ -248,8 +248,9 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>He shields you, shreds resistances, can be run with another geo for resonance,
-            and his burst is a crowd control.</li>
+          <li>Provides a very powerful shield that also lowers enemy Resistances to
+            all elements. Can also provide Geo resonance as well as the ability to
+            Petrify opponents with Elemental Burst.</li>
         </ul>
       </td>
     </tr>
@@ -259,8 +260,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>He heals your character when they are standing on top of his healing circle.
-            He also buffs their attack.</li>
+          <li>Elemental Burst creates a field that provides healing as well as an attack
+            buff. Also enables Pyro resonance and can be charged by Klee.</li>
         </ul>
       </td>
     </tr>
