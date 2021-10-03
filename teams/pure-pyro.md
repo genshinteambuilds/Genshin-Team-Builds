@@ -1,6 +1,6 @@
 # Pure Pyro
 
-This composition is due to the nature of some pyro characters, primarily Klee, not working well with reactions. Thus, we abandon those reactions and just jam as many pyro, geo, and anemo supports into the team. The main reaction we can take advantage of is swirl for Viridescent Venerer. As long as you have Klee and one of the Healers on your team, you can’t really go wrong as the other slots are simple damage increases.
+This composition is based around certain Pyro Characters, such as Klee, that do not work consistently with Vaporize reactions when partnered with Xingqiu. Thus, we abandon those reactions and instead utilize Pyro, Geo, and Anemo supports in order to amplify Pyro damage or provide off-field DPS. Swirl is the only real reaction commonly used, as the Viridescent Venerer set can reduce enemy Pyro Resistance. The core of the team is Klee/Yanfei, an Anemo Support, and a Healer/Shield character for sustain.
 
 {% hint style="info" %}
 Characters are ranked roughly according to how well they perform in this team composition.
@@ -31,15 +31,15 @@ Refer to the character notes below for how characters work in this particular te
       </td>
       <td style="text-align:center">
         <p>
-          <img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/>
+          <img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt/>
         </p>
-        <p>Xiangling</p>
+        <p>Kazuha</p>
       </td>
       <td style="text-align:center">
         <p>
-          <img src="../.gitbook/assets/ui_avataricon_jean.png" alt/>
+          <img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/>
         </p>
-        <p>Jean</p>
+        <p>Bennett</p>
       </td>
     </tr>
     <tr>
@@ -51,9 +51,24 @@ Refer to the character notes below for how characters work in this particular te
       </td>
       <td style="text-align:center">
         <p>
-          <img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt/>
+          <img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt/>
         </p>
-        <p>Kazuha</p>
+        <p>Sucrose</p>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_jean.png" alt/>
+        </p>
+        <p>Jean</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_venti.png" alt/>
+        </p>
+        <p>Venti</p>
       </td>
       <td style="text-align:center">
         <p>
@@ -66,34 +81,19 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:center"></td>
       <td style="text-align:center">
         <p>
-          <img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt/>
-        </p>
-        <p>Sucrose</p>
-      </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/>
-        </p>
-        <p>Bennett</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_venti.png" alt/>
-        </p>
-        <p>Venti</p>
-      </td>
-      <td style="text-align:center"></td>
-    </tr>
-    <tr>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">
-        <p>
           <img src="../.gitbook/assets/ui_avataricon_albedo.png" alt/>
         </p>
         <p>Albedo</p>
+      </td>
+      <td style="text-align:center"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/>
+        </p>
+        <p>Xiangling</p>
       </td>
       <td style="text-align:center"></td>
     </tr>
@@ -119,9 +119,11 @@ Refer to the character notes below for how characters work in this particular te
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Due to her not lining up with reaction applications from Xingqiu very
-            well due to her abundance of small pyro hits, she is sometimes run without
-            reactions.</li>
+          <li>Klee&apos;s kit is contains numerous ways to produce many instances of
+            Pyro damage in rapid succession, so choosing to Vaporize may not always
+            produce consistent results. Instead, a Pure Pyro team can dependably boost
+            her damage for prolonged durations. The 4 piece Lavawalker Set is recommended
+            for Klee when in a Pure Pyro team.</li>
         </ul>
       </td>
     </tr>
@@ -130,8 +132,8 @@ Refer to the character notes below for how characters work in this particular te
         <img src="../.gitbook/assets/ui_avataricon_yanfei.png" alt/>Yanfei</td>
       <td style="text-align:left">
         <ul>
-          <li>Technically also can be run reactionless. Just replace Klee with her and
-            things should work as well.</li>
+          <li>Yanfei can also perform in a reactionless team composition to a similar
+            extent</li>
         </ul>
       </td>
     </tr>
