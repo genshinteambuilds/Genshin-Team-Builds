@@ -8,17 +8,17 @@
 
 ## Character Breakdown
 
-* Elemental skill summons a meteor from the ground that deals geo damage. The meteorite is considered as Geo Construct
-* Elemental skill have a maximum of 3 meteorites that can exist at the same time before the earliest summon is destroyed.
+* Elemental Skill summons a meteor from the ground that deals Geo damage. The meteorite is considered as a Geo Construct
+* Elemental Skill has a maximum of 3 meteorites that can exist at the same time before the earliest summon is destroyed.
   * Holding Elemental skill lets you control where to summon the meteor.
-  * With constellation 2, meteorites deal damage when destroyed.
-* Elemental Burst creates shockwaves that deal geo damage and erect a barrier at the edge of the shockwaves. The barrier is considered as Geo construct
-  * Constellation 1 increases crit rate and resistance to interruptions of the characters inside the radius of the barrier.
-  * Constellation 4 lets the Traveler \(Geo\) recover 5 energy for every enemy hit by their Elemental burst. A maximum of 25 energy can be recovered.
+  * With Constellation 2, meteorites deal damage when destroyed.
+* Elemental Burst creates shockwaves that deal Geo damage and erect a barrier at the edge of the shockwaves. The barrier is considered as Geo construct
+  * Constellation 1 increases Crit Rate and resistance to interruptions of the characters inside the radius of the barrier.
+  * Constellation 4 lets the Traveler \(Geo\) recover 5 energy for every enemy hit by their Elemental Burst. A maximum of 25 energy can be recovered.
 
 ## Additional Notes
 
-*  Often paired with another geo character  to help battery them and also to get regenerate energy for themselves to help Elemental burst uptime. Also enable geo resonance that offers damage boost.
+*  Often paired with another Geo character  to help battery them and also to get regenerate energy for themselves to help Elemental burst uptime. Also enable geo resonance that offers damage boost.
 * Constellation 6 increases the duration of the summoned meteorite by 10 seconds and the barrier created by their Elemental burst for an additional 5 seconds.
 
 ## Works Well With
@@ -29,11 +29,11 @@
 
 ![](../../.gitbook/assets/ui_avataricon_ningguang.png) 
 
-* An alternative to Zhongli, Ningguang’s offer a more burst damage focus kit and also help each other to fuel their Elemental Burst. 
+* An alternative to Zhongli, Ningguang offers a more Burst damage focused kit and also helps each other to fuel their Elemental Bursts. 
 
 ![](../../.gitbook/assets/ui_avataricon_noelle.png) 
 
-* Acts as the healer and shield provider for Traveler \(Geo\), also enables geo resonances with them. 
+* Acts as the healer and shield provider for Traveler \(Geo\), also enables Geo resonances 
 
 ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
@@ -41,17 +41,17 @@
 
 ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) 
 
-* Provide off field damage and albedo activate Geo resonance which is beneficial.
+* Provide off field damage and Albedo activates Geo resonance.
 
 ## Does Not Work Well With
 
 ![](../../.gitbook/assets/element_cryo.webp) 
 
-* Traveler \(Geo\) shatters frozen enemies due to their geo damage focus kit.
+* Traveler \(Geo\) shatters frozen enemies due to their Geo damage focus kit.
 
 ![](../../.gitbook/assets/element_anemo.webp) 
 
-* Traveler \(Geo\) can’t benefit from Viridescent Venerer. Geo can’t react with Anemo and Current Anemo characters doesn't offer something other characters can give.
+* Traveler \(Geo\) cannnot benefit from Viridescent Venerer. Geo cannot react with Anemo and current Anemo characters doesn't offer something other characters can give.
   * Venti and kazuha can be an exceptions due to their CC and the amount of damage they can deal if properly built.
 
 ## Teams
@@ -60,9 +60,9 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-MAIN DPS
+**MAIN DPS**
 
-[Geo](../../teams/geo.md)
+[**Geo**](../../teams/geo.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_aether_geo.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_ningguang.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
