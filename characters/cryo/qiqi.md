@@ -38,6 +38,10 @@ Can fit into most team compositions as she is a powerful healer.
 
 ## Teams
 
+{% hint style="warning" %}
+This character is a healer. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
+{% endhint %}
+
 [**Physical**](../../teams/physical.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_qiqi.png) 
