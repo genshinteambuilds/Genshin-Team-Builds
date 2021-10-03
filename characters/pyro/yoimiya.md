@@ -37,16 +37,16 @@
 ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
 * Bennett heals and increases Yoimiya’s ATK with his burst, and can battery for her, making him an excellent support.
-* He also enables pyro resonance, which allows Yoimiya to have more ATK.
+* He also enables pyro resonance, which allows Yoimiya to have more attack.
 
 ![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) 
 
-* As with all Elemental Damage DPS, Anemo supports and Zhongli work well by reducing the enemy's Elemental Resistance via Viridescent Venerer or Zhongli's Jade Shield. Anemo characters often also supply useful grouping CC and additional offensive party buffs.
+* As with all Elemental Damage DPS, Anemo supports and Zhongli work well by reducing the enemy's Elemental Resistance via Viridescent Venerer or Zhongli's Jade Shield. Anemo characters often also supply useful grouping Crowd Control and additional offensive party buffs.
 * Albedo provides Elemental Mastery buff when using his elemental burst and further enhances Yoimiya's reaction damage.
 
 ![](../../.gitbook/assets/ui_avataricon_jean.png) 
 
-* Jean is an all rounded support, can heal, provide CC, hold 4 Viridescent Venerer, and is overall a great utility for Yoimiya.
+* Jean is an all rounded support, can heal, provide Crowd Control, provide the 4 piece Viridescent Venerer set bonus, and is overall a great utility for Yoimiya.
 
 ## Does Not Work Well With
 
@@ -62,7 +62,7 @@
 
 ## Teams
 
-[Overload](../../teams/overload.md)
+[**Overload**](../../teams/overload.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
@@ -72,7 +72,7 @@
 * When Beidou’s Burst is active, Yoimiya can use her skill and proc overload reactions and keep them away. Beidou's burst also help in dealing AoE damage to enemies which Yoimiya lacks.w
 * Last slot is a flexible spot, could be someone such as Bennett for pyro resonance, healing, and attack buff or Zhongli for more protection and crowd control. Any healer, shielder, or buffer would do.
 
-[Reverse Vaporize](../../teams/reverse-vaporize.md)
+[**Reverse Vaporize**](../../teams/reverse-vaporize.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
@@ -80,7 +80,7 @@
 
 * Xingqiu’s Elemental Burst applies hydro aura on enemies that synergizes well with Yoimiya's Normal Attacks infused with pyro to vaporize. It also triggers Yoimiya's burst on marked enemies.
 
-[Melt](../../teams/melt.md)
+[**Melt**](../../teams/melt.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
