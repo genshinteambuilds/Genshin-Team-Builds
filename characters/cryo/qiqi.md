@@ -6,34 +6,35 @@
 
 ## Character Breakdown
 
-* For Qiqi, Her Elemental Burst \(Talismans\) are her main form of healing.
+* Elemental Skill and Burst \(Talismans\) both provide some form of healing.
 * Her standard AA \(Ancient Sword Art\) performs a 5 strike combo.
-* Elemental Skill \(Herald of Frost\) periodically heals the active character \(making it good for off-field support\), and occasionally attacks surrounding enemies. When attacking enemies with qiqi during its active period, it heals all members in the party.
+* Elemental Skill \(Herald of Frost\) periodically heals the active character \(making it good for off-field support\), and occasionally attacks surrounding enemies. When attacking enemies with Qiqi during its active period, it heals all members in the party.
 * Elemental Burst \(Preserver of Fortune\) tags enemies hit with a talisman for a duration, hitting the marked enemy with the active character will heal them.
 * Her first passive \(Life-Prolonging Methods\) is when her Elemental Skill is active, triggering a reaction boosts healing bonus by 20%
 * Her second passive \(A Glimpse into Arcanum\) gives a 50% chance to apply the talisman on an enemy for 6s with her auto attacks \(30s cooldown\).
-* Honestly she just heals and excels at it, nothing much for that.
 
 ## Additional Notes
 
 * Her talismans \(Elemental Burst\) are her main way of healing characters, while she can AA to heal, it is not worth sacrificing the time to damage enemies with your main dps characters.
 * Her Elemental Skill applies cryo extremely slowly \(about 1 time per 4-5s\), making her only useful in superconduct teams.
-* Just like Barbara, at c6 she is able to revive a down character every 15 mins.
-* Her constellations are generally regarded as bad, c0 qiqi is enough for healing
+* Just like Barbara, at c6 she is able to revive a fallen character every 15 mins.
+* Her constellations are generally regarded as somewhat mediocre, c0 Qiqi is often a more than sufficient healer
 
 ## Works Well With
 
 ![](../../.gitbook/assets/element_cryo.webp) 
 
-* If you have no other choice for another cryo character, qiqi is a substitute for the cryo resonance party setup.
+* Can enable Cryo resonance for increased Crit Rate against enemies affected by Cryo
 
 ![](../../.gitbook/assets/ui_avataricon_razor.png) 
 
-* Her best synergy is with Razor, as she allows him to activate Superconduct, which is Razor’s main reaction
+* Her best synergy is with Razor, as she can periodically apply Cryo with her Elemental skill to enable Superconduct to lower enemy Physical Resistance.
 
 ## Does Not Work Well With
 
-Nothing, she’s a healer, she works in any comp as long as you require healing.
+Can fit into most team compositions as she is a powerful healer.
+
+* Note that outside of healing, she provides minimal team utility and does not produce Energy with her Elemental Skill. Can often be replaced by other healers that can provide more than just healing, i.e. Diona.
 
 ## Teams
 
