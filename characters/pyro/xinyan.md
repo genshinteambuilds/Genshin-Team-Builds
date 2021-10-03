@@ -2,22 +2,24 @@
 
 ## Roles
 
-* **Support:** Shielder, Cleanser, Debuffer \(Constellation 4\)
-* **Burst DPS** \(Constellation 2+\)
+* **Support:** Shielder, Cleanser, Buffer \(A4,\), Debuffer \(C4\)
+* **Burst DPS** \(C2\)
 
 ## Character Breakdown
 
-* Elemental skill deals Pyro Damage, applies Pyro to Xinyan, and creates a Shield. 
+* Elemental skill deals Pyro Damage, applies Pyro to Xinyan, and creates a Shield. The shield's strength varies depending on how many opponents are hit by the Elemental Skill.
   * Hitting 0–1 opponents grants Shield Level 1: Ad Lib.
   * Hitting 2 opponents grants Shield Level 2: Lead-In.
   * Hitting 3 or more opponents grants Shield Level 3: Rave, which also deals intermittent Pyro Damage to nearby enemies.
 * Elemental Burst launches nearby opponents and deals Physical Damage followed by Pyro DoT around her. 
-* Ascension 2 Talent decreases the amount of opponent's hit by Elemental Skill needed by 1.
-* Ascension 4 Talent: characters shielded by Xinyan's Elemental Skill deal 15% increased Physical Damage.
+* Ascension 2 Talent decreases the amount of opponent's the Elemental Skill must hit to trigger that level of shielding. This means that after reaching this Ascension level, Xinyan will always trigger at least Shield Level 2: Lead In.
+* Ascension 4 Talent makes characters shielded by Xinyan's Elemental Skill deal 15% increased Physical Damage.
 
 ## Additional Notes
 
 * Often used as a Physical Support but lacks the ability to trigger Superconduct, making her a less desirable choice than Electro/Cryo-based Physical Supports.
+* Can be used to cleanse the active character with her shield which momentarily applies Pyro. Swapping to another character while the shield is active will also cleanse that character as well.
+* At Constellation 4, Xinyan's Elemental Skill decreases Physical Resistance by 15% for 12 seconds.
 
 ## Works Well With
 
@@ -45,7 +47,7 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-[Physical](../../teams/physical.md)
+[**Physical**](../../teams/physical.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_xinyan.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_diona.png)
 
