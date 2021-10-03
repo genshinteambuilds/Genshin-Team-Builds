@@ -9,7 +9,7 @@
 
 * Elemental Skill \(Tap\) deals AOE Anemo damage in front of Venti and launches enemies hit into the air.
 * Elemental Skill \(Hold\) deals increased AOE Anemo damage around Venti and launches him into the air.
-* Elemental Burst creates a massive Stormeye that sucks in opponents in the middle and deals continuous Anemo damage. If the Stormeye comes into contact to any other elements besides geo, it will deal additional elemental damage depending on the element that is infused.
+* Elemental Burst creates a massive Stormeye that sucks in opponents in the middle and deals continuous Anemo damage. If the Stormeye comes into contact to any other elements besides Anemo or Geo, it will deal additional elemental damage depending on the element that is infused.
 
 ## **Additional Notes**
 
@@ -29,7 +29,7 @@
 
  ![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_xinyan.png) 
 
-* Venti does not work well with Physical damage dealers since he can't provide and debuffing for them.
+* Venti does not work well with Physical damage dealers since he can't provide any debuffing for them.
 
 ![](../../.gitbook/assets/element_geo.webp) 
 
@@ -45,31 +45,31 @@ Click on the team names below for more details on how the team works and alterna
 In all the teams listed below, Venti universally provides Debuff utility using the Viridescent Venerer 4-set.
 {% endhint %}
 
-[Anemo](../../teams/anemo.md)
-
-![](../../.gitbook/assets/ui_avataricon_xiao.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
-
-* Venti acts as Xiao's Energy Battery and a main source of grouping CC.
-* He can also decrease Anemo resistance to enemies when he has C2 or C6 active.
-
-[Electro-Charged](../../teams/electro-charged.md)
-
-![](../../.gitbook/assets/ui_avataricon_keqing.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
-
-* Venti provides Keqing and Mona CC to group up the mobs for both of their bursts to hit and can also be an Energy Battery since Keqing and Mona uses their bursts a lot with this team comp. He also Debuffs enemies when he is equipped with 4 Viridescent Venerer.
-
-[Freeze](../../teams/freeze.md)
+[**Freeze**](../../teams/freeze.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
-* Venti on this team main uses his Elemental Burst to keep enemies grouped and frozen for Ganyu to shoot down using her fully aimed charged attacks. He also Debuffs enemies when he is equipped with 4 Viridescent Venerer.
+* Venti on this team main uses his Elemental Burst to keep enemies grouped and frozen for Ganyu to shoot down using her fully aimed charged attacks.
 
-[Reverse Vaporize](../../teams/reverse-vaporize.md)
+[**Reverse Vaporize**](../../teams/reverse-vaporize.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Venti in this comp is the primary source of grouping CC for the whole team. Venti also Debuffs enemies when he is equipped with 4 Viridescent Venerer.
+* Venti in this comp is the primary source of grouping CC for the whole team.
 * Venti can also act as a battery for Xiangling with his A4 talent because of Xiangling's high energy requirements.
+
+[**Anemo**](../../teams/anemo.md)\*\*\*\*
+
+![](../../.gitbook/assets/ui_avataricon_xiao.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+
+* Venti acts as Xiao's Energy Battery and a main source of grouping Crowd Control.
+* He can also decrease enemy Anemo resistance to enemies when he has C2 or C6 active.
+
+[**Electro-Charged**](../../teams/electro-charged.md)\*\*\*\*
+
+![](../../.gitbook/assets/ui_avataricon_keqing.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+
+* Venti provides Keqing and Mona CC to group up the mobs for both of their bursts to hit and can also be an Energy Battery since Keqing and Mona uses their bursts a lot with this team comp.
 
 
 
