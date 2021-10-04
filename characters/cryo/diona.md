@@ -65,6 +65,7 @@ This character is a healer. While some teams are provided below where they are p
 ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
 * Activates Cryo resonance.
+* Provides energy for main carries' burst to be back off cooldown.
 
 [Physical](../../teams/physical.md)
 
