@@ -62,7 +62,7 @@ In all the teams listed below, Sucrose universally provides Debuffing using the 
 
 ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
 
-* Sometimes referred to as the Taser team composition, this team makes use of Electro and Hydro off-field DPS while Sucrose creates Swirl Reactions with her Elemental Skill, Normal Attacks and Charged Attacks.
+* Sometimes referred to as the Taser team composition, this team makes use of Electro and Hydro off-field DPS while Sucrose creates Swirl Reactions with her Elemental Skill, Normal and Charged Attacks.
 
 #### [Reverse Vaporize](../../teams/reverse-vaporize.md)
 
