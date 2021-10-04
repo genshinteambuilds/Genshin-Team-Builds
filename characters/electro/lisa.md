@@ -8,11 +8,11 @@
 ## Character Breakdown
 
 * Elemental skill applies Electro damage to enemies.
-  * Pressing Elemental skill releases a homing Electro orb deal Electro damage and apply 1 stack of the conductive status \(max 3 stacks\)
+  * Pressing Elemental skill releases a homing Electro orb that deals Electro damage and apply 1 stack of the conductive status \(max 3 stacks\)
   * Holding Elemental skill causes lightning to strike down dealing massive Electro damage to all enemies within the area of effect.
     * Deals more damage to enemies with higher conductive stacks.
 * Elemental Burst deals continuous Electro damage within its area of effect and knocks back enemies on hit.
-  * Ascension talent 4 reduce enemies def by 15% for 10 sec when hit by lighting rose
+  * Ascension talent 4 reduces enemies DEF by 15% for 10 sec when hit by lighting rose.
 
 ## Additional Notes
 
@@ -60,5 +60,5 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_lisa.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* A team that focuses on sustained damage while also have the option to deal burst damage with both Childe Vaporizing his Elemental Burst with Bennett, as well as Lisa’s Elemental skill.
+* A team that focuses on sustained damage while having the option to deal burst damage with both Childe Vaporizing his Elemental Burst with Bennett, as well as Lisa’s hold Elemental Skill.
 
