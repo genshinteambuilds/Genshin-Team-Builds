@@ -70,7 +70,7 @@ In all the teams listed below, Sucrose universally provides Debuffing using the 
 
 ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Sucrose provides debuffing with 4 set Viridescent Venerer as well as provides EM for the team to deal more vaporize damage.
+* Sucrose provides EM for the team to deal more vaporize damage, as well as grouping or crowd control with her Elemental Skill and Burst.
 
 #### [Overload](../../teams/overload.md)
 
