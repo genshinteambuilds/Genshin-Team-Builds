@@ -658,8 +658,6 @@ Refer to the character notes below for how characters work in this particular te
 * Keqing needs to continuously do charged attacks to optimally deal DPS and when casting her Elemental Skill do not cast it again a 2nd time or she will get infused with Electro. Rosaria serves to buff your Keqing's Critical rate with her Elemental Skill and with Kaeya they can apply cryo to enemies for Superconduct and also provide extra Crit Rate with Elemental Resonance. 
 * Bennet's Elemental Burst provides healing and large offensive buff to Keqing inside its AOE. It's recommended to build Bennet with high Energy Recharge in this party so he can consistently cast his Elemental Burst.
 
-  
-
 ## Extraneous information
 
 It is technically possible to create a physical team using other characters as a main carry. The most notable examples are Kaeya, Rosaria, and Xiangling. While it is playable, it is not recommended as there are often better options and better uses for those characters.
