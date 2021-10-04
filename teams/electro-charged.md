@@ -569,39 +569,3 @@ Main DPS
 * Keqing synergizes well with Xingqiu's Elemental Burst as she wants to use Charged Attacks continuously to deal optimal DPS. Kazuha can double Swirl, buffing both Keqing and Xingqiu's damage significantly. Bennett provides healing and a a large offensive buff for Keqing.
 * Kazuha should always be used before Bennett in DPS rotations so that he does not infuse his Elemental Burst with Pyro.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
