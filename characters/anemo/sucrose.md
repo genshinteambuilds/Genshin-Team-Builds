@@ -7,9 +7,9 @@
 
 ## Character Breakdown
 
-* Elemental Skill creates a small Wind Spirit that pulls opponents towards it's location and launches opponents within it's AoE.
-* Elemental Burst creates a field that that can absorb Cryo, Electro, Hydro or Pyro and will continually deal damage of that elemental type. If no element is absorbed, the field deals Anemo damage.
-  * Once the Elemental Burst absorbs an element, enemies within the field are continually damaged with that element, allowing other Elemental Reactions with that element to constantly take place.
+* Elemental Skill creates a small Wind Spirit that pulls opponents towards it's location and launches up opponents within it's AoE.
+* Elemental Burst creates an AoE field that that can absorb Cryo, Electro, Hydro or Pyro and will continually deal damage of that elemental type. If no element is absorbed, the field will only deal Anemo damage.
+  * Once the Elemental Burst absorbs an element, enemies within the field are continuously damaged with that element, allowing other Elemental Reactions with that element to constantly take place.
 * At A1, when Sucrose triggers a Swirl Reaction, All characters besides sucrose have their Elemental Mastery increased by 50 for 8 seconds.
 * At A4, when Sucrose uses her Elemental Skill or Burst on an opponent, she shares an additional 20% of her Elemental Mastery with her party members.
   * Sucrose can reach EM values as high as 1000 which would give 250 EM to her party members with both A1 and A4 talents.
@@ -17,9 +17,9 @@
 
 ## **Additional Notes**
 
-* Elemental Skill can also stagger larger enemies such and Geovishaps.
+* Elemental Skill can also stagger larger enemies such as Geovishaps.
 * Both her Elemental Skill and Burst are useful for grouping enemies.
-* C1 gives her Elemental Skill an additional charge
+* C1 gives her Elemental Skill an additional charge.
 * C6 Sucrose has the ability to boost Elemental Damage by 20% for any element absorbed during her Elemental Burst.
 
 ## Works Well With
@@ -67,6 +67,10 @@ In all the teams listed below, Sucrose universally provides Debuffing using the 
 #### [Reverse Vaporize](../../teams/reverse-vaporize.md)
 
 ![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+
+![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+
+* Sucrose provides debuffing with 4 set Viridescent Venerer as well as provides EM for the team to deal more vaporize damage.
 
 #### [Overload](../../teams/overload.md)
 
