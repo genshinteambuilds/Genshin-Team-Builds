@@ -421,5 +421,3 @@ Refer to the character notes below for how characters work in this particular te
 * Noelle cannot generate Energy Particles on her own which is why she is paired with Geo Traveller which will provide her the particles as his Elemental skill cooldown is short. The Traveller's Elemental Burst also provides a Crit Rate buff when Noelle is inside the AoE.
 * Xiangling and Bennet paired together will provide Pyro Resonance which increases the attack by 25% for the entire team. Bennet also provides a large attack buff and healing with his Elemental Burst.
 
-  
-
