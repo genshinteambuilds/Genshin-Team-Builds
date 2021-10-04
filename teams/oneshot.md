@@ -180,7 +180,7 @@ Mona Normal Attack -&gt; Sucrose Elemental Skill -&gt; Bennett Elemental Skill -
 
 ### **Main Carry**
 
-\*\*\*\*![](../.gitbook/assets/ui_avataricon_tartaglia.png) _\*\*_
+![](../.gitbook/assets/ui_avataricon_tartaglia.png)
 
 * Tartaglia has two bursts, based on which form he is in. Bow form does less damage but occurs much faster since it returns 20 energy back to Tartaglia, Melee form requires the transformation and does much more damage. 
 
