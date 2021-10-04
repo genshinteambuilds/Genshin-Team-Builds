@@ -226,7 +226,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Can act as a Sub DPS.</li>
+          <li>Provides consistent off-field Electro Damage through her Elemental Skill
+            and Elemental Burst</li>
         </ul>
       </td>
     </tr>
@@ -240,6 +241,9 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
+          <li>Elemental Burst provides high amounts of off-field Electro Damage that
+            trigger when the active characters Normal and Charged Attacks hit enemy
+            units.</li>
           <li>Acts as a Sub DPS and grants damage reduction.</li>
         </ul>
       </td>
@@ -254,7 +258,9 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Can be used to activate Pyro Resonance and act as a Sub DPS.</li>
+          <li>Mainly used for Pyro Resonance.</li>
+          <li>Elemental Burst and Elemental Skill provides off-field damage. Deals a
+            large amount of damage on their own when properly geared.</li>
         </ul>
       </td>
     </tr>
@@ -266,9 +272,11 @@ Refer to the character notes below for how characters work in this particular te
         </p>
       </td>
       <td style="text-align:left">
-        <p></p>
         <ul>
-          <li>Acts as a Sub DPS and grants damage reduction and healing.</li>
+          <li>The Rain Swords from his Elemental Skill and Elemental Burst provide Damage
+            Reduction to all hits. This affects shields too making them stronger.</li>
+          <li>Elemental Skill and Elemental Burst also deal a large amount of damage
+            on their own when properly geared.</li>
         </ul>
       </td>
     </tr>
@@ -282,13 +290,16 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>
-            <p>Can be used to activate Geo Resonance and act as a Sub DPS.</p>
-            <p>
-              <br />
-            </p>
-          </li>
+          <li>His skill provides extra off-field damage. Can run Tenacity of the Mileleth
+            for an attack boost.</li>
+          <li>Elemental Skill summons a construct that can deal damage off-field. The
+            damage scales from Defence.</li>
+          <li>Can buff the team when equipped with the Tenacity of Millelith 4-set.</li>
+          <li>Can activate Geo Resonance.</li>
         </ul>
+        <p>
+          <br />
+        </p>
       </td>
     </tr>
   </tbody>
@@ -314,10 +325,13 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Provides a strong Shield and debuffs enemy Elemental Resistances.</li>
-          <li>Can be used to activate Geo Resonance.
-            <br />
-          </li>
+          <li>Provides Shielding and Debuffing whenever Zhongli&apos;s Jade Shield is
+            active.</li>
+          <li>Elemental Burst deals a large amount of damage.</li>
+          <li>Elemental Burst immobilizes Enemies for a short period of time.</li>
+          <li>Can buff the team when equipped with the Tenacity of Millelith 4-set.</li>
+          <li>The team may not require a dedicated Healer since Zhongli&apos;s shield
+            is incredibly strong when properly geared.</li>
         </ul>
       </td>
     </tr>
@@ -329,10 +343,13 @@ Refer to the character notes below for how characters work in this particular te
         </p>
       </td>
       <td style="text-align:left">
-        <p></p>
         <ul>
-          <li>Provides healing and buffs Attack.</li>
-          <li>Can be used to activate Pyro Resonance.</li>
+          <li>Buffs the Attack of characters standing within the field created by Bennett&apos;s
+            Elemental Burst.</li>
+          <li>Will usually be carrying Noblesse Oblige 4-set to further buff characters
+            on using Elemental Burst.</li>
+          <li>Provides healing.</li>
+          <li>Can activate Pyro Resonance.</li>
         </ul>
       </td>
     </tr>
