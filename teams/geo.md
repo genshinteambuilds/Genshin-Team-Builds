@@ -413,9 +413,7 @@ Refer to the character notes below for how characters work in this particular te
 
 * Zhongli's shield and Geo Resonance when paired with Ningguang will reduce the Geo Resistance of Enemies by -40% which is a massive boost of damage. Xiangling and Bennet paired together will provide Pyro Resonance which increases the attack by 25% for the entire team.
 * Ningguang especially with Constellation 2 can provide a lot of energy particles allowing both her and Zhongli to frequently cast their Elemental Burst. Make sure you have Ningguang's Jade Screen on the field to summon more projectiles for her Elemental Burst. Bennet provides a large attack buff and healing with his Elemental Burst which everyone in the team can take advantage of.
-* When Elemental Bursts are not ready to be cast Ningguang can deal sustained damage with her Normal and Charged Attacks. 
-
-
+* When Elemental Bursts are not ready to be cast Ningguang can deal sustained damage with her Normal and Charged Attacks.
 
 ![](../.gitbook/assets/ui_avataricon_noelle.png) ![](../.gitbook/assets/ui_avataricon_aether_geo.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
 
