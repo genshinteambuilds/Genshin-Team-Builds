@@ -118,11 +118,12 @@ Refer to the character notes below for how characters work in this particular te
         <p>Klee</p>
       </td>
       <td style="text-align:left">
+        <p></p>
         <ul>
           <li>Klee&apos;s kit is contains numerous ways to produce many instances of
             Pyro damage in rapid succession, so choosing to Vaporize may not always
             produce consistent results. Instead, a Pure Pyro team can dependably boost
-            her damage for prolonged durations. The 4 piece Lavawalker Set is recommended
+            her damage for prolonged durations. The 4 set Lavawalker is recommended
             for Klee when in a Pure Pyro team.</li>
         </ul>
       </td>
@@ -131,6 +132,7 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:center">
         <img src="../.gitbook/assets/ui_avataricon_yanfei.png" alt/>Yanfei</td>
       <td style="text-align:left">
+        <p></p>
         <ul>
           <li>Yanfei can also perform in a reactionless team composition to a similar
             extent</li>
@@ -185,7 +187,7 @@ Refer to the character notes below for how characters work in this particular te
           <li>Provides Viridescent Venerer set bonus as well as decent crowd control.
             Can also wield Thirlling Tales of The Dragon Slayer for an attack buff
             for either Klee or Yanfei. With Constellation 6 her Elemental Burst can
-            provide a Pyro damage bonus when infused with Pyro</li>
+            provide a Pyro damage bonus when infused with Pyro.</li>
         </ul>
       </td>
     </tr>
@@ -195,7 +197,7 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Provides Viridescent Venerer set bonus as well as powerful crown control
+          <li>Provides Viridescent Venerer set bonus as well as powerful crowd control
             and Sub DPS. Passive provides a fixed amount of Energy for the team at
             the end of Elemental Burst duration of the element infused.</li>
         </ul>
@@ -208,8 +210,8 @@ Refer to the character notes below for how characters work in this particular te
         <p></p>
         <ul>
           <li>Provides Geo resonance with Zhongli and can carry Tenacity of the Millileth
-            for some extra attack on Klee. Also serves as a Sub DPS that can be activated
-            by any source of damage.</li>
+            for some extra attack. Also serves as a Sub DPS that can be activated by
+            any source of damage.</li>
         </ul>
       </td>
     </tr>
@@ -267,4 +269,10 @@ Refer to the character notes below for how characters work in this particular te
     </tr>
   </tbody>
 </table>
+
+## Sample Team Compositions
+
+![](../.gitbook/assets/ui_avataricon_klee.png) ![](../.gitbook/assets/ui_avataricon_kazuha.png) ![](../.gitbook/assets/ui_avataricon_zhongli.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
+
+* Kazuha decreases enemy's pyro resistance with 4 set Viridescent Venerer set while providing crowd control for Klee. Zhongli provides jade shield so Klee would be protected from damage and stagger, it also decreases resistances and his Elemental Burst can petrify enemies, providing crowd control. Bennett heals, activated pyro resonance, and buffs ATK for Klee to deal more damage.
 
