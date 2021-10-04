@@ -1,6 +1,6 @@
 # Melt
 
-Melt comps are centered around applying cryo in order to use pyro’s double damage reaction. Note that it is sometimes very difficult to make the elemental application order correct, and if an incorrect elemental application order is used, these team comps will turn into a reverse melt comp with the cryo application stealing all of the reactions. Usually, these comps will be a mixture of melt and reverse vaporise reactions due to downtime and practicality.
+Melt comps are centered around applying cryo in order to use pyro’s double damage reaction. Note that it is sometimes very difficult to make the elemental application order correct, and if an incorrect elemental application order is used, these team comps will turn into a reverse melt comp with the cryo application stealing all of the reactions. Usually, these comps will be a mixture of melt and reverse vaporize reactions due to downtime and practicality.
 
 {% hint style="info" %}
 Characters are ranked roughly according to how well they perform in this team composition.
@@ -154,7 +154,8 @@ Refer to the character notes below for how characters work in this particular te
         <p></p>
         <ul>
           <li>The goal is to melt the majority of her burst and guoba hits. Bennett
-            is almost mandatory when running her.</li>
+            is almost mandatory when using her as her Elemental Burst energy cost is
+            high.</li>
         </ul>
       </td>
     </tr>
@@ -169,7 +170,7 @@ Refer to the character notes below for how characters work in this particular te
         <p></p>
         <ul>
           <li>A ton of her damage is loaded into her burst. The primary focus of running
-            this character is to melt this one hit, as well as try to reverse vaporise/melt
+            this character is to melt this one hit, as well as try to reverse vaporize/melt
             as many of her charge attack second hits as possible.</li>
         </ul>
       </td>
@@ -231,8 +232,8 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>very powerful on all teams due to him being the primary hydro application.
-            Used to set up vaporises, as well as to clean pyro application off of enemies,
+          <li>Very powerful on all teams due to him being the primary hydro application.
+            Used to set up vaporizes, as well as to clean pyro application off of enemies,
             due to cryo being very inefficient at doing so. Essentially mandatory in
             teams that expect longer damage windows (Xiangling and Diluc).</li>
         </ul>
@@ -340,7 +341,7 @@ Refer to the character notes below for how characters work in this particular te
         <p></p>
         <ul>
           <li>Buffs your character&#x2019;s elemental damage (and elemental mastery
-            if you have constellations). Can group a bit too.</li>
+            if you have his 2nd constellation). Can group a bit too.</li>
         </ul>
       </td>
     </tr>
@@ -386,8 +387,9 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>His skill shields and shreds enemy resistances. Burst does a decent amount
-            of damage and petrifies enemies allowing for some free damage.</li>
+          <li>His skill creates a shield and decreases enemy&apos;s resistances. Burst
+            does a decent amount of damage and petrifies enemies allowing for some
+            free damage.</li>
         </ul>
       </td>
     </tr>
@@ -401,8 +403,9 @@ Refer to the character notes below for how characters work in this particular te
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Can be run with viridescent venerer to shred resistances. Heals characters
-            using burst. Can help other anemo supports recover faster.
+          <li>Can be run with 4 set Viridescent Venerer to decrease the swirled element&apos;s
+            resistances. Heals characters using burst. Can help other anemo supports
+            recover faster.
             <br />
           </li>
         </ul>
@@ -439,14 +442,10 @@ Refer to the character notes below for how characters work in this particular te
 
 ![](../.gitbook/assets/ui_avataricon_hutao.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png) ![](../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../.gitbook/assets/ui_avataricon_jean.png) 
 
-* A little inconsistent with melts using a combination of Xingqiu and Kaeya bursts to hopefully melt a few charged attacks and bursts from Hutao. A more consistent team composition damage wise would replace the healer with a second cryo burst, such as Ganyu or Rosaria, to try to make the melts more consistent. But would only be doable if confident enough with only Hutao bursts and Xingqiu’s swords for healing. 
+* A little inconsistent with melts using a combination of Xingqiu and Kaeya bursts to hopefully melt a few charged attacks and bursts from Hutao. A more consistent team composition damage wise would replace the healer with a second cryo burst, such as Ganyu or Rosaria, to try to make the melts more consistent. But would only be doable if confident enough with only Hutao bursts and Xingqiu’s swords for healing.
 
 ### Footnotes
 
 * There technically is the option of using Diluc in a melt team. This is not recommended outside of extremely early on in the game, as it lacks long term viability in comparison to other team compositions.
-* Diluc: not nearly as strong/viable as the other two options. He has a long string of pyro infused attacks and skill casts of which you can only melt with some of them. Do not run with both Xingqiu and a Cryo, since he does not melt frozen enemies, instead they are shattered.  
-
-
-
-
+* Diluc: not nearly as strong/viable as the other two options. He has a long string of pyro infused attacks and skill casts of which you can only melt with some of them. Do not run with both Xingqiu and a Cryo, since he does not melt frozen enemies, instead they are shattered.
 
