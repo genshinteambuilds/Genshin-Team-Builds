@@ -51,7 +51,9 @@ Click on the team names below for more details on how the team works and alterna
 
 [Physical](../../teams/physical.md)
 
-![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_lisa.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
+![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_lisa.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
+
+![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_shougun.png) ![](../../.gitbook/assets/ui_avataricon_lisa.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
 * A typical Physical team composition where Lisa can do burst damage with her Elemental skill in a short period of time due to Kaeya and Diona helping her apply Superconduct increasing Lisa’s conductive stacks on enemies.
 * Lisa’s Elemental Burst reduces enemy defense while also dealing damage even when she’s not on-field.
