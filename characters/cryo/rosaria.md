@@ -56,13 +56,11 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
+### Main DPS
+
 [**Freeze**](../../teams/freeze.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_rosaria.png)  ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) 
-
-![](../../.gitbook/assets/ui_avataricon_ayaka.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_rosaria.png) ![](../../.gitbook/assets/ui_avataricon_barbara.png) 
-
-![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_rosaria.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) 
 
 * Rosaria's Elemental Skill and Burst provides ample amounts of Cryo application that provides permanent freezing of enemies. 
 * Chongyun's Elemental Skill can convert Rosaria's Normal and Charged Attacks into Cryo damage, allowing her to act as a Main DPS while using the aspects of her kit tailored around her Normal and Charged Attacks.
@@ -71,10 +69,6 @@ Click on the team names below for more details on how the team works and alterna
 [**Physical**](../../teams/physical.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_rosaria.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
-
-![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_rosaria.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)  
-
-![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_rosaria.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
 * Rosaria can either be used as a Main DPS or an Off-Field DPS and Debuffer in Physical teams.
 * As a Physical Main DPS, Rosaria can use her easy Cryo application to trigger Superconduct and her C1 and C6 to further enhance her damage.
@@ -88,6 +82,27 @@ Click on the team names below for more details on how the team works and alterna
 
 * With the consistent Pyro application from Xiangling and Bennett, Rosaria's elemental skill and burst can be consistently melted for additional damage via the reactions.
 * With Chongyun, Rosaria's Normal and Charged attacks can be made to do Cryo damage. This allows these attacks to Melt as well for additional damage, as well as allowing Rosaria to build her artifacts fully for Cryo damage and still utilize her entire kit. 
+
+### Sub DPS/Support
+
+\*\*\*\*[**Freeze**](../../teams/freeze.md)\*\*\*\*
+
+![](../../.gitbook/assets/ui_avataricon_ayaka.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_rosaria.png) ![](../../.gitbook/assets/ui_avataricon_barbara.png) 
+
+![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_rosaria.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) 
+
+* Rosaria's Elemental Skill and Burst provides ample amounts of Cryo application that provides permanent freezing of enemies. 
+* The combination of Cryo Resonance, the Blizzard Strayer artifact set, and Rosaria's Ascension 4 Talent can give massive amounts of Crit Rate to other Cryo Main DPS. 
+* Rosaria's relatively high energy generation can help provide energy for Cryo Main DPS.
+
+\*\*\*\*[**Physical**](../../teams/physical.md)\*\*\*\*
+
+![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_rosaria.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)  
+
+![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_rosaria.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
+
+* Rosaria's resistance reduction at C6 makes her a powerful option for a Physical team, given how few sources exist to enhance the damage type.
+* Even without C6, Rosaria can still provide energy for a Cryo character like Eula, Off-Field Cryo application to trigger Superconduct, and a teamwide buff to Crit Rate after casting Elemental Burst.
 
 [**Melt**](../../teams/melt.md)\*\*\*\*
 
