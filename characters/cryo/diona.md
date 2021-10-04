@@ -25,11 +25,11 @@
 
 ![](../../.gitbook/assets/ui_avataricon_ganyu.png) 
 
-* Diona serves as an Energy Battery and Cyro resonance enabler for freeze Ganyu. For a more detailed Freeze team comp, check out Freeze \[hyperlink\]
+* Diona serves as an Energy Battery and Cyro resonance enabler for freeze Ganyu. For a more detailed Freeze team comp, check out [Freeze](../../teams/freeze.md)
 
 ![](../../.gitbook/assets/ui_avataricon_razor.png) 
 
-* Diona reduces Razor's Stamina Consumption and can also aid with Superconduct. For more information about Physical teams, refer to physical \[hyperlink\]
+* Diona reduces Razor's stamina consumption and can also aid with Superconduct. For more information about Physical teams, refer to [Physical ](../../teams/physical.md)
 
 ![](../../.gitbook/assets/element_anemo.webp) ![](../../.gitbook/assets/element_cryo.webp) ![](../../.gitbook/assets/element_electro.webp) ![](../../.gitbook/assets/element_hydro.webp) ![](../../.gitbook/assets/element_pyro.webp) ![](../../.gitbook/assets/element_geo.webp) 
 
@@ -40,9 +40,9 @@
 
 ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Bennett already functions as a Healer and Support, and Diona is often unneeded on teams that include Bennett.
+* Bennett already functions as a healer and support, and Diona is often not needed on teams that includes Bennett.
   * Generally not problematic as later Abyss floors require two teams.
-* However, they can be used together in One-shot team compositions
+* However, they can be used together in [One-shot](../../teams/oneshot.md) team compositions
 
 ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
