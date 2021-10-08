@@ -62,6 +62,6 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_lisa.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* A team that focuses on sustained damage while having the option to deal burst damage with both Childe Vaporizing his Elemental Burst with Bennett, as well as Lisa’s hold Elemental Skill.
+* A team that focuses on sustained damage while having the option to deal burst damage with both Childe vaporizing his Elemental Burst with Bennett, as well as Lisa’s hold Elemental Skill.
 * Lisa’s Elemental Burst reduces enemy defense while also dealing damage even when she’s not on-field.
 
