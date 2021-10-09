@@ -2,6 +2,10 @@
 
 The National Team is as a very consistent Reverse Vaporize Team that performs exceptionally well for low investment. The core of the Team is Bennett, Xiangling, and Xingqiu, with an interchangeable 4th party member. The team gets the majority of its Damage by taking advantage of Bennett's Elemental Burst's team Attack buff on Xiangling's Elemental Burst, while also having Xingqiu's Elemental Burst active in order to enable large vaporizes with Xiangling's Pyronado. The 4th party slot is usually dedicated to a member that can provide the team some level of utility.
 
+{% hint style="danger" %}
+**When running this team, make sure that Xiangling is well equipped as her burst is this team's primary source of damage.**
+{% endhint %}
+
 {% hint style="info" %}
 Characters are ranked roughly according to how well they perform in this team composition.
 
@@ -13,10 +17,10 @@ Refer to the character notes below for how characters work in this particular te
 <table>
   <thead>
     <tr>
-      <th style="text-align:center">Main DPS</th>
+      <th style="text-align:center">Core</th>
       <th style="text-align:center">Core Support / Sub DPS</th>
       <th style="text-align:center">Flex Support</th>
-      <th style="text-align:center">Healer</th>
+      <th style="text-align:center">Core/Healer</th>
     </tr>
   </thead>
   <tbody>
@@ -93,7 +97,7 @@ Refer to the character notes below for how characters work in this particular te
   </tbody>
 </table>
 
-## Main DPS
+## Core Damage Source
 
 <table>
   <thead>
@@ -242,7 +246,7 @@ Refer to the character notes below for how characters work in this particular te
   </tbody>
 </table>
 
-## Healer
+## Core Healer
 
 <table>
   <thead>
