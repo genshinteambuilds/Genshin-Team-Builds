@@ -46,8 +46,8 @@
 
 ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_lisa.png) 
 
-* Electro supports generally do not work well with Diluc as the Overload reaction causes enemies to be knocked back out of Diluc's melee range. This can be mitigated through CC such as Venti's Elemental Burst but is generally not worth building.
-* Overload teams CAN work early in the game. Unfortunately, the downside of knocking back enemies along with Overload scaling worse in the late game result in these team compositions falling further and further behind as you progress in the game.
+* Electro supports generally do not work well with Diluc as the Overload reaction causes enemies to be knocked back out of Diluc's melee range. This can be mitigated through CC such as Venti's Elemental Burst but is generally not worth building around.
+* Overload teams CAN work early in the game. Unfortunately, the downside of knocking back enemies along with Overload scaling falling off in the late game result in these team compositions falling further and further behind as you progress in the game.
 
    ![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_xinyan.png) 
 
@@ -66,9 +66,8 @@ Click on the team names below for more details on how the team works and alterna
 * A typical Diluc-Xingqiu Reverse Vaporize team composition where Diluc can vaporize his attacks using the Hydro applied to the enemy by Xingqiu's Elemental Burst.
 * Zhongli provides debuffing and shielding while Bennett provides buffing and healing.
 
-#### [Oneshot]()
+#### [Oneshot](../../teams/oneshot.md)
 
 ![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* A Oneshot team composition where Diluc and Mona typically only cast their Elemental Bursts and the fight ends before any actual use of Normal Attacks needs to take place. For a detailed look at how Oneshots work, [check out the Oneshot page]().
-
+* A Oneshot team composition where Diluc and Mona typically only cast their Elemental Bursts and the fight ends before any actual use of Normal Attacks needs to take place. For a detailed look at how Oneshots work, [check out the Oneshot page](../../teams/oneshot.md).
