@@ -64,7 +64,7 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 * Tartaglia generally does not work well in Freeze teams due to the long cooldown on his Elemental Skill resulting in periods of time where Hydro cannot be applied on to enemies reliably except via Charged Aimed Shots.
 * At C6, Tartaglia can maintain 100% uptime of his Melee stance that can make these team compositions work well.
 
-  ****![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_xinyan.png) 
+**  **![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_xinyan.png) 
 
 * Physical damage based characters do not synergize well with Tartaglia's Hydro damage.
 
@@ -89,9 +89,8 @@ Click on the team names below for more details on how the team works and alterna
 * This exact team is often called Fireworks due to the many different coloured numbers that pop up on the screen when playing this exact team composition. Check out the Electro-Charged team page for variations on this team composition.
 * Tartarglia's ability to attack rapidly while in his Melee stance allows Beidou's Elemental Burst to take effect multiple times.
 
-#### [Oneshot]()
+#### [Oneshot](broken-reference)
 
 ![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
 
-* A common Oneshot team setup for Tartaglia. For a detailed look at how Oneshots work, check out the [Oneshot ]()team page.
-
+* A common Oneshot team setup for Tartaglia. For a detailed look at how Oneshots work, check out the [Oneshot ](broken-reference)team page.

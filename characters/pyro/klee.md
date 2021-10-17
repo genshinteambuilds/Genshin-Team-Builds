@@ -3,7 +3,7 @@
 ## Roles
 
 * **Main DPS**
-* **Support:** Debuffer \(C2\), Buffer \(C6\)
+* **Support: **Debuffer (C2), Buffer (C6)
 
 ## Character Breakdown: 
 
@@ -52,5 +52,4 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/ui_avataricon_klee.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Klee is the main DPS in the comp. Her goal is to deal as much damage as possible through her CA and elemental skill through the vaporize reaction. 
-
+* Klee is the main DPS in the comp. Her goal is to deal as much damage as possible through her CA and elemental skill through the vaporize reaction.\

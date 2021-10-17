@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Off-Field DPS** \(Elemental Skill, Elemental Burst\)
+* **Off-Field DPS** (Elemental Skill, Elemental Burst)
 * **Main DPS**
 
 ## Character Breakdown
@@ -20,7 +20,7 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/ui_avataricon_eula.png) ****
+![](../../.gitbook/assets/ui_avataricon_eula.png)** **
 
 * Eula can benefit from the high Superconduct uptime and extra damage provided by Fischl.
 
@@ -55,4 +55,3 @@ Click on the team names below for more details on how the team works and alterna
 ![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
 * Fischl pairs well with Physical carries, especially Cryo ones thanks to her high Superconduct uptime. She also helps provide extra damage without requiring much field time.
-

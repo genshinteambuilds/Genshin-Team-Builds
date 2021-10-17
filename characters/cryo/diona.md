@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Support:** Healer, Shielder, Energy Battery, Cleanser, Buffer \(C6\)
+* **Support: **Healer, Shielder, Energy Battery, Cleanser, Buffer (C6)
 
 ## **Character Breakdown**
 
@@ -11,7 +11,7 @@
   * On hold, she fires 5 such projectiles and gains a more powerful Shield.
   * At A1, characters shielded by this Elemental Skill gain increased movement speed and decreased stamina consumption.
   * The Shield's Absorption scales with Diona's Maximum HP.
-* Elemental Skill will apply Cryo for a short duration to the active character upon cast or switch \(while shielded\) and can cleanse Pyro and Electro auras.
+* Elemental Skill will apply Cryo for a short duration to the active character upon cast or switch (while shielded) and can cleanse Pyro and Electro auras.
 * Elemental Burst creates a field that deals continuous Cryo damage in an AoE and continuously heals characters that stand in it.
   * Constellation 6 Buffs the Elemental Mastery of characters with more than 50% HP that are standing within the field.
 
@@ -60,7 +60,7 @@ This character is a healer. While some teams are provided below where they are p
 
 [Freeze](../../teams/freeze.md)
 
-\*\*\*\*![](../../.gitbook/assets/ui_avataricon_ganyu.png) ****![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
+****![](../../.gitbook/assets/ui_avataricon_ganyu.png)** **![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
 ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
@@ -72,4 +72,3 @@ This character is a healer. While some teams are provided below where they are p
 ![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_aether_electro.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
 * Acts as an Energy Battery and can aid in Superconduct application.
-

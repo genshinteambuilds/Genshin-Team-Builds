@@ -2,7 +2,7 @@
 
 ## **Roles**
 
-* **Support:** Healer, Buffer, Cleanser, Energy Battery
+* **Support: **Healer, Buffer, Cleanser, Energy Battery
 * **Main DPS**
 
 ## **Character Breakdown:**
@@ -26,17 +26,17 @@
 * It is often not worth activating Bennett’s Constellation 6 as it limits his viability in many teams.
 * Bennett's healing will scale based on his **Maximum HP,** while his attack buff will scale based on his **Base ATK**. 
 * Bennett's Constellation 1 allows him to buff ATK regardless of active character HP.
-  * Bennett's Constellation 1 does **NOT** allow Bennett to continue healing past 70% HP.
+  * Bennett's Constellation 1 does **NOT **allow Bennett to continue healing past 70% HP.
 
 ## Works Well With
 
-![](https://lh3.googleusercontent.com/vwzPL8yGc83AZqQ8T1QaLbBvP-HPYz1FmilKn_w5ZPl3p1wpR1FBLoGiuTA8-Rdtx_ziJVOv_0MO6TWXEwi6ulu1ZIo-4veqdrerHCriFqNMjD01SJ9gEJ874a3pHg-qUALBGYpx)![](https://lh4.googleusercontent.com/sPakhjVZmg5UeD0V-lvj-EAwFosglPy6yP-pJ0lDoBGn_RtOMJX56jeaNVDE1caufeOxyuN758ThERLQ9iO4bUfp2gmVoIRzObeSvoqH9uj9kBjXhxb3EHxSGsgAJlfDL6XHgv8-)![](https://lh5.googleusercontent.com/lqDD-ea3EXQPqh6ZJ2Y7HRZWYXeb_2U3afjBFpIqKJMcIRIvTzR7JmdGV3YIFJ4dgl8mxDOg61IuiPWGc2ojCUlb3aCM1a-FuIAWwK8Zkn18huEww_w15-mfScYcP-UzRmzO8yoN)![](https://lh6.googleusercontent.com/0cjJgRJLQTovPXO6Bwvp6VeyF2doSMszFw1OCMe-oWDxRZ9208gUOsQnSzbXsPfh-fzVdTkxLN03T2OdlQ7QeS_54kW3otujyjQR7u5DzZbENwAKoR6HD8W754LElmMkF6toNILi)![](https://lh3.googleusercontent.com/UJMCX4egpKRf4Cvj2Ztr3KyU1BSvttFPxLhH5_GnFAuUo1NHbuMbsQFeTcaMVkNin9-sIll6KX0t_6TfWbn3VH9zh1TOSp3Adjr5GfjN224Eegg-Xb5P3UlpeY0QXMgP12VpaZhe)![](https://lh3.googleusercontent.com/uHmg7086b0LgRjS9JM-IjxyCEgpLHu63COZNHEzvRXOndCDg-OEZQP-Fn0Rl8eisGfdn1ceIe4ZQr0iTI-kjsaZUwHhBxpdB-E3-u7xeh3sFS6HSN0J1MtoR4vYKx8SNWstT88l-)
+![](https://lh3.googleusercontent.com/vwzPL8yGc83AZqQ8T1QaLbBvP-HPYz1FmilKn_w5ZPl3p1wpR1FBLoGiuTA8-Rdtx_ziJVOv\_0MO6TWXEwi6ulu1ZIo-4veqdrerHCriFqNMjD01SJ9gEJ874a3pHg-qUALBGYpx)![](https://lh4.googleusercontent.com/sPakhjVZmg5UeD0V-lvj-EAwFosglPy6yP-pJ0lDoBGn_RtOMJX56jeaNVDE1caufeOxyuN758ThERLQ9iO4bUfp2gmVoIRzObeSvoqH9uj9kBjXhxb3EHxSGsgAJlfDL6XHgv8-)![](https://lh5.googleusercontent.com/lqDD-ea3EXQPqh6ZJ2Y7HRZWYXeb\_2U3afjBFpIqKJMcIRIvTzR7JmdGV3YIFJ4dgl8mxDOg61IuiPWGc2ojCUlb3aCM1a-FuIAWwK8Zkn18huEww_w15-mfScYcP-UzRmzO8yoN)![](https://lh6.googleusercontent.com/0cjJgRJLQTovPXO6Bwvp6VeyF2doSMszFw1OCMe-oWDxRZ9208gUOsQnSzbXsPfh-fzVdTkxLN03T2OdlQ7QeS\_54kW3otujyjQR7u5DzZbENwAKoR6HD8W754LElmMkF6toNILi)![](https://lh3.googleusercontent.com/UJMCX4egpKRf4Cvj2Ztr3KyU1BSvttFPxLhH5\_GnFAuUo1NHbuMbsQFeTcaMVkNin9-sIll6KX0t\_6TfWbn3VH9zh1TOSp3Adjr5GfjN224Eegg-Xb5P3UlpeY0QXMgP12VpaZhe)![](https://lh3.googleusercontent.com/uHmg7086b0LgRjS9JM-IjxyCEgpLHu63COZNHEzvRXOndCDg-OEZQP-Fn0Rl8eisGfdn1ceIe4ZQr0iTI-kjsaZUwHhBxpdB-E3-u7xeh3sFS6HSN0J1MtoR4vYKx8SNWstT88l-)
 
 * Bennett’s utility allows him to be placed in almost every single team. However, there are a few exceptions.
 
 ## **Does Not Work Well With**
 
-\*\*\*\*![](../../.gitbook/assets/ui_avataricon_razor.png) ****
+****![](../../.gitbook/assets/ui_avataricon_razor.png)** **
 
 * Using Razor's Elemental Burst inside of Bennett's Elemental Burst will cause constant Overload reactions, which will knock smaller enemies away from Razor. However, the two can be used together on larger enemies for additional damage.
 
@@ -102,7 +102,7 @@ Click on the team names below for more details on how the team works and alterna
 * In this team, Bennett plays the role of healer, Pyro Resonance activator, support, and Sub-DPS.
 * Xiangling and Xingqiu's Elemental Bursts persist Off-Field, letting Bennett more easily act as an Energy Battery for Xiangling.
 
-[Oneshot]()
+[Oneshot](broken-reference)
 
 ![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
 
@@ -110,4 +110,3 @@ Click on the team names below for more details on how the team works and alterna
 
 * Bennett can act as a healer, Pyro resonance activator, and support in these teams.
 * Bennett is highly valued in Oneshot teams due to his easily accessible Attack buff and Pyro application.
-

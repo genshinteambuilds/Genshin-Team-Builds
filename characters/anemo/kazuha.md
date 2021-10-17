@@ -2,9 +2,9 @@
 
 ## Roles
 
-* **Support:** Buffer \(A4, C2\), Debuffer \(VV\), Crowd Control \(Grouping\), Energy Battery
-* **Off-Field DPS** \(Elemental Burst\)
-* **Main DPS** \(C6\)
+* **Support: **Buffer (A4, C2), Debuffer (VV), Crowd Control (Grouping), Energy Battery
+* **Off-Field DPS** (Elemental Burst)
+* **Main DPS** (C6)
 
 ## Character Breakdown
 
@@ -27,7 +27,7 @@
 
   ![](../../.gitbook/assets/element_anemo.webp) ![](../../.gitbook/assets/element_cryo.webp) ![](../../.gitbook/assets/element_electro.webp) ![](../../.gitbook/assets/element_hydro.webp) ![](../../.gitbook/assets/element_pyro.webp) 
 
-* Kazuha pairs well with almost all characters in the game as Viridescent Venerer 4-set can Debuff Elemental Resistance on enemies for 4 of the elements \(Cryo, Electro, Hydro and Pyro\).
+* Kazuha pairs well with almost all characters in the game as Viridescent Venerer 4-set can Debuff Elemental Resistance on enemies for 4 of the elements (Cryo, Electro, Hydro and Pyro).
 * Kazuha can act as an Energy Battery for other Anemo characters, while those other Anemo characters can in turn act as Energy Batteries for Kazuha, as well.
 
 ## Does Not Work Well With
@@ -79,4 +79,3 @@ In all the teams listed below, Kazuha universally provides Debuffing using the V
 ![](../../.gitbook/assets/ui_avataricon_ayaka.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
 * Kazuha can apply either Hydro or Cryo with his Elemental Burst and help enable AoE Freeze.
-

@@ -87,15 +87,14 @@ Click on the team names below for more details on how the team works and alterna
 
 * Damage comes primarily during Ayaka’s Elemental Burst window. Hu Tao can get 3 Charge attacks and an Elemental Burst to melt if you jump cancel/dash cancel correctly. Do not risk the 3rd charge attack if there has been any delay in getting the attacks off or if an animation cancel is failed, since the timing is quite strict. Xingqiu burst allows for some follow up damage using reverse vaporizes as a backup plan. 
 
-[Oneshot]()
+[Oneshot](broken-reference)
 
-\*\*\*\*![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png)  or ![](../../.gitbook/assets/ui_avataricon_kazuha.png)   
+****![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png)  or ![](../../.gitbook/assets/ui_avataricon_kazuha.png) \
 ****
 
-*  A Oneshot team composition where Hu Tao and Mona typically only cast their Elemental Bursts and the fight ends before any actual use of Normal Attacks needs to take place. For a detailed look at how Oneshots work,[ check out the Oneshot page.]()
+*  A Oneshot team composition where Hu Tao and Mona typically only cast their Elemental Bursts and the fight ends before any actual use of Normal Attacks needs to take place. For a detailed look at how Oneshots work,[ check out the Oneshot page.](broken-reference)
 
 ![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png)  or ![](../../.gitbook/assets/ui_avataricon_kazuha.png) 
 
 *  A Oneshot team composition where Hu Tao Melts her Elemental Burst instead of vaporizing it for the massive 2x damage multiplier.
   * Ganyu can be replaced by other Cryo characters.
-

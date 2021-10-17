@@ -2,8 +2,8 @@
 
 ## Roles
 
-* **Support:** Healer, Debuffer \(VV\)
-* **Off-Field DPS** \(Elemental Burst\)
+* **Support: **Healer, Debuffer (VV)
+* **Off-Field DPS** (Elemental Burst)
 
 ## Character Breakdown
 
@@ -54,4 +54,3 @@ Electro-Charged
 ![](../../.gitbook/assets/ui_avataricon_keqing.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_sayu.png) 
 
 * Sayu is used in this team as the main healer and can be used to decrease Electro resistance with 4 set Viridescent Venerer.
-

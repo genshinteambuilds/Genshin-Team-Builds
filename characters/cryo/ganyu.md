@@ -3,8 +3,8 @@
 ## **Roles**
 
 * **Main DPS**
-* **Off-Field DPS** \(Elemental Burst\)
-* **Support:** Crowd Control \(Taunting\), Buffer \(C4\)
+* **Off-Field DPS** (Elemental Burst)
+* **Support: **Crowd Control (Taunting), Buffer (C4)
 
 ## **Character Breakdown**
 
@@ -82,4 +82,3 @@ Click on the team names below for more details on how the team works and alterna
 
 * Ganyu uses Xiangling’s Elemental Burst to apply Pyro to enemies and Reverse Melt them with Ganyu’s Aimed Charged Attacks.
 * Bennett's Elemental Burst can also be used although only for a single Aimed Charged Attack.
-

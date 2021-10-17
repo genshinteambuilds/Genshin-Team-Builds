@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Main DPS** \(Selfish\)
+* **Main DPS **(Selfish)
 
 ## Character Breakdown
 
@@ -67,4 +67,3 @@ Xiao only really works in an Anemo team where Xiao works as the Selflish Main DP
 * Xiangling provides Off-Field damage with her Elemental Skill and Elemental Burst.
 * Bennett provides healing and his Elemental Burst is very effective at boosting Xiao's damage.
 * Venti provides Crowd Control as well as acts as an Energy Battery for Xiao.
-

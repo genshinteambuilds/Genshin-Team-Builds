@@ -5,382 +5,62 @@ Anemo Main DPS do not have reactions to amplify their damage. As such, most team
 {% hint style="info" %}
 Characters are ranked roughly according to how well they perform in this team composition.
 
-Most of the characters within a given role are interchangeable except if mentioned above.  
-  
+Most of the characters within a given role are interchangeable except if mentioned above.\
+\
 Refer to the character notes below for how characters work in this particular team composition or click on their portraits for a description of how the character works in general.
 {% endhint %}
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center">Main DPS</th>
-      <th style="text-align:center">Support</th>
-      <th style="text-align:center">Flex Support</th>
-      <th style="text-align:center">
-        <p>Healer /</p>
-        <p>Shielder</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">
-        <p><a href="../characters/anemo/xiao.md"><img src="../.gitbook/assets/ui_avataricon_xiao.png" alt/> </a>
-        </p>
-        <p><a href="../characters/anemo/xiao.md">Xiao</a>
-        </p>
-      </td>
-      <td style="text-align:center">
-        <p><a href="../characters/anemo/sucrose.md"><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt/> </a>
-        </p>
-        <p><a href="../characters/anemo/sucrose.md">Sucrose</a>
-        </p>
-      </td>
-      <td style="text-align:center">
-        <p><a href="../characters/electro/fischl.md"><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt/> </a>
-        </p>
-        <p><a href="../characters/electro/fischl.md">Fischl</a>
-        </p>
-      </td>
-      <td style="text-align:center">
-        <p><a href="../characters/geo/zhongli.md"><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/> </a>
-        </p>
-        <p><a href="../characters/geo/zhongli.md">Zhongli</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <p><a href="../characters/anemo/kazuha.md"><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt/> </a>
-        </p>
-        <p><a href="../characters/anemo/kazuha.md">Kazuha (C6)</a>
-        </p>
-      </td>
-      <td style="text-align:center">
-        <p><a href="../characters/anemo/venti.md"><img src="../.gitbook/assets/ui_avataricon_venti.png" alt/> </a>
-        </p>
-        <p><a href="../characters/anemo/venti.md">Venti</a>
-        </p>
-      </td>
-      <td style="text-align:center">
-        <p><a href="../characters/electro/beidou.md"><img src="../.gitbook/assets/ui_avataricon_beidou.png" alt/> </a>
-        </p>
-        <p><a href="../characters/electro/beidou.md">Beidou</a>
-        </p>
-      </td>
-      <td style="text-align:center">
-        <p><a href="../characters/pyro/bennett.md"><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/> </a>
-        </p>
-        <p><a href="../characters/pyro/bennett.md">Bennett</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">
-        <p><a href="../characters/pyro/xiangling.md"><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/> </a>
-        </p>
-        <p><a href="../characters/pyro/xiangling.md">Xiangling</a>
-        </p>
-      </td>
-      <td style="text-align:center">
-        <p><a href="../characters/anemo/jean.md"><img src="../.gitbook/assets/ui_avataricon_jean.png" alt/> </a>
-        </p>
-        <p><a href="../characters/anemo/jean.md">Jean </a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">
-        <p><a href="../characters/hydro/xingqiu.md"><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/> </a>
-        </p>
-        <p><a href="../characters/hydro/xingqiu.md">Xingqiu</a>
-        </p>
-      </td>
-      <td style="text-align:center"></td>
-    </tr>
-    <tr>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">
-        <p><a href="../characters/geo/albedo.md"><img src="../.gitbook/assets/ui_avataricon_albedo.png" alt/> </a>
-        </p>
-        <p><a href="../characters/geo/albedo.md">Albedo</a>
-        </p>
-      </td>
-      <td style="text-align:center"></td>
-    </tr>
-  </tbody>
-</table>
+|                                                                                     Main DPS                                                                                     |                                                                                     Support                                                                                     |                                                                                      Flex Support                                                                                     |                                                                        <p>Healer / </p><p>Shielder</p>                                                                        |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|        <p><a href="../characters/anemo/xiao.md"><img src="../.gitbook/assets/ui_avataricon_xiao.png" alt=""> </a></p><p><a href="../characters/anemo/xiao.md">Xiao</a></p>       | <p><a href="../characters/anemo/sucrose.md"><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt=""> </a></p><p><a href="../characters/anemo/sucrose.md">Sucrose</a></p> |    <p><a href="../characters/electro/fischl.md"><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt=""> </a></p><p><a href="../characters/electro/fischl.md">Fischl</a></p>    |  <p><a href="../characters/geo/zhongli.md"><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""> </a></p><p><a href="../characters/geo/zhongli.md">Zhongli</a></p>  |
+| <p><a href="../characters/anemo/kazuha.md"><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""> </a></p><p><a href="../characters/anemo/kazuha.md">Kazuha (C6)</a></p> |     <p><a href="../characters/anemo/venti.md"><img src="../.gitbook/assets/ui_avataricon_venti.png" alt=""> </a></p><p><a href="../characters/anemo/venti.md">Venti</a></p>     |    <p><a href="../characters/electro/beidou.md"><img src="../.gitbook/assets/ui_avataricon_beidou.png" alt=""> </a></p><p><a href="../characters/electro/beidou.md">Beidou</a></p>    | <p><a href="../characters/pyro/bennett.md"><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""> </a></p><p><a href="../characters/pyro/bennett.md">Bennett</a></p> |
+|                                                                                                                                                                                  |                                                                                                                                                                                 | <p><a href="../characters/pyro/xiangling.md"><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt=""> </a></p><p><a href="../characters/pyro/xiangling.md">Xiangling</a></p> |      <p><a href="../characters/anemo/jean.md"><img src="../.gitbook/assets/ui_avataricon_jean.png" alt=""> </a></p><p><a href="../characters/anemo/jean.md">Jean </a></p>     |
+|                                                                                                                                                                                  |                                                                                                                                                                                 |    <p><a href="../characters/hydro/xingqiu.md"><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt=""> </a></p><p><a href="../characters/hydro/xingqiu.md">Xingqiu</a></p>    |                                                                                                                                                                               |
+|                                                                                                                                                                                  |                                                                                                                                                                                 |        <p><a href="../characters/geo/albedo.md"><img src="../.gitbook/assets/ui_avataricon_albedo.png" alt=""> </a></p><p><a href="../characters/geo/albedo.md">Albedo</a></p>        |                                                                                                                                                                               |
 
 ## Main DPS
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_xiao.png" alt/>
-        </p>
-        <p>Xiao</p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>Elemental Burst grants an Anemo infusion and increased jump height, allowing
-            him to frequently use Plunging Attacks for damage.</li>
-          <li>At Constellation 6, his Elemental Skill becomes his main source of damage.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt/>
-        </p>
-        <p>Kazuha</p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>Gains an Anemo Infusion at Constellation 6. It is not recommended to use
-            Kazuha as the Main DPS before this Constellation.</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+|                                                                                     |                                                                                                                                                                                                                                             |
+| :---------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   <p><img src="../.gitbook/assets/ui_avataricon_xiao.png" alt=""> </p><p>Xiao</p>   | <p></p><ul><li>Elemental Burst grants an Anemo infusion and increased jump height, allowing him to frequently use Plunging Attacks for damage.</li><li>At Constellation 6, his Elemental Skill becomes his main source of damage.</li></ul> |
+| <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""> </p><p>Kazuha</p> | <p></p><ul><li>Gains an Anemo Infusion at Constellation 6. It is not recommended to use Kazuha as the Main DPS before this Constellation.</li></ul>                                                                                         |
 
 ## Support
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">
-        <p><a href="../characters/anemo/sucrose.md"><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt/> </a>
-        </p>
-        <p><a href="../characters/anemo/sucrose.md">Sucrose</a>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>Can Crowd Control enemies by grouping them and can act as an Energy Battery
-            to help Xiao maintain his Elemental Burst&apos;s uptime.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <p><a href="../characters/anemo/venti.md"><img src="../.gitbook/assets/ui_avataricon_venti.png" alt/><b> </b></a>
-        </p>
-        <p><a href="../characters/anemo/venti.md">Venti</a>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>Is better at grouping than Sucrose but is worse as an Energy Battery.</li>
-          <li>Is best used against slightly heavier enemies, as light enemies in Venti&apos;s
-            Elemental Burst are too high to be reliably hit by Xiao&apos;s plunge.</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+|                                                                                                                                                                                          |                                                                                                                                                                                                                                                     |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|      <p><a href="../characters/anemo/sucrose.md"><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt=""> </a></p><p><a href="../characters/anemo/sucrose.md">Sucrose</a></p>     | <p></p><ul><li>Can Crowd Control enemies by grouping them and can act as an Energy Battery to help Xiao maintain his Elemental Burst's uptime.</li></ul>                                                                                            |
+| <p><a href="../characters/anemo/venti.md"><img src="../.gitbook/assets/ui_avataricon_venti.png" alt=""><strong> </strong></a></p><p><a href="../characters/anemo/venti.md">Venti</a></p> | <p></p><ul><li>Is better at grouping than Sucrose but is worse as an Energy Battery.</li><li>Is best used against slightly heavier enemies, as light enemies in Venti's Elemental Burst are too high to be reliably hit by Xiao's plunge.</li></ul> |
 
 ## Flex Support
 
 **NOTE:** Very flexible slot as the team has few requirements. Mainly there to contribute extra damage and allow for Swirls.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">
-        <p><a href="../characters/electro/fischl.md"><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt/> </a>
-        </p>
-        <p><a href="../characters/electro/fischl.md">Fischl</a>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>Provides consistent off-field Electro Damage through her Elemental Skill
-            and Elemental Burst</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <p><a href="../characters/electro/beidou.md"><img src="../.gitbook/assets/ui_avataricon_beidou.png" alt/> </a>
-        </p>
-        <p><a href="../characters/electro/beidou.md">Beidou</a>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>Elemental Burst provides high amounts of off-field Electro Damage that
-            trigger when the active characters Normal and Charged Attacks hit enemy
-            units.</li>
-          <li>Acts as a Sub DPS and grants damage reduction.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <p><a href="../characters/pyro/xiangling.md"><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/> </a>
-        </p>
-        <p><a href="../characters/pyro/xiangling.md">Xiangling</a>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>Mainly used for Pyro Resonance.</li>
-          <li>Elemental Burst and Elemental Skill provides off-field damage. Deals a
-            large amount of damage on their own when properly geared.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <p><a href="../characters/hydro/xingqiu.md"><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/> </a>
-        </p>
-        <p><a href="../characters/hydro/xingqiu.md">Xingqiu</a>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <ul>
-          <li>The Rain Swords from his Elemental Skill and Elemental Burst provide Damage
-            Reduction to all hits. This affects shields too making them stronger.</li>
-          <li>Elemental Skill and Elemental Burst also deal a large amount of damage
-            on their own when properly geared.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <p><a href="../characters/geo/albedo.md"><img src="../.gitbook/assets/ui_avataricon_albedo.png" alt/> </a>
-        </p>
-        <p><a href="../characters/geo/albedo.md">Albedo</a>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>His skill provides extra off-field damage. Can run Tenacity of the Mileleth
-            for an attack boost.</li>
-          <li>Elemental Skill summons a construct that can deal damage off-field. The
-            damage scales from Defence.</li>
-          <li>Can buff the team when equipped with the Tenacity of Millelith 4-set.</li>
-          <li>Can activate Geo Resonance.</li>
-        </ul>
-        <p>
-          <br />
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+|                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                    |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|    <p><a href="../characters/electro/fischl.md"><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt=""> </a></p><p><a href="../characters/electro/fischl.md">Fischl</a></p>    | <p></p><ul><li>Provides consistent off-field Electro Damage through her Elemental Skill and Elemental Burst</li></ul>                                                                                                                                                                                                                                              |
+|    <p><a href="../characters/electro/beidou.md"><img src="../.gitbook/assets/ui_avataricon_beidou.png" alt=""> </a></p><p><a href="../characters/electro/beidou.md">Beidou</a></p>    | <p></p><ul><li>Elemental Burst provides high amounts of off-field Electro Damage that trigger when the active characters Normal and Charged Attacks hit enemy units.</li><li>Acts as a Sub DPS and grants damage reduction.</li></ul>                                                                                                                              |
+| <p><a href="../characters/pyro/xiangling.md"><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt=""> </a></p><p><a href="../characters/pyro/xiangling.md">Xiangling</a></p> | <p></p><ul><li>Mainly used for Pyro Resonance.</li><li>Elemental Burst and Elemental Skill provides off-field damage. Deals a large amount of damage on their own when properly geared.</li></ul>                                                                                                                                                                  |
+|    <p><a href="../characters/hydro/xingqiu.md"><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt=""> </a></p><p><a href="../characters/hydro/xingqiu.md">Xingqiu</a></p>    | <ul><li>The Rain Swords from his Elemental Skill and Elemental Burst provide Damage Reduction to all hits. This affects shields too making them stronger.</li><li>Elemental Skill and Elemental Burst also deal a large amount of damage on their own when properly geared.</li></ul>                                                                              |
+|        <p><a href="../characters/geo/albedo.md"><img src="../.gitbook/assets/ui_avataricon_albedo.png" alt=""> </a></p><p><a href="../characters/geo/albedo.md">Albedo</a></p>        | <p></p><ul><li>His skill provides extra off-field damage. Can run Tenacity of the Mileleth for an attack boost.</li><li>Elemental Skill summons a construct that can deal damage off-field. The damage scales from Defence.</li><li>Can buff the team when equipped with the Tenacity of Millelith 4-set.</li><li>Can activate Geo Resonance.</li></ul><p><br></p> |
 
 ## Healer / Shielder
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">
-        <p><a href="../characters/geo/zhongli.md"><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/> </a>
-        </p>
-        <p><a href="../characters/geo/zhongli.md">Zhongli</a>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>Provides Shielding and Debuffing whenever Zhongli&apos;s Jade Shield is
-            active.</li>
-          <li>Elemental Burst deals a large amount of damage.</li>
-          <li>Elemental Burst immobilizes Enemies for a short period of time.</li>
-          <li>Can buff the team when equipped with the Tenacity of Millelith 4-set.</li>
-          <li>The team may not require a dedicated Healer since Zhongli&apos;s shield
-            is incredibly strong when properly geared.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <p><a href="../characters/pyro/bennett.md"><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/> </a>
-        </p>
-        <p><a href="../characters/pyro/bennett.md">Bennett</a>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <ul>
-          <li>Buffs the Attack of characters standing within the field created by Bennett&apos;s
-            Elemental Burst.</li>
-          <li>Will usually be carrying Noblesse Oblige 4-set to further buff characters
-            on using Elemental Burst.</li>
-          <li>Provides healing.</li>
-          <li>Can activate Pyro Resonance.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <p><a href="../characters/anemo/jean.md"><img src="../.gitbook/assets/ui_avataricon_jean.png" alt/> </a>
-        </p>
-        <p><a href="../characters/anemo/jean.md">Jean</a>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>Provides healing and acts as an Energy Battery.</li>
-          <li>Jean&apos;s Constellation 4 debuffs enemy Anemo Resistances.</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+|                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  <p><a href="../characters/geo/zhongli.md"><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""> </a></p><p><a href="../characters/geo/zhongli.md">Zhongli</a></p>  | <p></p><ul><li>Provides Shielding and Debuffing whenever Zhongli's Jade Shield is active.</li><li>Elemental Burst deals a large amount of damage.</li><li>Elemental Burst immobilizes Enemies for a short period of time.</li><li>Can buff the team when equipped with the Tenacity of Millelith 4-set.</li><li>The team may not require a dedicated Healer since Zhongli's shield is incredibly strong when properly geared.</li></ul> |
+| <p><a href="../characters/pyro/bennett.md"><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""> </a></p><p><a href="../characters/pyro/bennett.md">Bennett</a></p> | <ul><li>Buffs the Attack of characters standing within the field created by Bennett's Elemental Burst.</li><li>Will usually be carrying Noblesse Oblige 4-set to further buff characters on using Elemental Burst.</li><li>Provides healing.</li><li>Can activate Pyro Resonance.</li></ul>                                                                                                                                             |
+|      <p><a href="../characters/anemo/jean.md"><img src="../.gitbook/assets/ui_avataricon_jean.png" alt=""> </a></p><p><a href="../characters/anemo/jean.md">Jean</a></p>      | <p></p><ul><li>Provides healing and acts as an Energy Battery. </li><li>Jean's Constellation 4 debuffs enemy Anemo Resistances.</li></ul>                                                                                                                                                                                                                                                                                               |
 
 ## Sample Team Composition
 
- **NOTE:** Teams are very flexible as there are very few requirements and synergies in an Anemo-based team.  
+ **NOTE: **Teams are very flexible as there are very few requirements and synergies in an Anemo-based team.\
 
 
 ![](../.gitbook/assets/ui_avataricon_xiao.png) ![](../.gitbook/assets/ui_avataricon_sucrose.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Xiao acts as the Main DPS and generally requires an Energy Battery \(in this case, Sucrose\), to maintain Elemental Burst uptime. Xiangling provides extra damage and activates Pyro Resonance with Bennett, who both heals and buffs Xiao's Attack.
+* Xiao acts as the Main DPS and generally requires an Energy Battery (in this case, Sucrose), to maintain Elemental Burst uptime. Xiangling provides extra damage and activates Pyro Resonance with Bennett, who both heals and buffs Xiao's Attack.
 
 ![](../.gitbook/assets/ui_avataricon_xiao.png) ![](../.gitbook/assets/ui_avataricon_albedo.png) ![](../.gitbook/assets/ui_avataricon_zhongli.png) ![](../.gitbook/assets/ui_avataricon_jean.png) 
 
-* Xiao acts as the Main DPS and uses Jean as an Energy Battery to maintain Elemental Burst uptime. Jean also functions as a Healer and possible Debuffer \(with Constellation 4\). Zhongli provides a Shield and debuffs enemies, while Albedo acts as a Sub DPS and activates Geo Resonance.
-
+* Xiao acts as the Main DPS and uses Jean as an Energy Battery to maintain Elemental Burst uptime. Jean also functions as a Healer and possible Debuffer (with Constellation 4). Zhongli provides a Shield and debuffs enemies, while Albedo acts as a Sub DPS and activates Geo Resonance.

@@ -3,19 +3,19 @@
 ## Roles
 
 * **Burst DPS**
-* **Support:** Crowd Control \(Taunting\), Buffer \(Requires C6\)
+* **Support:** Crowd Control (Taunting), Buffer (Requires C6)
 
-## Character Breakdown: 
+## Character Breakdown
 
-* Normal Attack: Sharpshooter. Amber has a 5 string attack combo, rapidly firing arrows. Amber can also aim a charged shot, infusing the arrow with pyro when fully charged.
-* Explosive Puppet: Amber calls forward the help of Baron Bunny, who will taunt enemies on the field. After a certain duration, Baron Bunny will explode, dealing AoE pyro damage.
-* Fiery Rain: Amber will fire off a shower of arrows, dealing pyro damage in the AoE.
-* Amber’s First Passive “Every Arrow Finds Its Target”, increases the radius of Fiery Rain by 30% and crit rate by 10%.
-* Amber’s Second Passive “Precise Shot”, increases her attack by 15% for 10s after hitting a weak spot.
+* Elemental Skill summons Baron Bunny, who will taunt enemies on the field. After a certain duration, Baron Bunny will explode, dealing AoE pyro damage.
+* Elemental Burst fires off a shower of arrows, dealing pyro damage in the field of the AoE.
+  * At A1, Her burst has a 30% larger radius and a 10% increase in crit rate.
+* At A4, hitting a weak spot boosts her ATK by 15% for 10s.
 
 ## Additional Notes:
 
-* When in the support role, Amber fits on any team comp as a fast cryo / electro shield breaker.
+* Amber at C2 can do heavy damage by manually triggering her Elemental Skill to explode early.
+* Amber at C6 boosts movement speed and ATK of all members by 15% for 10s after using her burst, making it a buffing tool.
 
 ## Works Well With:
 
@@ -39,18 +39,21 @@ Click on the team names below for more details on how the team works and alterna
 
 [Melt](../../teams/melt.md)
 
-![](../../.gitbook/assets/ui_avataricon_amber.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png)   
+![](../../.gitbook/assets/ui_avataricon_amber.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) \
 
 
-* Amber’s CA does considerable damage when melting it. With constellations, her elemental skill can also be utilized for huge nuke damage. 
-
-[Overload](../../teams/overload.md)
-
-![](../../.gitbook/assets/ui_avataricon_amber.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png)   
+* Amber’s CA does considerable damage when melting the cryo application from a cryo character.
+  * At C2, her Elemental Skill can be use to trigger the melt as well.
+* Bennett is recommended in a slot due to pyro resonance asnd his ability to buff damage.\
 
 
-* Amber’s CA does considerable damage with reactions. With constellations, her elemental skill can also be utilized for huge nuke damage. 
+[Support](../../roles/support/)
 
-  
+![](<../../.gitbook/assets/image (1).png>)![](../../.gitbook/assets/ui_avataricon_amber.png)  ![](<../../.gitbook/assets/image (2).png>)![](../../.gitbook/assets/ui_avataricon_bennett.png) \
 
 
+* Amber uses her Elemental Skill to taunt enemies and support the Main DPS off field.
+* C6 Makes her considerably more useful in the support role with her buffs.\
+
+
+\
