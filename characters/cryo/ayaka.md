@@ -50,7 +50,7 @@
 ![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_klee.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_yanfei.png) 
 
 * These characters can be paired with Ayaka in a Melt team composition where Ayaka is used as Burst DPS and very short duration Off-Field DPS during her Elemental Burst.
-* Melt teams using Ayaka are almost Oneshot team setups since Ayaka's Elemental Burst lasts only 5 seconds and can only be reasonably applied to large enemies in this composition. Melt teams using Ayaka can struggle at putting out sustained DPS after Ayaka's Elemental Burst is entirely finished and is cooling down.
+* Melt teams using Ayaka are almost Oneshot team setups since Ayaka's Elemental Burst lasts only 5 seconds and can only be reasonably applied to large enemies in this composition. Melt teams using Ayaka can struggle at putting out sustained DPS after Ayaka's Elemental Burst is entirely finished and on cooldown.
 
 ## Does Not Work Well With
 
@@ -81,7 +81,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### [Melt](../../teams/melt.md)
 
-![](../../.gitbook/assets/ui_avataricon_ayaka.png) ![](../../.gitbook/assets/ui_avataricon_yanfei.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
+![](../../.gitbook/assets/ui_avataricon_yanfei.png)![](../../.gitbook/assets/ui_avataricon_ayaka.png)![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
 * A Melt team that swaps to Yanfei after Ayaka uses her Elemental Burst in order to perform Charged Attacks on Yanfei that Melt for large amounts of damage.
 * Ayaka's Elemental Burst still does a very large amount of damage on this team.
