@@ -41,7 +41,7 @@
 
 * Beidou applies Electro for Superconduct and her high Electro damage can assist Eula against enemies with high Physical resistance.
 
-![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (2).png>)
+![](broken-reference)![](broken-reference)
 
 * Typically used in a “Taser Comp” where Xingqiu and Fischl provide damage with Beidou and the Anemo character triggers Swirl to reduce enemy resistances.
 * Kazuha provides additional damage with his elemental damage increase, especially in dual electro teams.
