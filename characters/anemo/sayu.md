@@ -37,19 +37,19 @@
 
 * Here she functions as the main healer and can be used to shred Cryo resistance with Viridescent Venerer for Ayaka’s burst or used to apply the Noblesse Oblige set to buff allied character’s attack. 
 
-Melt
+****[**Melt**](../../teams/melt.md)****
 
 ![](../../.gitbook/assets/ui_avataricon_rosaria.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_sayu.png) 
 
 * Here she functions as a debuffer used to shred Cryo resistance with Viridescent Venerer. Note, that if available, characters such as Sucrose would fill this role better. 
 
-Freeze
+****[**Freeze**](../../teams/freeze.md)****
 
 ![](../../.gitbook/assets/ui_avataricon_ayaka.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_rosaria.png) ![](../../.gitbook/assets/ui_avataricon_sayu.png) 
 
 * Sayu is used in this team as the main healer and can be used to decrease Cryo resistance with 4 set Viridescent Venerer.
 
-Electro-Charged
+****[**Electro-Charged**](../../teams/electro-charged.md)****
 
 ![](../../.gitbook/assets/ui_avataricon_keqing.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_sayu.png) 
 
