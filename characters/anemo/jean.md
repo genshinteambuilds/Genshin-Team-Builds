@@ -2,7 +2,7 @@
 
 ## Roles
 
-* \*\*Support: \*\*Healer, Debuffer (VV, C4), Energy Battery, Cleanser, Crowd Control (Grouping), Buffer (C2)
+* **Support:** Healer, Debuffer (VV, C4), Energy Battery, Cleanser, Crowd Control (Grouping), Buffer (C2)
 * **Burst DPS**
 
 ## Character Breakdown
@@ -23,7 +23,7 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/Element_Anemo.webp) ![](../../.gitbook/assets/Element_Cryo.webp) ![](../../.gitbook/assets/Element_Electro.webp) ![](../../.gitbook/assets/Element_Hydro.webp) ![](../../.gitbook/assets/Element_Pyro.webp)
+![](../../.gitbook/assets/Element_Anemo.webp)![](../../.gitbook/assets/Element_Cryo.webp)![](../../.gitbook/assets/Element_Electro.webp)![](../../.gitbook/assets/Element_Hydro.webp)![](../../.gitbook/assets/Element_Pyro.webp)
 
 * Jean pairs well with almost all characters in the game as Viridescent Venerer 4-set can Debuff Elemental Resistance on enemies for 4 of the elements (Cryo, Electro, Hydro and Pyro).
 * Jean can act as an Energy Battery for other Anemo characters, while those other Anemo characters can in turn act as Energy Batteries for Jean, as well.
@@ -32,7 +32,7 @@
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/UI_AvatarIcon_Ningguang.png) ![](../../.gitbook/assets/UI_AvatarIcon_Noelle.png) ![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Razor.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xinyan.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Ningguang.png)![](../../.gitbook/assets/UI_AvatarIcon_Noelle.png)![](../../.gitbook/assets/UI_AvatarIcon_Eula.png)![](../../.gitbook/assets/UI_AvatarIcon_Razor.png)![](../../.gitbook/assets/UI_AvatarIcon_Xinyan.png)
 
 * Jean cannot cause elemental reactions with Geo and cannot provide Debuffs for Physical Damage characters.
 
@@ -52,28 +52,28 @@ In all the teams listed below, Jean universally provides Debuff utility using th
 
 #### [Anemo](./)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Xiao.png) ![](../../.gitbook/assets/UI_AvatarIcon_Jean.png) ![](../../.gitbook/assets/UI_AvatarIcon_Albedo.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
+#### ![](../../.gitbook/assets/UI_AvatarIcon_Xiao.png)![](../../.gitbook/assets/UI_AvatarIcon_Jean.png)![](../../.gitbook/assets/UI_AvatarIcon_Albedo.png)![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
 
 * Jean acts as an Energy Battery for Xiao in this team and can also provide Crowd Control and Healing utility.
 
 #### [Electro-Charged](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Keqing.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Jean.png)
+#### ![](../../.gitbook/assets/UI_AvatarIcon_Keqing.png)![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png)![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png)![](../../.gitbook/assets/UI_AvatarIcon_Jean.png)
 
 #### [Reverse Vaporize](../../teams/reverse-vaporize.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Diluc.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Jean.png)
+#### ![](../../.gitbook/assets/UI_AvatarIcon_Diluc.png)![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png)![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)![](../../.gitbook/assets/UI_AvatarIcon_Jean.png)
 
 #### [Pure Pyro](../../teams/pure-pyro.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Klee.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../../.gitbook/assets/UI_AvatarIcon_Venti.png) ![](../../.gitbook/assets/UI_AvatarIcon_Jean.png)
+#### ![](../../.gitbook/assets/UI_AvatarIcon_Klee.png)![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png)![](../../.gitbook/assets/UI_AvatarIcon_Venti.png)![](../../.gitbook/assets/UI_AvatarIcon_Jean.png)
 
 * In this team, Jean will typically allow Venti to take the role of being a Debuffer with the Viridescent Venerer 4-set and instead provide the team with a Noblesse Oblige 4-set buff.
 * Jean acts as an Energy Battery for Venti in this team.
 
-#### [Turbo / Overload](../../teams/overload.md)
+#### [Overload](../../teams/overload.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Venti.png) ![](../../.gitbook/assets/UI_AvatarIcon_Jean.png)
+#### ![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png)![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png)![](../../.gitbook/assets/UI_AvatarIcon_Venti.png)![](../../.gitbook/assets/UI_AvatarIcon_Jean.png)
 
 * In this team, Jean will typically allow Venti to take the role of being a Debuffer with the Viridescent Venerer 4-set and instead provide the team with a Noblesse Oblige 4-set buff.
 * This is a Quickswap team where all members have low Elemental Skill cooldowns and all members constantly generate energy particles to fuel their Elemental Bursts.
