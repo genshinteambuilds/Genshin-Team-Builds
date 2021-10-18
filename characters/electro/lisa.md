@@ -2,13 +2,13 @@
 
 ## Roles
 
-* **Off-Field DPS** \(Elemental Burst\)
-* **Support:** Debuffer \(C2\)
+* **Off-Field DPS** (Elemental Burst)
+* **Support: **Debuffer (C2)
 
 ## Character Breakdown
 
 * Elemental skill applies Electro damage to enemies.
-  * Pressing Elemental skill releases a homing Electro orb that deals Electro damage and apply 1 stack of the conductive status \(max 3 stacks\)
+  * Pressing Elemental skill releases a homing Electro orb that deals Electro damage and apply 1 stack of the conductive status (max 3 stacks)
   * Holding Elemental skill causes lightning to strike down dealing massive Electro damage to all enemies within the area of effect.
     * Deals more damage to enemies with higher conductive stacks.
 * Elemental Burst deals continuous Electro damage within its area of effect and knocks back enemies on hit.
@@ -64,4 +64,3 @@ Click on the team names below for more details on how the team works and alterna
 
 * A team that focuses on sustained damage while having the option to deal burst damage with both Childe vaporizing his Elemental Burst with Bennett, as well as Lisa’s hold Elemental Skill.
 * Lisa’s Elemental Burst reduces enemy defense while also dealing damage even when she’s not on-field.
-

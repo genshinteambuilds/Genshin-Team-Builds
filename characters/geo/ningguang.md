@@ -4,19 +4,19 @@
 
 * **Main DPS**
 * **Burst DPS**
-* **Support:** Energy Battery
+* **Support: **Energy Battery
 
 ## Character Breakdown:
 
 * Her damage contribution is distributed across her Charge Attacks, Skill and Burst casts mostly.
-* Normal Attack/Charge Attack \(NA/CA\), each Normal Attack landed will grant her one Star Jade, which can stack up to 3 and when you do a Charge Attack, it releases all Star Jade stacks.
-* Ningguang’s Elemental Skill summons a Jade Screen that does damage upon summon and remains on the field to block out projectiles. Constellation 2 can reset her Skill cooldown if the screen shatters under any circumstances, including shattering from your own Skill recast. \(6s CD\)
+* Normal Attack/Charge Attack (NA/CA), each Normal Attack landed will grant her one Star Jade, which can stack up to 3 and when you do a Charge Attack, it releases all Star Jade stacks.
+* Ningguang’s Elemental Skill summons a Jade Screen that does damage upon summon and remains on the field to block out projectiles. Constellation 2 can reset her Skill cooldown if the screen shatters under any circumstances, including shattering from your own Skill recast. (6s CD)
 * Ningguang’s Elemental Burst fires 6 Homing Gems at nearby enemies and if there’s a present Jade Screen, the screen shattered into another 6 Homing Gems.
 
 ## Additional Note:
 
-* Regarding her best NA/CA combo, it depends on how close you are to the enemy, as mentioned above Star Jades stacks are only given when you land a hit, not when you fire a Normal Attack. If you’re too far away from the enemy and you attempt N1&gt;CA combos, you may end up casting Charge Attacks before you even get a Star Jade to reduce the stamina consumption. If you’re at range, N2&gt;CA for DPS. If you’re very close, N1&gt;CA for DPS.
-* People often use walk animation cancel for her Normal Attack \(NA\) sequences, this can be done by holding down on a walking direction while doing normal attacks.
+* Regarding her best NA/CA combo, it depends on how close you are to the enemy, as mentioned above Star Jades stacks are only given when you land a hit, not when you fire a Normal Attack. If you’re too far away from the enemy and you attempt N1>CA combos, you may end up casting Charge Attacks before you even get a Star Jade to reduce the stamina consumption. If you’re at range, N2>CA for DPS. If you’re very close, N1>CA for DPS.
+* People often use walk animation cancel for her Normal Attack (NA) sequences, this can be done by holding down on a walking direction while doing normal attacks.
 * She doesn’t need any reactions to function, which makes her an excellent choice for coop where you can’t rely on others to set up for reactions, but as a trade off it also means you won’t get access to massive multipliers and can’t benefit from 4-set VV debuffs.
 
 ## Works well with
@@ -39,7 +39,7 @@
 
 ![](../../.gitbook/assets/ui_avataricon_xiangling.png) 
 
-* Xiangling  provides Pyro Resonance, an extra 10% ATK buff from Guoba’s Chili \(A4 Talent\) while also dishing out quite a lot of damage. Even without Bennett she’d always be a great filler option if you need a Pyro shield breaker.
+* Xiangling  provides Pyro Resonance, an extra 10% ATK buff from Guoba’s Chili (A4 Talent) while also dishing out quite a lot of damage. Even without Bennett she’d always be a great filler option if you need a Pyro shield breaker.
 
 ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) 
 
@@ -47,7 +47,7 @@
 
 ![](../../.gitbook/assets/ui_avataricon_venti.png) 
 
-* Venti could be fairly useful for CC and grouping enemies together for more effective utilization of Ningguang’s C1. If Bennett is also on the team, it helps funnel energy into his Burst \(Venti A4 Talent\).
+* Venti could be fairly useful for CC and grouping enemies together for more effective utilization of Ningguang’s C1. If Bennett is also on the team, it helps funnel energy into his Burst (Venti A4 Talent).
 
 ![](../../.gitbook/assets/ui_avataricon_mona.png) 
 
@@ -65,7 +65,7 @@
 
 ![](../../.gitbook/assets/ui_avataricon_chongyun.png) 
 
-* Chongyun \(Support\), doesn’t provide anything aside from Cryo coverage.
+* Chongyun (Support), doesn’t provide anything aside from Cryo coverage.
 
  ![](../../.gitbook/assets/element_anemo.webp) 
 
@@ -79,10 +79,9 @@ Click on the team names below for more details on how the team works and alterna
 
 [Geo](../../teams/geo.md)
 
-![](../../.gitbook/assets/ui_avataricon_ningguang.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png)   
+![](../../.gitbook/assets/ui_avataricon_ningguang.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) \
 
 
 * Generally Ningguang’s teams consist of 2 Geo characters to get Geo Resonance, it’s a very valuable buff as Geo characters can only receive total damage buffs or atk buffs in general.
 * Pyro Resonance is highly recommended.
 * Prioritize for shield breaking utility, make sure that your Ningguang can properly deal damage without being stopped by inefficient shield breaking.
-

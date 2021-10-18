@@ -3,7 +3,7 @@
 ## Roles
 
 * **Burst DPS**
-* **Support:** Buffer \(C2\)
+* **Support: **Buffer (C2)
 
 ## Character Breakdown
 
@@ -66,10 +66,9 @@ Click on the team names below for more details on how the team works and alterna
 
 * In these teams, Chongyun acts as a Burst DPS. His Elemental Burst should be melted by prior Pyro application from Bennett or Klee.
 
-\*\*\*\*[**National**](../../teams/national.md)\*\*\*\*
+****[**National**](../../teams/national.md)****
 
 ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
 * A variation of the popular "National Team" where Chongyun acts as a Sub DPS, and Support.
 * This variation allows for Melt and Reverse Melt reactions, and allows for faster rotations given Chongyun is at Constellation 2.
-

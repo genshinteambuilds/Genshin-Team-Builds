@@ -2,14 +2,14 @@
 
 ## Roles
 
-* **Off-Field DPS** \(Elemental Burst\)
-* **Support:** Debuffer \(C6\), Cleanser \(Self Only\)
+* **Off-Field DPS** (Elemental Burst)
+* **Support: **Debuffer (C6), Cleanser (Self Only)
 
 ##  Character Breakdown
 
 * Elemental Skill provides a brief shield based off of her max HP, followed up by a counterattack that scales in both damage and energy generated through either absorbing multiple attacks or activating the skill at the moment where an attack hits you.
 * Beidou's Elemental Burst is her most important ability, creating chain lightning when your on-field character connects with Normal or Charged Attacks while also providing a substantial amount of damage reduction. 
-* Damage massively depends on there being multiple enemies on field, as lightning from Elemental Burst doesn't chain on a single enemy, leading to a huge damage loss of 66% \(or 80% at C2+\)
+* Damage massively depends on there being multiple enemies on field, as lightning from Elemental Burst doesn't chain on a single enemy, leading to a huge damage loss of 66% (or 80% at C2+)
 * Beidou excels most as an Off-Field DPS, relying on her massive Elemental Burst scaling to provide damage. 
 
 ## Additional Notes 
@@ -17,7 +17,8 @@
 * Using Elemental Skill within 20 frames of an attack connecting with you will instantly fully charge it's damage.
 * C2 is her most important constellation, providing a 66% increase in potential damage on her Elemental Burst.
 * Beidou's Elemental Burst snapshots buffs on cast, allowing supports such a Bennet to provide a damage increase for the entire duration.
-* A second electro character is typically a good pairing with Beidou, as her energy generation falls behind the immense cost of her Elemental Burst even with perfect activations of her Elemental Skill. 
+* A second electro character is typically a good pairing with Beidou, as her energy generation falls behind the immense cost of her Elemental Burst even with perfect activations of her Elemental Skill.\
+
 
 ## Works Well With
 
@@ -44,9 +45,9 @@
 * Typically used in a “Taser Comp” where Xingqiu and Fischl provide damage with Beidou and the Anemo character triggers Swirl to reduce enemy resistances. 
 * Kazuha provides additional damage with his elemental damage increase, especially in dual electro teams.
 
-![](../../.gitbook/assets/ui_avataricon_bennett.png) ****![](../../.gitbook/assets/ui_avataricon_sara.png) 
+![](../../.gitbook/assets/ui_avataricon_bennett.png)** **![](../../.gitbook/assets/ui_avataricon_sara.png) 
 
-* Beidou's ability to snapshot buffs with her Elemental Burst allows her to take full advantage of both Bennet and Kujou Sara's attack buffs. \(Note that the Electro Crit Damage Increase from Kujou Sara's C6 cannot be snapshot and will not buff the entirety of Beidou's Elemental Burst.\) 
+* Beidou's ability to snapshot buffs with her Elemental Burst allows her to take full advantage of both Bennet and Kujou Sara's attack buffs. (Note that the Electro Crit Damage Increase from Kujou Sara's C6 cannot be snapshot and will not buff the entirety of Beidou's Elemental Burst.) 
 
 ![](../../.gitbook/assets/ui_avataricon_fischl.png) 
 
@@ -91,8 +92,6 @@ Click on the team names below for more details on how the team works and alterna
 
 * Beidou's high Off-Field DPS makes this team comp work especially against large or heavy enemies who don't get blown away by Overload.
 * Yoimiya's range can help negate some of the downsides of Overload's Knockback.
-
-
 
 
 

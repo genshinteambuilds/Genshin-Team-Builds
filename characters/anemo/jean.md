@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Support:** Healer, Debuffer \(VV, C4\), Energy Battery, Cleanser, Crowd Control \(Grouping\), Buffer \(C2\)
+* **Support: **Healer, Debuffer (VV, C4), Energy Battery, Cleanser, Crowd Control (Grouping), Buffer (C2)
 * **Burst DPS**
 
 ## Character Breakdown
@@ -11,7 +11,7 @@
 * Elemental Skill can gather smaller enemies when held. These enemies can then be thrown into the air causing them to take a significant percentage of their HP as fall damage when they land.
 * Elemental Burst both deals a large amount of damage and heals a large amount when used.
 * Elemental Burst also creates a Dandelion Field which continuously heals characters that stand in it.
-* Her Elemental Burst can remove \(cleanse\) all elemental debuffs.
+* Her Elemental Burst can remove (cleanse) all elemental debuffs.
 * Can act as a Debuffer with Viridescent Venerer 4-set or as a Buffer with Noblesse Oblige 4-set if running 2 Anemo supports.
 
 ## **Additional Notes**
@@ -25,7 +25,7 @@
 
   ![](../../.gitbook/assets/element_anemo.webp) ![](../../.gitbook/assets/element_cryo.webp) ![](../../.gitbook/assets/element_electro.webp) ![](../../.gitbook/assets/element_hydro.webp) ![](../../.gitbook/assets/element_pyro.webp) 
 
-* Jean pairs well with almost all characters in the game as Viridescent Venerer 4-set can Debuff Elemental Resistance on enemies for 4 of the elements \(Cryo, Electro, Hydro and Pyro\).
+* Jean pairs well with almost all characters in the game as Viridescent Venerer 4-set can Debuff Elemental Resistance on enemies for 4 of the elements (Cryo, Electro, Hydro and Pyro).
 * Jean can act as an Energy Battery for other Anemo characters, while those other Anemo characters can in turn act as Energy Batteries for Jean, as well.
 * You should generally avoid pairing Jean with another healer as Jean's healing is sufficient for most content.
   * Bennett + Jean is one exception to this rule in situations where this exact pairing can help deal with shields in Spiral Abyss.
@@ -77,4 +77,3 @@ In all the teams listed below, Jean universally provides Debuff utility using th
 
 * In this team, Jean will typically allow Venti to take the role of being a Debuffer with the Viridescent Venerer 4-set and instead provide the team with a Noblesse Oblige 4-set buff.
 * This is a Quickswap team where all members have low Elemental Skill cooldowns and all members constantly generate energy particles to fuel their Elemental Bursts.
-

@@ -1,9 +1,9 @@
 # Anemo
 
 {% hint style="info" %}
-All Anemo Characters can use the **Viridescent Venerer 4-set.**  The effect description reads:  
-_"Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s."_  
-This means that any Anemo character can be a Debuffer and this set is a must-have for almost all Anemo Support characters. Do _**NOT**_ put this set on an Anemo Main DPS.
+All Anemo Characters can use the **Viridescent Venerer 4-set.  **The effect description reads:\
+_"Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s."_\
+__This means that any Anemo character can be a Debuffer and this set is a must-have for almost all Anemo Support characters. Do _**NOT **_put this set on an Anemo Main DPS.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -22,9 +22,9 @@ We have not included every team here as Anemo characters can be used in virtuall
 Anemo supports are some of the most commonly used characters that can provide Debuffing via Viridescent Venerer and Crowd Control for the team.
 {% endhint %}
 
-{% page-ref page="../../teams/anemo.md" %}
-
-
+{% content-ref url="../../teams/anemo.md" %}
+[anemo.md](../../teams/anemo.md)
+{% endcontent-ref %}
 
 
 

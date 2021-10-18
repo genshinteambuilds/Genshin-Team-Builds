@@ -2,13 +2,13 @@
 
 ## Roles
 
-* **Main DPS** \(Selfish\)
+* **Main DPS **(Selfish)
 
 ## Character Breakdown
 
 * Normal Attacks are the most vital part of Razor's kit, and he heavily relies on dealing Physical damage.
 * Elemental Skill changes based on whether it is tapped or held. 
-  * On tap, he deals AOE Electro damage and gains an Electro Sigil \(of which he can hold a maximum of 3\). Each Sigil increases his Energy Recharge. 
+  * On tap, he deals AOE Electro damage and gains an Electro Sigil (of which he can hold a maximum of 3). Each Sigil increases his Energy Recharge. 
   * On hold, he deals Electro damage in a circle around him and converts all of his Electro Sigils into energy.
 * Elemental Burst deals an instance of AoE Electro damage around him and consumes all his Sigils, which then grant him energy. He gains the following effects:
   * Electro damage is dealt alongside each attack
@@ -21,10 +21,10 @@
 
 ## Additional Notes
 
-* When his Elemental Burst is not active, Razor deals more damage per second with a three-hit combo followed by a dash cancel to omit the final attack; however, if Razor's Elemental Burst is active he will deal more damage with a full four-hit combo \(dash canceling after the fourth hit\) instead.
+* When his Elemental Burst is not active, Razor deals more damage per second with a three-hit combo followed by a dash cancel to omit the final attack; however, if Razor's Elemental Burst is active he will deal more damage with a full four-hit combo (dash canceling after the fourth hit) instead.
 * Swapping to another character while Razor's Elemental Burst is active will prematurely end it. It is therefore generally recommended to keep him on the field for as long as possible.
   * An exception to this is when all enemies are dead. Prematurely canceling his Elemental Burst will return a small amount of energy to Razor. 
-* Razor's passive reduces sprinting's stamina consumption by 20% partywide \(non-stackable with other effects\). This makes Razor a good world exploration character, as his claymore can also mine ores.
+* Razor's passive reduces sprinting's stamina consumption by 20% partywide (non-stackable with other effects). This makes Razor a good world exploration character, as his claymore can also mine ores.
 
 ## Works Well With
 
@@ -44,7 +44,7 @@
 * Fischl provides energy for Razor and deals Off-Field Electro damage. 
 * Both characters provide Electro Resonance, which can help with Razor's Elemental Burst uptime.
 
- 
+![](broken-reference) 
 
 * Most Anemo characters can crowd control and group enemies, allowing for Razor to hit multiple enemies more easily. 
 
@@ -59,7 +59,7 @@
 
 * Razor's kit innately favors Physical damage. Chongyun's Elemental Skill converts Razor's Normal Attacks to Cryo damage, which negates his build's Physical damage bonuses.
 
- ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnn83PO_KJLh2P8e%2FUI_AvatarIcon_Xiangling.png?alt=media&token=4b5d565c-370f-41b5-a07e-65c832474acb) ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnn94J69ajjrp2QN%2FUI_AvatarIcon_Bennett.png?alt=media&token=cccf8858-0bde-4ede-8990-8c9b976d4b74)
+ ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnn83PO_KJLh2P8e%2FUI_AvatarIcon_Xiangling.png?alt=media\&token=4b5d565c-370f-41b5-a07e-65c832474acb) ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnn94J69ajjrp2QN%2FUI_AvatarIcon_Bennett.png?alt=media\&token=cccf8858-0bde-4ede-8990-8c9b976d4b74)
 
 * Overload reactions will knock smaller enemies away from Razor. However, Pyro can be used on larger enemies for additional damage.
 
@@ -73,7 +73,7 @@ Click on the team names below for more details on how the team works and alterna
 
 Superconduct
 
-  ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png)   
+  ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) \
 
 
 * A team that runs Razor as Main Dps and Cryo supports to cause Superconduct.
@@ -86,6 +86,4 @@ Non-Superconduct
 
 * Building a non-Superconduct team is possible, but not highly recommended as it takes away priority support options from other teams.
 * Strong Sub-DPS and/or Geo or Pyro resonances are used here to boost the team's damage.
-
-
 

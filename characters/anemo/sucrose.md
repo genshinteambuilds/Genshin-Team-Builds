@@ -2,8 +2,8 @@
 
 ## Roles
 
-* **Support:** Buffer \(A4, C6\), Debuffer \(VV\), Crowd Control \(Grouping\), Energy Battery
-* **Off-Field DPS** \(Elemental Burst\)
+* **Support: **Buffer (A4, C6), Debuffer (VV), Crowd Control (Grouping), Energy Battery
+* **Off-Field DPS** (Elemental Burst)
 
 ## Character Breakdown
 
@@ -26,7 +26,7 @@
 
   ![](../../.gitbook/assets/element_anemo.webp) ![](../../.gitbook/assets/element_cryo.webp) ![](../../.gitbook/assets/element_electro.webp) ![](../../.gitbook/assets/element_hydro.webp) ![](../../.gitbook/assets/element_pyro.webp) 
 
-* Sucrose pairs well with almost all characters in the game as Viridescent Venerer 4-set can Debuff Elemental Resistance on enemies for 4 of the elements \(Cryo, Electro, Hydro and Pyro\).
+* Sucrose pairs well with almost all characters in the game as Viridescent Venerer 4-set can Debuff Elemental Resistance on enemies for 4 of the elements (Cryo, Electro, Hydro and Pyro).
 * With other Anemo characters, Sucrose can act as a Battery and also receive energy from other Anemo characters.
 
 ## Does Not Work Well With
@@ -83,4 +83,3 @@ In all the teams listed below, Sucrose universally provides Debuffing using the 
 ![](../../.gitbook/assets/ui_avataricon_ayaka.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
 
 * Even though Elemental Mastery doesn't benefit Frozen Elemental Reactions, Sucrose can still apply either Hydro or Cryo with her Elemental Burst and help enable AoE Freeze teams.
-
