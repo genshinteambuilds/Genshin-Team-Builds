@@ -2,17 +2,22 @@
 
 ## Characters
 
-![](../../.gitbook/assets/ui_avataricon_barbara.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Barbara.png) ![](../../.gitbook/assets/UI_AvatarIcon_Mona.png) ![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png)
 
 ## Teams
 
-{% page-ref page="../../teams/electro-charged.md" %}
+{% content-ref url="../../teams/electro-charged.md" %}
+[electro-charged.md](../../teams/electro-charged.md)
+{% endcontent-ref %}
 
-{% page-ref page="../../teams/freeze.md" %}
+{% content-ref url="../../teams/freeze.md" %}
+[freeze.md](../../teams/freeze.md)
+{% endcontent-ref %}
 
-{% page-ref page="../../teams/vaporize.md" %}
+{% content-ref url="../../teams/vaporize.md" %}
+[vaporize.md](../../teams/vaporize.md)
+{% endcontent-ref %}
 
-{% page-ref page="../../teams/reverse-vaporize.md" %}
-
-
-
+{% content-ref url="../../teams/reverse-vaporize.md" %}
+[reverse-vaporize.md](../../teams/reverse-vaporize.md)
+{% endcontent-ref %}

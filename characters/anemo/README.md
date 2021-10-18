@@ -1,9 +1,9 @@
 # Anemo
 
 {% hint style="info" %}
-All Anemo Characters can use the **Viridescent Venerer 4-set.  **The effect description reads:\
+All Anemo Characters can use the \*\*Viridescent Venerer 4-set. \*\*The effect description reads:\
 _"Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s."_\
-__This means that any Anemo character can be a Debuffer and this set is a must-have for almost all Anemo Support characters. Do _**NOT **_put this set on an Anemo Main DPS.
+\__This means that any Anemo character can be a Debuffer and this set is a must-have for almost all Anemo Support characters. Do \_\*\*NOT \*\*\_put this set on an Anemo Main DPS.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -12,7 +12,7 @@ For the Elemental Resistance debuff to take effect, the character with the set *
 
 ## Characters
 
-[![](../../.gitbook/assets/ui_avataricon_jean.png) ](jean.md)[![](../../.gitbook/assets/ui_avataricon_kazuha.png) ](kazuha.md)[![](../../.gitbook/assets/ui_avataricon_sayu.png) ](sayu.md)[![](../../.gitbook/assets/ui_avataricon_sucrose.png) ](sucrose.md)[![](../../.gitbook/assets/ui_avataricon_venti.png) ](venti.md)[![](../../.gitbook/assets/ui_avataricon_xiao.png)](xiao.md) [![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png) ](traveler-anemo.md)
+[![](../../.gitbook/assets/UI_AvatarIcon_Jean.png) ](jean.md)[![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ](kazuha.md)[![](../../.gitbook/assets/UI_AvatarIcon_Sayu.png) ](sayu.md)[![](../../.gitbook/assets/UI_AvatarIcon_Sucrose.png) ](sucrose.md)[![](../../.gitbook/assets/UI_AvatarIcon_Venti.png) ](venti.md)[![](../../.gitbook/assets/UI_AvatarIcon_Xiao.png)](xiao.md) [![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png)](traveler-anemo.md)
 
 ## Teams
 
@@ -25,6 +25,3 @@ Anemo supports are some of the most commonly used characters that can provide De
 {% content-ref url="../../teams/anemo.md" %}
 [anemo.md](../../teams/anemo.md)
 {% endcontent-ref %}
-
-
-

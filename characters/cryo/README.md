@@ -2,7 +2,7 @@
 
 ## Characters
 
-![](../../.gitbook/assets/ui_avataricon_ayaka.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_qiqi.png) ![](../../.gitbook/assets/ui_avataricon_rosaria.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Ayaka.png) ![](../../.gitbook/assets/UI_AvatarIcon_Chongyun.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png) ![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Ganyu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Qiqi.png) ![](../../.gitbook/assets/UI_AvatarIcon_Rosaria.png)
 
 {% hint style="info" %}
 While Eula is listed here as a Cryo character, she is primarily used as a Main DPS for [Physical](../../teams/physical.md) team compositions.

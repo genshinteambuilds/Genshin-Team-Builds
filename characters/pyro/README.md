@@ -2,7 +2,7 @@
 
 ## Characters
 
-![](../../.gitbook/assets/ui_avataricon_amber.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_klee.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_xinyan.png) ![](../../.gitbook/assets/ui_avataricon_yanfei.png)
+![](../../.gitbook/assets/ui_avataricon_amber.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diluc.png) ![](../../.gitbook/assets/UI_AvatarIcon_Hutao.png) ![](../../.gitbook/assets/UI_AvatarIcon_Klee.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xinyan.png) ![](../../.gitbook/assets/UI_AvatarIcon_Yanfei.png)
 
 {% hint style="info" %}
 While Xinyan is listed here as a Pyro character, she is primarily used as a support for [Physical](../../teams/physical.md) team compositions.

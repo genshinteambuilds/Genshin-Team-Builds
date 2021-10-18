@@ -7,8 +7,8 @@
 
 ## **Character Breakdown**
 
-* Noelle can function as a Main DPS \(ideally at Constellation 6\) or a Support \(weak healing/shield or used for Geo Resonance\).
-* Elemental Skill is a high cooldown shield that deals Geo damage when cast and when broken or when its duration is reached. 
+* Noelle can function as a Main DPS (ideally at Constellation 6) or a Support (weak healing/shield or used for Geo Resonance).
+* Elemental Skill is a high cooldown shield that deals Geo damage when cast and when broken or when its duration is reached.
   * Elemental Skill does not generate particles.
 * Elemental Burst deals Geo damage in a wide area. Noelle gains the following effects:
   * Attack range greatly increased.
@@ -23,58 +23,57 @@
 
 ## **Works Well With**
 
-![](../../.gitbook/assets/element_geo.webp)
+![](../../.gitbook/assets/Element_Geo.webp)
 
 * All current Geo characters are solid choices to add to a Noelle team, both for Geo resonance and for their individual supporting or damaging capabilities.
 
-![](../../.gitbook/assets/ui_avataricon_bennett.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * Bennett is the best offensive support in the game, providing huge amounts of ATK for Noelle. His C6 can’t override Noelle’s Geo infusion either.
 
-![](../../.gitbook/assets/ui_avataricon_beidou.png)![](../../.gitbook/assets/ui_avataricon_fischl.png)![](../../.gitbook/assets/ui_avataricon_xingqiu.png)![](../../.gitbook/assets/ui_avataricon_xiangling.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png)
 
 * Any off field damage support is viable to add to a Noelle team. Keep in mind the energy costs and recharge rate of these units though.
 
 ## **Does Not Work Well With**
 
-![](https://lh3.googleusercontent.com/vwzPL8yGc83AZqQ8T1QaLbBvP-HPYz1FmilKn_w5ZPl3p1wpR1FBLoGiuTA8-Rdtx_ziJVOv_0MO6TWXEwi6ulu1ZIo-4veqdrerHCriFqNMjD01SJ9gEJ874a3pHg-qUALBGYpx)
+![](https://lh3.googleusercontent.com/vwzPL8yGc83AZqQ8T1QaLbBvP-HPYz1FmilKn_w5ZPl3p1wpR1FBLoGiuTA8-Rdtx_ziJVOv\_0MO6TWXEwi6ulu1ZIo-4veqdrerHCriFqNMjD01SJ9gEJ874a3pHg-qUALBGYpx)
 
-* Noelle cannot take advantage of Viridescent Venerer nor do any of the current Anemo characters synergise with her or provide her with something that other elements can't. 
+* Noelle cannot take advantage of Viridescent Venerer nor do any of the current Anemo characters synergise with her or provide her with something that other elements can't.
 
 ## **Teams**
 
 **Main DPS Comp**
 
-[Geo](../../teams/geo.md) 
+[Geo](../../teams/geo.md)
 
 3 Geo + Support
 
-[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_ningguang.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png)
+[![](../../.gitbook/assets/UI_AvatarIcon_Noelle.png)](noelle.md) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Ningguang.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
-[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png)[ ](zhongli.md)[![](../../.gitbook/assets/ui_avataricon_aether_geo.png) ](traveler-geo.md)
+[![](../../.gitbook/assets/UI_AvatarIcon_Noelle.png)](noelle.md) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)[ ](zhongli.md)[![](../../.gitbook/assets/UI_AvatarIcon_Aether_Geo.png)](traveler-geo.md)
 
-* Zhong \(shield\) and Ning \(battery\) provide immense utility and can provide great damage as well with good ratios on their burst. Albedo is a decent alternative to any of the Geo chars above 
-* Bennett provides healing and huge offensive buffs.  
+* Zhong (shield) and Ning (battery) provide immense utility and can provide great damage as well with good ratios on their burst. Albedo is a decent alternative to any of the Geo chars above
+* Bennett provides healing and huge offensive buffs.
 
 2 Geo + 2 Pyro
 
-[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png)
+[![](../../.gitbook/assets/UI_AvatarIcon_Noelle.png)](noelle.md) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png)
 
-[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md) ![](../../.gitbook/assets/ui_avataricon_ningguang.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png)
+[![](../../.gitbook/assets/UI_AvatarIcon_Noelle.png)](noelle.md) ![](../../.gitbook/assets/UI_AvatarIcon_Ningguang.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png)
 
 * This team takes advantage of the good Geo and Pyro resonance but can result in some difficulty maintaining burst uptime on Noelle and Xiangling.
 
 2 Geo
 
-[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png)
+[![](../../.gitbook/assets/UI_AvatarIcon_Noelle.png)](noelle.md) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png)
 
-[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md) ![](../../.gitbook/assets/ui_avataricon_ningguang.png) [![](../../.gitbook/assets/ui_avataricon_rosaria.png)](../cryo/rosaria.md) ![](../../.gitbook/assets/ui_avataricon_bennett.png)
+[![](../../.gitbook/assets/UI_AvatarIcon_Noelle.png)](noelle.md) ![](../../.gitbook/assets/UI_AvatarIcon_Ningguang.png) [![](../../.gitbook/assets/UI_AvatarIcon_Rosaria.png)](../cryo/rosaria.md) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
-* A couple examples of a double Geo team with 2 supporting characters. Can choose any as long it fills the general needs of a team \(healing, enough energy regen for rotations off cooldown\).
+* A couple examples of a double Geo team with 2 supporting characters. Can choose any as long it fills the general needs of a team (healing, enough energy regen for rotations off cooldown).
 
 **Support**
 
-[![](../../.gitbook/assets/ui_avataricon_noelle.png)](noelle.md)
+[![](../../.gitbook/assets/UI_AvatarIcon_Noelle.png)](noelle.md)
 
 * If using Noelle as support, its probably due to limited resources and she is cheap to use as a support. She can be placed into any team that needs a healer and function as a pseudo healer. Not recommended but it is an option early on when there are not many characters available.
-

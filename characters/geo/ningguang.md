@@ -4,7 +4,7 @@
 
 * **Main DPS**
 * **Burst DPS**
-* **Support: **Energy Battery
+* \*\*Support: \*\*Energy Battery
 
 ## Character Breakdown:
 
@@ -21,53 +21,53 @@
 
 ## Works well with
 
-![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
 
 * Zhongli is the most ideal candidate for the Geo Resonance buff and shield that’s extremely durable and reduces nearby enemy Elemental/Physical Resistance values by 20%, this means you’ll be reducing a total of 40% Geo Resistance against enemies and even Geovishaps would no longer be your weakness. Burst timers also line up really decently.
 
-![](../../.gitbook/assets/ui_avataricon_albedo.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Albedo.png)
 
 * Albedo, a replacement option if you do not have Zhongli, easy to use and cooldowns line up with Ningguang’s timers. Note that you could even run a triple Geo team with Ningguang Zhongli and Albedo.
 
-![](../../.gitbook/assets/ui_avataricon_aether_geo.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Aether_Geo.png)
 
 * Geo MC is a replacement option if you do not have Zhongli, easy to use and cooldowns line up with Ningguang’s timers. Triple Geo is also viable for this one but will get significantly more messy as Geo MC does not do damage off-field and will require more swapping around.
 
-![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * Provides pyro resonance, ATK buff and healing from his elemental burst.
 
-![](../../.gitbook/assets/ui_avataricon_xiangling.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png)
 
-* Xiangling  provides Pyro Resonance, an extra 10% ATK buff from Guoba’s Chili (A4 Talent) while also dishing out quite a lot of damage. Even without Bennett she’d always be a great filler option if you need a Pyro shield breaker.
+* Xiangling provides Pyro Resonance, an extra 10% ATK buff from Guoba’s Chili (A4 Talent) while also dishing out quite a lot of damage. Even without Bennett she’d always be a great filler option if you need a Pyro shield breaker.
 
-![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png)
 
 * They both provide extra off-field DPS that’s easy to utilize, nothing special about her here.
 
-![](../../.gitbook/assets/ui_avataricon_venti.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Venti.png)
 
 * Venti could be fairly useful for CC and grouping enemies together for more effective utilization of Ningguang’s C1. If Bennett is also on the team, it helps funnel energy into his Burst (Venti A4 Talent).
 
-![](../../.gitbook/assets/ui_avataricon_mona.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Mona.png)
 
-* Mona  provides hydro coverage, taunt utility, Thrilling Tales of Dragon Slayer buff and Omen debuff.
+* Mona provides hydro coverage, taunt utility, Thrilling Tales of Dragon Slayer buff and Omen debuff.
 
-![](../../.gitbook/assets/ui_avataricon_noelle.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Noelle.png)
 
 * Noelle is not a necessarily bad option for Ningguang, has decent shield but slightly poor uptime. The investment for Noelle is generally not recommended.
 
 ## Does not work well with
 
-![](../../.gitbook/assets/ui_avataricon_xingqiu.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png)
 
 * Note that this isn’t saying Xingqiu is bad with Ningguang, but his potential is wasted as Ningguang’s attack sequences usually does not line up too well with Xingqiu. This is saying Xingqiu should be reserved for another team that can utilize him better.
 
-![](../../.gitbook/assets/ui_avataricon_chongyun.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Chongyun.png)
 
 * Chongyun (Support), doesn’t provide anything aside from Cryo coverage.
 
- ![](../../.gitbook/assets/element_anemo.webp) 
+![](../../.gitbook/assets/Element_Anemo.webp)
 
 * Doesn’t provide anything aside from CC and extra damage ticks.
 
@@ -79,8 +79,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [Geo](../../teams/geo.md)
 
-![](../../.gitbook/assets/ui_avataricon_ningguang.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) \
-
+![](../../.gitbook/assets/UI_AvatarIcon_Ningguang.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png) \\
 
 * Generally Ningguang’s teams consist of 2 Geo characters to get Geo Resonance, it’s a very valuable buff as Geo characters can only receive total damage buffs or atk buffs in general.
 * Pyro Resonance is highly recommended.

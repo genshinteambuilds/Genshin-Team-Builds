@@ -2,7 +2,7 @@
 
 ## Characters
 
-![](../../.gitbook/assets/ui_avataricon_albedo.png) ![](../../.gitbook/assets/ui_avataricon_ningguang.png) ![](../../.gitbook/assets/ui_avataricon_noelle.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_aether_geo.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Albedo.png) ![](../../.gitbook/assets/UI_AvatarIcon_Ningguang.png) ![](../../.gitbook/assets/UI_AvatarIcon_Noelle.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Aether_Geo.png)
 
 ## Teams
 
@@ -19,4 +19,3 @@ Geo Resonance can provide a significant boost to team DPS but can often compete 
 {% content-ref url="../../teams/geo.md" %}
 [geo.md](../../teams/geo.md)
 {% endcontent-ref %}
-

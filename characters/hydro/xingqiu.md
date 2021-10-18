@@ -21,7 +21,7 @@
 
 ## **Works Well With**
 
-![](../../.gitbook/assets/element_anemo.webp) ![](../../.gitbook/assets/element_cryo.webp) ![](../../.gitbook/assets/element_electro.webp) ![](../../.gitbook/assets/element_hydro.webp) ![](../../.gitbook/assets/element_pyro.webp) ![](../../.gitbook/assets/element_geo.webp) 
+![](../../.gitbook/assets/Element_Anemo.webp) ![](../../.gitbook/assets/Element_Cryo.webp) ![](../../.gitbook/assets/Element_Electro.webp) ![](../../.gitbook/assets/Element_Hydro.webp) ![](../../.gitbook/assets/Element_Pyro.webp) ![](../../.gitbook/assets/Element_Geo.webp)
 
 * Xingqiu works incredibly well with almost every character in the game so long as the Main DPS character being used uses Normal Attacks that can trigger Xingqiu's Elemental Burst's Hydro rain sword attacks.
   * Even Charged Attack based characters besides those that use Bows can make use of Xingqiu as a single Normal Attack is performed before each Charged Attack.
@@ -30,9 +30,9 @@
 
 ## **Does Not Work Well With**
 
-****![](../../.gitbook/assets/ui_avataricon_ganyu.png)** **
+\*\*![](../../.gitbook/assets/UI_AvatarIcon_Ganyu.png) \*\*
 
-* Ganyu's primary damage comes from using aimed Charged Attacks. This results in Xingqiu's Elemental Burst not attacking the enemy with Hydro rain sword attacks as Normal Attacks are required to trigger them. 
+* Ganyu's primary damage comes from using aimed Charged Attacks. This results in Xingqiu's Elemental Burst not attacking the enemy with Hydro rain sword attacks as Normal Attacks are required to trigger them.
 * While Freeze can technically be done by weaving Normal Attacks between Charged Attacks to trigger Xingqiu's Hydro rain sword attacks, this is generally a DPS loss and incredibly clunky to play.
 
 ## **Teams**
@@ -43,35 +43,35 @@ Click on the team names below for more details on how the team works and alterna
 
 #### [Reverse Vaporize](../../teams/reverse-vaporize.md)
 
-![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Hutao.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sucrose.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png)
 
 * Xingqiu is the Core Support / Sub DPS required to build Reverse Vaporize team compositions. His Elemental Burst deals a large amount of damage and applies Hydro to enemies to allow the Pyro Main DPS character to complete Reverse Vaporize reactions.
 
 #### [Electro-Charged](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/ui_avataricon_keqing.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Keqing.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png)
 
-![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) 
+![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png)
 
 * Xingqiu is often used as the premier Hydro Sub DPS character in Electro-Charged team compositions to apply Hydro to enemies.
-* While not required for the team using Tartaglia since Tartaglia can apply Hydro himself, Xingqiu can still be added at C2 to decrease the enemy's Hydro Resistance and provide additional damage. 
+* While not required for the team using Tartaglia since Tartaglia can apply Hydro himself, Xingqiu can still be added at C2 to decrease the enemy's Hydro Resistance and provide additional damage.
 
 #### [Freeze](../../teams/freeze.md)
 
-![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png)
 
-![](../../.gitbook/assets/ui_avataricon_rosaria.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_jean.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Rosaria.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Chongyun.png) ![](../../.gitbook/assets/UI_AvatarIcon_Jean.png)
 
 * Xingqiu is often used as the Hydro Sub DPS character in Freeze teams to apply Hydro to enemies and keep them permanently Frozen.
 
 #### [Physical](../../teams/physical.md)
 
-![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png)
 
-* While Xingqiu does not contribute to the Superconduct reaction required for Physical teams at all, he is in general just an incredibly useful support; incidentally Freezing enemies, dealing large amounts of damage by himself, reducing damage, and increasing Interruption Resistance in a Freeze team. 
+* While Xingqiu does not contribute to the Superconduct reaction required for Physical teams at all, he is in general just an incredibly useful support; incidentally Freezing enemies, dealing large amounts of damage by himself, reducing damage, and increasing Interruption Resistance in a Freeze team.
 
 #### [National](../../teams/national.md)
 
-![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Chongyun.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * A popular team based around quickly swapping between characters and cycling their powerful Elemental Bursts, Xingqiu is used here primarily to provide Vaporize reactions with Xiangling's Elemental Burst and can also Freeze enemies when used with Chongyun, allowing Pyro Attacks to Melt instead.

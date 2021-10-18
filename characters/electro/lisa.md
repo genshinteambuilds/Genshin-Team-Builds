@@ -3,7 +3,7 @@
 ## Roles
 
 * **Off-Field DPS** (Elemental Burst)
-* **Support: **Debuffer (C2)
+* \*\*Support: \*\*Debuffer (C2)
 
 ## Character Breakdown
 
@@ -21,25 +21,25 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/ui_avataricon_razor.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Razor.png)
 
 * Lisa's defense reduction from her Elemental Burst greatly helps Razor to deal more damage. Razor being an Electro character also helps Lisa have better uptime on her Elemental burst as it costs 80 energy to activate.
 
-![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * Bennett provides a way to activate the Overload reaction that helps Lisa build up conductive stacks quicker to ensure Lisa’s Elemental skill hits harder. Bennett also buffs Lisa's attack stat to further increase her damage.
 
- ![](../../.gitbook/assets/ui_avataricon_venti.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Venti.png)
 
 * Venti provides energy particles and Crowd Control to gather up enemies to help Lisa stack her conductive status.
 
-![](../../.gitbook/assets/ui_avataricon_beidou.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png)
 
 * Beidou enables Electro resonance with Lisa, allowing for both to recharge their bursts much quicker.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/ui_avataricon_hutao.png)  ![](../../.gitbook/assets/ui_avataricon_diluc.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Hutao.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diluc.png)
 
 * Hu Tao and Diluc can’t effectively deal with enemies being knocked back by Overload reactions. Thus, using Lisa results in wasting time and sometimes stamina to reach the enemy knocked away by the Overload.
 
@@ -51,16 +51,16 @@ Click on the team names below for more details on how the team works and alterna
 
 [Physical](../../teams/physical.md)
 
-![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_lisa.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Razor.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Lisa.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png)
 
-![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_shougun.png) ![](../../.gitbook/assets/ui_avataricon_lisa.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Shougun.png) ![](../../.gitbook/assets/UI_AvatarIcon_Lisa.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png)
 
 * A typical Physical team composition where Lisa can do burst damage with her Elemental skill in a short period of time due to Kaeya and Diona helping her apply Superconduct increasing Lisa’s conductive stacks on enemies.
 * Lisa’s Elemental Burst reduces enemy defense while also dealing damage even when she’s not on-field.
 
-[Electro-charged ](../../teams/electro-charged.md)
+[Electro-charged](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_lisa.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/UI_AvatarIcon_Lisa.png) ![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * A team that focuses on sustained damage while having the option to deal burst damage with both Childe vaporizing his Elemental Burst with Bennett, as well as Lisa’s hold Elemental Skill.
 * Lisa’s Elemental Burst reduces enemy defense while also dealing damage even when she’s not on-field.

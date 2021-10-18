@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Support: **Healer
+* \*\*Support: \*\*Healer
 
 ## Character Breakdown
 
@@ -22,11 +22,11 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/element_cryo.webp) 
+![](../../.gitbook/assets/Element_Cryo.webp)
 
 * Can enable Cryo resonance for increased Crit Rate against enemies affected by Cryo
 
-![](../../.gitbook/assets/ui_avataricon_razor.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Razor.png)
 
 * Her best synergy is with Razor, as she can periodically apply Cryo with her Elemental skill to enable Superconduct to lower enemy Physical Resistance.
 
@@ -42,15 +42,15 @@ Can fit into most team compositions as she is a powerful healer.
 This character is a healer. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
 {% endhint %}
 
-[**Physical**](../../teams/physical.md)****
+[**Physical**](../../teams/physical.md)\*\*\*\*
 
-![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_qiqi.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Razor.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Qiqi.png)
 
 * Slowly applies Cryo to allow for Superconduct for prolonged durations, as well as provides consistent healing to the character on field.
 
-[**Freeze**](../../teams/freeze.md)****
+[**Freeze**](../../teams/freeze.md)\*\*\*\*
 
-![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_qiqi.png) 
+![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Qiqi.png)
 
 * Alternate team composition you can try if you don’t have Razor
 * Childe’s hydro melee attacks apply hydro that allows Qiqi to freeze them with her Elemental Skill, thus allowing Childe to attack without knocking them away

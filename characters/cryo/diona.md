@@ -23,28 +23,28 @@
 
 ## **Works Well With**
 
-![](../../.gitbook/assets/ui_avataricon_ganyu.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Ganyu.png)
 
 * Diona serves as an Energy Battery and Cyro resonance enabler for freeze Ganyu. For a more detailed Freeze team comp, check out [Freeze](../../teams/freeze.md)
 
-![](../../.gitbook/assets/ui_avataricon_razor.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Razor.png)
 
 * Diona reduces Razor's stamina consumption and can also aid with Superconduct. For more information about Physical teams, refer to [Physical](../../teams/physical.md)
 
-![](../../.gitbook/assets/element_anemo.webp) ![](../../.gitbook/assets/element_cryo.webp) ![](../../.gitbook/assets/element_electro.webp) ![](../../.gitbook/assets/element_hydro.webp) ![](../../.gitbook/assets/element_pyro.webp) ![](../../.gitbook/assets/element_geo.webp)
+![](../../.gitbook/assets/Element_Anemo.webp) ![](../../.gitbook/assets/Element_Cryo.webp) ![](../../.gitbook/assets/Element_Electro.webp) ![](../../.gitbook/assets/Element_Hydro.webp) ![](../../.gitbook/assets/Element_Pyro.webp) ![](../../.gitbook/assets/Element_Geo.webp)
 
 * Diona works well with almost all teams in the game by universally functioning as a Healer and Shielder.
 * Diona's Constellation 6 Elemental Mastery Buff aids in teams that focus on reaction damage.
 
 ## **Does Not Work Well With**
 
-![](../../.gitbook/assets/ui_avataricon_bennett.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * Bennett already functions as a healer and support, and Diona is often not needed on teams that includes Bennett.
   * Generally not problematic as later Abyss floors require two teams.
 * However, they can be used together in [One-shot](../../teams/oneshot.md) team compositions
 
-![](../../.gitbook/assets/ui_avataricon_zhongli.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
 
 * Zhongli's Shield often outperforms Diona's Shield and reduces the need for healing.
   * If two Shields are active at the same time, both will take damage simultaneously.
@@ -58,15 +58,15 @@ This character is a healer. While some teams are provided below where they are p
 
 [Freeze](../../teams/freeze.md)
 
-\*\*![](../../.gitbook/assets/ui_avataricon_ganyu.png) \*\*![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_diona.png)
+\*\*![](../../.gitbook/assets/UI_AvatarIcon_Ganyu.png) \*\*![](../../.gitbook/assets/UI_AvatarIcon_Mona.png) ![](../../.gitbook/assets/UI_AvatarIcon_Venti.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png)
 
-![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_diona.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Chongyun.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png)
 
 * Activates Cryo resonance.
 * Provides energy for main carries' burst to be back off cooldown.
 
 [Physical](../../teams/physical.md)
 
-![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_aether_electro.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_diona.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/ui_avataricon_aether_electro.png) ![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png)
 
 * Acts as an Energy Battery and can aid in Superconduct application.

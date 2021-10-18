@@ -23,34 +23,33 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/ui_avataricon_xingqiu.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png)
 
 * Diluc is almost always paired with Xingqiu in order to allow Diluc to Vaporize his attacks for 1.5x more damage. Check the [Reverse Vaporize team page](../../teams/reverse-vaporize.md) for team compositions and notes.
 
-![](../../.gitbook/assets/ui_avataricon_mona.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Mona.png)
 
 * An alternative to Xingqiu, this is typically only used in team compositions where you are relying on amplifying Diluc's Elemental Burst damage and do not expect to be attacking the enemy for a longer period of time. Given a long enough period of time to deal damage, using Mona over Xingqiu will result in a DPS loss.
 
-![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_venti.png)![](../../.gitbook/assets/ui_avataricon_jean.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sucrose.png) ![](../../.gitbook/assets/UI_AvatarIcon_Venti.png) ![](../../.gitbook/assets/UI_AvatarIcon_Jean.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * As with all Elemental Damage DPS, Anemo supports and Zhongli work well by reducing the enemy's Elemental Resistance with Viridescent Venerer or Zhongli's Jade Shield. Anemo characters often also supply useful Crowd Control abilities or other buffs.
 * Bennett basically works with everything under the sun. he provides buffing, healing and in this case, also Pyro Resonance.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_rosaria.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Chongyun.png) ![](../../.gitbook/assets/UI_AvatarIcon_Ganyu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Rosaria.png)
 
 * Melt team compositions using Diluc typically do not work well due to the inability of most Cryo supports to apply Cryo aura fast enough so that Diluc will be the character causing the Melt reaction and benefiting from the damage amplification.
 * Melt teams CAN work early in the game due to Diluc having much lower uptime on his Elemental Burst and Pyro infusion but generally fall off the further into the game you progress.
 * Melt teams can sometimes still work if enough Cryo applying sources are added to the team such as Venti's Cryo Infused Elemental Burst + Ganyu's Elemental Burst but this is often not practical.
 
-![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_lisa.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Lisa.png)
 
 * Electro supports generally do not work well with Diluc as the Overload reaction causes enemies to be knocked back out of Diluc's melee range. This can be mitigated through CC such as Venti's Elemental Burst but is generally not worth building around.
-* Overload teams CAN work early in the game. Unfortunately, the downside of knocking back enemies along with Overload scaling falling off in the late game result in these team compositions falling further and further behind as you progress in the game.
+*   Overload teams CAN work early in the game. Unfortunately, the downside of knocking back enemies along with Overload scaling falling off in the late game result in these team compositions falling further and further behind as you progress in the game.
 
-   ![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_xinyan.png) 
-
+    ![](../../.gitbook/assets/UI_AvatarIcon_Eula.png)![](../../.gitbook/assets/UI_AvatarIcon_Razor.png)![](../../.gitbook/assets/UI_AvatarIcon_Xinyan.png)
 * Physical damage based characters do not synergize with Diluc's Pyro damage.
 
 ## Teams
@@ -61,13 +60,13 @@ Click on the team names below for more details on how the team works and alterna
 
 #### [Reverse Vaporize](../../teams/reverse-vaporize.md)
 
-![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Diluc.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * A typical Diluc-Xingqiu Reverse Vaporize team composition where Diluc can vaporize his attacks using the Hydro applied to the enemy by Xingqiu's Elemental Burst.
 * Zhongli provides debuffing and shielding while Bennett provides buffing and healing.
 
 #### [Oneshot](../../teams/oneshot.md)
 
-![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Diluc.png) ![](../../.gitbook/assets/UI_AvatarIcon_Mona.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sucrose.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * A Oneshot team composition where Diluc and Mona typically only cast their Elemental Bursts and the fight ends before any actual use of Normal Attacks needs to take place. For a detailed look at how Oneshots work, [check out the Oneshot page](../../teams/oneshot.md).

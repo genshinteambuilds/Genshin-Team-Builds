@@ -19,19 +19,19 @@
 
 ## Works Well With:
 
-![](../../.gitbook/assets/element_anemo.webp) ![](../../.gitbook/assets/element_cryo.webp) ![](../../.gitbook/assets/element_electro.webp) ![](../../.gitbook/assets/element_pyro.webp) ![](../../.gitbook/assets/element_geo.webp) 
+![](../../.gitbook/assets/Element_Anemo.webp) ![](../../.gitbook/assets/Element_Cryo.webp) ![](../../.gitbook/assets/Element_Electro.webp) ![](../../.gitbook/assets/Element_Pyro.webp) ![](../../.gitbook/assets/Element_Geo.webp)
 
-* In the main DPS role, Amber’s slow pyro application allows her to melt all of her charged attacks. 
+* In the main DPS role, Amber’s slow pyro application allows her to melt all of her charged attacks.
 * In times when more AoE is needed, Amber can make use of Fischl and Beidou to proc overload.
 
 ## Doesn’t Work Well With
 
-![](../../.gitbook/assets/element_hydro.webp) 
+![](../../.gitbook/assets/Element_Hydro.webp)
 
 * While in the Main DPS role, it is generally better to go for melt rather than vaporize.
 * Amber also does not work well with other Main DPS on the same team unless she is in the support role.
 
-## Team 
+## Team
 
 {% hint style="info" %}
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
@@ -39,21 +39,17 @@ Click on the team names below for more details on how the team works and alterna
 
 [Melt](../../teams/melt.md)
 
-![](../../.gitbook/assets/ui_avataricon_amber.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) \
-
+![](../../.gitbook/assets/ui_avataricon_amber.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png) \\
 
 * Amber’s CA does considerable damage when melting the cryo application from a cryo character.
   * At C2, her Elemental Skill can be use to trigger the melt as well.
-* Bennett is recommended in a slot due to pyro resonance asnd his ability to buff damage.\
-
+* Bennett is recommended in a slot due to pyro resonance asnd his ability to buff damage.\\
 
 [Support](../../roles/support/)
 
-![](<../../.gitbook/assets/image (1).png>)![](../../.gitbook/assets/ui_avataricon_amber.png)  ![](<../../.gitbook/assets/image (2) (1).png>)![](../../.gitbook/assets/ui_avataricon_bennett.png) \
-
+![](../../.gitbook/assets/image%20\(1\).png)![](../../.gitbook/assets/ui_avataricon_amber.png) ![](../../.gitbook/assets/image%20\(2\)%20\(1\).png)![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png) \\
 
 * Amber uses her Elemental Skill to taunt enemies and support the Main DPS off field.
-* C6 Makes her considerably more useful in the support role with her buffs.\
+* C6 Makes her considerably more useful in the support role with her buffs.\\
 
-
-\
+\\

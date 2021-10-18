@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Support: **Buffer (A4, C6), Debuffer (VV), Crowd Control (Grouping), Energy Battery
+* \*\*Support: \*\*Buffer (A4, C6), Debuffer (VV), Crowd Control (Grouping), Energy Battery
 * **Off-Field DPS** (Elemental Burst)
 
 ## Character Breakdown
@@ -24,14 +24,14 @@
 
 ## Works Well With
 
-  ![](../../.gitbook/assets/element_anemo.webp) ![](../../.gitbook/assets/element_cryo.webp) ![](../../.gitbook/assets/element_electro.webp) ![](../../.gitbook/assets/element_hydro.webp) ![](../../.gitbook/assets/element_pyro.webp) 
+![](../../.gitbook/assets/Element_Anemo.webp) ![](../../.gitbook/assets/Element_Cryo.webp) ![](../../.gitbook/assets/Element_Electro.webp) ![](../../.gitbook/assets/Element_Hydro.webp) ![](../../.gitbook/assets/Element_Pyro.webp)
 
 * Sucrose pairs well with almost all characters in the game as Viridescent Venerer 4-set can Debuff Elemental Resistance on enemies for 4 of the elements (Cryo, Electro, Hydro and Pyro).
 * With other Anemo characters, Sucrose can act as a Battery and also receive energy from other Anemo characters.
 
 ## Does Not Work Well With
 
- ![](../../.gitbook/assets/ui_avataricon_ningguang.png) ![](../../.gitbook/assets/ui_avataricon_noelle.png) ![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_xinyan.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Ningguang.png) ![](../../.gitbook/assets/UI_AvatarIcon_Noelle.png) ![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Razor.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xinyan.png)
 
 * Sucrose cannot cause elemental reactions with Geo and cannot provide Debuffing for Physical Damage characters.
 
@@ -47,39 +47,39 @@ In all the teams listed below, Sucrose universally provides Debuffing using the 
 
 #### [Reverse Melt](../../teams/reverse-melt.md)
 
-![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Ganyu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sucrose.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * Sucrose's Elemental Burst can apply AoE Pyro when absorbing Pyro from Bennett's Elemental Skill or Elemental Burst.
 
 #### [Anemo](./)
 
-![](../../.gitbook/assets/ui_avataricon_xiao.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Xiao.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sucrose.png) ![](../../.gitbook/assets/UI_AvatarIcon_Albedo.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
 
 * Sucrose is primarily acting as a Battery for Xiao in this composition and is additionally providing some crowd control.
   * With Sacrificial Fragments and C1, she can use her Elemental Skill 3 times in succession, which is one of the fastest ways to recharge Xiao's Energy.
 
 #### [Electro-Charged](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sucrose.png)
 
 * Sometimes referred to as the Taser team composition, this team makes use of Electro and Hydro off-field DPS while Sucrose creates Swirl Reactions with her Elemental Skill, Normal and Charged Attacks.
 
 #### [Reverse Vaporize](../../teams/reverse-vaporize.md)
 
-![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Diluc.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sucrose.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
 
-![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sucrose.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * Sucrose provides EM for the team to deal more vaporize damage, as well as grouping or crowd control with her Elemental Skill and Burst.
 
 #### [Overload](../../teams/overload.md)
 
-![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sucrose.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * An Anemo character that can group effectively is almost always helpful on Overload teams to help mitigate enemy displacement due to the Overload Elemental Reaction.
 
 #### [Freeze](../../teams/freeze.md)
 
-![](../../.gitbook/assets/ui_avataricon_ayaka.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Ayaka.png) ![](../../.gitbook/assets/UI_AvatarIcon_Mona.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sucrose.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png)
 
 * Even though Elemental Mastery doesn't benefit Frozen Elemental Reactions, Sucrose can still apply either Hydro or Cryo with her Elemental Burst and help enable AoE Freeze teams.

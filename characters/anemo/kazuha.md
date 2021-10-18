@@ -2,15 +2,15 @@
 
 ## Roles
 
-* **Support: **Buffer (A4, C2), Debuffer (VV), Crowd Control (Grouping), Energy Battery
+* \*\*Support: \*\*Buffer (A4, C2), Debuffer (VV), Crowd Control (Grouping), Energy Battery
 * **Off-Field DPS** (Elemental Burst)
 * **Main DPS** (C6)
 
 ## Character Breakdown
 
 * Elemental Skill creates a vacuum that launches Kazuha into the air and can group smaller enemies.
-* Performing a Plunge Attack after using his Elemental Skill creates a "small wind tunnel" and groups enemies. 
-* Elemental Burst creates a field that can absorb Cryo, Electro, Hydro, or Pyro and will continually deal damage of that elemental type along with Anemo and Swirl damage.  
+* Performing a Plunge Attack after using his Elemental Skill creates a "small wind tunnel" and groups enemies.
+* Elemental Burst creates a field that can absorb Cryo, Electro, Hydro, or Pyro and will continually deal damage of that elemental type along with Anemo and Swirl damage.
   * Once the Elemental Burst absorbs an element, enemies within the field are periodically damaged with that element, allowing other Elemental Reactions with that element to frequently take place.
 * At A4, any element swirled by Kazuha will give the entire team an Elemental Damage boost to that element, proportional to his Elemental Mastery.
   * Kazuha can reach Elemental Mastery values as high as 1000, which gives 40% additional damage for any swirled element.
@@ -26,18 +26,18 @@
 
 ## Works Well With
 
-  ![](../../.gitbook/assets/element_anemo.webp) ![](../../.gitbook/assets/element_cryo.webp) ![](../../.gitbook/assets/element_electro.webp) ![](../../.gitbook/assets/element_hydro.webp) ![](../../.gitbook/assets/element_pyro.webp) 
+![](../../.gitbook/assets/Element_Anemo.webp) ![](../../.gitbook/assets/Element_Cryo.webp) ![](../../.gitbook/assets/Element_Electro.webp) ![](../../.gitbook/assets/Element_Hydro.webp) ![](../../.gitbook/assets/Element_Pyro.webp)
 
 * Kazuha pairs well with almost all characters in the game as Viridescent Venerer 4-set can Debuff Elemental Resistance on enemies for 4 of the elements (Cryo, Electro, Hydro, and Pyro).
 * Kazuha can act as an Energy Battery for other Anemo characters, while those other Anemo characters can in turn act as Energy Batteries for Kazuha, as well.
 
 ## Does Not Work Well With
 
- ![](../../.gitbook/assets/ui_avataricon_ningguang.png) ![](../../.gitbook/assets/ui_avataricon_noelle.png) ![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_xinyan.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Ningguang.png) ![](../../.gitbook/assets/UI_AvatarIcon_Noelle.png) ![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Razor.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xinyan.png)
 
 * Kazuha cannot cause elemental reactions with Geo and cannot provide Debuffs for Physical Damage characters.
 
-![](../../.gitbook/assets/ui_avataricon_xiao.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Xiao.png)
 
 * Kazuha cannot buff Anemo damage as Anemo cannot be absorbed into his Elemental Burst. Other Anemo characters with more powerful Crowd Control abilities or other utility are often preferred in an Anemo team composition as a result.
 
@@ -53,30 +53,30 @@ In all the teams listed below, Kazuha universally provides Debuffing using the V
 
 #### [Reverse Melt](../../teams/reverse-melt.md)
 
-![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png)![](../../.gitbook/assets/ui_avataricon_bennett.png)  
+![](../../.gitbook/assets/UI_AvatarIcon_Ganyu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * Kazuha's Elemental Burst can provide AoE Pyro application when activated within the field created by Bennett's Elemental Burst.
 
 #### [Electro-Charged](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png)
 
 #### [Reverse Vaporize](../../teams/reverse-vaporize.md)
 
-![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Diluc.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
 
 #### [Raw Pyro](../../teams/pure-pyro.md)
 
-![](../../.gitbook/assets/ui_avataricon_klee.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png)![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Klee.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 #### [Overload](../../teams/overload.md)
 
-![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * While Kazuha's Elemental Skill can provide decent Grouping Crowd Control and his Elemental Burst can cause Overload reactions, this may not work efficiently for large numbers of smaller enemies that are displaced by Overload's knockback.
 
 #### [Freeze](../../teams/freeze.md)
 
-![](../../.gitbook/assets/ui_avataricon_ayaka.png) ![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
+![](../../.gitbook/assets/UI_AvatarIcon_Ayaka.png) ![](../../.gitbook/assets/UI_AvatarIcon_Mona.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png)
 
 * Kazuha can apply either Hydro or Cryo with his Elemental Burst and help enable AoE Freeze teams.

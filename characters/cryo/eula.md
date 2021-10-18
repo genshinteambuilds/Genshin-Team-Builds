@@ -30,11 +30,11 @@
 
 ## **Works Well With**
 
-\*\*![](../../.gitbook/assets/ui_avataricon_lisa.png) \*\*
+\*\*![](../../.gitbook/assets/UI_AvatarIcon_Lisa.png) \*\*
 
 * Lisa works well to support a Eula focused on extreme burst damage. She can apply Superconduct, debuff enemy defense, hold the Thrilling Tales of Dragonslayer’s Catalyst, and use the Noblesse Oblige set.
 
-![](../../.gitbook/assets/ui_avataricon_fischl.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png)
 
 * Fischl can fulfill the same role as Lisa but trades off Eula's Elemental Burst damage for Superconduct uptime.
 
@@ -42,22 +42,22 @@
 
 * Electro Traveler specifically can be a great Superconduct support for Eula if additional Energy generation is required for Eula’s Elemental Burst.
 
-![](../../.gitbook/assets/ui_avataricon_zhongli.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
 
 * Zhongli's Shield can prevent Eula from being interrupted, which lets her more easily stack hits for her Burst.
 * His Shield also further debuffs Enemy Resistances, making Eula's attacks stronger.
 
 ## **Does Not Work Well With**
 
-\*\*![](../../.gitbook/assets/ui_avataricon_mona.png) \*\*
+\*\*![](../../.gitbook/assets/UI_AvatarIcon_Mona.png) \*\*
 
 * Mona’s Omen debuff from her Elemental Burst does not last long enough for Eula to finish stacking hits for her Elemental Burst for its full duration.
 
-![](../../.gitbook/assets/ui_avataricon_chongyun.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Chongyun.png)
 
 * Eula's kit innately favors Physical damage. Chongyun's elemental skill converts Eula's Normal Attacks to Cryo damage, which negates her build's Physical damage bonuses.
 
-![](../../.gitbook/assets/element_anemo.webp)
+![](../../.gitbook/assets/Element_Anemo.webp)
 
 * Anemo buffs and debuffs do not affect Physical damage. Anemo characters can still be used for their crowd control and utility but should generally be avoided.
 
@@ -69,12 +69,12 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Physical**](../../teams/physical.md)
 
-![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_diona.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png)
 
 * Compared to a Oneshot team, this team focuses more on giving Eula higher sustained DPS and Burst uptime with the addition of Diona as a Cryo Energy Battery.
 
 [Oneshot](broken-reference/)
 
-![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_lisa.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Lisa.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
 
 * A very basic and straightforward Burst Eula team, focused on buffing Eula as much as possible and debuffing enemies for a more powerful Lightfall Sword.

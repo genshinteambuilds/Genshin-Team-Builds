@@ -22,40 +22,40 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/ui_avataricon_ganyu.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Ganyu.png)
 
 * Ganyu’s Elemental Burst can trigger melt reactions with Yoimiya’s Burst and Skill, applying the DMG.
 
-![](../../.gitbook/assets/ui_avataricon_xingqiu.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png)
 
 * Xingqiu’s Elemental Skill and Burst help to protect Yoimiya with the DMG reduction and proc Vaporize reactions with his elemental burst. It also triggers her Burst damage on marked targets while being off-field.
 
-![](../../.gitbook/assets/ui_avataricon_beidou.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png)
 
 * Beidou’s Elemental Burst synergizes well with Yoimiya's Normal Attacks, causing overload that helps Yoimiya with AoE damage since she only has one on her burst.
 
-![](../../.gitbook/assets/ui_avataricon_bennett.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * Bennett heals and increases Yoimiya’s ATK with his burst, and can battery for her, making him an excellent support.
 * He also enables pyro resonance, which allows Yoimiya to have more attack.
 
-![](../../.gitbook/assets/ui_avataricon_kazuha.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sucrose.png) ![](../../.gitbook/assets/UI_AvatarIcon_Venti.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Albedo.png)
 
 * As with all Elemental Damage DPS, Anemo supports and Zhongli work well by reducing the enemy's Elemental Resistance via Viridescent Venerer or Zhongli's Jade Shield. Anemo characters often also supply useful grouping Crowd Control and additional offensive party buffs.
 * Albedo provides Elemental Mastery buff when using his elemental burst and further enhances Yoimiya's reaction damage.
 
-![](../../.gitbook/assets/ui_avataricon_jean.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Jean.png)
 
 * Jean is an all rounded support, can heal, provide Crowd Control, provide the 4 piece Viridescent Venerer set bonus, and is overall a great utility for Yoimiya.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/ui_avataricon_mona.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Mona.png)
 
 * Mona’s burst buff lasts for only a few seconds, and her bubble pops immediately.
 * She also isn’t good as hydro applicator for Yoimiya to vaporize, making Xingqiu a much better option.
 
-![](../../.gitbook/assets/element_cryo.webp)
+![](../../.gitbook/assets/Element_Cryo.webp)
 
 * While Ganyu works as a melt enabler, the other cryo characters are not as good as applying cryo for melt.
 * Diona and Rosaria could work, but should only be used if you don’t have Ganyu.
@@ -64,9 +64,9 @@
 
 [**Overload**](../../teams/overload.md)\*\*\*\*
 
-![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Yoimiya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
-![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_aether_electro.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Yoimiya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png) ![](../../.gitbook/assets/ui_avataricon_aether_electro.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
 
 * Yoimiya acts as a good trigger for Beidou Burst procs.
 * When Beidou’s Burst is active, Yoimiya can use her skill and proc overload reactions and keep them away. Beidou's burst also help in dealing AoE damage to enemies which Yoimiya lacks.
@@ -74,14 +74,14 @@
 
 [**Reverse Vaporize**](../../teams/reverse-vaporize.md)\*\*\*\*
 
-![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Yoimiya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sucrose.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
-![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_albedo.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Yoimiya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Albedo.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
 
 * Xingqiu’s Elemental Burst applies Hydro aura on enemies that synergizes well with Yoimiya's Normal Attacks infused with Pyro to vaporize. It also triggers Yoimiya's burst on marked enemies.
 
 [**Melt**](../../teams/melt.md)\*\*\*\*
 
-![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Yoimiya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Ganyu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Venti.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
 
 * Ganyu and Venti’s Burst will create a Cryo infused Venti Burst, enabling Yoimiya to use her Skill and create melt reactions.
