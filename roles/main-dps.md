@@ -6,10 +6,10 @@ It is not necessary to actually run a Main DPS character in your team although m
 
 Most Main DPS characters will use normal and/or charged attacks to deal damage, often boosting these with elemental reactions from their Supports or other Sub DPS abilities to further increase their damage.
 
-Some Main DPS characters are often called \*\*Selfish, Greedy \*\*or **Ultra/Hyper Carries** or other similar terminology due to possessing hard requirements to stay on the field to deal damage and suffering major setbacks when switched off of.
+Some Main DPS characters are often called **Selfish**, **Greedy** or **Ultra/Hyper Carries** or other similar terminology due to possessing hard requirements to stay on the field to deal damage and suffering major setbacks when switched off of.
 
 {% hint style="danger" %}
-Do \_\*\*not \*\*\_use more than 1 Main DPS per team.\
+Do **not** use more than 1 Main DPS per team.\
 Some Main DPS can operate in other roles, typically as Burst Sub DPS, but you should only have at most 1 character operating as the Main DPS in your team.
 {% endhint %}
 
