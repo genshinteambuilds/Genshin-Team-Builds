@@ -23,7 +23,7 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
+![Zhongli](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
 
 * Traveler (Geo) is almost always paired with Zhongli to have their Geo constructs resonate with Zhongli’s Elemental Skill's stone stele dealing additional damage. Enables Geo Resonance to further increase the damage done. Traveler (Geo) also acts can also act as an energy battery for Zhongli since they can produce consistent energy particles with their Elemental skill.
 
