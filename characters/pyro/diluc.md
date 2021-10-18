@@ -27,10 +27,6 @@
 
 * Diluc is almost always paired with Xingqiu in order to allow Diluc to Vaporize his attacks for 1.5x more damage. Check the [Reverse Vaporize team page](../../teams/reverse-vaporize.md) for team compositions and notes.
 
-![](../../.gitbook/assets/UI_AvatarIcon_Mona.png)
-
-* An alternative to Xingqiu, this is typically only used in team compositions where you are relying on amplifying Diluc's Elemental Burst damage and do not expect to be attacking the enemy for a longer period of time. Given a long enough period of time to deal damage, using Mona over Xingqiu will result in a DPS loss.
-
 ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sucrose.png) ![](../../.gitbook/assets/UI_AvatarIcon_Venti.png) ![](../../.gitbook/assets/UI_AvatarIcon_Jean.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * As with all Elemental Damage DPS, Anemo supports and Zhongli work well by reducing the enemy's Elemental Resistance with Viridescent Venerer or Zhongli's Jade Shield. Anemo characters often also supply useful Crowd Control abilities or other buffs.
@@ -64,9 +60,3 @@ Click on the team names below for more details on how the team works and alterna
 
 * A typical Diluc-Xingqiu Reverse Vaporize team composition where Diluc can vaporize his attacks using the Hydro applied to the enemy by Xingqiu's Elemental Burst.
 * Zhongli provides debuffing and shielding while Bennett provides buffing and healing.
-
-#### [Oneshot](../../teams/oneshot.md)
-
-![](../../.gitbook/assets/UI_AvatarIcon_Diluc.png) ![](../../.gitbook/assets/UI_AvatarIcon_Mona.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sucrose.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
-
-* A Oneshot team composition where Diluc and Mona typically only cast their Elemental Bursts and the fight ends before any actual use of Normal Attacks needs to take place. For a detailed look at how Oneshots work, [check out the Oneshot page](../../teams/oneshot.md).
