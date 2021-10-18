@@ -4,7 +4,7 @@
 
 * **Main DPS**
 * **Burst DPS**
-* \*\*Off-Field DPS \*\*(through Elemental Burst, mostly for [Oneshot](../../teams/oneshot.md) [Melt ](../../teams/melt.md)setups)
+* **Off-Field DPS** (through Elemental Burst, mostly for [Oneshot](../../teams/oneshot.md) [Melt ](../../teams/melt.md)setups)
 * **Support**: Debuffer (C4)
 
 ## Character Breakdown
@@ -25,41 +25,43 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Mona.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
 * Often paired with either of these characters in order to create a [Freeze team](../../teams/freeze.md).
 * Freeze teams using Mona also often use Anemo characters that can infuse their Off-Field abilities with Hydro to help apply Hydro more often.
 
-![](../../.gitbook/assets/UI_AvatarIcon_Diona.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * Diona is usually the healer of choice in Ayaka [Freeze teams](../../teams/freeze.md) as she provides Cryo Resonance, acts as an Energy Battery, and has a shield.
 
-![](../../.gitbook/assets/UI_AvatarIcon_Ganyu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Rosaria.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)
 
 * When not using Diona as a healer, an additional Cryo character is normally used with Ayaka to provide Cryo Resonance in [Freeze teams](../../teams/freeze.md).
 
-![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sucrose.png) ![](../../.gitbook/assets/UI_AvatarIcon_Venti.png) ![](../../.gitbook/assets/UI_AvatarIcon_Jean.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * As with all Elemental Damage DPS, Anemo Supports and Zhongli work well by reducing the enemy's Elemental Resistance with Viridescent Venerer or Zhongli's Jade Shield. Anemo characters often also supply useful Crowd Control abilities or other buffs.
 * Kazuha, Sucrose and Venti can additionally infuse their Elemental Bursts with Hydro or Cryo, helping provide those elements in a [Freeze team](../../teams/freeze.md).
 
-![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Primarily only used for Ayaka [Oneshot ](broken-reference/)setups or [Melt teams](../../teams/melt.md) as Pryo can interfere with [Freeze team](../../teams/freeze.md) compositions.
 
-![](../../.gitbook/assets/UI_AvatarIcon_Hutao.png) ![](../../.gitbook/assets/UI_AvatarIcon_Klee.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../../.gitbook/assets/UI_AvatarIcon_Yanfei.png)
+
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)
 
 * These characters can be paired with Ayaka in a Melt team composition where Ayaka is used as Burst DPS and very short duration Off-Field DPS during her Elemental Burst.
 * Melt teams using Ayaka are almost Oneshot team setups since Ayaka's Elemental Burst lasts only 5 seconds and can only be reasonably applied to large enemies in this composition. Melt teams using Ayaka can struggle at putting out sustained DPS after Ayaka's Elemental Burst is entirely finished and on cooldown.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/Element_Electro.webp)
+![](../../.gitbook/assets/Element\_Electro.webp)
 
 * Electro's Superconduct reaction with Cryo does not improve Ayaka's core team compositions.
 * There are superior Cryo supports to Ayaka to provide Superconduct for Physical teams.
 
-![](../../.gitbook/assets/Element_Geo.webp)
+![](../../.gitbook/assets/Element\_Geo.webp)
 
 * There is often not enough space on Freeze teams to allow the addition of other Geo characters besides Zhongli.
 * While Albedo can still be used to provide some amount of Off-Field DPS, often an Anemo character is preferred instead to provide Crowd Control, Debuffing and help facilitate Freeze reactions.
@@ -72,22 +74,20 @@ Click on the team names below for more details on how the team works and alterna
 
 #### [Freeze](../../teams/freeze.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Ayaka.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Ayaka.png) ![](../../.gitbook/assets/UI_AvatarIcon_Mona.png) ![](../../.gitbook/assets/UI_AvatarIcon_Venti.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png)
-
-* Ayaka works as the main DPS in both these Freeze teams and is the primary source of Cryo application in both teams.
+* Ayaka works as the main DPS in Freeze teams and is the primary source of Cryo application.
 * Cryo Resonance is often included in Freeze teams to boost Ayaka's Critical Rate.
 
 #### [Melt](../../teams/melt.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Yanfei.png) ![](../../.gitbook/assets/UI_AvatarIcon_Ayaka.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * A Melt team that swaps to Yanfei after Ayaka uses her Elemental Burst in order to perform Charged Attacks on Yanfei that Melt for large amounts of damage.
 * Ayaka's Elemental Burst still does a very large amount of damage on this team.
 
 #### [Oneshot](broken-reference/)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Ayaka.png) ![](../../.gitbook/assets/UI_AvatarIcon_Mona.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * A team constructed purely to amplify Ayaka's Elemental Burst Damage for the purposes of killing bosses or other enemies incredibly fast.

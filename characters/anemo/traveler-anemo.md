@@ -2,7 +2,7 @@
 
 ## Roles
 
-* \*\*Support: \*\*Crowd Control (Grouping), Debuffer (VV, C6)
+* **Support:** Crowd Control (Grouping), Debuffer (VV, C6)
 * **Main DPS**
 
 ## Character Breakdown
@@ -15,16 +15,17 @@
 ## Additional Notes
 
 * C6 reduces the Anemo Resistance of enemies hit by Elemental Burst by 20%. If elemental absorption occurs, enemy resistance to the corresponding element is reduced by 20%.
+* Traveler (Anemo) should only be used as a Main DPS very early in the game.
 
 ## Works Well With
 
-![](../../.gitbook/assets/Element_Anemo.webp) ![](../../.gitbook/assets/Element_Cryo.webp) ![](../../.gitbook/assets/Element_Electro.webp) ![](../../.gitbook/assets/Element_Hydro.webp) ![](../../.gitbook/assets/Element_Pyro.webp)
+![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * Traveler (Anemo) pairs well with almost all characters in the game as Viridescent Venerer 4-set can Debuff Elemental Resistance on enemies for 4 of the elements (Cryo, Electro, Hydro, and Pyro.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/UI_AvatarIcon_Ningguang.png) ![](../../.gitbook/assets/UI_AvatarIcon_Noelle.png) ![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Razor.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xinyan.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
 * Traveler (Anemo) cannot cause elemental reactions with Geo and cannot provide Debuffs for Physical Damage nor Geo characters.
 
@@ -40,8 +41,12 @@ In all the teams listed below, Traveler(Anemo) universally provides debuff utili
 
 [**Electro-Charged**](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Keqing.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_lumine\_anemo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-[\*\*Reverse Vaporize \*\*](../../teams/reverse-vaporize.md)\*\*\*\*
+[**Reverse Vaporize**](../../teams/reverse-vaporize.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Diluc.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_lumine\_anemo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+****[**Freeze**](https://genshinteambuilds.gitbook.io/teams/teams/freeze)****
+
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)****![](../../.gitbook/assets/ui\_avataricon\_lumine\_anemo.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****

@@ -2,7 +2,7 @@
 
 ## Roles
 
-* \*\*Support: \*\*Buffer (A4, C2), Debuffer (VV), Crowd Control (Grouping), Energy Battery
+* **Support:** Buffer (A4, C2), Debuffer (VV), Crowd Control (Grouping), Energy Battery
 * **Off-Field DPS** (Elemental Burst)
 * **Main DPS** (C6)
 
@@ -26,18 +26,18 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/Element_Anemo.webp) ![](../../.gitbook/assets/Element_Cryo.webp) ![](../../.gitbook/assets/Element_Electro.webp) ![](../../.gitbook/assets/Element_Hydro.webp) ![](../../.gitbook/assets/Element_Pyro.webp)
+![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * Kazuha pairs well with almost all characters in the game as Viridescent Venerer 4-set can Debuff Elemental Resistance on enemies for 4 of the elements (Cryo, Electro, Hydro, and Pyro).
 * Kazuha can act as an Energy Battery for other Anemo characters, while those other Anemo characters can in turn act as Energy Batteries for Kazuha, as well.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/UI_AvatarIcon_Ningguang.png) ![](../../.gitbook/assets/UI_AvatarIcon_Noelle.png) ![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Razor.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xinyan.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
 * Kazuha cannot cause elemental reactions with Geo and cannot provide Debuffs for Physical Damage characters.
 
-![](../../.gitbook/assets/UI_AvatarIcon_Xiao.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)
 
 * Kazuha cannot buff Anemo damage as Anemo cannot be absorbed into his Elemental Burst. Other Anemo characters with more powerful Crowd Control abilities or other utility are often preferred in an Anemo team composition as a result.
 
@@ -47,36 +47,42 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
+****[**Anemo**](https://genshinteambuilds.gitbook.io/teams/teams/anemo)****
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+* Only recommended if Kazuha is C6.
+
 {% hint style="info" %}
 In all the teams listed below, Kazuha universally provides Debuffing using the Viridescent Venerer 4-set and can also provide boosts to multiple elemental damage types.
 {% endhint %}
 
 #### [Reverse Melt](../../teams/reverse-melt.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Ganyu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Kazuha's Elemental Burst can provide AoE Pyro application when activated within the field created by Bennett's Elemental Burst.
 
 #### [Electro-Charged](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 #### [Reverse Vaporize](../../teams/reverse-vaporize.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Diluc.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 #### [Raw Pyro](../../teams/pure-pyro.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Klee.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 #### [Overload](../../teams/overload.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * While Kazuha's Elemental Skill can provide decent Grouping Crowd Control and his Elemental Burst can cause Overload reactions, this may not work efficiently for large numbers of smaller enemies that are displaced by Overload's knockback.
 
 #### [Freeze](../../teams/freeze.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Ayaka.png) ![](../../.gitbook/assets/UI_AvatarIcon_Mona.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Kazuha can apply either Hydro or Cryo with his Elemental Burst and help enable AoE Freeze teams.
