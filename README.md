@@ -38,7 +38,7 @@ Alternatively, you can also use this guide by selecting a character you would li
 
 ### Pyro
 
-[![](.gitbook/assets/ui_avataricon_amber.png)](characters/pyro/amber.md) [![](.gitbook/assets/UI_AvatarIcon_Bennett.png) ](characters/pyro/bennett.md)[![](.gitbook/assets/UI_AvatarIcon_Diluc.png) ](characters/pyro/diluc.md)[![](.gitbook/assets/UI_AvatarIcon_Hutao.png) ](characters/pyro/hu-tao.md)[![](.gitbook/assets/UI_AvatarIcon_Klee.png) ](characters/pyro/klee.md)[![](.gitbook/assets/UI_AvatarIcon_Xiangling.png)](characters/pyro/xiangling.md) [![](.gitbook/assets/UI_AvatarIcon_Xinyan.png)](characters/pyro/xinyan.md) [![](.gitbook/assets/UI_AvatarIcon_Yanfei.png) ](characters/pyro/yanfei.md)[![](.gitbook/assets/UI_AvatarIcon_Yoimiya.png)](characters/pyro/yoimiya.md)
+![](.gitbook/assets/ui_avataricon_amber.png) ![](.gitbook/assets/UI_AvatarIcon_Bennett.png) [![](.gitbook/assets/UI_AvatarIcon_Diluc.png) ](characters/pyro/diluc.md)[![](.gitbook/assets/UI_AvatarIcon_Hutao.png) ](characters/pyro/hu-tao.md)[![](.gitbook/assets/UI_AvatarIcon_Klee.png) ](characters/pyro/klee.md)[![](.gitbook/assets/UI_AvatarIcon_Xiangling.png)](characters/pyro/xiangling.md) [![](.gitbook/assets/UI_AvatarIcon_Xinyan.png)](characters/pyro/xinyan.md) [![](.gitbook/assets/UI_AvatarIcon_Yanfei.png) ](characters/pyro/yanfei.md)![](.gitbook/assets/UI_AvatarIcon_Yoimiya.png)
 
 Lastly, if you would like to simply check out a collection of working teams in Genshin Impact, they can be accessed from the sidebar on the left or from the list below:
 
