@@ -49,7 +49,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [Support](../../roles/support/)
 
-![](<../../.gitbook/assets/image (1).png>)![](../../.gitbook/assets/ui_avataricon_amber.png)  ![](<../../.gitbook/assets/image (2).png>)![](../../.gitbook/assets/ui_avataricon_bennett.png) \
+![](<../../.gitbook/assets/image (1).png>)![](../../.gitbook/assets/ui_avataricon_amber.png)  ![](<../../.gitbook/assets/image (2) (1).png>)![](../../.gitbook/assets/ui_avataricon_bennett.png) \
 
 
 * Amber uses her Elemental Skill to taunt enemies and support the Main DPS off field.
