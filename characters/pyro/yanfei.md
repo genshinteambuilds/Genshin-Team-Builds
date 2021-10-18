@@ -3,11 +3,11 @@
 ## Roles
 
 * **Main DPS**
-* **Support: **Shielder
+* **Support:** Shielder
 
 ## Character Breakdown
 
-* Yanfei’s main source of damage comes from her Charged attack. Due to this, conserving Stamina is important. By using her Normal Attack she gains 1 stack of Scarlet Seals (Max of 3 stacks). Having 3 Scarlet Seals before doing a charged attack is important if you want to maximize Vaporize/Melt damage.
+* Yanfei’s main source of damage comes from her Charged attack. Due to this, conserving Stamina is important. By using her Normal Attack she gains 1 stack of Scarlet Seals \(Max of 3 stacks\). Having 3 Scarlet Seals before doing a charged attack is important if you want to maximize Vaporize/Melt damage.
 * Her best combo is usually 3 Normal Attacks to fully stack her Scarlet Seals then followed by 1 Charged Attack to consume the Scarlet Seals and deal additional damage.
 * Her Elemental Skill is a free damage source and used to get the max stack of Scarlet Seals after pressing it.
 * Her Elemental Burst initially deals high amount of AoE pyro damage in an area around her, gaining 3 stacks of Scarlet Seals and applying brilliance to her. Brilliance is a self-buff that give Yanfei Scarlet Seals over the period of her burst is active and increases her charged attack damage. Brilliance is deactivated once she leaves the field.
@@ -34,7 +34,7 @@
 
 ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) 
 
-* They're used with Yanfei in an overload or vapeload (vaporize and overload) team composition. Even if overload knockback enemies, with Yanfei's range, its not a big problem. Both Fischl and Beidou has high off-field electro damage and can provide more AoE damage due to overload.
+* They're used with Yanfei in an overload or vapeload \(vaporize and overload\) team composition. Even if overload knockback enemies, with Yanfei's range, its not a big problem. Both Fischl and Beidou has high off-field electro damage and can provide more AoE damage due to overload.
 
 ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
@@ -65,7 +65,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * Standard Reverse Vaporize Team. Xingqiu allows Yanfei to vaporize her Charged Attack
 
-[Tazer](broken-reference)
+[Tazer]()
 
 ![](../../.gitbook/assets/ui_avataricon_yanfei.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
@@ -88,5 +88,5 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/ui_avataricon_yanfei.png) ![](../../.gitbook/assets/ui_avataricon_rosaria.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Yanfei uses 2 normal attacks followed by a charged attack for rosaria and kaeya to reverse melt.\
-  \
+* Yanfei uses 2 normal attacks followed by a charged attack for rosaria and kaeya to reverse melt.  
+

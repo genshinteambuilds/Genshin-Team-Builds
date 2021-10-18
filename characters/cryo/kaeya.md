@@ -2,15 +2,15 @@
 
 ## Roles
 
-* **Off-Field DPS** (Elemental Burst)
-* **Support: **Energy Battery
+* **Off-Field DPS** \(Elemental Burst\)
+* **Support:** Energy Battery
 * **Main DPS**
 
 ## Character Breakdown
 
 * Elemental Skill shoots a cone of Cryo Damage in front of him, healing him based off of his attack and generating a middling amount of energy particles. 
 * Elemental Bursts summons 3 icicles that revolve around the character on field for 15 seconds, dealing Cryo Damage to targets they hit.
-* His second passive allows his Elemental Skill to generate additional Cryo energy particles (to a maximum of 2 per use), whenever enemies are frozen by it.
+* His second passive allows his Elemental Skill to generate additional Cryo energy particles \(to a maximum of 2 per use\), whenever enemies are frozen by it.
 
 ## Additional Notes
 
@@ -60,7 +60,7 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-[**Freeze **](../../teams/freeze.md)****
+[**Freeze** ](../../teams/freeze.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_barbara.png) 
 
@@ -71,7 +71,7 @@ Click on the team names below for more details on how the team works and alterna
 * Typically these teams will utilize Kaeya and another Cryo DPS, as Cryo resonance is extremely powerful and easy to upkeep in this team.
 * The combination of the Blizzard Strayer artifact set and Cryo Resonance can give Kaeya massive amounts of Critical Strike chance with no further investment. 
 
-[**Physical**](../../teams/physical.md)****
+[**Physical**](../../teams/physical.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
@@ -80,7 +80,7 @@ Click on the team names below for more details on how the team works and alterna
 * Kaeya's burst following the active character allows for consistent Superconduct Applications.
 * In teams with Eula, Kaeya can be used to provide both Cryo Resonance and increased energy regeneration.
 
-[**Melt**](../../teams/melt.md)****
+[**Melt**](../../teams/melt.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_jean.png) 
 
@@ -89,7 +89,7 @@ Click on the team names below for more details on how the team works and alterna
 * Due to Cryo overwriting Hydro, Off-Field DPS of both elements can be used simultaneously with the higher damage reaction being used whenever available. 
 * Kaeya's increased Cryo application at C6 can increase the frequency at which this comp can trigger Melt.
 
-[**Reverse Melt**](../../teams/reverse-melt.md)****
+[**Reverse Melt**](../../teams/reverse-melt.md)\*\*\*\*
 
 ![](../../.gitbook/assets/ui_avataricon_rosaria.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
@@ -98,4 +98,6 @@ Click on the team names below for more details on how the team works and alterna
 * This team is based around frequently applying Pyro to enemies and then using Off-Field Cryo DPS to cause Melts.
 * Given frequent enough Pyro application, both Kaeya and Rosaria's damage can be Melted.
 * Reverse Melt teams may lack a flex slot, as they rely on the Elemental applications of multiple characters. 
+
+
 

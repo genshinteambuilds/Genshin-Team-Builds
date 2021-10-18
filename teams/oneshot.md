@@ -1,6 +1,6 @@
 # Oneshot
 
-These team compositions focus on dealing a large amount of burst damage to enemies (ideally ending the encounter immediately) without caring much about repeatability and follow up damage. This is usually accomplished by utilizing characters with very high Elemental Burst modifiers that can take full advantage of multiple scaling, Buffs, and/or Elemental Reactions. Notable Elemental Reactions are Melt and Vaporize as they are able to provide an additional final multiplier to Damage. The other character slots are used mainly to "setup" the Oneshot and stack multiple buffs and apply Elements in a specific order. 
+These team compositions focus on dealing a large amount of burst damage to enemies \(ideally ending the encounter immediately\) without caring much about repeatability and follow up damage. This is usually accomplished by utilizing characters with very high Elemental Burst modifiers that can take full advantage of multiple scaling, Buffs, and/or Elemental Reactions. Notable Elemental Reactions are Melt and Vaporize as they are able to provide an additional final multiplier to Damage. The other character slots are used mainly to "setup" the Oneshot and stack multiple buffs and apply Elements in a specific order. 
 
 Elemental Skill and Burst usage order and character swapping order is very important in these types of compositions. This playstyle will often have different artifacts and weapon choices than traditional play, and setups vary widely by availability of characters and equipment. 
 
@@ -32,9 +32,9 @@ Note: The damage you get out of a setup is extremely dependent upon your charact
 
 ### **Primary Enablers**
 
-****![](../.gitbook/assets/ui_avataricon_ayaka.png)** **
+\*\*\*\*![](../.gitbook/assets/ui_avataricon_ayaka.png) ****
 
-* Generally the best choice at Constellation 4+. The Def Shred (Constellation 4+) along with possible use of Freedom-Sworn make her the best choice at ultra high investment levels.
+* Generally the best choice at Constellation 4+. The Def Shred \(Constellation 4+\) along with possible use of Freedom-Sworn make her the best choice at ultra high investment levels.
 
 ![](../.gitbook/assets/ui_avataricon_ganyu.png)
 
@@ -47,7 +47,7 @@ Note: The damage you get out of a setup is extremely dependent upon your charact
 
 ![](../.gitbook/assets/ui_avataricon_mona.png)
 
-* Although Mona is not Cryo, she is able to be used in specific scenarios (Floor 7 with Cryogunner, Blizzard Strayer Domain). If Melt is not an option, then Mona can be used as a Vaporize Enabler.
+* Although Mona is not Cryo, she is able to be used in specific scenarios \(Floor 7 with Cryogunner, Blizzard Strayer Domain\). If Melt is not an option, then Mona can be used as a Vaporize Enabler.
 * Provides large Buffs through her Elemental Burst and ability to carry Thrilling Tales of Dragon Slayer.
 
 ![](../.gitbook/assets/ui_avataricon_kaeya.png)
@@ -56,7 +56,7 @@ Note: The damage you get out of a setup is extremely dependent upon your charact
 
 ### **Supporting cast**
 
-****![](../.gitbook/assets/ui_avataricon_bennett.png)** **
+\*\*\*\*![](../.gitbook/assets/ui_avataricon_bennett.png) ****
 
 * Bennett is in the team for his Attack Buff from his Elemental Burst and for Swirling Pyro for Viridescent Venerer's Debuff with an Anemo character.
 * Hu Tao should be very low in health before switching to her so that she does not heal past the 50% threshold for her passive. If needed, Bennett can be equipped with a non-upgraded flower to lower his Healing.
@@ -94,43 +94,43 @@ Note: The damage you get out of a setup is extremely dependent upon your charact
 
 Make sure Hu Tao's HP starts off very low to counter Bennett’s healing
 
-Bennett Elemental Burst -> Sucrose Elemental Skill -> Mona Elemental Burst -> Hu Tao Elemental Skill -> Hu Tao Elemental Burst
+Bennett Elemental Burst -&gt; Sucrose Elemental Skill -&gt; Mona Elemental Burst -&gt; Hu Tao Elemental Skill -&gt; Hu Tao Elemental Burst
 
 ![](../.gitbook/assets/ui_avataricon_hutao.png) ![](../.gitbook/assets/ui_avataricon_ganyu.png) ![](../.gitbook/assets/ui_avataricon_amber.png) ![](../.gitbook/assets/ui_avataricon_zhongli.png)
 
-Amber Elemental Burst -> Zhongli hold Elemental Skill -> Zhongli Elemental burst -> Ganyu Elemental Burst -> Hu Tao Elemental Skill -> Hu Tao Elemental Burst
+Amber Elemental Burst -&gt; Zhongli hold Elemental Skill -&gt; Zhongli Elemental burst -&gt; Ganyu Elemental Burst -&gt; Hu Tao Elemental Skill -&gt; Hu Tao Elemental Burst
 
 ![](../.gitbook/assets/ui_avataricon_hutao.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png) ![](../.gitbook/assets/ui_avataricon_sucrose.png)
 
 Make sure Hu Tao's hp starts off very low to counter Bennett’s healing
 
-Bennett Elemental Burst -> Sucrose Elemental Skill -> Kaeya Elemental Skill -> Kaeya Elemental Burst -> Hu Tao skill -> Hu Tao Elemental Burst
+Bennett Elemental Burst -&gt; Sucrose Elemental Skill -&gt; Kaeya Elemental Skill -&gt; Kaeya Elemental Burst -&gt; Hu Tao skill -&gt; Hu Tao Elemental Burst
 
 ![](../.gitbook/assets/ui_avataricon_hutao.png) _\*\*_![](../.gitbook/assets/ui_avataricon_mona.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png) ![](../.gitbook/assets/ui_avataricon_sucrose.png)
 
-Kaeya Elemental Burst -> Sucrose Elemental Skill -> Mona Elemental Burst -> Hu Tao Elemental Skill -> check/wait for cryo application -> Hu Tao Elemental Burst
+Kaeya Elemental Burst -&gt; Sucrose Elemental Skill -&gt; Mona Elemental Burst -&gt; Hu Tao Elemental Skill -&gt; check/wait for cryo application -&gt; Hu Tao Elemental Burst
 
 **NOTES:**
 
-This is not an exhaustive list, just a few examples. The core concept is the same, which is to activate all of your buffs, debuffs, and enabler burst in an order that allows the enemy to end with cryo( or hydro if you do not run cryo) applied on them to get the full damage multiplier off with Hu Tao’s burst.
+This is not an exhaustive list, just a few examples. The core concept is the same, which is to activate all of your buffs, debuffs, and enabler burst in an order that allows the enemy to end with cryo\( or hydro if you do not run cryo\) applied on them to get the full damage multiplier off with Hu Tao’s burst.
 
 ## **Main Carry: Mona**
 
-**Primary Enablers used:** Bennett, Klee (C2 helps a lot because it shreds DEF), any Pyro.
+**Primary Enablers used:** Bennett, Klee \(C2 helps a lot because it shreds DEF\), any Pyro.
 
-**Supporting Cast:** Sucrose, Kazuha, any Anemo (for the resistance shred)
+**Supporting Cast:** Sucrose, Kazuha, any Anemo \(for the resistance shred\)
 
 ### Main Carry
 
 ![](../.gitbook/assets/ui_avataricon_mona.png)
 
-* Mona has a huge multiplier on her elemental burst (and the damage boost from Omen is added to her burst multiplier), and it can be vaporized, meaning you can do a lot of damage with her. The issue is, there are some weird mechanics behind her burst and there’s a setup that needs to be done for you to be able to pop Mona’s burst properly and deal huge damage.
+* Mona has a huge multiplier on her elemental burst \(and the damage boost from Omen is added to her burst multiplier\), and it can be vaporized, meaning you can do a lot of damage with her. The issue is, there are some weird mechanics behind her burst and there’s a setup that needs to be done for you to be able to pop Mona’s burst properly and deal huge damage.
 
 ### **Primary Enablers**
 
 \*\*\*\*![](../.gitbook/assets/ui_avataricon_bennett.png) _\*\*_
 
-* Bennett applies Pyro and his elemental burst buffs Mona’s ATK based on his base atk (weapon atk + character atk). There’s too much value in Bennett to not utilize him.
+* Bennett applies Pyro and his elemental burst buffs Mona’s ATK based on his base atk \(weapon atk + character atk\). There’s too much value in Bennett to not utilize him.
 
 ![](../.gitbook/assets/ui_avataricon_klee.png) ![](../.gitbook/assets/ui_avataricon_yanfei.png) ![](../.gitbook/assets/element_pyro.webp)
 
@@ -150,13 +150,13 @@ This is not an exhaustive list, just a few examples. The core concept is the sam
 
 **Step 1**: Apply Hydro with Mona’s Normal Attack
 
-**Step 2**: Swirl with Sucrose’s skill (to decrease Hydro resistance by 40% with 4 set Viridescent Venerer’s effect)
+**Step 2**: Swirl with Sucrose’s skill \(to decrease Hydro resistance by 40% with 4 set Viridescent Venerer’s effect\)
 
-**Step 3**: Use Bennett's skill to completely remove Hydro aura on enemies after swirling with sucrose (some Hydro aura still linger on the enemy, this is just to make sure that Step 4 won’t trigger any vaporize reactions from Bennett)
+**Step 3**: Use Bennett's skill to completely remove Hydro aura on enemies after swirling with sucrose \(some Hydro aura still linger on the enemy, this is just to make sure that Step 4 won’t trigger any vaporize reactions from Bennett\)
 
 **Step 4**: Use Bennett's Burst to buff up your Mona while also applying Pyro aura to the enemy
 
-**Step 5**: Use Mona's Burst and wait for roughly 2 seconds before swapping (there’s ICD\*/ Internal Cool Down on Mona’s burst, and you need to wait before swapping so that when you swap to Bennett, Mona will still gain the ATK buffs given by Bennett’s burst (it lingers for a while))
+**Step 5**: Use Mona's Burst and wait for roughly 2 seconds before swapping \(there’s ICD\*/ Internal Cool Down on Mona’s burst, and you need to wait before swapping so that when you swap to Bennett, Mona will still gain the ATK buffs given by Bennett’s burst \(it lingers for a while\)\)
 
 **Step 6**: Use Bennett's skill or apply any Pyro to “pop” the bubble
 
@@ -170,11 +170,11 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 
 ![](../.gitbook/assets/ui_avataricon_mona.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) ![](../.gitbook/assets/ui_avataricon_sucrose.png) ![](../.gitbook/assets/ui_avataricon_klee.png)
 
-Mona Normal Attack -> Sucrose Elemental Skill -> Bennett Elemental Skill -> Bennett Elemental Burst -> Klee skill (if C2) if not Normal Attack is fine -> Mona Elemental Burst -> wait 2 seconds for ICD before swapping -> Bennett Elemental Skill
+Mona Normal Attack -&gt; Sucrose Elemental Skill -&gt; Bennett Elemental Skill -&gt; Bennett Elemental Burst -&gt; Klee skill \(if C2\) if not Normal Attack is fine -&gt; Mona Elemental Burst -&gt; wait 2 seconds for ICD before swapping -&gt; Bennett Elemental Skill
 
 ## **Main Carry:** Tartaglia / Childe
 
-**Primary Enablers used:** Bennett, Amber, other pyros(less common)
+**Primary Enablers used:** Bennett, Amber, other pyros\(less common\)
 
 **Supporting Cast:** Sucrose, Jean/Anemo MC, Zhongli, Mona, Bennett, Kazuha
 
@@ -224,15 +224,15 @@ Mona Normal Attack -> Sucrose Elemental Skill -> Bennett Elemental Skill -> Benn
 
 ![](../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) ![](../.gitbook/assets/ui_avataricon_mona.png) ![](../.gitbook/assets/ui_avataricon_sucrose.png)
 
-Mona Elemental Burst -> Sucrose E -> Bennett Elemental Burst -> Tartaglia E -> Tartaglia Elemental Burst
+Mona Elemental Burst -&gt; Sucrose E -&gt; Bennett Elemental Burst -&gt; Tartaglia E -&gt; Tartaglia Elemental Burst
 
 ![](../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) ![](../.gitbook/assets/ui_avataricon_mona.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png)
 
-Bennett Elemental Burst -> Mona Elemental Burst -> Wait for 2 seconds -> Xiangling Elemental Burst -> Tartaglia E -> Tartaglia Elemental Burst
+Bennett Elemental Burst -&gt; Mona Elemental Burst -&gt; Wait for 2 seconds -&gt; Xiangling Elemental Burst -&gt; Tartaglia E -&gt; Tartaglia Elemental Burst
 
 ![](../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) ![](../.gitbook/assets/ui_avataricon_sucrose.png) ![](../.gitbook/assets/ui_avataricon_zhongli.png)
 
-Zhongli hold Elemental Skill -> Tartaglia Charged Aimed Shot -> Sucrose Elemental Skill -> Bennett Elemental Burst -> Tartaglia Elemental Skill -> Tartaglia Elemental Burst
+Zhongli hold Elemental Skill -&gt; Tartaglia Charged Aimed Shot -&gt; Sucrose Elemental Skill -&gt; Bennett Elemental Burst -&gt; Tartaglia Elemental Skill -&gt; Tartaglia Elemental Burst
 
 **NOTES:**
 
@@ -244,23 +244,23 @@ Sucrose E should be used while the enemy has a hydro tag on them to swirl hydro 
 
 ## **Main Carry: Eula**
 
-**Supporting Cast:** Fischl, Beidou, Lisa, Zhongli, Bennett, Jean (C2), Klee (C2), Mona
+**Supporting Cast:** Fischl, Beidou, Lisa, Zhongli, Bennett, Jean \(C2\), Klee \(C2\), Mona
 
 ### Main Carry
 
 ![](../.gitbook/assets/ui_avataricon_eula.png)
 
-* Eula’s burst is the centerpiece to this team. It does a fair amount of damage on cast, but primarily we are focused on the explosion at the end. The more stacks you get on it, the more additional damage gets added to the explosion when the skill ends. You are given up to 7 seconds to charge it as much as you can, and it gains stacks upon damaging enemies with her normal attack, skill, and burst (and additionally, if you have her C6, you gain 5 stacks upon its use and every hit has an additional chance to add another stack). Note that the final explosion does physical damage and switching characters will immediately end the ultimate and cause the explosion to happen. This means that whatever setup is to be done must be done before casting her ultimate, and since it is physical damage, we are left with very few ways to scale this damage (Physical resistance shred, defense debuffs, and self buffs). 
+* Eula’s burst is the centerpiece to this team. It does a fair amount of damage on cast, but primarily we are focused on the explosion at the end. The more stacks you get on it, the more additional damage gets added to the explosion when the skill ends. You are given up to 7 seconds to charge it as much as you can, and it gains stacks upon damaging enemies with her normal attack, skill, and burst \(and additionally, if you have her C6, you gain 5 stacks upon its use and every hit has an additional chance to add another stack\). Note that the final explosion does physical damage and switching characters will immediately end the ultimate and cause the explosion to happen. This means that whatever setup is to be done must be done before casting her ultimate, and since it is physical damage, we are left with very few ways to scale this damage \(Physical resistance shred, defense debuffs, and self buffs\). 
 
 ### Supporting Cast
 
 ![](../.gitbook/assets/ui_avataricon_fischl.png) ![](../.gitbook/assets/ui_avataricon_beidou.png)
 
-* Their primary role in the team is to allow for the superconduct reaction, as well as adding whatever damage you can get out of them (Oz and Fischl’s C6, or Beidou’s elemental burst)
+* Their primary role in the team is to allow for the superconduct reaction, as well as adding whatever damage you can get out of them \(Oz and Fischl’s C6, or Beidou’s elemental burst\)
 
 ![](../.gitbook/assets/ui_avataricon_lisa.png)
 
-* Lisa is very similar to the prior two characters, where she is primarily there to allow for superconduct to occur. However, she comes with the added benefit of being able to lower enemy defense with her elemental burst (as well as the downside of not having much energy generation to get said burst up).
+* Lisa is very similar to the prior two characters, where she is primarily there to allow for superconduct to occur. However, she comes with the added benefit of being able to lower enemy defense with her elemental burst \(as well as the downside of not having much energy generation to get said burst up\).
 
 ![](../.gitbook/assets/ui_avataricon_zhongli.png)
 
@@ -281,3 +281,4 @@ Sucrose E should be used while the enemy has a hydro tag on them to swirl hydro 
 ![](../.gitbook/assets/ui_avataricon_mona.png)
 
 * Mona is only going to be useful for speed purposes, as omen debuff requires that you end your Eula ultimate early. So if you have C6 on Eula, and know how many stacks you need, then she can save you a little bit of time and allow you to switch characters to immediately detonate your ultimate earlier.
+

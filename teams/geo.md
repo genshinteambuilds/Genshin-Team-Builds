@@ -5,54 +5,411 @@ Geo Teams do not have an elemental reaction to amplify their damage. This means 
 {% hint style="info" %}
 Characters are ranked roughly according to how well they perform in this team composition.
 
-Most of the characters within a given role are interchangeable except if mentioned above.\
-\
+Most of the characters within a given role are interchangeable except if mentioned above.  
+  
 Refer to the character notes below for how characters work in this particular team composition or click on their portraits for a description of how the character works in general.
 {% endhint %}
 
-|                                                                                       Main DPS                                                                                      |                                                                                                                                                                             Core Support                                                                                                                                                                             |                                                                                      Flex Support                                                                                     |                                                                                                                                                                                      Healer / Shielder                                                                                                                                                                                      |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <p><a href="../characters/geo/ningguang.md"><img src="../.gitbook/assets/ui_avataricon_ningguang.png" alt=""> </a></p><p><a href="../characters/geo/ningguang.md">Ningguang</a></p> |                                                                      <p><a href="../characters/geo/zhongli.md"><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""> </a></p><p><a href="../characters/geo/zhongli.md">Zhongli</a></p><p>(Shielder, Buffer/Debuffer, </p><p>Burst)</p>                                                                     | <p><a href="../characters/pyro/xiangling.md"><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt=""> </a></p><p><a href="../characters/pyro/xiangling.md">Xiangling</a></p> |                                                                                 <p><a href="../characters/geo/zhongli.md"><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""> </a></p><p><a href="../characters/geo/zhongli.md">Zhongli</a></p><p>(Shielder, Buffer/Debuffer, </p><p>Burst)</p>                                                                                 |
-|     <p><a href="../characters/geo/noelle.md"><img src="../.gitbook/assets/ui_avataricon_noelle.png" alt=""> </a></p><p><a href="../characters/geo/noelle.md">Noelle (C6)</a></p>    | <p><a href="../characters/geo/albedo.md">​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnKuNWVK04NETuZ%2FUI_AvatarIcon_Albedo.png?alt=media&#x26;token=820af558-f350-43c3-8f93-3e87a0f2e4ff" alt=""></a></p><p><a href="../characters/geo/albedo.md">Albedo</a></p> |    <p><a href="../characters/hydro/xingqiu.md"><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt=""> </a></p><p><a href="../characters/hydro/xingqiu.md">Xingqiu</a></p>    |                                                                                                 <p><a href="../characters/pyro/bennett.md"><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""> </a></p><p><a href="../characters/pyro/bennett.md">Bennett</a></p><p>(Buffer)</p>                                                                                                |
-|                                                                                                                                                                                     |                                                                           <p><a href="../characters/geo/traveler-geo.md"><img src="../.gitbook/assets/ui_avataricon_aether_geo.png" alt=""> </a></p><p><a href="../characters/geo/traveler-geo.md">Traveller (Geo)</a></p><p>(Battery)</p>                                                                           |        <p><a href="../characters/anemo/venti.md"><img src="../.gitbook/assets/ui_avataricon_venti.png" alt=""> </a></p><p><a href="../characters/anemo/venti.md">Venti</a></p>        |                                                                           <p><strong></strong><a href="../characters/cryo/diona.md"><strong></strong><img src="../.gitbook/assets/ui_avataricon_diona.png" alt=""><strong> </strong></a></p><p><a href="../characters/cryo/diona.md">Diona</a></p><p>(Healer)</p>                                                                           |
-|                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                      |    <p><a href="../characters/electro/beidou.md"><img src="../.gitbook/assets/ui_avataricon_beidou.png" alt=""> </a></p><p><a href="../characters/electro/beidou.md">Beidou</a></p>    |                                                                                              <p><a href="../characters/cryo/qiqi.md"><img src="../.gitbook/assets/ui_avataricon_qiqi.png" alt=""><strong> </strong></a></p><p><a href="../characters/cryo/qiqi.md">Qiqi</a></p><p>(Healer)</p>                                                                                              |
-|                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                      |    <p><a href="../characters/electro/fischl.md"><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt=""> </a></p><p><a href="../characters/electro/fischl.md">Fischl</a></p>    | <p><a href="../characters/hydro/barbara.md">​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnIeywJ7mCkTlGJ%2FUI_AvatarIcon_Barbara.png?alt=media&#x26;token=fdc2d5c3-1d0a-4787-b208-d9c26a103cde" alt=""></a></p><p><a href="../characters/hydro/barbara.md">Barbara</a></p><p>(Healer)</p> |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">Main DPS</th>
+      <th style="text-align:center">Core Support</th>
+      <th style="text-align:center">Flex Support</th>
+      <th style="text-align:center">Healer / Shielder</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../characters/geo/ningguang.md"><img src="../.gitbook/assets/ui_avataricon_ningguang.png" alt/> </a>
+        </p>
+        <p><a href="../characters/geo/ningguang.md">Ningguang</a>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <p><a href="../characters/geo/zhongli.md"><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/> </a>
+        </p>
+        <p><a href="../characters/geo/zhongli.md">Zhongli</a>
+        </p>
+        <p>(Shielder, Buffer/Debuffer,</p>
+        <p>Burst)</p>
+      </td>
+      <td style="text-align:center">
+        <p><a href="../characters/pyro/xiangling.md"><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/> </a>
+        </p>
+        <p><a href="../characters/pyro/xiangling.md">Xiangling</a>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <p><a href="../characters/geo/zhongli.md"><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/> </a>
+        </p>
+        <p><a href="../characters/geo/zhongli.md">Zhongli</a>
+        </p>
+        <p>(Shielder, Buffer/Debuffer,</p>
+        <p>Burst)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../characters/geo/noelle.md"><img src="../.gitbook/assets/ui_avataricon_noelle.png" alt/> </a>
+        </p>
+        <p><a href="../characters/geo/noelle.md">Noelle (C6)</a>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <p><a href="../characters/geo/albedo.md">&#x200B;<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnKuNWVK04NETuZ%2FUI_AvatarIcon_Albedo.png?alt=media&amp;token=820af558-f350-43c3-8f93-3e87a0f2e4ff" alt/></a>
+        </p>
+        <p><a href="../characters/geo/albedo.md">Albedo</a>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <p><a href="../characters/hydro/xingqiu.md"><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/> </a>
+        </p>
+        <p><a href="../characters/hydro/xingqiu.md">Xingqiu</a>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <p><a href="../characters/pyro/bennett.md"><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/> </a>
+        </p>
+        <p><a href="../characters/pyro/bennett.md">Bennett</a>
+        </p>
+        <p>(Buffer)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p><a href="../characters/geo/traveler-geo.md"><img src="../.gitbook/assets/ui_avataricon_aether_geo.png" alt/> </a>
+        </p>
+        <p><a href="../characters/geo/traveler-geo.md">Traveller (Geo)</a>
+        </p>
+        <p>(Battery)</p>
+      </td>
+      <td style="text-align:center">
+        <p><a href="../characters/anemo/venti.md"><img src="../.gitbook/assets/ui_avataricon_venti.png" alt/> </a>
+        </p>
+        <p><a href="../characters/anemo/venti.md">Venti</a>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <p>&lt;b&gt;&lt;/b&gt;<a href="../characters/cryo/diona.md">&lt;b&gt;&lt;/b&gt;<img src="../.gitbook/assets/ui_avataricon_diona.png" alt/><b> </b></a>
+        </p>
+        <p><a href="../characters/cryo/diona.md">Diona</a>
+        </p>
+        <p>(Healer)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p><a href="../characters/electro/beidou.md"><img src="../.gitbook/assets/ui_avataricon_beidou.png" alt/> </a>
+        </p>
+        <p><a href="../characters/electro/beidou.md">Beidou</a>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <p><a href="../characters/cryo/qiqi.md"><img src="../.gitbook/assets/ui_avataricon_qiqi.png" alt/><b> </b></a>
+        </p>
+        <p><a href="../characters/cryo/qiqi.md">Qiqi</a>
+        </p>
+        <p>(Healer)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p><a href="../characters/electro/fischl.md"><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt/> </a>
+        </p>
+        <p><a href="../characters/electro/fischl.md">Fischl</a>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <p><a href="../characters/hydro/barbara.md">&#x200B;<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnIeywJ7mCkTlGJ%2FUI_AvatarIcon_Barbara.png?alt=media&amp;token=fdc2d5c3-1d0a-4787-b208-d9c26a103cde" alt/></a>
+        </p>
+        <p><a href="../characters/hydro/barbara.md">Barbara</a>
+        </p>
+        <p>(Healer)</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Main DPS
 
-|                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <p><a href="../characters/geo/ningguang.md"><img src="../.gitbook/assets/ui_avataricon_ningguang.png" alt=""></a></p><p><a href="../characters/geo/ningguang.md">Ningguang</a></p> | <p></p><ul><li>Works best paired with Zhongli. Zhongli's shield with Geo Resonance shreds the Geo Resistance of enemies which significantly boosts her damage.</li><li>Charged Attacks cost no stamina if she has Star Jades present.</li><li>Elemental Skill summons a construct which increases the Geo Damage when walking through it and also shields from projectiles.</li><li>Elemental Burst summons projectiles which provide high burst damage especially if her geo construct is present as it gets destroyed to summon more.</li><li>With Constellation 2 her Elemental Skill cooldown reset when the construct gets destroyed allowing her to gain extra energy particles for her Elemental Burst.</li></ul> |
-|     <p><a href="../characters/geo/noelle.md"><img src="../.gitbook/assets/ui_avataricon_noelle.png" alt=""></a></p><p><a href="../characters/geo/noelle.md">Noelle (C6)</a></p>    | <p></p><ul><li>Damage scales from her Defence when Elemental Burst is active as it converts it into attack. Works best paired with Zhongli for the Geo Resistance reduction.</li><li>Elemental Burst converts Normal and Charged attacks from Physical Damage to Geo Damage and increases the its AOE.</li><li>Ascension 4 reduces the cooldown of her Elemental Skill with Normal and Charged attacks. </li><li>Constellation 6 increases the attack gained from Defence even more during her Elemental Burst and increases its duration when you defeat enemies.</li></ul>                                                                                                                                             |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../characters/geo/ningguang.md"><img src="../.gitbook/assets/ui_avataricon_ningguang.png" alt/></a>
+        </p>
+        <p><a href="../characters/geo/ningguang.md">Ningguang</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Works best paired with Zhongli. Zhongli&apos;s shield with Geo Resonance
+            shreds the Geo Resistance of enemies which significantly boosts her damage.</li>
+          <li>Charged Attacks cost no stamina if she has Star Jades present.</li>
+          <li>Elemental Skill summons a construct which increases the Geo Damage when
+            walking through it and also shields from projectiles.</li>
+          <li>Elemental Burst summons projectiles which provide high burst damage especially
+            if her geo construct is present as it gets destroyed to summon more.</li>
+          <li>With Constellation 2 her Elemental Skill cooldown reset when the construct
+            gets destroyed allowing her to gain extra energy particles for her Elemental
+            Burst.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../characters/geo/noelle.md"><img src="../.gitbook/assets/ui_avataricon_noelle.png" alt/></a>
+        </p>
+        <p><a href="../characters/geo/noelle.md">Noelle (C6)</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Damage scales from her Defence when Elemental Burst is active as it converts
+            it into attack. Works best paired with Zhongli for the Geo Resistance reduction.</li>
+          <li>Elemental Burst converts Normal and Charged attacks from Physical Damage
+            to Geo Damage and increases the its AOE.</li>
+          <li>Ascension 4 reduces the cooldown of her Elemental Skill with Normal and
+            Charged attacks.</li>
+          <li>Constellation 6 increases the attack gained from Defence even more during
+            her Elemental Burst and increases its duration when you defeat enemies.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Core Support
 
-|                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <p><a href="../characters/geo/zhongli.md">​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnLUog7ikP0v89m%2FUI_AvatarIcon_Zhongli.png?alt=media&#x26;token=9b64d852-861e-4631-80db-53783e61cadd" alt=""></a></p><p><a href="../characters/geo/zhongli.md">Zhongli</a></p> | <p></p><ul><li>Provides Shielding and Debuffing whenever Zhongli's Jade Shield is active.</li><li>Elemental Burst deals a large amount of damage.</li><li>Elemental Burst immobilizes Enemies for a short period of time..</li><li>Can buff the team when equipped with the Tenacity of Millelith 4-set.</li><li>The team may not require a dedicated Healer since Zhonglis shield is incredibly strong when properly geared.</li></ul>                                                                                                                |
-|   <p><a href="../characters/geo/albedo.md">​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnKuNWVK04NETuZ%2FUI_AvatarIcon_Albedo.png?alt=media&#x26;token=820af558-f350-43c3-8f93-3e87a0f2e4ff" alt="">​</a></p><p><a href="../characters/geo/albedo.md">Albedo</a></p>  | <p></p><ul><li>His skill provides extra damage off field from stacking defence and its procs. Can run tenacity for an attack boost.</li><li>Elemental Skill summons a construct that can deal damage off-field. The damage scales from Defence.</li><li>Can buff the team when equipped with the Tenacity of Millelith 4-set.</li><li>Elemental Burst deals a large amount of damage and also provides the entire party with Elemental Mastery. This however doesn't benefit your Main DPS as they don't gain damage from Elemental Mastery.</li></ul> |
-|                                                                                     <p><a href="../characters/geo/traveler-geo.md"><img src="../.gitbook/assets/ui_avataricon_aether_geo.png" alt=""> </a></p><p><a href="../characters/geo/traveler-geo.md">Traveller (Geo)</a></p>                                                                                     | <p></p><ul><li>Mainly used for Geo Resonance and as a Battery for the Main DPS.</li><li>Elemental Skill summons a construct that protect from attacks. With Constellation 2 the construct explodes when destroyed dealing extra Geo Damage.</li><li>Constellation 1 will buff the Crit Rate of the party members within the Elemental Burst AoE.</li></ul>                                                                                                                                                                                             |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../characters/geo/zhongli.md">&#x200B;<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnLUog7ikP0v89m%2FUI_AvatarIcon_Zhongli.png?alt=media&amp;token=9b64d852-861e-4631-80db-53783e61cadd" alt/></a>
+        </p>
+        <p><a href="../characters/geo/zhongli.md">Zhongli</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Provides Shielding and Debuffing whenever Zhongli&apos;s Jade Shield is
+            active.</li>
+          <li>Elemental Burst deals a large amount of damage.</li>
+          <li>Elemental Burst immobilizes Enemies for a short period of time..</li>
+          <li>Can buff the team when equipped with the Tenacity of Millelith 4-set.</li>
+          <li>The team may not require a dedicated Healer since Zhonglis shield is incredibly
+            strong when properly geared.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../characters/geo/albedo.md">&#x200B;<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnnKuNWVK04NETuZ%2FUI_AvatarIcon_Albedo.png?alt=media&amp;token=820af558-f350-43c3-8f93-3e87a0f2e4ff" alt/>&#x200B;</a>
+        </p>
+        <p><a href="../characters/geo/albedo.md">Albedo</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>His skill provides extra damage off field from stacking defence and its
+            procs. Can run tenacity for an attack boost.</li>
+          <li>Elemental Skill summons a construct that can deal damage off-field. The
+            damage scales from Defence.</li>
+          <li>Can buff the team when equipped with the Tenacity of Millelith 4-set.</li>
+          <li>Elemental Burst deals a large amount of damage and also provides the entire
+            party with Elemental Mastery. This however doesn&apos;t benefit your Main
+            DPS as they don&apos;t gain damage from Elemental Mastery.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../characters/geo/traveler-geo.md"><img src="../.gitbook/assets/ui_avataricon_aether_geo.png" alt/> </a>
+        </p>
+        <p><a href="../characters/geo/traveler-geo.md">Traveller (Geo)</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Mainly used for Geo Resonance and as a Battery for the Main DPS.</li>
+          <li>Elemental Skill summons a construct that protect from attacks. With Constellation
+            2 the construct explodes when destroyed dealing extra Geo Damage.</li>
+          <li>Constellation 1 will buff the Crit Rate of the party members within the
+            Elemental Burst AoE.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Flex Support
 
-|                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                 |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><a href="../characters/pyro/xiangling.md"><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt=""></a></p><p><a href="../characters/pyro/xiangling.md">Xiangling</a></p> | <p><strong></strong></p><ul><li>Mainly used for Pyro Resonance.</li><li>Elemental Burst and Elemental Skill provides off-field damage. Deals a large amount of damage on their own when properly geared.</li></ul>                                                                                                                              |
-|    <p><a href="../characters/hydro/xingqiu.md"><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt=""></a></p><p><a href="../characters/hydro/xingqiu.md">Xingqiu</a></p>    | <p></p><ul><li>The Rain Swords from his Elemental Skill and Elemental Burst provide Damage Reduction to all hits. This affects shields too making them stronger.</li><li>Elemental Skill and Elemental Burst also deal a large amount of damage on their own when properly geared.</li></ul>                                                    |
-|        <p><a href="../characters/anemo/venti.md"><img src="../.gitbook/assets/ui_avataricon_venti.png" alt=""></a></p><p><a href="../characters/anemo/venti.md">Venti</a></p>        | <p></p><ul><li>Works best paired with Ningguang or Albedo.</li><li>Elemental Burst is used to gather light enemies allowing for extra damage from abilities and attacks that deal AoE.</li><li>Not recommended to use with Melee Main DPS as the light enemies are too high for them to reach during with his Elemental Burst active.</li></ul> |
-|    <p><a href="../characters/electro/fischl.md"><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt=""></a></p><p><a href="../characters/electro/fischl.md">Fischl</a></p>    | <p></p><ul><li>Elemental Burst and Elemental Skill summons a turret that provides off-field damage and energy particles.</li></ul>                                                                                                                                                                                                              |
-|    <p><a href="../characters/electro/beidou.md"><img src="../.gitbook/assets/ui_avataricon_beidou.png" alt=""></a></p><p><a href="../characters/electro/beidou.md">Beidou</a></p>    | <p></p><ul><li>Elemental Burst off-field Electro Damage that trigger when the active characters Normal and Charged Attacks hit enemy units. Can deal a large amount of damage on their own when properly geared.</li></ul>                                                                                                                      |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../characters/pyro/xiangling.md"><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/></a>
+        </p>
+        <p><a href="../characters/pyro/xiangling.md">Xiangling</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>&lt;b&gt;&lt;/b&gt;</p>
+        <ul>
+          <li>Mainly used for Pyro Resonance.</li>
+          <li>Elemental Burst and Elemental Skill provides off-field damage. Deals a
+            large amount of damage on their own when properly geared.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../characters/hydro/xingqiu.md"><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/></a>
+        </p>
+        <p><a href="../characters/hydro/xingqiu.md">Xingqiu</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>The Rain Swords from his Elemental Skill and Elemental Burst provide Damage
+            Reduction to all hits. This affects shields too making them stronger.</li>
+          <li>Elemental Skill and Elemental Burst also deal a large amount of damage
+            on their own when properly geared.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../characters/anemo/venti.md"><img src="../.gitbook/assets/ui_avataricon_venti.png" alt/></a>
+        </p>
+        <p><a href="../characters/anemo/venti.md">Venti</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Works best paired with Ningguang or Albedo.</li>
+          <li>Elemental Burst is used to gather light enemies allowing for extra damage
+            from abilities and attacks that deal AoE.</li>
+          <li>Not recommended to use with Melee Main DPS as the light enemies are too
+            high for them to reach during with his Elemental Burst active.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../characters/electro/fischl.md"><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt/></a>
+        </p>
+        <p><a href="../characters/electro/fischl.md">Fischl</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Elemental Burst and Elemental Skill summons a turret that provides off-field
+            damage and energy particles.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../characters/electro/beidou.md"><img src="../.gitbook/assets/ui_avataricon_beidou.png" alt/></a>
+        </p>
+        <p><a href="../characters/electro/beidou.md">Beidou</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Elemental Burst off-field Electro Damage that trigger when the active
+            characters Normal and Charged Attacks hit enemy units. Can deal a large
+            amount of damage on their own when properly geared.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Healer / Shielder
 
-|                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                        |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  <p><a href="../characters/geo/zhongli.md"><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""></a></p><p><a href="../characters/geo/zhongli.md">Zhongli</a></p>  | <p></p><ul><li>See above entry in core support section.</li></ul>                                                                                                                                                                                                                                                                      |
-| <p><a href="../characters/pyro/bennett.md"><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""></a></p><p><a href="../characters/pyro/bennett.md">Bennett</a></p> | <p></p><ul><li>Buffs the Attack of characters standing within the field created by Bennett's Elemental Burst.</li><li>Will usually be carrying Noblesse Oblige 4-set to further buff characters on using Elemental Burst.</li><li>Provides healing.</li><li>Together with Xiangling, can provide Pyro Resonance to the team.</li></ul> |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../characters/geo/zhongli.md"><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/></a>
+        </p>
+        <p><a href="../characters/geo/zhongli.md">Zhongli</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>See above entry in core support section.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p><a href="../characters/pyro/bennett.md"><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/></a>
+        </p>
+        <p><a href="../characters/pyro/bennett.md">Bennett</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Buffs the Attack of characters standing within the field created by Bennett&apos;s
+            Elemental Burst.</li>
+          <li>Will usually be carrying Noblesse Oblige 4-set to further buff characters
+            on using Elemental Burst.</li>
+          <li>Provides healing.</li>
+          <li>Together with Xiangling, can provide Pyro Resonance to the team.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Sample Team Composition
 
-![](../.gitbook/assets/ui_avataricon_ningguang.png)** **![](../.gitbook/assets/ui_avataricon_zhongli.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../.gitbook/assets/ui_avataricon_ningguang.png) ****![](../.gitbook/assets/ui_avataricon_zhongli.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
 
 * Zhongli's shield and Geo Resonance when paired with Ningguang will reduce the Geo Resistance of Enemies by -40% which is a massive boost of damage. Xiangling and Bennet paired together will provide Pyro Resonance which increases the attack by 25% for the entire team.
 * Ningguang especially with Constellation 2 can provide a lot of energy particles allowing both her and Zhongli to frequently cast their Elemental Burst. Make sure you have Ningguang's Jade Screen on the field to summon more projectiles for her Elemental Burst. Bennet provides a large attack buff and healing with his Elemental Burst which everyone in the team can take advantage of.
@@ -63,3 +420,4 @@ Refer to the character notes below for how characters work in this particular te
 * This Team Composition is viable if your Noelle is Constellation 6 otherwise the overall damage output of this team will be low since Noelle's Elemental Burst is the biggest source of damage.
 * Noelle cannot generate Energy Particles on her own which is why she is paired with Geo Traveller which will provide her the particles as his Elemental skill cooldown is short. The Traveller's Elemental Burst also provides a Crit Rate buff when Noelle is inside the AoE.
 * Xiangling and Bennet paired together will provide Pyro Resonance which increases the attack by 25% for the entire team. Bennet also provides a large attack buff and healing with his Elemental Burst.
+

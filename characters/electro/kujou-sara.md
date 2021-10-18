@@ -2,7 +2,7 @@
 
 ## **Roles**
 
-* **Support: **Buffer
+* **Support:** Buffer
 * **Burst DPS**
 
 ## **Character Breakdown**
@@ -28,7 +28,7 @@
 
 ![](../../.gitbook/assets/ui_avataricon_beidou.png) 
 
-* Beidou can benefit from Kujou Sara’s utility and buffs in the same way the Raiden Shogun can, with Kujou Sara helping Beidou with her Elemental Burst upkeep and increasing Beidou’s Burst damage thanks to being able to snapshot Kujou Sara’s ATK buff (keep in mind for those with Sara’s Constellation 6, the additional Crit DMG cannot be snapshot and will not benefit Beidou’s Burst throughout its entire duration)
+* Beidou can benefit from Kujou Sara’s utility and buffs in the same way the Raiden Shogun can, with Kujou Sara helping Beidou with her Elemental Burst upkeep and increasing Beidou’s Burst damage thanks to being able to snapshot Kujou Sara’s ATK buff \(keep in mind for those with Sara’s Constellation 6, the additional Crit DMG cannot be snapshot and will not benefit Beidou’s Burst throughout its entire duration\)
 
 ![](../../.gitbook/assets/element_cryo.webp) 
 
@@ -49,3 +49,4 @@
  ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_sara.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) 
 
 * Another team with strong Energy Economy that focuses on snapshotting Beidou's Elemental Burst with powerful ATK buffs provided by Bennett and Kujou Sara along with consistent Electro-Charged procs for strong sustained DPS.
+

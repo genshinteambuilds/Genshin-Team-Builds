@@ -5,53 +5,429 @@ Melt comps are centered around applying cryo in order to use pyro’s double dam
 {% hint style="info" %}
 Characters are ranked roughly according to how well they perform in this team composition.
 
-Most of the characters within a given role are interchangeable except if mentioned above.\
-\
+Most of the characters within a given role are interchangeable except if mentioned above.  
+  
 Refer to the character notes below for how characters work in this particular team composition or click on their portraits for a description of how the character works in general.
 {% endhint %}
 
-|                                          Main DPS                                         |                                  Core Support / Sub DPS                                 |                                      Flex Support                                     |                                   Healer / Shielder                                   |
-| :---------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
-| <p><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt=""> </p><p>Xiangling</p> |  <p><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt=""> </p><p>Xingqiu</p>  | <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt=""> </p><p>Sucrose</p> | <p><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""> </p><p>Zhongli</p> |
-|     <p><img src="../.gitbook/assets/ui_avataricon_hutao.png" alt=""> </p><p>Hutao</p>     |    <p><img src="../.gitbook/assets/ui_avataricon_ayaka.png" alt=""> </p><p>Ayaka</p>    |  <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""> </p><p>Kazuha</p>  |    <p><img src="../.gitbook/assets/ui_avataricon_jean.png" alt=""> </p><p>Jean</p>    |
-|    <p><img src="../.gitbook/assets/ui_avataricon_yanfei.png" alt=""></p><p> Yanfei</p>    |    <p><img src="../.gitbook/assets/ui_avataricon_ganyu.png" alt=""> </p><p>Ganyu</p>    |   <p><img src="../.gitbook/assets/ui_avataricon_venti.png" alt=""> </p><p>Venti</p>   |   <p><img src="../.gitbook/assets/ui_avataricon_diona.png" alt=""> </p><p>Diona</p>   |
-|      <p><img src="../.gitbook/assets/ui_avataricon_klee.png" alt=""> </p><p>Klee</p>      | <p><img src="../.gitbook/assets/ui_avataricon_chongyun.png" alt=""> </p><p>Chongyun</p> |                                                                                       | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""> </p><p>Bennett</p> |
-|                                                                                           |    <p><img src="../.gitbook/assets/ui_avataricon_kaeya.png" alt=""> </p><p>Kaeya</p>    |                                                                                       |                                                                                       |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">Main DPS</th>
+      <th style="text-align:center">Core Support / Sub DPS</th>
+      <th style="text-align:center">Flex Support</th>
+      <th style="text-align:center">Healer / Shielder</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/>
+        </p>
+        <p>Xiangling</p>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/>
+        </p>
+        <p>Xingqiu</p>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt/>
+        </p>
+        <p>Sucrose</p>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
+        </p>
+        <p>Zhongli</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_hutao.png" alt/>
+        </p>
+        <p>Hutao</p>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_ayaka.png" alt/>
+        </p>
+        <p>Ayaka</p>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt/>
+        </p>
+        <p>Kazuha</p>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_jean.png" alt/>
+        </p>
+        <p>Jean</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_yanfei.png" alt/>
+        </p>
+        <p>Yanfei</p>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_ganyu.png" alt/>
+        </p>
+        <p>Ganyu</p>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_venti.png" alt/>
+        </p>
+        <p>Venti</p>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_diona.png" alt/>
+        </p>
+        <p>Diona</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_klee.png" alt/>
+        </p>
+        <p>Klee</p>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_chongyun.png" alt/>
+        </p>
+        <p>Chongyun</p>
+      </td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/>
+        </p>
+        <p>Bennett</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_kaeya.png" alt/>
+        </p>
+        <p>Kaeya</p>
+      </td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Main DPS
 
-|                                                                                           |                                                                                                                                                                                                                                                                                                     |
-| :---------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt=""> </p><p>Xiangling</p> | <p></p><ul><li>The goal is to melt the majority of her burst and guoba hits. Bennett is almost mandatory when using her as her Elemental Burst energy cost is high.</li></ul>                                                                                                                       |
-|     <p><img src="../.gitbook/assets/ui_avataricon_hutao.png" alt=""> </p><p>Hutao</p>     | <p></p><ul><li>A ton of her damage is loaded into her burst. The primary focus of running this character is to melt this one hit, as well as try to reverse vaporize/melt as many of her charge attack second hits as possible.</li></ul>                                                           |
-|    <p><img src="../.gitbook/assets/ui_avataricon_yanfei.png" alt=""> </p><p>Yanfei</p>    | <p></p><ul><li>She essentially only functions during Ayaka’s burst due to how much cryo application is needed. The goal is to frontload as much damage in the roughly 4 seconds you get after switching characters and rely on Ayaka’s burst to apply enough cryo to keep the melt going.</li></ul> |
-|       <p><img src="../.gitbook/assets/ui_avataricon_klee.png" alt=""></p><p>Klee</p>      | <p></p><ul><li>She essentially only functions during Ayaka’s burst due to how much cryo application is needed. The goal is to frontload as much damage in the roughly 4 seconds you get after switching characters and rely on Ayaka’s burst to apply enough cryo to keep the melt going.</li></ul> |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt/>
+        </p>
+        <p>Xiangling</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>The goal is to melt the majority of her burst and guoba hits. Bennett
+            is almost mandatory when using her as her Elemental Burst energy cost is
+            high.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_hutao.png" alt/>
+        </p>
+        <p>Hutao</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>A ton of her damage is loaded into her burst. The primary focus of running
+            this character is to melt this one hit, as well as try to reverse vaporize/melt
+            as many of her charge attack second hits as possible.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_yanfei.png" alt/>
+        </p>
+        <p>Yanfei</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>She essentially only functions during Ayaka&#x2019;s burst due to how
+            much cryo application is needed. The goal is to frontload as much damage
+            in the roughly 4 seconds you get after switching characters and rely on
+            Ayaka&#x2019;s burst to apply enough cryo to keep the melt going.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_klee.png" alt/>
+        </p>
+        <p>Klee</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>She essentially only functions during Ayaka&#x2019;s burst due to how
+            much cryo application is needed. The goal is to frontload as much damage
+            in the roughly 4 seconds you get after switching characters and rely on
+            Ayaka&#x2019;s burst to apply enough cryo to keep the melt going.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Core Support / Sub DPS
 
-|                                                                                         |                                                                                                                                                                                                                                                                                                                            |
-| :-------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  <p><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt=""> </p><p>Xingqiu</p>  | <p></p><ul><li>Very powerful on all teams due to him being the primary hydro application. Used to set up vaporizes, as well as to clean pyro application off of enemies, due to cryo being very inefficient at doing so. Essentially mandatory in teams that expect longer damage windows (Xiangling and Diluc).</li></ul> |
-|    <p><img src="../.gitbook/assets/ui_avataricon_ayaka.png" alt=""> </p><p>Ayaka</p>    | <p></p><ul><li>Burst is rapid cryo application for a few seconds that comes with a ton of damage included. High downtime of cryo application but very valuable for the burst window.</li></ul>                                                                                                                             |
-|    <p><img src="../.gitbook/assets/ui_avataricon_ganyu.png" alt=""> </p><p>Ganyu</p>    | <p></p><ul><li>Burst is a longer period of less quick and less reliable cryo application to melt off of.</li></ul>                                                                                                                                                                                                         |
-| <p><img src="../.gitbook/assets/ui_avataricon_chongyun.png" alt=""> </p><p>Chongyun</p> | <p></p><ul><li>He creates a field with his skill that converts melee character’s weapon swings to cryo damage that applies cryo to enemies. Very useful for Xiangling comps, less so for the others since both Diluc and Hutao infuse their own auto attacks with pyro, overriding this.</li></ul>                         |
-|    <p><img src="../.gitbook/assets/ui_avataricon_kaeya.png" alt=""> </p><p>Kaeya</p>    | <p></p><ul><li>The free to play version of Ayaka and Ganyu. Melee range application of cryo that is decently fast and lasts a while.</li></ul>                                                                                                                                                                             |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/>
+        </p>
+        <p>Xingqiu</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Very powerful on all teams due to him being the primary hydro application.
+            Used to set up vaporizes, as well as to clean pyro application off of enemies,
+            due to cryo being very inefficient at doing so. Essentially mandatory in
+            teams that expect longer damage windows (Xiangling and Diluc).</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_ayaka.png" alt/>
+        </p>
+        <p>Ayaka</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Burst is rapid cryo application for a few seconds that comes with a ton
+            of damage included. High downtime of cryo application but very valuable
+            for the burst window.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_ganyu.png" alt/>
+        </p>
+        <p>Ganyu</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Burst is a longer period of less quick and less reliable cryo application
+            to melt off of.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_chongyun.png" alt/>
+        </p>
+        <p>Chongyun</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>He creates a field with his skill that converts melee character&#x2019;s
+            weapon swings to cryo damage that applies cryo to enemies. Very useful
+            for Xiangling comps, less so for the others since both Diluc and Hutao
+            infuse their own auto attacks with pyro, overriding this.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_kaeya.png" alt/>
+        </p>
+        <p>Kaeya</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>The free to play version of Ayaka and Ganyu. Melee range application of
+            cryo that is decently fast and lasts a while.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Flex Support
 
-|                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| :-----------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt=""> </p><p>Sucrose</p> | <p></p><ul><li>Mainly for her ability to boost ally elemental mastery. Provides modest grouping potential.</li></ul>                                                                                                                                                                                                                                                                                                |
-|  <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""> </p><p>Kazuha</p>  | <p></p><ul><li>Buffs your character’s elemental damage (and elemental mastery if you have his 2nd constellation). Can group a bit too.</li></ul>                                                                                                                                                                                                                                                                    |
-|   <p><img src="../.gitbook/assets/ui_avataricon_venti.png" alt=""> </p><p>Venti</p>   | <p></p><ul><li>Has a lot of grouping potential and can act as a secondary source of cryo application by infusing his tornado. Do note that none of our carries can reliably hit into his tornado against lighter enemies (cicin mage and below), so when and how you use him is very important. Still a valid option due to how effective his grouping is and how much damage he himself puts out though.</li></ul> |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt/>
+        </p>
+        <p>Sucrose</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Mainly for her ability to boost ally elemental mastery. Provides modest
+            grouping potential.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt/>
+        </p>
+        <p>Kazuha</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Buffs your character&#x2019;s elemental damage (and elemental mastery
+            if you have his 2nd constellation). Can group a bit too.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_venti.png" alt/>
+        </p>
+        <p>Venti</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Has a lot of grouping potential and can act as a secondary source of cryo
+            application by infusing his tornado. Do note that none of our carries can
+            reliably hit into his tornado against lighter enemies (cicin mage and below),
+            so when and how you use him is very important. Still a valid option due
+            to how effective his grouping is and how much damage he himself puts out
+            though.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Healer / Shielder
 
-|                                                                                       |                                                                                                                                                                                                   |
-| :-----------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""> </p><p>Zhongli</p> | <p></p><ul><li>His skill creates a shield and decreases enemy's resistances. Burst does a decent amount of damage and petrifies enemies allowing for some free damage.</li></ul>                  |
-|    <p><img src="../.gitbook/assets/ui_avataricon_jean.png" alt=""> </p><p>Jean</p>    | <p></p><ul><li>Can be run with 4 set Viridescent Venerer to decrease the swirled element's resistances. Heals characters using burst. Can help other anemo supports recover faster.<br></li></ul> |
-| <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""> </p><p>Bennett</p> | <p></p><ul><li>Gives you pyro resonance and some extra energy for pyro carries. Burst heals and provides an attack buff to characters standing on the heal.</li></ul>                             |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
+        </p>
+        <p>Zhongli</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>His skill creates a shield and decreases enemy&apos;s resistances. Burst
+            does a decent amount of damage and petrifies enemies allowing for some
+            free damage.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_jean.png" alt/>
+        </p>
+        <p>Jean</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Can be run with 4 set Viridescent Venerer to decrease the swirled element&apos;s
+            resistances. Heals characters using burst. Can help other anemo supports
+            recover faster.
+            <br />
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/>
+        </p>
+        <p>Bennett</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Gives you pyro resonance and some extra energy for pyro carries. Burst
+            heals and provides an attack buff to characters standing on the heal.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Sample Team Compositions
 
@@ -72,3 +448,4 @@ Refer to the character notes below for how characters work in this particular te
 
 * There technically is the option of using Diluc in a melt team. This is not recommended outside of extremely early on in the game, as it lacks long term viability in comparison to other team compositions.
 * Diluc: not nearly as strong/viable as the other two options. He has a long string of pyro infused attacks and skill casts of which you can only melt with some of them. Do not run with both Xingqiu and a Cryo, since he does not melt frozen enemies, instead they are shattered.
+

@@ -2,7 +2,7 @@
 
 ## **Roles**
 
-* **Main DPS** (Electro, Physical)
+* **Main DPS** \(Electro, Physical\)
 * **Burst DPS**
 
 ## **Character Breakdown**
@@ -22,7 +22,7 @@
 
 ## **Works well with**
 
-****![](../../.gitbook/assets/ui_avataricon_bennett.png)** **
+\*\*\*\*![](../../.gitbook/assets/ui_avataricon_bennett.png) ****
 
 * Bennett burst provides healing and additional attack, which is always welcome on the team.
 
@@ -37,7 +37,7 @@
 
 ![](../../.gitbook/assets/ui_avataricon_kazuha.png) 
 
-* He provides buffs to elemental damage (and elemental mastery via his 2nd constellation), as well as being able to carry the Viridescent Venerer set to lower enemy electo resistance.
+* He provides buffs to elemental damage \(and elemental mastery via his 2nd constellation\), as well as being able to carry the Viridescent Venerer set to lower enemy electo resistance.
 
 ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
@@ -47,7 +47,7 @@
 
 * Used primarily on Electro Keqing teams. Keeps enemies grouped and damage can be dealt to all enemies trapped in his burst with Keqing's skill and burst.
 
-****![](../../.gitbook/assets/element_cryo.webp)** **
+\*\*\*\*![](../../.gitbook/assets/element_cryo.webp) ****
 
 * Cryo support characters such as Diona work well with physical damage Keqing as superconduct lowers enemy physical resistances.
 
@@ -94,3 +94,4 @@ Mono Electro
 *  Physical team relying upon superconduct, which is activated by applying cryo before using Keqing's elemental skill.
 * Do not recast Keqing's elemental skill. It should be detonated via charged attack to avoid electro infusion.
 * Other slots on team should be used to supplement damage via buffs and debuffs, or applying additional effects.
+

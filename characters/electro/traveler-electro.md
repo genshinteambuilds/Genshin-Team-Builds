@@ -1,9 +1,9 @@
-# Traveler (Electro)
+# Traveler \(Electro\)
 
 ## Roles
 
-* **Off-Field DPS** (Elemental Burst)
-* **Support: **Energy Battery
+* **Off-Field DPS** \(Elemental Burst\)
+* **Support:** Energy Battery
 
 ## Character Breakdown
 
@@ -21,7 +21,7 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/ui_avataricon_eula.png)** **
+![](../../.gitbook/assets/ui_avataricon_eula.png) ****
 
 * Traveler can provide Eula with constant Superconduct as well as help fund her high cost Elemental Burst.
 
@@ -61,3 +61,4 @@ Click on the team names below for more details on how the team works and alterna
 
 * Electro Traveler combines well with Physical characters, giving consistent Electro damage for Superconduct while taking up very little field time.
 * Electro Traveler's high energy generation can help support characters such as Eula, who rely on their Elemental Bursts for large portions of their damage.
+
