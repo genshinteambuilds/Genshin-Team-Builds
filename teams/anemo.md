@@ -57,6 +57,8 @@ Refer to the character notes below for how characters work in this particular te
 
 \*\*NOTE: \*\*Teams are very flexible as there are very few requirements and synergies in an Anemo-based team.\\
 
+![](../.gitbook/assets/ui_avataricon_xiao.png) ![](../.gitbook/assets/ui_avataricon_sucrose.png)
+
 ![](../.gitbook/assets/ui_avataricon_xiao.png)
 
 ![](../.gitbook/assets/ui_avataricon_xiao.png)
