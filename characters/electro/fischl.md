@@ -8,7 +8,7 @@
 ## Character Breakdown
 
 * Fischl primarily uses her Elemental Skill to deal sustained Electro Damage from off-field.
-* Elemental Skill summons Oz, who deals a large burst of damage upon summon and periodically deals Electro damage to a single enemy for a set duration.
+* Elemental Skill summons Oz, who deals a large burst of AoE Electro damage upon summon and periodically deals Electro damage to a single enemy for a set duration.
   * Oz remains even when Fischl is not on the field.
 * Reactivating Fischl’s Elemental Skill while it’s already active will teleport Oz to her current location.
 * Fischl’s Elemental Burst will cause her to damage all enemies she comes into contact with during its duration and immediately summon Oz.
