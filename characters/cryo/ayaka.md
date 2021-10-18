@@ -54,7 +54,11 @@
 * These characters can be paired with Ayaka in a Melt team composition where Ayaka is used as Burst DPS and very short duration Off-Field DPS during her Elemental Burst.
 * Melt teams using Ayaka are almost Oneshot team setups since Ayaka's Elemental Burst lasts only 5 seconds and can only be reasonably applied to large enemies in this composition. Melt teams using Ayaka can struggle at putting out sustained DPS after Ayaka's Elemental Burst is entirely finished and on cooldown.
 
-## Does Not Work Well With
+![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
+
+* Despite being an Electro character, Raiden's Elemental Skill will not interrupt the Freeze reaction. Additionally, Ayaka can also forgo ER requirements as Raiden will generate energy through her Elemental Burst.Does Not Work Well With
+
+##
 
 ![](../../.gitbook/assets/Element\_Electro.webp)
 
