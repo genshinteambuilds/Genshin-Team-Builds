@@ -70,6 +70,7 @@
 * [Anemo](teams/anemo.md)
 * [Electro-Charged](teams/electro-charged.md)
 * [Freeze](teams/freeze.md)
+* [Freeze  (OLD)](teams/freeze-old.md)
 * [Geo](teams/geo.md)
 * [Melt](teams/melt.md)
 * [Reverse Melt](teams/reverse-melt.md)
