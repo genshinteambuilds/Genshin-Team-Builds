@@ -9,55 +9,68 @@
 
 * Eula relies on her Elemental Burst and Normal Attacks to deal Physical damage.
 * Elemental Skill changes based on whether it is tapped or held.
-*
   * On tap, she deals Cryo damage and gains a stack of Grimheart.
     * Grimheart increases Eula's defense and resistance to interruption. A maximum of two stacks can be held.
   * On hold, she consumes all Grimheart stacks, deals Cryo damage, and activates the following effects:
     * Each stack of Grimheart consumed creates an instance of AoE Cryo damage.
     * If any Grimheart stacks are consumed, surrounding enemies will have their Physical and Cryo Resistance debuffed.
     * At A4, if two stacks of Grimheart are consumed this way, Eula will create a miniature version of her Elemental Burst which explodes instantly, dealing Physical damage.
-* Elemental Burst grants a stack of Grimheart and resets the cooldown of her Elemental Skill.
-  * As such, Eula should generally always use her Elemental Skill (tap) before using her Elemental Burst.
 * Elemental Burst deals huge AOE Physical Damage after a set duration, or if Eula is switched out.
   * Elemental Burst damage will increase based on how many times Eula hits enemies during its duration.
 
 ## **Additional Notes**
 
-* In order to maximize damage, Eula should first tap her Elemental Skill before using her Elemental Burst. She should then take advantage of the cooldown reset and hold her Elemental Skill.
-  * This will consume the 2 stacks of Grimheart generated beforehand to both debuff Enemy Resistances and deal 4 instances of damage, which count toward her Elemental Burst.
+* Elemental Burst grants a stack of Grimheart and resets the cooldown of her Elemental Skill.
+  * As such, Eula should generally always use her Elemental Skill (tap) before using her Elemental Burst.
+  * Using Elemental Skill (hold) after will consume the 2 stacks of Grimheart generated beforehand to both debuff Enemy Resistances and deal 4 instances of damage, which count toward her Elemental Burst.
 * Eula’s Burst does NOT snapshot buffs.
   * This makes short-lasting buffs much less useful for her Elemental Burst damage.
 
 ## **Works Well With**
 
-\*\*![](../../.gitbook/assets/UI_AvatarIcon_Lisa.png) \*\*
+![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
 
-* Lisa works well to support a Eula focused on extreme burst damage. She can apply Superconduct, debuff enemy defense, hold the Thrilling Tales of Dragonslayer’s Catalyst, and use the Noblesse Oblige set.
+* The best Electro character to pair with Eula. Raiden Shogun provides Superconduct, buffs Elemental Burst damage, serves as a team Battery and is able to be used on-field after Eula uses her Elemental Burst.
 
-![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
-* Fischl can fulfill the same role as Lisa but trades off Eula's Elemental Burst damage for Superconduct uptime.
+* Fischl provides off-field damage, constant Superconduct, and serves as an Electro Battery.
 
-![](../../.gitbook/assets/ui_avataricon_aether_electro.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Electro Traveler specifically can be a great Superconduct support for Eula if additional Energy generation is required for Eula’s Elemental Burst.
+* Diona serves as a Cryo Battery for Eula and is also a Healer/Shielder and provides Cryo Resonance.
 
-![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
+
+* Rosaria serves as a Cryo Battery and Crit Rate Buffer while also providing Cryo Resonance.
+* C6 reduces physical resistance of enemies hit by Rosaria's Elemental Burst.
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Zhongli's Shield can prevent Eula from being interrupted, which lets her more easily stack hits for her Burst.
-* His Shield also further debuffs Enemy Resistances, making Eula's attacks stronger.
+* His Shield also further debuffs all Elemental and Physical Resistances.
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+* Bennett provides a high ATK buff that lasts the full duration of Eula's Elemental Burst and is a Healer.
+* C6 will infuse Eula's Normal/Charged/Plunging Attacks with Pyro, negating all of the Physical Damage bonuses she receives. Do not use C6 Bennett with Eula unless you are going for an Elemental Burst Oneshot.
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)
+
+* Lisa works well to support a Eula focused on extreme burst damage. She can apply Superconduct, debuff enemy defense, hold the Thrilling Tales of Dragonslayer’s Catalyst, and use the Noblesse Oblige set.
+* Her high Energy cost Elemental Burst and high Energy Recharge requirements make her more suitable for one rotation team compositions rather than consistent continuous rotation team compositions.
 
 ## **Does Not Work Well With**
 
-\*\*![](../../.gitbook/assets/UI_AvatarIcon_Mona.png) \*\*
+![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)&#x20;
 
 * Mona’s Omen debuff from her Elemental Burst does not last long enough for Eula to finish stacking hits for her Elemental Burst for its full duration.
 
-![](../../.gitbook/assets/UI_AvatarIcon_Chongyun.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)
 
 * Eula's kit innately favors Physical damage. Chongyun's elemental skill converts Eula's Normal Attacks to Cryo damage, which negates her build's Physical damage bonuses.
 
-![](../../.gitbook/assets/Element_Anemo.webp)
+![](../../.gitbook/assets/Element\_Anemo.webp)
 
 * Anemo buffs and debuffs do not affect Physical damage. Anemo characters can still be used for their crowd control and utility but should generally be avoided.
 
@@ -69,12 +82,12 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Physical**](../../teams/physical.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Compared to a Oneshot team, this team focuses more on giving Eula higher sustained DPS and Burst uptime with the addition of Diona as a Cryo Energy Battery.
+* This team focuses on giving Eula high sustained DPS and Burst uptime with Rosaria to provide offensive buffs. Both Raiden and Rosaria serve as a Battery for Eula. Raiden is able to fill in on-field during the downtime when Eula's Elemental Burst is still on cooldown.
 
-[Oneshot](broken-reference/)
+****[**Oneshot**](broken-reference/)****
 
-![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Lisa.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)** **![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * A very basic and straightforward Burst Eula team, focused on buffing Eula as much as possible and debuffing enemies for a more powerful Lightfall Sword.
