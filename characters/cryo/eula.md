@@ -38,7 +38,7 @@
 
 * Fischl can fulfill the same role as Lisa but trades off Eula's Elemental Burst damage for Superconduct uptime.
 
-![](../../.gitbook/assets/UI_AvatarIcon_Aether_Electro.png)
+![](../../.gitbook/assets/ui_avataricon_aether_electro.png)
 
 * Electro Traveler specifically can be a great Superconduct support for Eula if additional Energy generation is required for Eula’s Elemental Burst.
 

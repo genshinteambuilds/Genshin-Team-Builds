@@ -50,14 +50,14 @@ Click on the team names below for more details on how the team works and alterna
 
 [Electro-Charged](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Aether_Electro.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png)
+![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_aether_electro.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png)
 
 * This team composition utilizes both Hydro and Electro characters who individually provide strong personal damage coupled with high energy generation from Electro resonance and Electro Traveler, providing high sustained area damage.
 * Electro Traveler can funnel energy onto Beidou and Xingqiu to help maintain their Elemental Bursts.
 
 [Physical](../../teams/physical.md)
 
-![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Aether_Electro.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)
+![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_aether_electro.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)
 
 * Electro Traveler combines well with Physical characters, giving consistent Electro damage for Superconduct while taking up very little field time.
 * Electro Traveler's high energy generation can help support characters such as Eula, who rely on their Elemental Bursts for large portions of their damage.
