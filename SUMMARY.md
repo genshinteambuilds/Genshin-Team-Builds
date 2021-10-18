@@ -24,7 +24,7 @@
   * [Sucrose](characters/anemo/sucrose.md)
   * [Venti](characters/anemo/venti.md)
   * [Xiao](characters/anemo/xiao.md)
-  * [Traveler \(Anemo\)](characters/anemo/traveler-anemo.md)
+  * [Traveler (Anemo)](characters/anemo/traveler-anemo.md)
 * [Cryo](characters/cryo/README.md)
   * [Ayaka](characters/cryo/ayaka.md)
   * [Chongyun](characters/cryo/chongyun.md)
@@ -42,13 +42,13 @@
   * [Lisa](characters/electro/lisa.md)
   * [Raiden Shogun](characters/electro/raiden-shogun.md)
   * [Razor](characters/electro/razor.md)
-  * [Traveler \(Electro\)](characters/electro/traveler-electro.md)
+  * [Traveler (Electro)](characters/electro/traveler-electro.md)
 * [Geo](characters/geo/README.md)
   * [Albedo](characters/geo/albedo.md)
   * [Ningguang](characters/geo/ningguang.md)
   * [Noelle](characters/geo/noelle.md)
   * [Zhongli](characters/geo/zhongli.md)
-  * [Traveler \(Geo\)](characters/geo/traveler-geo.md)
+  * [Traveler (Geo)](characters/geo/traveler-geo.md)
 * [Hydro](characters/hydro/README.md)
   * [Barbara](characters/hydro/barbara.md)
   * [Mona](characters/hydro/mona.md)
@@ -84,10 +84,10 @@
 ## Changelogs
 
 * [Versions](changelogs/versions/README.md)
+  * [2.2](changelogs/versions/2.2.md)
   * [2.1](changelogs/versions/2.1.md)
   * [2.0](changelogs/versions/2.0.md)
 
----
+***
 
 * [About Us](about-us.md)
-
