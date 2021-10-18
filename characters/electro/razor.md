@@ -59,7 +59,7 @@
 
 * Razor's kit innately favors Physical damage. Chongyun's Elemental Skill converts Razor's Normal Attacks to Cryo damage, which negates his build's Physical damage bonuses.
 
- ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnn83PO_KJLh2P8e%2FUI_AvatarIcon_Xiangling.png?alt=media\&token=4b5d565c-370f-41b5-a07e-65c832474acb) ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgIuSiDFSNyVZCB3uMq%2F-MgIuUXknAZ_f4rq6m4c%2F-MgIxnn94J69ajjrp2QN%2FUI_AvatarIcon_Bennett.png?alt=media\&token=cccf8858-0bde-4ede-8990-8c9b976d4b74)
+ ![](../../.gitbook/assets/ui_avataricon_xiangling.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png)
 
 * Overload reactions will knock smaller enemies away from Razor. However, Pyro can be used on larger enemies for additional damage.
 

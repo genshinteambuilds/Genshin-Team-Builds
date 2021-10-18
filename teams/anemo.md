@@ -59,6 +59,10 @@ Refer to the character notes below for how characters work in this particular te
 
 ![](../.gitbook/assets/ui_avataricon_xiao.png)
 
+![](../.gitbook/assets/ui_avataricon_xiao.png)
+
+![](../.gitbook/assets/ui_avataricon_xiao.png) ![](../.gitbook/assets/ui_avataricon_sucrose.png)
+
 ![](../.gitbook/assets/ui_avataricon_xiao.png) ![](../.gitbook/assets/ui_avataricon_sucrose.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_bennett.png)
 
 * Xiao acts as the Main DPS and generally requires an Energy Battery (in this case, Sucrose), to maintain Elemental Burst uptime. Xiangling provides extra damage and activates Pyro Resonance with Bennett, who both heals and buffs Xiao's Attack.
