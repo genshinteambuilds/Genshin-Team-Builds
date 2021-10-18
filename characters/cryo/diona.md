@@ -13,7 +13,7 @@
   * The Shield's Absorption scales with Diona's Maximum HP.
 * Elemental Skill will apply Cryo for a short duration to the active character upon cast or switch (while shielded) and can cleanse Pyro and Electro auras.
 * Elemental Burst creates a field that deals continuous Cryo damage in an AoE and continuously heals characters that stand in it.
-  * Constellation 6 Buffs the Elemental Mastery of characters with more than 50% HP that are standing within the field.
+  * C6 Buffs the Elemental Mastery of characters with more than 50% HP that are standing within the field.
 
 ## **Additional Notes**
 
@@ -22,7 +22,7 @@
 * At A4, enemy Attack is reduced by 10% when they are inside the field created by Diona’s Elemental Burst.
 *   Her C6 has 2 buffs when a party member is inside her Elemental Burst depending on their current HP:
 
-    If the party member's HP is below or is equal to 50%, their incoming healing bonus is increased by 30%. If their HP is abouve 50%, their Elemental Mastery is increased by 200. 
+    If the party member's HP is below or is equal to 50%, their incoming healing bonus is increased by 30%. If their HP is above 50%, their Elemental Mastery is increased by 200. 
 
 ## **Works Well With**
 
