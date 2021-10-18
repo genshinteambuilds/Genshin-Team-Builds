@@ -3,7 +3,7 @@
 ## Roles
 
 * **Off-Field DPS** (Elemental Burst)
-* **Support: **Energy Battery
+* \*\*Support: \*\*Energy Battery
 
 ## Character Breakdown
 
@@ -21,22 +21,22 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/ui_avataricon_eula.png)** **
+![](../../.gitbook/assets/ui_avataricon_eula.png)\*\* \*\*
 
 * Traveler can provide Eula with constant Superconduct as well as help fund her high cost Elemental Burst.
 
-![](../../.gitbook/assets/ui_avataricon_tartaglia.png) 
+![](../../.gitbook/assets/ui_avataricon_tartaglia.png)
 
 * Traveler's high Electro application on Normal and Charged attacks can combine with Tartaglia's high Hydro application from the same source to frequent
 
-![](../../.gitbook/assets/ui_avataricon_razor.png) 
+![](../../.gitbook/assets/ui_avataricon_razor.png)
 
 * Electro Traveler provides Razor with a consistent source of energy generation, allowing him to use his Elemental Burst much more frequently.
-* Razor's tendency to spend large amounts of time on field doesn't interrupt Traveler, as they require very little time on field to activate their abilities. 
+* Razor's tendency to spend large amounts of time on field doesn't interrupt Traveler, as they require very little time on field to activate their abilities.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_diluc.png) 
+![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_diluc.png)
 
 * Overload can be a burden for close range DPS, as its knockback effect wastes time chasing smaller enemies around.
 * Many Pyro DPS are better suited to use reactions other than Overload, which Electro Traveler can interfere with.
@@ -50,14 +50,14 @@ Click on the team names below for more details on how the team works and alterna
 
 [Electro-Charged](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_aether_electro.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) 
+![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Aether_Electro.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png)
 
 * This team composition utilizes both Hydro and Electro characters who individually provide strong personal damage coupled with high energy generation from Electro resonance and Electro Traveler, providing high sustained area damage.
 * Electro Traveler can funnel energy onto Beidou and Xingqiu to help maintain their Elemental Bursts.
 
 [Physical](../../teams/physical.md)
 
-![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_aether_electro.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Aether_Electro.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)
 
 * Electro Traveler combines well with Physical characters, giving consistent Electro damage for Superconduct while taking up very little field time.
 * Electro Traveler's high energy generation can help support characters such as Eula, who rely on their Elemental Bursts for large portions of their damage.

@@ -2,11 +2,11 @@
 
 ## Roles
 
-* **Support: **Healer, Shielder, Energy Battery, Cleanser, Buffer (C6)
+* \*\*Support: \*\*Healer, Shielder, Energy Battery, Cleanser, Buffer (C6)
 
 ## **Character Breakdown**
 
-* Elemental Skill changes based on whether it is tapped or held. 
+* Elemental Skill changes based on whether it is tapped or held.
   * On tap, she fires two homing projectiles that deal Cryo damage, then gains a Shield.
   * On hold, she fires 5 such projectiles and gains a more powerful Shield.
   * At A1, characters shielded by this Elemental Skill gain increased movement speed and decreased stamina consumption.
@@ -23,34 +23,32 @@
 
 ## **Works Well With**
 
-![](../../.gitbook/assets/ui_avataricon_ganyu.png) 
+![](../../.gitbook/assets/ui_avataricon_ganyu.png)
 
 * Diona serves as an Energy Battery and Cyro resonance enabler for freeze Ganyu. For a more detailed Freeze team comp, check out [Freeze](../../teams/freeze.md)
 
-![](../../.gitbook/assets/ui_avataricon_razor.png) 
+![](../../.gitbook/assets/ui_avataricon_razor.png)
 
-* Diona reduces Razor's stamina consumption and can also aid with Superconduct. For more information about Physical teams, refer to [Physical ](../../teams/physical.md)
+* Diona reduces Razor's stamina consumption and can also aid with Superconduct. For more information about Physical teams, refer to [Physical](../../teams/physical.md)
 
-![](../../.gitbook/assets/element_anemo.webp) ![](../../.gitbook/assets/element_cryo.webp) ![](../../.gitbook/assets/element_electro.webp) ![](../../.gitbook/assets/element_hydro.webp) ![](../../.gitbook/assets/element_pyro.webp) ![](../../.gitbook/assets/element_geo.webp) 
+![](../../.gitbook/assets/element_anemo.webp) ![](../../.gitbook/assets/element_cryo.webp) ![](../../.gitbook/assets/element_electro.webp) ![](../../.gitbook/assets/element_hydro.webp) ![](../../.gitbook/assets/element_pyro.webp) ![](../../.gitbook/assets/element_geo.webp)
 
 * Diona works well with almost all teams in the game by universally functioning as a Healer and Shielder.
 * Diona's Constellation 6 Elemental Mastery Buff aids in teams that focus on reaction damage.
 
 ## **Does Not Work Well With**
 
-![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+![](../../.gitbook/assets/ui_avataricon_bennett.png)
 
 * Bennett already functions as a healer and support, and Diona is often not needed on teams that includes Bennett.
   * Generally not problematic as later Abyss floors require two teams.
 * However, they can be used together in [One-shot](../../teams/oneshot.md) team compositions
 
-![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
+![](../../.gitbook/assets/ui_avataricon_zhongli.png)
 
-* Zhongli's Shield often outperforms Diona's Shield and reduces the need for healing.  
+* Zhongli's Shield often outperforms Diona's Shield and reduces the need for healing.
   * If two Shields are active at the same time, both will take damage simultaneously.
 * Zhongli’s Geo pillar can shatter frozen enemies.
-
-
 
 ## Teams
 
@@ -60,15 +58,15 @@ This character is a healer. While some teams are provided below where they are p
 
 [Freeze](../../teams/freeze.md)
 
-****![](../../.gitbook/assets/ui_avataricon_ganyu.png)** **![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
+\*\*![](../../.gitbook/assets/ui_avataricon_ganyu.png) \*\*![](../../.gitbook/assets/ui_avataricon_mona.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_diona.png)
 
-![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
+![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_chongyun.png) ![](../../.gitbook/assets/ui_avataricon_diona.png)
 
 * Activates Cryo resonance.
 * Provides energy for main carries' burst to be back off cooldown.
 
 [Physical](../../teams/physical.md)
 
-![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_aether_electro.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_diona.png) 
+![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Aether_Electro.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_diona.png)
 
 * Acts as an Energy Battery and can aid in Superconduct application.
