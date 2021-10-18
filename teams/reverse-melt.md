@@ -13,7 +13,7 @@ Refer to the character notes below for how characters work in this particular te
 |                                        Main DPS                                       |                                        Core Support                                       |                                      Flex Support                                     |                                   Healer / Shielder                                   |
 | :-----------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
 |   <p><img src="../.gitbook/assets/ui_avataricon_ganyu.png" alt=""> </p><p>Ganyu</p>   | <p><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt=""></p><p>Xiangling </p> |   <p><img src="../.gitbook/assets/ui_avataricon_kaeya.png" alt=""> </p><p>Kaeya</p>   | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""> </p><p>Bennett</p> |
-| <p><img src="../.gitbook/assets/ui_avataricon_rosaria.png" alt=""> </p><p>Rosaria</p> |                                                                                           | <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt=""> </p><p>Sucrose</p> |                                                                                       |
+| <p><img src="../.gitbook/assets/ui_avataricon_rosaria.png" alt=""> </p><p>Rosaria</p> |    <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""> </p><p>Kazuha</p>    | <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt=""> </p><p>Sucrose</p> |                                                                                       |
 |                                                                                       |                                                                                           |  <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""> </p><p>Kazuha</p>  |                                                                                       |
 |                                                                                       |                                                                                           | <p><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""> </p><p>Zhongli</p> |                                                                                       |
 
@@ -26,9 +26,10 @@ Refer to the character notes below for how characters work in this particular te
 
 ## Core Support
 
-|                                                                                           |                                                                                                                                                                                           |
-| :---------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt=""> </p><p>Xiangling</p> | <p></p><ul><li>She is essentially mandatory as she is currently the only character able to apply pyro at a reasonable rate while off-field using her elemental burst and skill.</li></ul> |
+|                                                                                           |                                                                                                                       |
+| :---------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt=""> </p><p>Xiangling</p> | <p></p><ul><li>Able to apply pyro at a reasonable rate while off-field using her Elemental burst and Skill.</li></ul> |
+|    <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""> </p><p>Kazuha</p>    | <p></p><ul><li>Able to use Elemental Burst to create a field which can infuse and apply Pyro. </li></ul>              |
 
 ## Flex Support
 
@@ -49,7 +50,7 @@ Refer to the character notes below for how characters work in this particular te
 
 ![](../.gitbook/assets/ui_avataricon_ganyu.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_zhongli.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
 
-* Land Ganyu charged attacks during Xiangling burst while near the enemy. Zhongli provides shield to protect ganyu from getting staggered and take no damage while charging her attacks. Bennett is here to heal and buff your team and get Xiangling energy should you need it.
+* Use Ganyu charged attacks during Xiangling burst while near the enemy. Zhongli provides shield to protect Ganyu from getting staggered and take no damage while charging her attacks. Bennett is here to heal and buff your team and get Xiangling energy should you need it.
 
 ![](../.gitbook/assets/ui_avataricon_rosaria.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) 
 
