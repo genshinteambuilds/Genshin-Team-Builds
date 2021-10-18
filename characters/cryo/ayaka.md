@@ -56,9 +56,9 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
 
-* Despite being an Electro character, Raiden's Elemental Skill will not interrupt the Freeze reaction. Additionally, Ayaka can also forgo ER requirements as Raiden will generate energy through her Elemental Burst.Does Not Work Well With
+* Despite being an Electro character, Raiden's Elemental Skill will not interrupt the Freeze reaction. Additionally, Ayaka can also forgo ER requirements as Raiden will generate energy through her Elemental Burst.
 
-##
+## Does not work well with
 
 ![](../../.gitbook/assets/Element\_Electro.webp)
 
