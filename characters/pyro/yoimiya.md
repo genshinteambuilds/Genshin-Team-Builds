@@ -3,8 +3,8 @@
 ## Roles
 
 * **Main DPS**
-* **Off-Field DPS** \(Elemental Burst\)
-* **Support:** Buffer \(A4\)
+* **Off-Field DPS** (Elemental Burst)
+* **Support:** Buffer (A4)
 
 ## Character Breakdown
 
@@ -17,8 +17,8 @@
 * She cannot charge kindling arrows when her Elemental Skill is active
 * The explosion from her burst can only be triggered once every 2 seconds
 * Her 1st, 3rd, and 5th Normal attack can react with elements which has potential for vaporize or melt reactions.
-* Her first passive talent, increases Yoimiya’s pyro damage during her Skill’s duration by 2% per hit, which lasts for 3s and stacks up to 10 times.
-* Her second passive talent, after using her Burst, gives her other party members a 10% increase im DMG, based on how many stacks her first passive has, it also boosts the DMG increase by 1% per stack.
+* Her first passive talent increases Yoimiya’s pyro damage during her Skill’s duration by 2% per hit, which lasts for 3s and stacks up to 10 times.
+* Her second passive talent gives her other party members a 10% increase in DMG after using her Burst, based on how many stacks her first passive has, it also boosts the DMG increase by 1% per stack.
 
 ## Works Well With
 
@@ -62,7 +62,7 @@
 
 ## Teams
 
-[**Overload**](../../teams/overload.md)\*\*\*\*
+[**Overload**](../../teams/overload.md)****
 
 ![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_beidou.png) ![](../../.gitbook/assets/ui_avataricon_fischl.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
@@ -72,7 +72,7 @@
 * When Beidou’s Burst is active, Yoimiya can use her skill and proc overload reactions and keep them away. Beidou's burst also help in dealing AoE damage to enemies which Yoimiya lacks.
 * Last slot is a flexible spot, could be someone such as Bennett for Pyro resonance, healing, and attack buff or Zhongli for more protection and crowd control. Any healer, shielder, or buffer would do.
 
-[**Reverse Vaporize**](../../teams/reverse-vaporize.md)\*\*\*\*
+[**Reverse Vaporize**](../../teams/reverse-vaporize.md)****
 
 ![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
@@ -80,9 +80,8 @@
 
 * Xingqiu’s Elemental Burst applies Hydro aura on enemies that synergizes well with Yoimiya's Normal Attacks infused with Pyro to vaporize. It also triggers Yoimiya's burst on marked enemies.
 
-[**Melt**](../../teams/melt.md)\*\*\*\*
+[**Melt**](../../teams/melt.md)****
 
 ![](../../.gitbook/assets/ui_avataricon_yoimiya.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) 
 
 * Ganyu and Venti’s Burst will create a Cryo infused Venti Burst, enabling Yoimiya to use her Skill and create melt reactions.
-
