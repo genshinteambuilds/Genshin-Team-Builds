@@ -21,25 +21,25 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/UI_AvatarIcon_Eula.png)\*\* \*\*
+![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
 * Eula can benefit from the high Superconduct uptime and extra damage provided by Fischl.
 
-![](../../.gitbook/assets/ui_avataricon_tartaglia.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)
 
 * Tartaglia can apply Electro-Charged very frequently with Fischl.
 
-![](../../.gitbook/assets/image%20\(6\).png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
 * Fischl can help supplement Beidou's high Energy Recharge requirements.
 
-![](../../.gitbook/assets/UI_AvatarIcon_Razor.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
 
 * Fischl allows Razor to use his Elemental Burst more frequently. She also does not take up Razor's field time.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/UI_AvatarIcon_Hutao.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diluc.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)
 
 * Fischl’s constant Electro application can knock enemies out of range when used with someone like Hu Tao or Diluc due to Overload's knockback effect. Electro can also interfere with the consistency of Vaporize reactions.
   * However, some teams can still function this way. See [Overload](../../teams/overload.md).
@@ -54,18 +54,26 @@ Click on the team names below for more details on how the team works and alterna
 In all the teams listed below, Fischl universally provides Off-Field Electro application and Sub-DPS utility.
 {% endhint %}
 
-[**Electro-Charged**](../../teams/electro-charged.md)\*\*\*\*
+[**Electro-Charged**](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
 * This team composition utilizes both Hydro and Electro characters who individually provide strong personal damage coupled with high energy generation from Electro resonance, providing good sustained area damage.
 
 [**Physical**](../../teams/physical.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * Fischl pairs well with Physical carries, especially Cryo ones thanks to her high Superconduct uptime. She also helps provide extra damage without requiring much field time.
 
-[**Overload**](../../teams/overload.md)\*\*\*\*
+[**Overload**](../../teams/overload.md)
 
-![](../../.gitbook/assets/image%20\(3\).png) ![](../../.gitbook/assets/image%20\(4\).png) ![](../../.gitbook/assets/image%20\(2\).png) ![](../../.gitbook/assets/image%20\(5\).png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+****[**Anemo**](https://genshinteambuilds.gitbook.io/teams/teams/anemo)****
+
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
+
+****[**Geo**](https://genshinteambuilds.gitbook.io/teams/teams/geo)****
+
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
