@@ -1,6 +1,6 @@
 # Freeze
 
-The **Frozen** **Elemental Reaction** requires both **Cryo** and **Hydro** to be applied to enemies with the goal of immobilizing them, making them unable to harm the player.
+The Freeze team and the **Frozen** **Elemental Reaction** require both **Cryo** and **Hydro** to be applied to enemies with the goal of immobilizing them, making them unable to harm the player.
 
 Freeze teams can also typically gain up to 55% **Critical Rate** while the enemies are **Frozen** through making use of the **Blizzard Strayer** 4-set effect and **Cryo Resonance**.
 
