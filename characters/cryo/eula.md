@@ -28,17 +28,15 @@
 
 ## **Works Well With**
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
-* The best Electro character to pair with Eula. Raiden Shogun provides Superconduct, buffs Elemental Burst damage, serves as a team Battery and is able to be used on-field after Eula uses her Elemental Burst.
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
-
+* Often paired with Eula to form a [Physical team](../../teams/physical.md).&#x20;
+* Raiden Shogun provides Superconduct, buffs Elemental Burst damage, serves as a team Battery and is able to be used on-field after Eula uses her Elemental Burst.
 * Fischl provides off-field damage, constant Superconduct, and serves as an Electro Battery.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Diona serves as a Cryo Battery for Eula and is also a Healer/Shielder and provides Cryo Resonance.
+* Diona is a top option as a healer in [Physical teams](../../teams/physical.md) as she provides Cryo Resonance, acts as an Energy Battery, and has a shield.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
