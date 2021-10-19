@@ -26,6 +26,7 @@
   * [Xiao](characters/anemo/xiao.md)
   * [Traveler (Anemo)](characters/anemo/traveler-anemo.md)
 * [Cryo](characters/cryo/README.md)
+  * [Aloy](characters/cryo/aloy.md)
   * [Ayaka](characters/cryo/ayaka.md)
   * [Chongyun](characters/cryo/chongyun.md)
   * [Diona](characters/cryo/diona.md)

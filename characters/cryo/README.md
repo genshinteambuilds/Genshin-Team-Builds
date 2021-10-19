@@ -6,6 +6,10 @@
 While Eula is listed here as a **Cryo** character, she is primarily used as a Main DPS for [Physical](../../teams/physical.md) team compositions.
 {% endhint %}
 
+{% content-ref url="aloy.md" %}
+[aloy.md](aloy.md)
+{% endcontent-ref %}
+
 {% content-ref url="ayaka.md" %}
 [ayaka.md](ayaka.md)
 {% endcontent-ref %}

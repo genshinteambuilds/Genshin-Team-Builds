@@ -6,6 +6,10 @@
 [barbara.md](barbara.md)
 {% endcontent-ref %}
 
+{% content-ref url="kokomi.md" %}
+[kokomi.md](kokomi.md)
+{% endcontent-ref %}
+
 {% content-ref url="mona.md" %}
 [mona.md](mona.md)
 {% endcontent-ref %}
