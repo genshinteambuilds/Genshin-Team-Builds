@@ -2,11 +2,41 @@
 
 ## Characters
 
-![](../../.gitbook/assets/UI_AvatarIcon_Ayaka.png) ![](../../.gitbook/assets/UI_AvatarIcon_Chongyun.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png) ![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Ganyu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Qiqi.png) ![](../../.gitbook/assets/UI_AvatarIcon_Rosaria.png)
-
 {% hint style="info" %}
-While Eula is listed here as a Cryo character, she is primarily used as a Main DPS for [Physical](../../teams/physical.md) team compositions.
+While Eula is listed here as a **Cryo** character, she is primarily used as a Main DPS for [Physical](../../teams/physical.md) team compositions.
 {% endhint %}
+
+{% content-ref url="ayaka.md" %}
+[ayaka.md](ayaka.md)
+{% endcontent-ref %}
+
+{% content-ref url="chongyun.md" %}
+[chongyun.md](chongyun.md)
+{% endcontent-ref %}
+
+{% content-ref url="diona.md" %}
+[diona.md](diona.md)
+{% endcontent-ref %}
+
+{% content-ref url="eula.md" %}
+[eula.md](eula.md)
+{% endcontent-ref %}
+
+{% content-ref url="ganyu.md" %}
+[ganyu.md](ganyu.md)
+{% endcontent-ref %}
+
+{% content-ref url="kaeya.md" %}
+[kaeya.md](kaeya.md)
+{% endcontent-ref %}
+
+{% content-ref url="qiqi.md" %}
+[qiqi.md](qiqi.md)
+{% endcontent-ref %}
+
+{% content-ref url="rosaria.md" %}
+[rosaria.md](rosaria.md)
+{% endcontent-ref %}
 
 ## Teams
 

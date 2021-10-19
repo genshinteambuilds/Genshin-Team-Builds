@@ -2,11 +2,41 @@
 
 ## Characters
 
-![](../../.gitbook/assets/ui_avataricon_amber.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diluc.png) ![](../../.gitbook/assets/UI_AvatarIcon_Hutao.png) ![](../../.gitbook/assets/UI_AvatarIcon_Klee.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xinyan.png) ![](../../.gitbook/assets/UI_AvatarIcon_Yanfei.png)
-
 {% hint style="info" %}
-While Xinyan is listed here as a Pyro character, she is primarily used as a support for [Physical](../../teams/physical.md) team compositions.
+While Xinyan is listed here as a **Pyro** character, she is primarily used as a support for [Physical](../../teams/physical.md) team compositions.
 {% endhint %}
+
+{% content-ref url="amber.md" %}
+[amber.md](amber.md)
+{% endcontent-ref %}
+
+{% content-ref url="bennett.md" %}
+[bennett.md](bennett.md)
+{% endcontent-ref %}
+
+{% content-ref url="diluc.md" %}
+[diluc.md](diluc.md)
+{% endcontent-ref %}
+
+{% content-ref url="hu-tao.md" %}
+[hu-tao.md](hu-tao.md)
+{% endcontent-ref %}
+
+{% content-ref url="klee.md" %}
+[klee.md](klee.md)
+{% endcontent-ref %}
+
+{% content-ref url="xiangling.md" %}
+[xiangling.md](xiangling.md)
+{% endcontent-ref %}
+
+{% content-ref url="xinyan.md" %}
+[xinyan.md](xinyan.md)
+{% endcontent-ref %}
+
+{% content-ref url="yanfei.md" %}
+[yanfei.md](yanfei.md)
+{% endcontent-ref %}
 
 ## Teams
 

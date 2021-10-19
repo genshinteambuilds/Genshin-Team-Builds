@@ -2,11 +2,41 @@
 
 ## Characters
 
-![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Keqing.png) [![](../../.gitbook/assets/UI_AvatarIcon_Sara.png)](kujou-sara.md) ![](../../.gitbook/assets/UI_AvatarIcon_Lisa.png) [![](../../.gitbook/assets/UI_AvatarIcon_Shougun.png) ](raiden-shogun.md)![](../../.gitbook/assets/UI_AvatarIcon_Razor.png) ![](../../.gitbook/assets/ui_avataricon_aether_electro.png)
-
 {% hint style="info" %}
-While Razor is listed here as an Electro character, he is primarily used as a Main DPS for [Physical](../../teams/physical.md) team compositions.
+While Razor is listed here as an **Electro** character, he is primarily used as a Main DPS for [Physical](../../teams/physical.md) team compositions.
 {% endhint %}
+
+{% content-ref url="beidou.md" %}
+[beidou.md](beidou.md)
+{% endcontent-ref %}
+
+{% content-ref url="fischl.md" %}
+[fischl.md](fischl.md)
+{% endcontent-ref %}
+
+{% content-ref url="keqing.md" %}
+[keqing.md](keqing.md)
+{% endcontent-ref %}
+
+{% content-ref url="kujou-sara.md" %}
+[kujou-sara.md](kujou-sara.md)
+{% endcontent-ref %}
+
+{% content-ref url="lisa.md" %}
+[lisa.md](lisa.md)
+{% endcontent-ref %}
+
+{% content-ref url="raiden-shogun.md" %}
+[raiden-shogun.md](raiden-shogun.md)
+{% endcontent-ref %}
+
+{% content-ref url="razor.md" %}
+[razor.md](razor.md)
+{% endcontent-ref %}
+
+{% content-ref url="traveler-electro.md" %}
+[traveler-electro.md](traveler-electro.md)
+{% endcontent-ref %}
 
 ## Teams
 

@@ -2,7 +2,21 @@
 
 ## Characters
 
-![](../../.gitbook/assets/UI_AvatarIcon_Barbara.png) ![](../../.gitbook/assets/UI_AvatarIcon_Mona.png) ![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png)
+{% content-ref url="barbara.md" %}
+[barbara.md](barbara.md)
+{% endcontent-ref %}
+
+{% content-ref url="mona.md" %}
+[mona.md](mona.md)
+{% endcontent-ref %}
+
+{% content-ref url="tartaglia.md" %}
+[tartaglia.md](tartaglia.md)
+{% endcontent-ref %}
+
+{% content-ref url="xingqiu.md" %}
+[xingqiu.md](xingqiu.md)
+{% endcontent-ref %}
 
 ## Teams
 
