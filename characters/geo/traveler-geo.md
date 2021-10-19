@@ -1,6 +1,6 @@
 # Traveler (Geo)
 
-## Roles
+## dRoles
 
 * **Burst DPS**
 * **Support:** Buffer (C1)
@@ -50,9 +50,7 @@
 
 * Geo damage shatters Freeze, disrupting Freeze based teams.
 * Many Cryo characters would prefer to utilize the powerful reactions they have access to rather than the pure damage that many Geo teams tend towards.
-
-![](../../.gitbook/assets/Element\_Anemo.webp)
-
+*
 * Anemo cannot trigger reactions with Geo, both reducing the damage potential of the element and preventing the characters from being able to activate the powerful Viridescent Venerer artifact set.
   * Venti and Kazuha can be exceptions due to their crowd control and the amount of damage they can deal if properly built.
 
