@@ -21,34 +21,34 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/Element_Cryo.webp)
+![](../../.gitbook/assets/Element\_Cryo.webp)
 
 * Off-Field DPS capabilities pair well with other Cryo Main DPS to add additional Cryo application and damage to team compositions.
 * Kaeya's high energy generation allows him to work as a powerful energy battery for other Cryo Main DPS, especially in Freeze teams.
 * Cryo Resonance as a whole is very powerful in teams which constantly apply the element.
 
-![](../../.gitbook/assets/Element_Pyro.webp)
+![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * Kaeya's high frequency Cryo application and relatively high damage on his Elemental Burst allows him to function in both Melt and Reverse Melt teams.
 
-![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Barbara.png) ![](../../.gitbook/assets/UI_AvatarIcon_Mona.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
 * Characters with high Hydro application paired with Kaeya enable easy Freeze.
 * Kaeya's energy generation is greatly boosted when he applies Freeze with his Elemental Skill.
 
-![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Venti.png) ![](../../.gitbook/assets/UI_AvatarIcon_Jean.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Kaeya's large amount of Area of Affect damage is highly effective when paired with Crowd Control, especially when in comps not utilizing Freeze.
 * Similarly to all Elemental Damage focused characters, Kaeya benefits greatly from the Elemental resistance shred provided by Anemo supports and Zhongli.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/Element_Electro.webp)
+![](../../.gitbook/assets/Element\_Electro.webp)
 
 * Barring Physical damage characters, Superconduct falls behind other Elemental Reactions in terms of damage.
 * Physical Damage teams can still use Kaeya as well as an Electro character to easily trigger Superconduct from off field.
 
-![](../../.gitbook/assets/ui_avataricon_tartaglia.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)
 
 * While Tartaglia can function in Freeze teams, especially with higher constellations, he's typically better used with other elements.
 
@@ -60,9 +60,9 @@ Click on the team names below for more details on how the team works and alterna
 
 [\*\*Freeze \*\*](../../teams/freeze.md)\*\*\*\*
 
-![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Chongyun.png) ![](../../.gitbook/assets/UI_AvatarIcon_Barbara.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Ayaka.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Kaeya's energy generation in Freeze-based teams is massive, able to support other Cryo characters with very little Energy Recharge.
 * Kaeya can be used as a Main DPS in Freeze comps, especially in combination with Chongyun. Chongyun's Cryo conversion of Normal Attacks allows Kaeya to utilize his high Normal and Charged Attack damage while still gaining Elemental Damage bonuses.
@@ -71,16 +71,16 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Physical**](../../teams/physical.md)\*\*\*\*
 
-![](../../.gitbook/assets/UI_AvatarIcon_Razor.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Shougun.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Kaeya's burst following the active character allows for consistent Superconduct Applications.
 * In teams with Eula, Kaeya can be used to provide both Cryo Resonance and increased energy regeneration.
 
 [**Melt**](../../teams/melt.md)\*\*\*\*
 
-![](../../.gitbook/assets/UI_AvatarIcon_Hutao.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Jean.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
 * Kaeya will can be fit into a Vaporize team to allow triggers of the higher-damage Melt reaction in addition to standard Vaporizes.
 * Kaeya alone cannot produce enough Cryo application to Melt every attack from a Pyro Main DPS. Pairing with either a Hydro or Cryo character is necessary to maximize damage.
@@ -89,9 +89,9 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Reverse Melt**](../../teams/reverse-melt.md)\*\*\*\*
 
-![](../../.gitbook/assets/UI_AvatarIcon_Rosaria.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Klee.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * This team is based around frequently applying Pyro to enemies and then using Off-Field Cryo DPS to cause Melts.
 * Given frequent enough Pyro application, both Kaeya and Rosaria's damage can be Melted.

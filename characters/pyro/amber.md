@@ -19,14 +19,14 @@
 
 ## Works Well With:
 
-![](../../.gitbook/assets/Element_Anemo.webp) ![](../../.gitbook/assets/Element_Cryo.webp) ![](../../.gitbook/assets/Element_Electro.webp) ![](../../.gitbook/assets/Element_Pyro.webp) ![](../../.gitbook/assets/Element_Geo.webp)
+![](../../.gitbook/assets/Element\_Anemo.webp) ![](../../.gitbook/assets/Element\_Cryo.webp) ![](../../.gitbook/assets/Element\_Electro.webp) ![](../../.gitbook/assets/Element\_Pyro.webp) ![](../../.gitbook/assets/Element\_Geo.webp)
 
 * In the main DPS role, Amber’s slow pyro application allows her to melt all of her charged attacks.
 * In times when more AoE is needed, Amber can make use of Fischl and Beidou to proc overload.
 
 ## Doesn’t Work Well With
 
-![](../../.gitbook/assets/Element_Hydro.webp)
+![](../../.gitbook/assets/Element\_Hydro.webp)
 
 * While in the Main DPS role, it is generally better to go for melt rather than vaporize.
 * Amber also does not work well with other Main DPS on the same team unless she is in the support role.
@@ -39,7 +39,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [Melt](../../teams/melt.md)
 
-![](../../.gitbook/assets/ui_avataricon_amber.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png) \\
+![](../../.gitbook/assets/UI\_AvatarIcon\_Amber.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) \\
 
 * Amber’s CA does considerable damage when melting the cryo application from a cryo character.
   * At C2, her Elemental Skill can be use to trigger the melt as well.
@@ -47,7 +47,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [Support](../../roles/support/)
 
-![](../../.gitbook/assets/image%20\(1\).png)![](../../.gitbook/assets/ui_avataricon_amber.png) ![](../../.gitbook/assets/image%20\(2\)%20\(1\).png)![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png) \\
+![](../../.gitbook/assets/image%20\(1\).png)![](../../.gitbook/assets/UI\_AvatarIcon\_Amber.png) ![](../../.gitbook/assets/image%20\(2\)%20\(1\).png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) \\
 
 * Amber uses her Elemental Skill to taunt enemies and support the Main DPS off field.
 * C6 Makes her considerably more useful in the support role with her buffs.\\

@@ -22,11 +22,11 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/Element_Cryo.webp)
+![](../../.gitbook/assets/Element\_Cryo.webp)
 
 * Can enable Cryo resonance for increased Crit Rate against enemies affected by Cryo
 
-![](../../.gitbook/assets/UI_AvatarIcon_Razor.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
 
 * Her best synergy is with Razor, as she can periodically apply Cryo with her Elemental skill to enable Superconduct to lower enemy Physical Resistance.
 
@@ -44,13 +44,13 @@ This character is a healer. While some teams are provided below where they are p
 
 [**Physical**](../../teams/physical.md)\*\*\*\*
 
-![](../../.gitbook/assets/UI_AvatarIcon_Razor.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Qiqi.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Qiqi.png)
 
 * Slowly applies Cryo to allow for Superconduct for prolonged durations, as well as provides consistent healing to the character on field.
 
 [**Freeze**](../../teams/freeze.md)\*\*\*\*
 
-![](../../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Qiqi.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Qiqi.png)
 
 * Alternate team composition you can try if you don’t have Razor
 * Childe’s hydro melee attacks apply hydro that allows Qiqi to freeze them with her Elemental Skill, thus allowing Childe to attack without knocking them away

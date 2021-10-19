@@ -25,7 +25,7 @@
 
 * Eula can benefit from the high Superconduct uptime and extra damage provided by Fischl.
 
-![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)
 
 * Tartaglia can apply Electro-Charged very frequently with Fischl.
 
@@ -56,7 +56,7 @@ In all the teams listed below, Fischl universally provides Off-Field Electro app
 
 [**Electro-Charged**](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
 * This team composition utilizes both Hydro and Electro characters who individually provide strong personal damage coupled with high energy generation from Electro resonance, providing good sustained area damage.
 

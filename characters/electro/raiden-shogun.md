@@ -22,42 +22,42 @@
 
 ## **Works Well With**
 
-\*\* \*\*![](../../.gitbook/assets/UI_AvatarIcon_Sara.png)
+\*\* \*\*![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)
 
 * Kujou Sara is one of the Raiden Shogun’s best partners in a team, she provides extra Energy generation both from her own Elemental Skill as well as providing Electro Resonance and her ATK boost can bolster the Raiden Shogun’s Elemental Burst DPS window.
 
-![](../../.gitbook/assets/UI_AvatarIcon_Eula.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
 * Eula is naturally a very strong Main DPS to pair with Raiden due to the fact that Raiden Shogun provides consistent Superconduct off-field while also bolstering Eula’s Elemental Burst DMG which she is generally very reliant on. The Raiden Shogun’s extra Energy generation can also assist with Eula’s own Burst upkeep.
 
-![](../../.gitbook/assets/ui_avataricon_aether_electro.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Electro.png)
 
 * Traveler (Electro) can also fulfill a similar role to Kujou Sara, generating Energy with their Abundance Amulets and shredding Electro Resistance for a DPS boost.
 
-![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
 * Xiangling is another character who is very focused on her Elemental Burst and struggles with Energy generation, on top of this her rapid Pyro application can cause Overload procs to deal significant additional AoE DPS, making the Raiden Shogun a solid pairing with her.
 
-![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Bennett's Elemental Burst synergizes well with Raiden Shogun's Elemental Burst, providing her with large amounts of ATK during her DPS window. Although Bennett does not have energy issues, he can be a Pyro Battery for another unit along with Raiden Shogun, like Xiangling.
 
-![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
 * Xingqiu's Elemental Burst can be procced by Raiden Shogun's Normal Attacks in her Elemental Burst. Along with the Damage Reduction, small amounts of Healing, and 80 Energy cost Elemental Burst, Xingqui is able to provide a strong mix of offensive DPS and defensive utility while also benefiting from the Energy Raiden Shogun can generate.
 
 ## **Does Not Work Well With**
 
-![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
 * Beidou's Elemental Burst cannot be procced by Raiden Shogun's Normal Attacks in her Elemental Burst, making Beidou lose her usefulness in providing powerful off-field Damage.
 * Note: a Beidou pairing can be utilized somewhat by staggering the Elemental Burst rotations such that Raiden uses her Elemental Burst before and after Beidou's Elemental Burst duration is over.
 
-![](../../.gitbook/assets/UI_AvatarIcon_Diluc.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)
 
 * Diluc's DPS is not focused on his Burst Damage and generally doesn’t need much extra energy generation thanks to his low-cost Burst, in addition to this, Raiden Shogun will cause Diluc to Overload many of his attacks and ruin stronger reaction options for him such as Melt and Vaporize.
 
-![](../../.gitbook/assets/UI_AvatarIcon_Hutao.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)
 
 * Hu Tao, similarly to Diluc, wants to benefit from Vaporize and Melt much more than transformative reactions like Overload.
 
@@ -65,21 +65,21 @@
 
 [**National**](../../teams/national.md)\*\*\*\*
 
-![](../../.gitbook/assets/UI_AvatarIcon_Shougun.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
 * A variation of the popular "National" team composition. This setup utilizes the powerful off-field high Energy Cost Elemental Bursts of Xiangling and Xingqui to stack Resolve onto Raiden Shogun for high team damage during all active Elemental Bursts. Bennett is there to provide Healing and a huge ATK Buff to Raiden Shogun and Xiangling.
 
 [**Physical**](../../teams/physical.md)\*\*\*\*
 
-![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Shougun.png) ![](../../.gitbook/assets/UI_AvatarIcon_Rosaria.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png) ![](../../.gitbook/assets/UI_AvatarIcon_Shougun.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
 
 * A standard team composition for Raiden Shogun that focuses on utilizing her off-field Electro Damage for consistent Superconduct upkeep as well as increasing the teams Burst Damage and Energy economy.
 
 **Hypercarry**
 
-![](../../.gitbook/assets/UI_AvatarIcon_Shougun.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sara.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
 * A less conventional team that utilizes the Raiden Shogun as the Main DPS and focuses on buffing her damage to its limits while feeding the whole team high amounts of Energy. While the damage during the Raiden Shogun's DPS window competes with top tier Main DPS output, the main downside to this composition is the downtime while the Raiden Shogun's Elemental Burst is on cooldown.
 * This team composition is much more effective with Raiden Shogun's Constellation 2+ and Kujou Sara's Constellation 6.

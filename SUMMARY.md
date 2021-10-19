@@ -51,6 +51,7 @@
   * [Traveler (Geo)](characters/geo/traveler-geo.md)
 * [Hydro](characters/hydro/README.md)
   * [Barbara](characters/hydro/barbara.md)
+  * [Kokomi](characters/hydro/kokomi.md)
   * [Mona](characters/hydro/mona.md)
   * [Tartaglia](characters/hydro/tartaglia.md)
   * [Xingqiu](characters/hydro/xingqiu.md)
