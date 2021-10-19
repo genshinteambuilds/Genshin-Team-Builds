@@ -1,6 +1,6 @@
 # Traveler (Geo)
 
-## dRoles
+## Roles
 
 * **Burst DPS**
 * **Support:** Buffer (C1)
@@ -50,7 +50,7 @@
 
 * Geo damage shatters Freeze, disrupting Freeze based teams.
 * Many Cryo characters would prefer to utilize the powerful reactions they have access to rather than the pure damage that many Geo teams tend towards.
-*
+* &#x20;
 * Anemo cannot trigger reactions with Geo, both reducing the damage potential of the element and preventing the characters from being able to activate the powerful Viridescent Venerer artifact set.
   * Venti and Kazuha can be exceptions due to their crowd control and the amount of damage they can deal if properly built.
 
@@ -59,17 +59,6 @@
 {% hint style="info" %}
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
-
-**Main DPS**
-
-[**Geo**](../../teams/geo.md)
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
-
-* A typical Geo team composition where Traveler summons Geo constructs using their Elemental skill and burst to deal damage, Zhongli's stone stele will cause additional damage by resonating with nearby Geo constructs and his debuffs will further increase damage dealt.
-* Ningguang helps provide energy to Traveler (Geo), Zhongli and herself while also providing Burst damage windows and buffing Geo damage from her passive talent.
-
-**Sub DPS**
 
 [**Pyro**](../../teams/pure-pyro.md)
 
