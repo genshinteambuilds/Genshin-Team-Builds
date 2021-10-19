@@ -50,7 +50,7 @@ This character is a healer, and can be used on any team provided you do not have
 In all the teams listed below, Jean universally provides Debuff utility using the Viridescent Venerer 4-set and can also provide Healing, Crowd Control, and Cleansing utility based on the needs of the team.
 {% endhint %}
 
-#### [Anemo](./)
+#### [Anemo](../../teams/anemo.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
