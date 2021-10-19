@@ -36,7 +36,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Diona is a top option as a healer in [Physical teams](../../teams/physical.md) as she provides Cryo Resonance, acts as an Energy Battery, and has a shield.
+* Diona is a top option as a Cryo Battery as she provides Cryo Resonance and is a Healer/Shielder.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
