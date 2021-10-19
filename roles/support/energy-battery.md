@@ -17,7 +17,7 @@ This is a non-exhaustive list. Any character that generates energy off their **E
 {% endhint %}
 
 {% hint style="warning" %}
-Click on a character's portrait to see how the character works and functions in a team.
+Check out the character's page to see how the character works and functions in a team.
 {% endhint %}
 
 |                                                                               Character                                                                              | Notes                                                                                                                                                                                                                                                                                                                  |
