@@ -50,7 +50,7 @@ This character is a healer. While some teams are provided below where they are p
 
 [**Freeze**](../../teams/freeze.md)\*\*\*\*
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Qiqi.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Qiqi.png)
 
 * Alternate team composition you can try if you don’t have Razor
 * Childe’s hydro melee attacks apply hydro that allows Qiqi to freeze them with her Elemental Skill, thus allowing Childe to attack without knocking them away

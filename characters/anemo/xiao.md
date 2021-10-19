@@ -30,7 +30,7 @@
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png) ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
 * As a Selfish Main DPS, Xiao does not work well with other characters that must stay on the field in order to do damage.
 * Physical Damage characters usually cannot buff Xiao or support him in any way.

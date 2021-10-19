@@ -53,7 +53,7 @@ In all the teams listed below, Venti universally provides Debuff utility using t
 
 [**Reverse Vaporize**](../../teams/reverse-vaporize.md)\*\*\*\*
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Venti in this comp is the primary source of grouping CC for the whole team.
 * Venti can also act as a battery for Xiangling with his A4 talent because of Xiangling's high energy requirements.

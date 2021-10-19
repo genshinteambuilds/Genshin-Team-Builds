@@ -76,7 +76,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * In these teams, Bennett plays the role of healer, Pyro Resonance activator, and support.
 * For teams with Xiangling, Bennett will also act as an Energy Battery and give Xiangling enough Energy to use her Elemental Burst more frequently.
@@ -104,7 +104,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [Oneshot](broken-reference/)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 

@@ -28,7 +28,7 @@
 * Arguably Keqing’s best Sub DPS due to Keqing's energy particle generation allowing you to fuel Beidou's high cost Elemental Burst.
 * Keqing's tendency to spend large amounts of time Normal or Charged Attacking allows Beidou's Elemental Burst to constantly trigger.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)
 
 * Usually used for “Fireworks” comp where Childe's high Hydro application combines with Beidou's high Electro application to constantly trigger Electrocharged.
 
@@ -74,7 +74,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Beidou is typically used as an Off-Field DPS in these teams with an on-field character such as Keqing or Childe to trigger her Elemental Burst's chain lightning.
 * A second Electro character is recommended to help fund Beidou's Elemental Burst.

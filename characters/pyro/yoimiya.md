@@ -66,7 +66,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Electro.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../../.gitbook/assets/ui\_avataricon\_aether\_electro.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Yoimiya acts as a good trigger for Beidou Burst procs.
 * When Beidou’s Burst is active, Yoimiya can use her skill and proc overload reactions and keep them away. Beidou's burst also help in dealing AoE damage to enemies which Yoimiya lacks.

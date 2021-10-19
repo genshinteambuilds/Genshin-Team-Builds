@@ -60,7 +60,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [Electro-charged](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * A team that focuses on sustained damage while having the option to deal burst damage with both Childe vaporizing his Elemental Burst with Bennett, as well as Lisa’s hold Elemental Skill.
 * Lisa’s Elemental Burst reduces enemy defense while also dealing damage even when she’s not on-field.

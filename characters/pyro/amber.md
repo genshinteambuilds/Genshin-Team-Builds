@@ -39,7 +39,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [Melt](../../teams/melt.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Amber.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) \\
+![](../../.gitbook/assets/ui\_avataricon\_amber.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) \\
 
 * Amber’s CA does considerable damage when melting the cryo application from a cryo character.
   * At C2, her Elemental Skill can be use to trigger the melt as well.
@@ -47,7 +47,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [Support](../../roles/support/)
 
-![](../../.gitbook/assets/image%20\(1\).png)![](../../.gitbook/assets/UI\_AvatarIcon\_Amber.png) ![](../../.gitbook/assets/image%20\(2\)%20\(1\).png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) \\
+![](../../.gitbook/assets/image%20\(1\).png)![](../../.gitbook/assets/ui\_avataricon\_amber.png) ![](../../.gitbook/assets/image%20\(2\)%20\(1\).png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) \\
 
 * Amber uses her Elemental Skill to taunt enemies and support the Main DPS off field.
 * C6 Makes her considerably more useful in the support role with her buffs.\\

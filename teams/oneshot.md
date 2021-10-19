@@ -78,7 +78,7 @@ Note: The damage you get out of a setup is extremely dependent upon your charact
 * Mona can also function as a damage amplifier alongside a cryo enabler, as her Omen is a 5 second Debuff that grants the increased damage during that duration.
 * Can carry Thrilling Tales of Dragon Slayer.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
+![](../.gitbook/assets/ui\_avataricon\_amber.png)
 
 * Able to carry Elegy for the End and easily activate the passive through her Elemental Burst.
 * At Constellation 6, using her Elemental Burst gives her team a small ATK% Buff.
@@ -96,7 +96,7 @@ Make sure Hu Tao's HP starts off very low to counter Bennett’s healing
 
 Bennett Elemental Burst -> Sucrose Elemental Skill -> Mona Elemental Burst -> Hu Tao Elemental Skill -> Hu Tao Elemental Burst
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Amber.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png) ![](../.gitbook/assets/ui\_avataricon\_amber.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 Amber Elemental Burst -> Zhongli hold Elemental Skill -> Zhongli Elemental burst -> Ganyu Elemental Burst -> Hu Tao Elemental Skill -> Hu Tao Elemental Burst
 
@@ -180,7 +180,7 @@ Mona Normal Attack -> Sucrose Elemental Skill -> Bennett Elemental Skill -> Benn
 
 ### **Main Carry**
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)
+![](../.gitbook/assets/ui\_avataricon\_tartaglia.png)
 
 * Tartaglia has two bursts, based on which form he is in. Bow form does less damage but occurs much faster since it returns 20 energy back to Tartaglia, Melee form requires the transformation and does much more damage.
 
@@ -190,7 +190,7 @@ Mona Normal Attack -> Sucrose Elemental Skill -> Bennett Elemental Skill -> Benn
 
 * Bennett is a very common choice, he gives you a lot of attack, he gives the enemies a fairly strong pyro application.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
+![](../.gitbook/assets/ui\_avataricon\_amber.png)
 
 * Amber provides very quick pyro application at a range. Also can activate Elegy for the End and her c6 if available can buff your teammates.
 
@@ -222,15 +222,15 @@ Mona Normal Attack -> Sucrose Elemental Skill -> Bennett Elemental Skill -> Benn
 
 ### Sample Childe Teams
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
+![](../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
 Mona Elemental Burst -> Sucrose E -> Bennett Elemental Burst -> Tartaglia E -> Tartaglia Elemental Burst
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
+![](../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
 Bennett Elemental Burst -> Mona Elemental Burst -> Wait for 2 seconds -> Xiangling Elemental Burst -> Tartaglia E -> Tartaglia Elemental Burst
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+![](../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 Zhongli hold Elemental Skill -> Tartaglia Charged Aimed Shot -> Sucrose Elemental Skill -> Bennett Elemental Burst -> Tartaglia Elemental Skill -> Tartaglia Elemental Burst
 

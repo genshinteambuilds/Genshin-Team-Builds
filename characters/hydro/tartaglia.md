@@ -76,7 +76,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### [Vaporize](../../teams/vaporize.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Xiangling's Elemental Burst and Elemental Skill can work Off-Field allowing you to attack enemies in Tartaglia's Melee stance, inflicting the enemy with Hydro and allowing Xiangling's abilities to Reverse Vaporize for additional damage.
 * This is technically a Reverse Vaporize team composition since Xiangling's abilities are typically what triggers the reaction but is included in the Vaporize team page for simplicity.
@@ -84,13 +84,13 @@ Click on the team names below for more details on how the team works and alterna
 
 #### [Electro-Charged](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * This exact team is often called Fireworks due to the many different coloured numbers that pop up on the screen when playing this exact team composition. Check out the Electro-Charged team page for variations on this team composition.
 * Tartarglia's ability to attack rapidly while in his Melee stance allows Beidou's Elemental Burst to take effect multiple times.
 
 #### [Oneshot](broken-reference/)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
 * A common Oneshot team setup for Tartaglia. For a detailed look at how Oneshots work, check out the [Oneshot ](broken-reference/)team page.
