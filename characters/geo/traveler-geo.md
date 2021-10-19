@@ -50,7 +50,9 @@
 
 * Geo damage shatters Freeze, disrupting Freeze based teams.
 * Many Cryo characters would prefer to utilize the powerful reactions they have access to rather than the pure damage that many Geo teams tend towards.
-* &#x20;
+
+![](../../.gitbook/assets/Element\_Anemo.webp)
+
 * Anemo cannot trigger reactions with Geo, both reducing the damage potential of the element and preventing the characters from being able to activate the powerful Viridescent Venerer artifact set.
   * Venti and Kazuha can be exceptions due to their crowd control and the amount of damage they can deal if properly built.
 
@@ -60,7 +62,7 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-[**Pyro**](../../teams/pure-pyro.md)
+****[**Pure Pyro**](../../teams/pure-pyro.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
