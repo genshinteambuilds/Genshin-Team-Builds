@@ -73,7 +73,7 @@ Click on the team names below for more details on how the team works and alterna
 
 **Superconduct**
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * A team that runs Razor as Main Dps and Cryo supports to cause Superconduct.
 * Two Cryo characters are often run to act as Energy Batteries for one another.
