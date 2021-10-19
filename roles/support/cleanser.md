@@ -28,6 +28,10 @@ Some **Elemental Reactions** caused when removing the debuff may be detrimental 
 
 ## Characters that can Cleanse
 
+{% hint style="warning" %}
+Check out the character's page to see how the character works and functions in a team.
+{% endhint %}
+
 |                                                                Character                                                                | Notes                                                                                                                                                                                                                                                                                                                                                                                           |
 | :-------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p><img src="../../.gitbook/assets/UI_AvatarIcon_Barbara.png" alt=""></p><p><a href="../../characters/hydro/barbara.md">Barbara</a></p> | <ul><li><strong>Elemental Skill</strong> periodically inflicts <strong>Hydro</strong> on the active character.</li></ul>                                                                                                                                                                                                                                                                        |

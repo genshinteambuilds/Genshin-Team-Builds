@@ -1,21 +1,21 @@
 # Healer / Shielder
 
-All teams require either one of these. These supports focus on keeping your entire team alive by either providing healing or by preventing damage through generating shields.
+In general, all teams will usually require either one of these. These supports focus on keeping your entire team alive by providing healing or by preventing damage with their shields.
 
-Healing characters are self-explanatory. These characters have the ability to regenerate the health of other characters in the party. There is **Sustained Healing which heals you over a period of time and Burst Healing** which heals a large amount of health in a single instance. Some healing abilities only heal the active character that is on the field while others can heal the entire party.
+Healing characters are self-explanatory. These characters have the ability to regenerate the health of other characters in the party. **Sustained Healing** refers to healing your characters over a period of time** **while **Burst Healing** heals a large amount of health in a single instance. Some healing abilities only heal the active character that is on the field while others can heal the entire party.
 
-Shielding characters are those that have the ability to create a shield to absorb damage from enemy attacks. Shields can be created from Elemental Skills or Elemental Bursts as well as Crystallize Reactions. The amount of damage a shield can prevent is dependant on the stats and talent level of the skill that creates it. Some of the shields that are created by certain characters can have other effects such as Debuffing or Dealing Damage when close to enemies. Characters protected by shields also cannot be staggered or knocked back from enemy attacks.
+Shielding characters are those that have the ability to create a shield to absorb damage from enemy attacks. Shields can be created from **Elemental Skills** or **Elemental Bursts** as well as **Crystallize Elemental Reactions**. The amount of damage a shield can prevent is dependent on the stats and talent level of the skill that creates it. Some of the shields that are created by certain characters can have other effects such as Debuffing or Dealing Damage when close to enemies. Characters protected by shields also cannot be staggered or knocked back from enemy attacks.
 
 Most shields in the game are a supplement to healing and cannot be solely relied on to keep your party alive. Zhongli is one exception where his shield can be made so strong when properly geared that a dedicated healer may not be necessary at all.
 
 {% hint style="info" %}
-\*\*Crystallize \*\*reactions (Geo + Any Element except Anemo) are a type of **Elemental Reaction** that create a elemental shard on the field that can be be picked up to create a shield. The Geo character's Elemental Mastery and Level affect the damage the shield can absorb.
+**Crystallize** (**Geo** + Any Element except **Anemo**) is a type of **Elemental Reaction** that create a elemental shard on the field that can be be picked up to create a shield. The **Geo** character's **Elemental Mastery** and **Level** affect the damage the shield can absorb.
 {% endhint %}
 
 ## Characters that can Heal or Shield
 
 {% hint style="info" %}
-All Geo characters can generate shields through Crystallize reactions. Only Geo characters that can create shields on demand with their Elemental Skill or Elemental Burst are listed here.
+All **Geo** characters can generate shields through **Crystallize** reactions. Only **Geo** characters that can create shields on demand with their **Elemental Skill** or **Elemental Burst** are listed here.
 {% endhint %}
 
 {% hint style="warning" %}
