@@ -43,7 +43,7 @@
 
 ![](../../.gitbook/assets/Element\_Geo.webp)
 
-* Geo characters besides Zhongli see little benefit from pairing with Chongyun due to the lack of damaging reactions between the elements.&#x20;
+* Geo characters besides Zhongli see little benefit from pairing with Chongyun due to the lack of damaging reactions between Geo and Cryo.
 
 ## Teams
 
