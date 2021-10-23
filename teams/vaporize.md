@@ -54,16 +54,16 @@ Refer to the character notes below for how characters work in this particular te
 
 ## Sample Team Composition
 
-![](../.gitbook/assets/ui_avataricon_tartaglia.png) ![](../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../.gitbook/assets/UI_AvatarIcon_Bennett.png)
+![](../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Cookie cutter Childe reverse-vaporize. Childe keeps enemy tagged with hydro, as well as providing some extra damage. Xiangling burst and skill activate the reverse vaporize accounting for the lions share of your damage. Kazuha is here to swirl away enemy resistances as well as provide his damage buff. Bennett keeps your Xiangling’s elemental burst charged and heals/buffs you with his burst.
 
-\*\*![](../.gitbook/assets/UI_AvatarIcon_Mona.png) \*\*![](../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../.gitbook/assets/UI_AvatarIcon_Sucrose.png) ![](../.gitbook/assets/UI_AvatarIcon_Bennett.png)
+\*\*![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png) \*\*![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 *   Mona keeps enemies tagged with hydro as well as uses her burst as often as possible to keep the damage amplification uptime high. Xiangling is used for burst and skill, causing the reverse vaporize reaction and doing a lot of damage. Sucrose is there for 4 set Viridescent Venerer set as well as to transfer elemental mastery to Xiangling to increase her damage. Bennett keeps your Xiangling’s burstcharged and heals/buffs you when you use his burst.\\
 
     ***
 
-\*\*![](../.gitbook/assets/UI_AvatarIcon_Barbara.png) \*\*![](../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../.gitbook/assets/UI_AvatarIcon_Venti.png) ![](../.gitbook/assets/UI_AvatarIcon_Bennett.png)
+\*\*![](../.gitbook/assets/UI\_AvatarIcon\_Barbara.png) \*\*![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Venti.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Barbara does her damage using her charged attack after an enemy is affected with pyro. Her skill and burst can be used for healing purposes, though be sure not to stand too close to the enemy so her skill does not accidentally apply hydro. Xiangling is your main source of pyro application using her skill and burst. Venti is here for 4 set Viridescent Venerer’s resistance decrease, as well as being able to supplement Xiangling’s pyro application using his tornado. Bennett is here for his buff and ability to keep Xiangling’s burst charged. The healing is a nice bonus.
