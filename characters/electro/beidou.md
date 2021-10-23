@@ -3,14 +3,14 @@
 ## Roles
 
 * **Off-Field DPS** (Elemental Burst)
-* \*\*Support: \*\*Debuffer (C6), Cleanser (Self Only)
+* **Support: **Debuffer (C6), Cleanser (Self Only)
 
 ## Character Breakdown
 
 * Elemental Skill provides a brief shield based off of her max HP, followed up by a counterattack that scales in both damage and energy generated through either absorbing multiple attacks or activating the skill at the moment where an attack hits you.
+  * A1 improves her elemental skill damage when using it to block perfectly.
+  * A4 improves her attack speed (of normal and charge attacks) by 15%. and greatly reduces her delay for unleashing charge attacks, lasts for 10s after using her Elemental skill.
 * Elemental Burst creates chain lightning when your on-field character connects with Normal or Charged Attacks while also providing a substantial amount of damage reduction, dealing Electro Damage that jumps beyweem enemies.
-* A1 improves her elemental skill damage when using it to block perfectly.
-* A4 improves her attack speed (of normal and charge attacks) by 15%. and greatly reduces her delay for unleashing charge attacks, lasts for 10s after using her Elemental skill.
 * Beidou excels most as an Off-Field DPS, relying on her massive Elemental Burst scaling to provide damage.
 
 ## Additional Notes
@@ -41,7 +41,7 @@
 
 * Beidou applies Electro for Superconduct and her high Electro damage can assist Eula against enemies with high Physical resistance.
 
-![](broken-reference)![](broken-reference)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
 * Typically used in a “Taser Comp” where Xingqiu and Fischl provide damage with Beidou and the Anemo character triggers Swirl to reduce enemy resistances.
 * Kazuha provides additional damage with his elemental damage increase, especially in dual electro teams.
@@ -56,7 +56,7 @@
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
 
 * Pairing Beidou with Ganyu or Ayaka will largely lead to triggering Superconduct, a reaction which does not increase the pure Cryo damage of these characters and make take away from other more beneficial reactions.
 
@@ -70,28 +70,28 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-[Electro-Charged](../../teams/electro-charged.md)
+****[**Electro-Charged**](../../teams/electro-charged.md)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Beidou is typically used as an Off-Field DPS in these teams with an on-field character such as Keqing or Childe to trigger her Elemental Burst's chain lightning.
 * A second Electro character is recommended to help fund Beidou's Elemental Burst.
 * Last slot is a flex slot that can be used to contribute extra damage/swirl reations.
 
-[Physical](../../teams/physical.md)
+****[**Physical**](../../teams/physical.md)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * Beidou provides Off-Field Electro damage for Eula to trigger Superconduct and decrease enemies Physical Resistance.
 * A second Electro character is recommended to help fund Beidou's Elemental Burst.
 
-[Overload](../../teams/overload.md)
+****[**Overload**](../../teams/overload.md)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****
 
 * Beidou's high Off-Field DPS makes this team comp work especially against large or heavy enemies who don't get blown away by Overload.
 * A second Electro character is recommended to help fund Beidou's Elemental Burst and create more Overload reactions.
