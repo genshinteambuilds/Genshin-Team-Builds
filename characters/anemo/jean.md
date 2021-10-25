@@ -7,6 +7,8 @@
 
 ## Character Breakdown
 
+* Normal and Charged Attacks have a 50% chance to heal the party for 15% of Jean's attack at A1.
+* Charged Attacks cause most affected enemies to float in the air for a short period of time after doing damage.
 * Elemental Skill deals damage and can knock back enemies when tapped.
 * Elemental Skill can gather smaller enemies when held. Releasing the skill knocks back enemies in the direction you're facing.
 * Elemental Burst both deals a large amount of damage and heals a large amount when used.
@@ -20,6 +22,7 @@
 * C4 reduces the Anemo Resistance of enemies standing within the field created by her Elemental Burst by 40%.
 * Anemo characters need to be within 20 levels of enemies to be able to crowd control them most effectively.
 * Can act as a Debuffer with Viridescent Venerer 4-set or as a Buffer with Noblesse Oblige 4-set if running 2 Anemo supports.
+* Jean's healing potential is based off of her attack, allowing her to focus on damage while still providing great healing potential.&#x20;
 
 ## Works Well With
 
@@ -28,7 +31,7 @@
 * Jean pairs well with almost all characters in the game as Viridescent Venerer 4-set can Debuff Elemental Resistance on enemies for 4 of the elements (Cryo, Electro, Hydro and Pyro).
 * Jean can act as an Energy Battery for other Anemo characters, while those other Anemo characters can in turn act as Energy Batteries for Jean, as well.
 * You should generally avoid pairing Jean with another healer as Jean's healing is sufficient for most content.
-  * Bennett + Jean is one exception to this rule in situations where this exact pairing can help deal with shields in Spiral Abyss.
+  * Bennett + Jean is one exception to this rule in situations where this exact pairing can combine Elemental Bursts to quickly trigger Swirl to destroy enemy shields.&#x20;
 
 ## Does Not Work Well With
 
@@ -38,12 +41,12 @@
 
 ## Teams
 
-{% hint style="info" %}
-Click on the team names below for more details on how the team works and alternative support options that can work with that team.
+{% hint style="warning" %}
+This character is a healer. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
 {% endhint %}
 
 {% hint style="info" %}
-This character is a healer, and can be used on any team provided you do not have better healing options.
+Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
 {% hint style="info" %}
