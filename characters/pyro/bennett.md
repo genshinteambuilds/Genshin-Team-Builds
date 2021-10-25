@@ -44,14 +44,12 @@
 
 ## **Teams**
 
-
-
-{% hint style="info" %}
-Click on the team names below for more details on how the team works and alternative support options that can work with that team.
+{% hint style="warning" %}
+This character is a healer. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
 {% endhint %}
 
 {% hint style="info" %}
-This character is a healer, and can be used on any team provided you do not have better healing options.
+Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
 ### **Main DPS Teams**
