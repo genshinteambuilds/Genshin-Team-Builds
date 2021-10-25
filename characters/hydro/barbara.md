@@ -2,26 +2,35 @@
 
 ## Roles
 
-* \*\*Support: \*\*Healer, Cleanser
+* **Support**: Healer, Cleanser
 
 ## Character Breakdown
 
-* Auto Attack: Applies hydro to the enemies which can be used for enabler Barbara
-* Elemental Skill: Heals and applies hydro to the active character every few seconds and applies hydro to the enemies on a small area around the character.
-* Elemental Burst: Heals all party members.
+* Normal Attack applies Hydro to enemies hit. Charged attack applies Hydro in a larger radius and does increased damage.&#x20;
+* Elemental Skill creates and aura which heals and applies Hydro to the active character every few seconds while also applying Hydro to enemies nearby the active character.
+* Elemental Skill additionally causes Barbara's Normal and Charged Attacks to heal the party a small amount.&#x20;
+* Elemental Burst heals all party members a large amount.&#x20;
 
 ## Additional Notes
 
-* Barbara usually equips Thrilling Tales of Dragon Slayer to buff the main damage dealer of the team. She also benefits from the HP substat of the weapon increasing her healing.
-* Her hydro application to the active character whenever the heal applies allows for the removal of enemy elemental debuffs by reacting them away. Note that this self-application also allows enemy hits to react with it resulting in the active character either taking additional damage, or being inconvenienced in another way (Freeze and Electro-charged).
+* Elemental Skill and Burst both heal based of off Barbara's maximum HP.
+* A1 reduces stamina consumption of the active character while Barbara's Elemental Skill is active.
+* A4 increase the duration of Barbara's Elemental Skill when Energy Particles are picked up.
+* C2 provides a 15% Hydro damage bonus while Barbara's Elemental Skill is active.
+* C6 resurrects a fallen party member with full health once every 15 minutes.
+  * This cooldown does not reset while entering or restarting domains, including Spiral Abyss. The resurrection can be used multiple times in multiple floors of Spiral Abyss, as long as the cooldown is waited out.
 
 ## Works well with
 
-![](https://lh5.googleusercontent.com/oflyNy4FoFjZaM75AjdX031doq4Pl2rD_lwI07Y2lTp931ayhzv54Ral2Ta2eaMEOKhIqVezpBc78YVW6c3LvxtrumwArqVES92FBczFSCXkzzrYaj2Ps4v3lyAwJLShISd1EX9X=s0) ![](https://lh3.googleusercontent.com/9GjQweI9uI8un57o4mbHrNIS3dYNllwJddclvUEebic5ioX2FdmQhlvHA75nlSLptDizl8oHBn9BAkK87KpUB8tNYQYZyhKocJDxFvjxqUhZcXSEv\_0HNYPAuoqc-yMNSe2jXfoK=s0) ![](https://lh5.googleusercontent.com/hywqhHnYlQtZ2Uwy7axISqJtpff7ivaIPCV5q_JUQUwZBHD589W2Fv4v1SFvAdxELNR1U0\_9eGxzeadG1ec8XAOAw6DKnq8v3qh3XvYZNbWgEoWHV3T7eq82PECOVG6PEd6NWjLs=s0) ![](https://lh4.googleusercontent.com/jA6l7YDq9YgMA9x3IDTSX\_9QLQiLYB0hzndNCoE0EblmMpBzbM_rGlpG7mrtuvlDe2MIPDk8pC4pzzIMq7WdAYOfx2LBAgvChLBRa8Bv4ywZ8LPm5V0cdFLnXfhJU87Rz7Twc5gx=s0) ![](https://lh4.googleusercontent.com/LdlxvGw-xw2bYfpycNGbm526oeNPp-VCzHXn4K4B8W30-yqegAGxeHLl0ng9etn5ci9wTWdvdrWqOFt96Wcab8ygN1B7T2vB4V0GulH4ARBY5CVP8P3MztzFpR9IP6uhiaNoyNdA=s0) ![](https://lh6.googleusercontent.com/zNiMbaOpuMmhITzAX9kqRTmhQ9Gesjs5totFpViXucufn5kRsqyx-spC0VQXdjrNEJw5CQ7S5Lj3WZe1kQBjhsug1-GiAJMUmcgA4Yb2hfk-M8UqFnKVe-LLEGVKbrTtlabHrZOr=s0)
+![](../../.gitbook/assets/Element\_Cryo.webp)
 
-* She can function as a healer for most teams.
+* Barbara's constant Hydro application with her Elemental Skill allows her to be used as both a Hydro provider and Healer in Freeze based teams.
 
-## When to avoid
+![](../../.gitbook/assets/Element\_Electro.webp)
+
+* Barbara's Hydro application through both her Normal Attacks and Elemental Skill allows her to repeatedly trigger the Electrocharged reaction and act as a Healer in combination with Electro characters.
+
+## Does not work well with
 
 * Using Barbara as a healer in situations with high amounts of Pyro, Cryo, or Electro damage from enemies can be catastrophic as her Elemental Skill's hydro application to the active character can cause them to be effected by their corresponding reactions. (Vaporize: causing the active character to take 1.5x damage from the hit, Freeze: locking the active character in place preventing dodging, and Electro-charged: applying a damage over time that staggers the active character whenever damage is applied)
 
@@ -33,7 +42,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [Freeze](../../teams/freeze.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Ayaka.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Barbara.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
 
 * Only recommended if the other team needs Xingqiu more and you have no Mona
 
