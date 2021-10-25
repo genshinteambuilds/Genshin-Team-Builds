@@ -22,30 +22,34 @@
 
 ## Works well with
 
-![](../../.gitbook/assets/Element\_Cryo.webp)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
 
-* Barbara's constant Hydro application with her Elemental Skill allows her to be used as both a Hydro provider and Healer in Freeze based teams.
+* While Barbara is not the usual first choice for Hydro application for Freeze teams, her constant application with her Elemental Skill does allow her to function as a Hydro applier and Healer in them.
 
-![](../../.gitbook/assets/Element\_Electro.webp)
+![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Barbara's Hydro application through both her Normal Attacks and Elemental Skill allows her to repeatedly trigger the Electrocharged reaction and act as a Healer in combination with Electro characters.
+* Barbara can work in almost any team in the game as a universal Healer.
+* Barbara's high healing and unique resurrection at C6 can provide options for teams struggling to survive.
 
 ## Does not work well with
 
-* Using Barbara as a healer in situations with high amounts of Pyro, Cryo, or Electro damage from enemies can be catastrophic as her Elemental Skill's hydro application to the active character can cause them to be effected by their corresponding reactions. (Vaporize: causing the active character to take 1.5x damage from the hit, Freeze: locking the active character in place preventing dodging, and Electro-charged: applying a damage over time that staggers the active character whenever damage is applied)
+&#x20;![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
+
+* Barbara's focus on healing while providing little else greatly reduces her synergy with other Healers and Shielders, who often fill the same role, reducing Barbara's utility.&#x20;
 
 ## Teams
+
+{% hint style="warning" %}
+This character is a healer. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
+{% endhint %}
 
 {% hint style="info" %}
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-[Freeze](../../teams/freeze.md)
+****[**Freeze**](../../teams/freeze.md)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
+** **![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****
 
-* Only recommended if the other team needs Xingqiu more and you have no Mona
-
-## Footnotes
-
-It is technically possible to run Barbara to apply hydro for Electro-charged based teams, or as a main dps on a vaporize team. While possible, these are very niche, tend to be worse than other teams, and not recommended.
+* Barbara can be used as a Hydro applicator for a Freeze team while also providing healing utility.
+* As Barbara's damage and Hydro application potential is limited compared to other characters such as Xingqui and Mona, Barbara should typically only be used if other Hydro applicators are being used in other teams or if healing is needed and no other characters can be swapped out.
