@@ -36,18 +36,18 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
 * Tartaglia applies Hydro quickly in his Melee stance allowing Xiangling’s Elemental Skill and Burst to Reverse Vaporize it while being Off-Field. Check out the [Vaporize team ](../../teams/vaporize.md)page for more details.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
 * Both Beidou and Fischl are often used with Tartaglia in his [Electro-Charged teams](../../teams/electro-charged.md).
 * Beidou’s Elemental Burst can deal large amounts of electro damage while Beidou is Off-Field. Tartaglia’s fast attack speed during his melee stance can also cause Beidou's Elemental Burst to trigger more often.
 * Fischl is often paired with Beidou due to Beidou's high Elemental Burst energy cost. Fischl generates more energy for Beidou, provides more Off-Field damage and also Electro Resonance. It is also possible to use Fischl by herself for Electro-Charged reactions if you do not have Beidou.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * As with all Elemental Damage DPS, Anemo supports and Zhongli works well by reducing the enemy's Elemental Resistance with Viridescent Venerer or Zhongli's Jade Shield. Anemo characters often also supply useful Crowd Control abilities or other buffs.
 * Bennett basically works with everything under the sun. He provides buffing and healing and can also allow Tartaglia to Vaporize enemies in certain Oneshot team compositions.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
 
 * Not used as often but these two characters can increase Tartaglias damage at certain constellations.
 * At C2, Xingqiu decreases the Hydro RES of enemies hit by his Elemental burst’s Hydro swords.
@@ -59,12 +59,12 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
 ## **Does Not Work Well With**
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)****
 
 * Tartaglia generally does not work well in Freeze teams due to the long cooldown on his Elemental Skill resulting in periods of time where Hydro cannot be applied on to enemies reliably except via Charged Aimed Shots.
 * At C6, Tartaglia can maintain 100% uptime of his Melee stance that can make these team compositions work well.
 
-\*\* \*\*![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
 * Physical damage based characters do not synergize well with Tartaglia's Hydro damage.
 
@@ -76,7 +76,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### [Vaporize](../../teams/vaporize.md)
 
-![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Xiangling's Elemental Burst and Elemental Skill can work Off-Field allowing you to attack enemies in Tartaglia's Melee stance, inflicting the enemy with Hydro and allowing Xiangling's abilities to Reverse Vaporize for additional damage.
 * This is technically a Reverse Vaporize team composition since Xiangling's abilities are typically what triggers the reaction but is included in the Vaporize team page for simplicity.
@@ -84,13 +84,13 @@ Click on the team names below for more details on how the team works and alterna
 
 #### [Electro-Charged](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * This exact team is often called Fireworks due to the many different coloured numbers that pop up on the screen when playing this exact team composition. Check out the Electro-Charged team page for variations on this team composition.
 * Tartarglia's ability to attack rapidly while in his Melee stance allows Beidou's Elemental Burst to take effect multiple times.
 
 #### [Oneshot](broken-reference/)
 
-![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
 * A common Oneshot team setup for Tartaglia. For a detailed look at how Oneshots work, check out the [Oneshot ](broken-reference/)team page.
