@@ -19,35 +19,35 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * Buffs the team, provides pyro resonance and can generate energy particles for Yanfei.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png)
 
 * A must for pyro dps. Enables for Yanfei to Vaporize her charged attacks and deal damage at the same time.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Kazuha.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sucrose.png) ![](../../.gitbook/assets/UI_AvatarIcon_Venti.png)
 
 * They decreases the pyro res of enemies if they're equipped with a 4 set Viridescent Venerer while providing strong crowd control to gather enemies.
 * Kazuha increases Yanfei's Pyro DMG bonus with his talent while Sucrose increases Yanfei's Elemental Master with her talent if they swirl pyro.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png)
 
 * They're used with Yanfei in an overload or vapeload (vaporize and overload) team composition. Even if overload knockback enemies, with Yanfei's range, its not a big problem. Both Fischl and Beidou has high off-field electro damage and can provide more AoE damage due to overload.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png)
 
 * Zhongli's shield help protecting Yanfei from big damages, prevents Yanfei from getting knockbacked easily, and to stop her charged attack from getting interrupted. His shield can also decrease enemies res.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/Element\_Pyro.webp)
+![](../../.gitbook/assets/Element_Pyro.webp)
 
 * Yanfei is better to be used as the only pyro dps in the team.
 * Does not include supports like bennett.
 
-![](../../.gitbook/assets/Element\_Electro.webp)
+![](../../.gitbook/assets/Element_Electro.webp)
 
 * Taser-Vape is still a fairly niche comp and overload is something to be avoided.
 
@@ -59,34 +59,34 @@ Click on the team names below for more details on how the team works and alterna
 
 [Reverse Vaporize](../../teams/reverse-vaporize.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Yanfei.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sucrose.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Yanfei.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Zhongli.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * Standard Reverse Vaporize Team. Xingqiu allows Yanfei to vaporize her Charged Attack
 
 [Tazer](broken-reference/)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Yanfei.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Yanfei.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Beidou.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png)
 
 * Yanfei spams 3 normal attacks followed by a charged attack to do both vaporize and overload
 
 [Melt](../../teams/melt.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Yanfei.png) ![](../../.gitbook/assets/UI_AvatarIcon_Rosaria.png) ![](../../.gitbook/assets/UI_AvatarIcon_Venti.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png)
 
 * Usually used against small mobs, but if against large mobs that can’t be sucked by venti, Ganyu would be preferred as the cryo to keep them inside or near Venti’s Q
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Yanfei.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Rosaria.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * Melt Team which prioritizes on Yanfei getting her CA vaporized
 * Usually not as consistent as Reverse vaporize as you’d usually want to wait for the cryo aura to appear if you want to melt with Yanfei
 
 [Reverse Melt](../../teams/reverse-melt.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Yanfei.png) ![](../../.gitbook/assets/UI_AvatarIcon_Rosaria.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * Yanfei uses 2 normal attacks followed by a charged attack for rosaria and kaeya to reverse melt.\
   \\
