@@ -19,7 +19,7 @@
 
 ## Works Well With:
 
-![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
+![](../../.gitbook/assets/Element\_Anemo.webp) ![](../../.gitbook/assets/Element\_Cryo.webp) ![](../../.gitbook/assets/Element\_Electro.webp) ![](../../.gitbook/assets/Element\_Pyro.webp) ![](../../.gitbook/assets/Element\_Geo.webp)
 
 * In the main DPS role, Amber’s slow pyro application allows her to melt all of her charged attacks.
 * In times when more AoE is needed, Amber can make use of Fischl and Beidou to proc overload.
@@ -39,7 +39,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [Melt](../../teams/melt.md)
 
-![](../../.gitbook/assets/ui\_avataricon\_amber.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/ui\_avataricon\_amber.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) \\
 
 * Amber’s CA does considerable damage when melting the cryo application from a cryo character.
   * At C2, her Elemental Skill can be use to trigger the melt as well.
