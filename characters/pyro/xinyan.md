@@ -23,21 +23,21 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Razor.png)
 
 * Razor is a traditional Physical Main DPS that can benefit from Xinyan's Shield and Physical Damage related Debuffs.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Eula.png)
 
 * Eula, similar to Razor, is able to benefit from Xinyan's Shield and Physical Damage related Debuffs.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * Bennett is able to pair with Xinyan nicely to provide Healing, Shielding, Buffs/Debuffs and Pyro Resonance to any Physical Main DPS.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
+![](https://lh3.googleusercontent.com/vwzPL8yGc83AZqQ8T1QaLbBvP-HPYz1FmilKn_w5ZPl3p1wpR1FBLoGiuTA8-Rdtx_ziJVOv\_0MO6TWXEwi6ulu1ZIo-4veqdrerHCriFqNMjD01SJ9gEJ874a3pHg-qUALBGYpx) ![](https://lh4.googleusercontent.com/sPakhjVZmg5UeD0V-lvj-EAwFosglPy6yP-pJ0lDoBGn_RtOMJX56jeaNVDE1caufeOxyuN758ThERLQ9iO4bUfp2gmVoIRzObeSvoqH9uj9kBjXhxb3EHxSGsgAJlfDL6XHgv8-) ![](https://lh5.googleusercontent.com/lqDD-ea3EXQPqh6ZJ2Y7HRZWYXeb\_2U3afjBFpIqKJMcIRIvTzR7JmdGV3YIFJ4dgl8mxDOg61IuiPWGc2ojCUlb3aCM1a-FuIAWwK8Zkn18huEww_w15-mfScYcP-UzRmzO8yoN) ![](https://lh6.googleusercontent.com/0cjJgRJLQTovPXO6Bwvp6VeyF2doSMszFw1OCMe-oWDxRZ9208gUOsQnSzbXsPfh-fzVdTkxLN03T2OdlQ7QeS\_54kW3otujyjQR7u5DzZbENwAKoR6HD8W754LElmMkF6toNILi) ![](https://lh3.googleusercontent.com/UJMCX4egpKRf4Cvj2Ztr3KyU1BSvttFPxLhH5\_GnFAuUo1NHbuMbsQFeTcaMVkNin9-sIll6KX0t\_6TfWbn3VH9zh1TOSp3Adjr5GfjN224Eegg-Xb5P3UlpeY0QXMgP12VpaZhe) ![](https://lh3.googleusercontent.com/uHmg7086b0LgRjS9JM-IjxyCEgpLHu63COZNHEzvRXOndCDg-OEZQP-Fn0Rl8eisGfdn1ceIe4ZQr0iTI-kjsaZUwHhBxpdB-E3-u7xeh3sFS6HSN0J1MtoR4vYKx8SNWstT88l-)
 
 * Unless a team has a Physical Main DPS, Xinyan provides little as a Support.
 
@@ -49,11 +49,11 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Physical**](../../teams/physical.md)\*\*\*\*
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Razor.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xinyan.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png) ![](../../.gitbook/assets/UI_AvatarIcon_Diona.png)
 
 * A Physical team composition focused on providing large amounts of Buffs to Razor and Debuffs to the enemies.
 * Requires Bennett to be Constellation 5 or below.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xinyan.png) ![](../../.gitbook/assets/UI_AvatarIcon_Shougun.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png)
 
 * Similar to the team above, this team is focused on providing Eula with multiple Buffs.
