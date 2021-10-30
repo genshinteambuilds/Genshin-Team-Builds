@@ -33,7 +33,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
-* They're used with Yanfei in an overload or vapeload (vaporize and overload) team composition. Even if overload knockback enemies, with Yanfei's attack range, its not a big problem. Both Fischl and Beidou has high off-field electro damage and can provide more AoE damage due to overload.
+* They're used with Yanfei in an overload or vapeload (vaporize and overload) team composition. Even if overload knockback enemies, with Yanfei's attack range, its not a big problem. Both Fischl and Beidou provide off-field electro damage and Electro Resonance which creates additional energy particles from Elemental Reactions.
 
 ## Does Not Work Well With
 
