@@ -32,6 +32,10 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
 ## Works Well With
 
+![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+* Bennett provides almost everything Tartaglia wants from a Support. He can heal, apply Pyro, and provides a very high ATK buff.&#x20;
+
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
 * Tartaglia applies Hydro quickly in his Melee stance allowing Xiangling’s Elemental Skill and Burst to Reverse Vaporize it while being Off-Field. Check out the [Vaporize team ](../../teams/vaporize.md)page for more details.
@@ -42,16 +46,9 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 * Beidou’s Elemental Burst can deal large amounts of electro damage while Beidou is Off-Field. Tartaglia’s fast attack speed during his melee stance can also cause Beidou's Elemental Burst to trigger more often.
 * Fischl is often paired with Beidou due to Beidou's high Elemental Burst energy cost. Fischl generates more energy for Beidou, provides more Off-Field damage and also Electro Resonance. It is also possible to use Fischl by herself for Electro-Charged reactions if you do not have Beidou.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * As with all Elemental Damage DPS, Anemo supports and Zhongli works well by reducing the enemy's Elemental Resistance with Viridescent Venerer or Zhongli's Jade Shield. Anemo characters often also supply useful Crowd Control abilities or other buffs.
-* Bennett basically works with everything under the sun. He provides buffing and healing and can also allow Tartaglia to Vaporize enemies in certain Oneshot team compositions.
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
-
-* Not used as often but these two characters can increase Tartaglias damage at certain constellations.
-* At C2, Xingqiu decreases the Hydro RES of enemies hit by his Elemental burst’s Hydro swords.
-* At C2, Barbara increases Hydro DMG bonus by 15% to whoever is on field while her Elemental Skill is active.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
