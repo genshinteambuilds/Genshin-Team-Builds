@@ -210,9 +210,9 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 
 ### Sample Childe Teams
 
-![](../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
+![](../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-* Mona Elemental Burst -> Sucrose E -> Bennett Elemental Burst -> Tartaglia E (don't hit enemy with activation damage) -> Tartaglia Elemental Burst
+* Tartaglia Elemental Skill (apply Hydro on enemy) -> Bennett Elemental Burst (do not clear the Hydro application) -> Kazuha Elemental Burst (inside Bennett Elemental Burst) -> Mona Elemental Burst -> Tartaglia E -> Tartaglia Elemental Burst
 
 ![](../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
