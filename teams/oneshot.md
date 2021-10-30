@@ -88,7 +88,9 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-* Bennett Elemental Burst -> Kazuha Elemental Burst -> Ayaka Elemental Burst -> Hu Tao Elemental Skill -> Hu Tao Elemental Burst
+* Bennett Elemental Burst -> Ayaka Dash (if 4pc Instructor) -> Kazuha Elemental Burst -> Ayaka Elemental Burst -> Hu Tao Elemental Skill -> Hu Tao Elemental Burst
+
+{% embed url="https://drive.google.com/file/d/16SaV0cIho61AZ-Qf-MMPzQMuM3-tuCRY/view?usp=sharing" %}
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
@@ -214,6 +216,10 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 
 * Tartaglia Elemental Skill (apply Hydro on enemy) -> Bennett Elemental Burst (do not clear the Hydro application) -> Kazuha Elemental Burst (inside Bennett Elemental Burst) -> Mona Elemental Burst -> Tartaglia E -> Tartaglia Elemental Burst
 
+
+
+{% embed url="https://drive.google.com/file/d/1ayFszYOJv3Ut-XPdhTpv9RnnCNPiNY-N/view?usp=sharing" %}
+
 ![](../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
 * Tartaglia Elemental Skill (apply Hydro on enemy) -> Bennett Elemental Burst (do not clear the Hydro application) -> Kazuha Elemental Burst (inside Bennett Elemental Burst) -> Xiangling Elemental Burst -> Tartaglia Elemental Skill -> Tartaglia Elemental Burst
@@ -317,7 +323,7 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 
 * Ayaka Dash (apply Cryo on enemy) -> Kazuha Elemental Burst (infuse Cryo) -> Bennett Elemental Burst -> Mona Elemental Skill -> Mona Elemental Burst -> Ayaka Elemental Burst
 
-
+{% embed url="https://drive.google.com/file/d/1CQ5yy74_hY5Dugzq_p-EOJiSj7MMX11k/view?usp=sharing" %}
 
 ## **Main Carry: Raiden**
 
