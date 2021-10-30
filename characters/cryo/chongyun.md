@@ -62,7 +62,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### &#x20;![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* In these teams, Chongyun acts as a Burst DPS. His Elemental Burst should be melted by prior Pyro application from Bennett or Klee.
+* In Reverse Melt teams, Chongyun acts as a Burst DPS. His Elemental Burst should be melted by prior Pyro application from Bennett or Klee.
 
 [**National**](../../teams/national.md)
 
