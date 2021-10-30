@@ -24,15 +24,16 @@
 
 * Ganyu and Xiangling is a standard pairing for Melt combos, Xiangling’s frequent Pyro application can enable Ganyu’s Charged Attacks to consistently Melt for extreme damage.
 
-![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
 * While Tartaglia is played as the main DPS when paired with Xiangling, he effectively ends up being the support in this composition, applying constant Hydro auras and causing Xiangling’s abilities to consistently Vaporize.
+* Xingqiu can apply Hydro Auras off-field and allows consistent Vaporize on Xiangling's abilities. This also gives more freedom in switching between any character in the team to use their abilities. Xingqiu is more F2P friendly option over Childe as he is a 4★ character.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett acts as both a battery and a massive damage amp for Xiangling, giving her a large chunk of Attack both from his Burst and from Pyro Resonance which will snapshot into Xiangling’s Burst.
+* Bennett acts as both a battery and as a Damage Buffer for Xiangling, giving her a large chunk of Attack both from his Elemental Burst and from Pyro Resonance which will snapshot into Xiangling’s Burst.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * As with all Elemental Damage DPS, Anemo supports and Zhongli work well by reducing the enemy's Elemental Resistance with Viridescent Venerer or Zhongli's Jade Shield. Anemo characters often also supply useful Crowd Control abilities or other buffs.
 
@@ -46,6 +47,8 @@
 
 * Hu Tao is another Pyro character who typically wants to benefit from all the multiplicative reactions she can get, and while Xiangling can provide some decent buffs for her from Constellations, she will end up stealing a lot of Vaporize and Melt procs from Hu Tao.
 
+##
+
 ## Teams
 
 {% hint style="info" %}
@@ -54,14 +57,14 @@ Click on the team names below for more details on how the team works and alterna
 
 [Melt](../../teams/melt.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* This is a typical mixed DPS team that focuses on enabling Ganyu to hit massive numbers through Melts procs provided from Xiangling’s Pyro application.
+* This is a typical mixed DPS team that focuses on enabling Ganyu to hit massive numbers through Melt Reactions provided from Xiangling’s Pyro application.
 
 [Reverse Vaporize](../../teams/reverse-vaporize.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* This team will have Xiangling dealing the bulk of its damage with the Hydro unit applying constant Hydro applications to the enemy and having Xiangling’s Burst vaporize it.
+* This team will have Xiangling dealing the bulk of its damage with the Hydro unit applying constant Hydro auras to the enemy and having Xiangling’s Burst vaporize it.
