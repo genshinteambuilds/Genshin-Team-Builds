@@ -277,6 +277,8 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 * Xinyan can increase Eula's damage significantly if she is able to proc Wolf's Gravestone's passive with her Elemental Skill.&#x20;
 * Note: Bennett's Elemental Burst will barely last long enough for this rotation. Make sure to utilize the quick Elemental Burst commands (ALT + #) when using this rotation.
 
+{% embed url="https://drive.google.com/file/d/1cV_-0brEn9qaQz2HX6wmO3LwgnnfGjV4/view?usp=sharing" %}
+
 ## **Main Carry: Ayaka**
 
 **Supporting Cast:** Mona, Kazuha, Bennett, Ganyu, other Anemo, Zhongli
@@ -367,3 +369,5 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 ![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Raiden Shogun Elemental Skill -> Kazuha Elemental Burst -> Bennett Elemental Burst -> Sara Elemental Burst -> Raiden Elemental Burst
+
+{% embed url="https://drive.google.com/file/d/1E8FsBAgILEqwLOE09S6yQ4_-zN70AI_A/view?usp=sharing" %}
