@@ -3,7 +3,7 @@
 ## Roles
 
 * **Off-Field DPS** (Elemental Burst)
-* \*\*Support: \*\*Energy Battery
+* **Support**: Energy Battery
 
 ## Character Breakdown
 
@@ -27,7 +27,7 @@
 
 ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)
 
-* Traveler's high Electro application on Normal and Charged attacks can combine with Tartaglia's high Hydro application from the same source to frequent
+* Traveler's high Electro application on Normal and Charged Attacks can combine with Tartaglia's high Hydro application from the same source to frequent.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
 
