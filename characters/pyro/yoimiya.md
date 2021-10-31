@@ -62,7 +62,7 @@
 
 ## Teams
 
-[**Overload**](../../teams/overload.md)\*\*\*\*
+[**Overload**](../../teams/overload.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
@@ -72,7 +72,7 @@
 * When Beidou’s Burst is active, Yoimiya can use her skill and proc overload reactions and keep them away. Beidou's burst also help in dealing AoE damage to enemies which Yoimiya lacks.
 * Last slot is a flexible spot, could be someone such as Bennett for Pyro resonance, healing, and attack buff or Zhongli for more protection and crowd control. Any healer, shielder, or buffer would do.
 
-[**Reverse Vaporize**](../../teams/reverse-vaporize.md)\*\*\*\*
+[**Reverse Vaporize**](../../teams/reverse-vaporize.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
@@ -80,7 +80,7 @@
 
 * Xingqiu’s Elemental Burst applies Hydro aura on enemies that synergizes well with Yoimiya's Normal Attacks infused with Pyro to vaporize. It also triggers Yoimiya's burst on marked enemies.
 
-[**Melt**](../../teams/melt.md)\*\*\*\*
+****[**Melt**](../../teams/melt.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
