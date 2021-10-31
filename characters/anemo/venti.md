@@ -2,7 +2,7 @@
 
 ## Roles
 
-* \*\*Support: \*\*Debuffer (VV, C2, C6), Crowd Control (Grouping), Energy Battery
+* **Support**: Debuffer (VV, C2, C6), Crowd Control (Grouping), Energy Battery
 * **Off-Field DPS** (Elemental Burst)
 
 ## Character Breakdown
@@ -45,28 +45,28 @@ Click on the team names below for more details on how the team works and alterna
 In all the teams listed below, Venti universally provides Debuff utility using the Viridescent Venerer 4-set.
 {% endhint %}
 
-[**Freeze**](../../teams/freeze.md)\*\*\*\*
+[**Freeze**](../../teams/freeze.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * Venti on this team main uses his Elemental Burst to keep enemies grouped and frozen for Ganyu to shoot down using her fully aimed charged attacks.
 
-[**Reverse Vaporize**](../../teams/reverse-vaporize.md)\*\*\*\*
+[**Reverse Vaporize**](../../teams/reverse-vaporize.md)
 
 ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Venti in this comp is the primary source of grouping CC for the whole team.
+* Venti in this comp is the primary source of grouping Crowd Control for the whole team.
 * Venti can also act as a battery for Xiangling with his A4 talent because of Xiangling's high energy requirements.
 
-[**Anemo**](../../teams/anemo.md)\*\*\*\*
+[**Anemo**](../../teams/anemo.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Venti acts as Xiao's Energy Battery and a main source of grouping Crowd Control.
 * He can also decrease enemy Anemo resistance to enemies when he has C2 or C6 active.
 
-[**Electro-Charged**](../../teams/electro-charged.md)\*\*\*\*
+[**Electro-Charged**](../../teams/electro-charged.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Venti provides Keqing and Mona CC to group up the mobs for both of their bursts to hit and can also be an Energy Battery since Keqing and Mona uses their bursts a lot with this team comp.
+* Venti provides Keqing and Mona Crowd Control to group up the mobs for both of their bursts to hit and can also be an Energy Battery since Keqing and Mona uses their bursts a lot with this team comp.
