@@ -102,14 +102,3 @@ Click on the team names below for more details on how the team works and alterna
 ***
 
 * A Oneshot team composition where Hu Tao and Mona/Ayaka typically only cast their Elemental Bursts and the fight ends before any actual use of Normal Attacks needs to take place. For a detailed look at how Oneshots work,[ check out the Oneshot page.](broken-reference/)
-
-
-
-
-
-_<mark style="background-color:red;">**Note: Rag I'll keep this info here since I think it's viable for oneshot page so double check this and see what you think.**</mark>_
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) or ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
-
-* A Oneshot team composition where Hu Tao Melts her Elemental Burst instead of vaporizing it for the massive 2x damage multiplier. Damage comes primarily during Ayaka’s Elemental Burst window. Hu Tao can get 3 Charge attacks and an Elemental Burst to melt if you jump cancel/dash cancel correctly. Do not risk the 3rd charge attack if there has been any delay in getting the attacks off or if an animation cancel is failed, since the timing is quite strict.
-* Ayaka contributes to the composition's total burst damage with her Elemental burst which can do a large amount of damage on its own. She can be replaced by other Cryo characters.
