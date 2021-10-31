@@ -3,7 +3,7 @@
 ## **Roles**
 
 * **Burst DPS**
-* **Support: **Crowd Control (Taunting, Immobilization), Buffer
+* **Support**: Crowd Control (Taunting, Immobilization), Buffer
 
 ## **Character Breakdown**
 
@@ -19,42 +19,41 @@
 
 ## **Works Well With**
 
- [![](../.gitbook/assets/ui_avataricon_bennett.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/bennett)​
+[![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/bennett)​
 
-* Bennett both allows Mona's Elemental Burst to be Vaporized and grants an ATK buff to her, letting her become a Burst Sub DPS. 
+* Bennett both allows Mona's Elemental Burst to be Vaporized and grants an ATK buff to her, letting her become a Burst Sub DPS.
 
- [![](../.gitbook/assets/ui_avataricon_ayaka.png)](https://genshinteambuilds.gitbook.io/teams/characters/cryo/ayaka)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
 
 * Mona's Elemental Skill can keep opponents Frozen while her Elemental Burst can increase the damage of Ayaka’s Elemental Burst.
 
- [![](../.gitbook/assets/ui_avataricon_hutao.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/hu-tao)
+[![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/hu-tao)
 
 * Another strong double Elemental Burst combo that can lead to extremely large damage nukes.
 * Mona’s Taunt can also serve as a decent Hydro applier for Hu Tao’s charge attacks albeit with a short duration.
 
- [![](../.gitbook/assets/ui_avataricon_ganyu.png)](https://genshinteambuilds.gitbook.io/teams/characters/cryo/ganyu)
+[![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)](https://genshinteambuilds.gitbook.io/teams/characters/cryo/ganyu)
 
 * Similarly to Ayaka, Mona can easily keep enemies Frozen and increase Ganyu's damage in Freeze Ganyu comps.
 
 ## **Does Not Work Well With**
 
- [![](../.gitbook/assets/ui_avataricon_eula.png)](https://genshinteambuilds.gitbook.io/teams/characters/cryo/eula) ​​​
+[![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)](https://genshinteambuilds.gitbook.io/teams/characters/cryo/eula) ​​​
 
 * Despite being a Cryo Character, Eula's Attacks consistently cause Shatter, which prevents Freeze teams from functioning. Mona’s Damage Bonus buff from her Elemental Burst does not last long enough for Eula to perform the full duration of her own Elemental Burst.
 
 ## **Teams**
 
-**Vaporize**
+****[**Vaporize**](../../teams/vaporize.md)****
 
-[![](../.gitbook/assets/ui_avataricon_mona.png) ​](https://genshinteambuilds.gitbook.io/teams/characters/hydro/mona)[![](../.gitbook/assets/ui_avataricon_bennetti.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/bennett) [![](../.gitbook/assets/ui_avataricon_sucrose.png)](https://genshinteambuilds.gitbook.io/teams/characters/anemo/sucrose) ​[![](../.gitbook/assets/ui_avataricon_xiangling.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/xiangling)
+[![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ​](https://genshinteambuilds.gitbook.io/teams/characters/hydro/mona)[![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/bennett) [![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)](https://genshinteambuilds.gitbook.io/teams/characters/anemo/sucrose) ​[![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/xiangling)
 
-[![](../.gitbook/assets/ui_avataricon_mona.png) ​](https://genshinteambuilds.gitbook.io/teams/characters/hydro/mona)[![](../.gitbook/assets/ui_avataricon_bennetti.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/bennett) [![](../.gitbook/assets/ui_avataricon_kazuha.png)](https://genshinteambuilds.gitbook.io/teams/characters/anemo/kazuha) [![](../.gitbook/assets/ui_avataricon_hutao.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/hu-tao)​
+[![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png) ​](https://genshinteambuilds.gitbook.io/teams/characters/hydro/mona)[![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/bennett) [![](../.gitbook/assets/ui\_avataricon\_kazuha.png)](https://genshinteambuilds.gitbook.io/teams/characters/anemo/kazuha) [![](../.gitbook/assets/ui\_avataricon\_hutao.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/hu-tao)​
 
 * Mona can be utilized as both a Burst DPS and a Buffer Support.
 
-**Freeze**
+****[**Freeze**](../../teams/freeze.md)****
 
-[![](../.gitbook/assets/ui_avataricon_mona.png)](https://genshinteambuilds.gitbook.io/teams/characters/hydro/mona) ![](../.gitbook/assets/ui_avataricon_ayaka.png) ![](../.gitbook/assets/ui_avataricon_venti.png) ![](../.gitbook/assets/ui_avataricon_diona.png)
+[![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)](https://genshinteambuilds.gitbook.io/teams/characters/hydro/mona) ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)
 
 * Mona enables Permanent freeze and acts as a Buffer Support.
-
