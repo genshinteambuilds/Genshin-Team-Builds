@@ -87,7 +87,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [Melt](../../teams/melt.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](broken-reference)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * Hu Tao Melts most of her damage during Kaeya's Elemental Burst. Having a 4-set intructor set equipped will provide Hu Tao an Elemental Mastery boost whenever she melts
 * Xingqiu burst allows for some follow up damage using reverse vaporizes as a backup plan because melt reactions are not as consistent.
