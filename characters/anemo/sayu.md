@@ -2,7 +2,7 @@
 
 ## Roles
 
-* \*\*Support: \*\*Healer, Debuffer (VV)
+* **Support**: Healer, Debuffer (VV)
 * **Off-Field DPS** (Elemental Burst)
 
 ## Character Breakdown
@@ -19,13 +19,13 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/Element_Anemo.webp) ![](../../.gitbook/assets/Element_Cryo.webp) ![](../../.gitbook/assets/Element_Electro.webp) ![](../../.gitbook/assets/Element_Hydro.webp) ![](../../.gitbook/assets/Element_Pyro.webp)
+![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * Sayu works fairly well with most elemental teams, as 4 set Viridescent Venerer is always welcome, and combining it with a healer allows for other supports to fit on the team.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/UI_AvatarIcon_Eula.png) ![](../../.gitbook/assets/UI_AvatarIcon_Razor.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xinyan.png) ![](../../.gitbook/assets/Element_Geo.webp)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)![](../../.gitbook/assets/Element\_Geo.webp)
 
 * Sayu does not provide much benefit over other healers on a Physical or Geo focused team, as she cannot decrease Physical or Geo resistance.
 
@@ -33,24 +33,24 @@
 
 [**Reverse Vaporize**](../../teams/reverse-vaporize.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Hutao.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Ayaka.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sayu.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
 * Here she functions as the main healer and can be used to shred Cryo resistance with Viridescent Venerer for Ayaka’s burst or used to apply the Noblesse Oblige set to buff allied character’s attack.
 
 [**Melt**](../../teams/melt.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Rosaria.png) ![](../../.gitbook/assets/UI_AvatarIcon_Kaeya.png) ![](../../.gitbook/assets/UI_AvatarIcon_Bennett.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sayu.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
 * Here she functions as a debuffer used to shred Cryo resistance with Viridescent Venerer. Note, that if available, characters such as Sucrose would fill this role better.
 
 [**Freeze**](../../teams/freeze.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Ayaka.png) ![](../../.gitbook/assets/UI_AvatarIcon_Mona.png) ![](../../.gitbook/assets/UI_AvatarIcon_Rosaria.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sayu.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
 * Sayu is used in this team as the main healer and can be used to decrease Cryo resistance with 4 set Viridescent Venerer.
 
 [**Electro-Charged**](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/UI_AvatarIcon_Keqing.png) ![](../../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../../.gitbook/assets/UI_AvatarIcon_Fischl.png) ![](../../.gitbook/assets/UI_AvatarIcon_Sayu.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
 * Sayu is used in this team as the main healer and can be used to decrease Electro resistance with 4 set Viridescent Venerer.
