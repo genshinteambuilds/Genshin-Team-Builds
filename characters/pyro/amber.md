@@ -47,7 +47,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/ui\_avataricon\_amber.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Amber’s CA does considerable damage when melting the Cryo application from a Cryo character.
+* Amber’s Charged Attack does considerable damage when activating the Melt reaction by hitting an enemy with Cryo applied to it.
   * At Constellation 2, her Elemental Skill can be use to trigger the melt as well.
 * Rosaria Burst applies Cryo to enemies allowing for the Melt reactions.
 * Zhongli's shield reduces enemy resistances as well as blocks enemy hits making landing attacks much simpler.
