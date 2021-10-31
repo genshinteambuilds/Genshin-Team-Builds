@@ -48,7 +48,7 @@
 
 [![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ​](https://genshinteambuilds.gitbook.io/teams/characters/hydro/mona)[![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/bennett) [![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)](https://genshinteambuilds.gitbook.io/teams/characters/anemo/sucrose) ​[![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/xiangling)
 
-[![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png) ​](https://genshinteambuilds.gitbook.io/teams/characters/hydro/mona)[![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/bennett) [![](../.gitbook/assets/ui\_avataricon\_kazuha.png)](https://genshinteambuilds.gitbook.io/teams/characters/anemo/kazuha) [![](../.gitbook/assets/ui\_avataricon\_hutao.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/hu-tao)​
+[![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png) ​](https://genshinteambuilds.gitbook.io/teams/characters/hydro/mona)[![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/bennett) [![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)](https://genshinteambuilds.gitbook.io/teams/characters/anemo/kazuha) [![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/hu-tao)​
 
 * Mona can be utilized as both a Burst DPS and a Buffer Support.
 
