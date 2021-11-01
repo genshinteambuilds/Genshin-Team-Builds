@@ -58,14 +58,6 @@ Refer to the character notes below for how characters work in this particular te
 
 \*\*NOTE: \*\*Teams are very flexible as there are very few requirements and synergies in an Anemo-based team.\\
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Xiao.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
-
-![](../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)
-
-![](../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)
-
-![](../.gitbook/assets/UI\_AvatarIcon\_Xiao.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
-
 ![](../.gitbook/assets/UI\_AvatarIcon\_Xiao.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Xiao acts as the Main DPS and generally requires an Energy Battery (in this case, Sucrose), to maintain Elemental Burst uptime. Xiangling provides extra damage and activates Pyro Resonance with Bennett, who both heals and buffs Xiao's Attack.
