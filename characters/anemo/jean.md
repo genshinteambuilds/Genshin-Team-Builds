@@ -14,11 +14,11 @@
 * **Elemental Burst** also creates a **Dandelion Field** which continuously heals characters that stand in it.
 * **Elemental Burst** cleanses Debuffs from all team members.
 * Can act as a Debuffer with **Viridescent Venerer** 4-set or as a Buffer with **Noblesse Oblige** 4-set if running 2 **Anemo** supports.
-* **Anemo **characters need to be within a 20 level gap of enemies to be able to **Crowd Control** them most effectively.
+* **Anemo **characters need to be within a 20 level gap of enemies to be able to Crowd Control them most effectively.
 
 ## **Additional Notes**
 
-* Often paired with another **Anemo** character to act as an Energy Battery for them and also to regenerate energy for herself, as her Elemental Burst has a high energy requirement.
+* Often paired with another **Anemo** character to act as an Energy Battery for them and also to regenerate energy for herself, as her **Elemental Burst** has a high energy requirement.
 * **C4** reduces the **Anemo Elemental Resistance** of enemies standing within the field created by her Elemental Burst by 40%.
 * Jean's healing scales off **Attack.**
 * **Charged Attacks** cause smaller enemies to float in the air for a short period of time after doing damage.
@@ -27,22 +27,22 @@
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Jean pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can Debuff** Elemental Resistance** on enemies for 4 of the elements (**Cryo, Electro, Hydro, and Pyro**).
-* Jean can act as an Energy Battery for other **Anemo** characters, while those other **Anemo** characters can in turn act as Energy Batteries for Jean, as well.
-* You should generally avoid pairing Jean with another **Healer** as Jean's healing is sufficient for most content.
+* Jean pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can Debuff** Elemental Resistance** on enemies for 4 of the elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
+* Jean can act as an Energy Battery for other **Anemo** characters, while those other **Anemo** characters can in turn act as Energy Batteries for Jean as well.
+* You should generally avoid pairing Jean with another Healer as Jean's healing is sufficient for most content.
   * Bennett + Jean is one exception to this rule in situations where this exact pairing can combine **Elemental Bursts** to quickly trigger **Swirl** to destroy enemy shields.&#x20;
 
 ## Does Not Work Well With
 
 ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* **Anemo **cannot cause **Elemental **Reactions with **Geo** and **Viridescent Venerer** cannot provide Debuffing for **Geo **and** Physical **Damage characters.
+* **Anemo **cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide Debuffing for **Geo **and** Physical **damage characters.
   * Jean can still be used with these characters if your team requires healing but will provide little other value.
 
 ## Teams
 
 {% hint style="warning" %}
-This character is a **Healer**. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
+This character is a Healer. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
 {% endhint %}
 
 {% hint style="info" %}
@@ -53,17 +53,17 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Jean acts as an Energy Battery for Xiao in this team and can also provide Crowd Control and **Healing** utility.
+* Jean acts as an Energy Battery for Xiao in this team and can also provide Crowd Control and Healing utility.
 
 {% hint style="info" %}
-In all the teams listed below, Jean universally provides Debuff utility using the **Viridescent Venerer** 4-set and can also provide **Healing, **Crowd Control, and Cleansing utility based on the needs of the team.
+In all the teams listed below, Jean universally provides Debuff utility using the **Viridescent Venerer** 4-set and can also provide Healing**, **Crowd Control, and Cleansing utility based on the needs of the team.
 {% endhint %}
 
 #### [Electro-Charged](../../teams/electro-charged.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
-* Jean fills both the **Healer** role in this team and the Debuffer, using **Viridescent Venerer** to increase the other party member's **Elemental** Damage.
+* Jean fills both the Healer role in this team and the Debuffer, using **Viridescent Venerer** to increase the other party member's damage.
 
 #### [Overload](../../teams/overload.md)
 
