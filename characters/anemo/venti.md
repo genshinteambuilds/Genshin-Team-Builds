@@ -15,23 +15,21 @@
 
 * **A1 **creates an upward current that the active characters can use to glide into the air when using **Elemental Skill** (Hold).
 * **A4** regenerates 15 energy for Venti after his **Elemental Burst** ends. If the **Elemental Burst** is infused with an element, every character with that infused element gains 15 energy.
-* **C2 **debuffs **Anemo** Resistance whenever enemies are hit by Venti's **Elemental Skill.**
-* **C6 **debuffs **Anemo** Resistance and **Elemental** Resistance of the absorbed element when enemies are hit by Venti's **Elemental Burst.**
+* **C2 **debuffs **Anemo Resistance** whenever enemies are hit by Venti's **Elemental Skill.**
+* **C6 **debuffs **Anemo Resistance** and **Elemental Resistance** of the absorbed element when enemies are hit by Venti's **Elemental Burst.**
 
 ## Works Well With
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Venti pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can Debuff **Elemental** Resistance on enemies besides **Anemo** (which can be decreased with **constellations**) and **Geo.**
-* With other **Anemo** characters, **Venti** can act as an Energy Battery and also receive energy from other **Anemo** characters.
+* Venti pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental Resistance** on enemies besides **Anemo** (which can be decreased with **constellations**) and **Geo.**
+* With other **Anemo** characters, **Venti** can act as an energy battery and also receive energy from other **Anemo** characters.
 
 ## Does Not Work Well With
 
-
-
 ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide Debuffing for **Geo **and** Physical **Damage characters.
+* **Anemo **cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo **and** Physical **Damage characters.
   * He can however could still be used for Crowd Control.
 
 ## Teams
@@ -44,28 +42,28 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Venti acts as Xiao's Energy Battery and a main source of grouping Crowd Control.
-* He can also decrease enemy Anemo resistance to enemies when he has C2 or C6 active.
+* Venti acts as Xiao's energy battery and a main source of grouping crowd control.
+* He can also decrease enemy **Anemo Resistance** to enemies when he has **C2** or **C6** active.
 
 {% hint style="info" %}
-In all the teams listed below, Venti universally provides Debuff utility using the **Viridescent Venerer** 4-set.
+In all the teams listed below, Venti universally provides debuff utility using the **Viridescent Venerer** 4-set.
 {% endhint %}
 
-[**Electro-Charged**](../../teams/electro-charged.md)
+[**Electro-Charged (Electro)**](../../teams/electro-charged.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Venti provides Keqing and Mona Crowd Control to group up enemies for both of their **Elemental Bursts** to hit and can also be an Energy Battery since Keqing and Mona uses their **Elemental Bursts** a lot with this team..
+* Venti provides Keqing and Mona crowd control to group up enemies for both of their **Elemental Bursts** to hit and can also be an energy battery since Keqing and Mona uses their **Elemental Bursts** a lot with this team..
 
-[**Freeze**](../../teams/freeze.md)
+[**Freeze (Cryo)**](../../teams/freeze.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * Venti on this team main uses his **Elemental Burst** to keep enemies grouped up and Frozen for Ganyu to shoot down using her fully aimed **Charged attacks.**
 
-[**Reverse Vaporize**](../../teams/reverse-vaporize.md)
+[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 
 ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Venti in this team is the primary source of **Crowd Control** for the whole team.
-* Venti can also act as an Energy Battery for Xiangling with his **A4** talent because of Xiangling's high energy requirements.
+* Venti in this team is the primary source of crowd control for the whole team.
+* Venti can also act as an energy battery for Xiangling with his **A4** talent because of Xiangling's high energy requirements.

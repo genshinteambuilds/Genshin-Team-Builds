@@ -12,7 +12,7 @@
   * **Elemental Skill** (Hold) can absorb another element, dealing additional damage of that element to enemies hit while Sayu is rolling.
   * **Elemental Skill** cooldown time creases depending on how long Sayu spends rolling.
 * **Elemental Burst** summons a **Daruma** that deals **Anemo** damage to nearby enemies and **heals** nearby team members. **Healing** or **Damage** done depends on whether there are any nearby enemies and the current HP of team members.
-* Can act as a Debuffer with **Viridescent Venerer** 4-set.
+* Can act as a debuffer with **Viridescent Venerer** 4-set.
 
 ## Additional Notes
 
@@ -24,16 +24,14 @@
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Sayu pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can Debuff **Elemental Resistance** on enemies for 4 of the elements (**Cryo, Electro, Hydro, and Pyro**).
+* Sayu pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental Resistance** on enemies for 4 of the elements (**Cryo, Electro, Hydro, and Pyro**).
 
 ## Does Not Work Well With
 
 ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* **Anemo **cannot cause **Elemental **Reactions with **Geo** and **Viridescent Venerer** cannot provide Debuffing for **Geo **and** Physical **Damage characters.
+* **Anemo **cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo **and** Physical **Damage characters.
   * Sayu can still be used with these characters if your team requires healing but will provide little other value.
-
-
 
 ## Teams
 
@@ -45,22 +43,22 @@ This character is a **Healer**. While some teams are provided below where they a
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
-* Sayu functions as a **Healer** and can be used to Debuff **Cryo** resistance with **Viridescent Venerer** 4-set for Ayaka’s **Elemental Burst** or used to apply the **Noblesse Oblige** 4-set to Buff** **allied character’s attack.
+* Sayu functions as a **Healer** and can be used to debuff **Cryo Resistance** with **Viridescent Venerer** 4-set for Ayaka’s **Elemental Burst** or used to apply the **Noblesse Oblige** 4-set to buff** **allied character’s attack.
 
-[**Melt**](../../teams/melt.md)
+[**Melt (Cryo)**](../../teams/melt.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
-* Sayu functions as a Debuffer used to Debuff **Cryo** resistance with **Viridescent Venerer** 4-set. Note, that if available, characters such as **Sucrose** would fill this role better.
+* Sayu functions as a debuffer used to debuff **Cryo Resistance** with **Viridescent Venerer** 4-set. Note, that if available, characters such as **Sucrose** would fill this role better.
 
-[**Freeze**](../../teams/freeze.md)
+[**Freeze (Cryo)**](../../teams/freeze.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
-* Sayu functions as a **Healer** and can be used to Debuff **Cryo** resistance with **Viridescent Venerer** 4-set.
+* Sayu functions as a **Healer** and can be used to debuff **Cryo Resistance** with **Viridescent Venerer** 4-set.
 
-[**Electro-Charged**](../../teams/electro-charged.md)
+[**Electro-Charged (Electro)**](../../teams/electro-charged.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
-* Sayu functions as a **Healer** and can be used to Debuff **Electro** resistance with **Viridescent Venerer** 4-set.
+* Sayu functions as a **Healer** and can be used to debuff **Electro Resistance** with **Viridescent Venerer** 4-set.

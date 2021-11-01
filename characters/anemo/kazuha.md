@@ -11,34 +11,34 @@
 * **Elemental Skill** creates a vacuum that launches Kazuha into the air and can group smaller enemies.
   * Performing a **Plunge Attack** after using his **Elemental Skill** creates a "small wind tunnel" and groups enemies.
 * **Elemental Burst** creates a field that can absorb **Cryo**, **Electro**, **Hydro**, or **Pyro** and will continually deal damage of that elemental type along with **Anemo** and **Swirl** damage.
-  * Once the **Elemental Burst** absorbs an element, enemies within the field are periodically damaged with that element, allowing other **Elemental **Reactions with that element to frequently take place.
+  * Once the **Elemental Burst** absorbs an element, enemies within the field are periodically damaged with that element, allowing other **Elemental Reactions** with that element to frequently take place.
 * At **A4**, any element Kazuha **Swirls** will give the entire team an **Elemental Damage** boost to that element, proportional to his **Elemental Mastery.**
-  * Kazuha can reach **Elemental Mastery** values as high as 1000, which gives **40% additional damage** for any swirled element.
-* Kazuha can **Swirl** multiple different elements quite easily, providing Buffs** **and Debuffs for those elements with his **A4** and **Viridescent Venerer.**
+  * Kazuha can reach **Elemental Mastery** values as high as 1000, which gives 40% additional damage for any swirled element.
+* Kazuha can **Swirl** multiple different elements quite easily, providing buffs** **and debuffs for those elements with his **A4** and **Viridescent Venerer.**
 
 ## **Additional Notes**
 
-* **C1** resets the cooldown of Kazuha's **Elemental Skill** after using his Elemental Burst.
-* **C2** increases the entire team's **Elemental Mastery** by 200 after using Kazuha's Elemental Burst.
-* **C4** allows Kazuha to generate much more Energy for himself.
+* **C1** resets the cooldown of Kazuha's **Elemental Skill** after using his **Elemental Burst.**
+* **C2** increases the entire team's **Elemental Mastery** by 200 after using Kazuha's **Elemental Burst.**
+* **C4** allows Kazuha to generate much more energy for himself.
 * **C6** infuses Kazuha's attacks with **Anemo** and boosts their damage by 0.2% of his **Elemental Mastery**. This allows him to be used as the Main DPS character in an [Anemo team.](../../teams/anemo.md)
 
 ## Works Well With
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Kazuha pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can Debuff **Elemental Resistance** on enemies for 4 of the elements (**Cryo, Electro, Hydro, and Pyro**).
-* Kazuha can act as an Energy Battery for other **Anemo** characters, while those other **Anemo** characters can in turn act as Energy Batteries for Kazuha, as well.
+* Kazuha pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental Resistance** on enemies for 4 of the elements (**Cryo, Electro, Hydro, and Pyro**).
+* Kazuha can act as an energy battery for other **Anemo** characters, while those other **Anemo** characters can in turn act as energy batteries for Kazuha, as well.
 
 ## Does Not Work Well With
 
 ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* **Anemo **cannot cause **Elemental **Reactions with **Geo** and **Viridescent Venerer** cannot provide Debuffing for **Geo **and** Physical **Damage characters.
+* **Anemo **cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo **and** Physical **Damage characters.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)
 
-* Kazuha cannot Buff** Anemo** damage as **Anemo** cannot be absorbed into his **Elemental Burst.** Other **Anemo** characters with more powerful Crowd Control abilities or other utility are often preferred in an **Anemo** team composition as a result.
+* Kazuha cannot buff** Anemo** damage as **Anemo** cannot be absorbed into his **Elemental Burst.** Other **Anemo** characters with more powerful Crowd Control abilities or other utility are often preferred in an **Anemo** team composition as a result.
 
 ## Teams
 
@@ -56,11 +56,11 @@ Click on the team names below for more details on how the team works and alterna
 In all the teams listed below, Kazuha universally provides Debuffing using the **Viridescent Venerer** 4-set and can also provide boosts to multiple elemental damage types.
 {% endhint %}
 
-#### [Electro-Charged](../../teams/electro-charged.md)
+#### [Electro-Charged (Electro)](../../teams/electro-charged.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-#### [Freeze](../../teams/freeze.md)
+#### [Freeze (Cryo)](../../teams/freeze.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
@@ -72,16 +72,16 @@ In all the teams listed below, Kazuha universally provides Debuffing using the *
 
 * While Kazuha's **Elemental Skill** can provide decent **Crowd Control** and his **Elemental Burst** can cause **Overload** reactions, this may not work efficiently for large numbers of smaller enemies that are displaced by Overload's knockback.
 
-#### [Raw Pyro](../../teams/pure-pyro.md)
+#### [Pure Pyro](../../teams/pure-pyro.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-#### [Reverse Melt](../../teams/reverse-melt.md)
+#### [Melt (Cryo)](../../teams/reverse-melt.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Kazuha's **Elemental Burst** can provide Pyro application when activated within the field created by Bennett's Elemental Burst.
 
-#### [Reverse Vaporize](../../teams/reverse-vaporize.md)
+#### [Vaporize (Pyro)](../../teams/reverse-vaporize.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)

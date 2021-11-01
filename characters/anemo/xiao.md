@@ -56,5 +56,5 @@ Xiao only really works in an **Anemo **team where Xiao works as the Selflish Mai
 
 * **Geo Resonance** is an effective way to boost Xiao's damage.
 * Albedo provides Off-Field damage with his **Elemental Skill.**
-* Zhongli provides Shielding and decreases the enemy's **Elemental** Resistance with his **Elemental Skill.**
-* Jean provides Healing as well as acts as an Energy Battery for Xiao.
+* Zhongli provides Shielding and decreases the enemy's **Elemental Resistance** with his **Elemental Skill.**
+* Jean provides Healing as well as acts as an energy battery for Xiao.
