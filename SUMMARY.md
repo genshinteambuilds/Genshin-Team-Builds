@@ -70,18 +70,20 @@
 ## Teams
 
 * [Anemo](teams/anemo.md)
-* [Electro-Charged](teams/electro-charged.md)
-* [Freeze](teams/freeze.md)
+* [Electro-Charged (Electro)](teams/electro-charged.md)
+* [Electro-Charged (Hydro)](teams/electro-charged-hydro.md)
+* [Freeze (Cryo)](teams/freeze.md)
+* [Freeze (Hydro)](teams/freeze-hydro.md)
 * [Geo](teams/geo.md)
-* [Melt](teams/melt.md)
-* [Reverse Melt](teams/reverse-melt.md)
+* [Melt (Pyro)](teams/melt.md)
+* [Melt (Cryo)](teams/reverse-melt.md)
 * [National](teams/national.md)
 * [Physical](teams/physical.md)
 * [Pure Pyro](teams/pure-pyro.md)
 * [Oneshot](teams/oneshot.md)
 * [Overload](teams/overload.md)
-* [Vaporize](teams/vaporize.md)
-* [Reverse Vaporize](teams/reverse-vaporize.md)
+* [Vaporize (Hydro)](teams/vaporize.md)
+* [Vaporize (Pyro)](teams/reverse-vaporize.md)
 
 ## Changelogs
 
