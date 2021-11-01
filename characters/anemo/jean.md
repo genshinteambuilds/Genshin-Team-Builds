@@ -7,19 +7,19 @@
 
 ## Character Breakdown
 
-* **A1 **gives **Normal Attacks** and **Charged Attacks** a 50% chance to heal the party for 15% of Jean's attack
-* **Elemental Skill** (Tap) deals damage and can knock back enemies.
-* **Elemental Skill** (Hold) can gather smaller enemies when held. Releasing the skill throws enemies in the direction Jean is facing which can cause them to take Fall Damage when they collide with walls or are flung sufficiently high into the air.
+* **A1 **gives **Normal Attacks** and **Charged Attacks** a 50% chance to heal the party for 15% of Jean's Attack.
+* **Elemental Skill** **(Tap)** deals damage and can knock back enemies.
+* **Elemental Skill** **(Hold)** can gather smaller enemies when held. Releasing the skill throws enemies in the direction Jean is facing which can cause them to take fall damage when they collide with walls or are flung sufficiently high into the air.
 * **Elemental Burst** both deals a large amount of damage and heals a large amount when used.
 * **Elemental Burst** also creates a **Dandelion Field** which continuously heals characters that stand in it.
-* **Elemental Burst** cleanses **Elemental **Debuffs on all team members.
+* **Elemental Burst** cleanses Debuffs from all team members.
 * Can act as a Debuffer with **Viridescent Venerer** 4-set or as a Buffer with **Noblesse Oblige** 4-set if running 2 **Anemo** supports.
 * **Anemo **characters need to be within a 20 level gap of enemies to be able to **Crowd Control** them most effectively.
 
 ## **Additional Notes**
 
 * Often paired with another **Anemo** character to act as an Energy Battery for them and also to regenerate energy for herself, as her Elemental Burst has a high energy requirement.
-* **C4** reduces the **Anemo **Resistance of enemies standing within the field created by her Elemental Burst by 40%.
+* **C4** reduces the **Anemo Elemental Resistance** of enemies standing within the field created by her Elemental Burst by 40%.
 * Jean's healing scales off **Attack.**
 * **Charged Attacks** cause smaller enemies to float in the air for a short period of time after doing damage.
 
@@ -48,8 +48,6 @@ This character is a **Healer**. While some teams are provided below where they a
 {% hint style="info" %}
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
-
-
 
 #### [Anemo](../../teams/anemo.md)
 
@@ -80,8 +78,6 @@ In all the teams listed below, Jean universally provides Debuff utility using th
 
 * In this team, Jean will typically allow Venti to take the role of being a Debuffer with the **Viridescent Venerer** 4-set and instead provide the team with a **Noblesse Oblige** 4-set buff.
 * Jean acts as an Energy Battery** **for Venti in this team.
-
-****
 
 #### [Reverse Vaporize](../../teams/reverse-vaporize.md)
 
