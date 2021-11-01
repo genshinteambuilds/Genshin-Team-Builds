@@ -18,8 +18,8 @@
 ## Characters
 
 * [Anemo](characters/anemo/README.md)
-  * [Kazuha](characters/anemo/kazuha.md)
   * [Jean](characters/anemo/jean.md)
+  * [Kazuha](characters/anemo/kazuha.md)
   * [Sayu](characters/anemo/sayu.md)
   * [Sucrose](characters/anemo/sucrose.md)
   * [Traveler (Anemo)](characters/anemo/traveler-anemo.md)

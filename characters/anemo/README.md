@@ -12,12 +12,12 @@ For the **Elemental Resistance** debuff of **Viridescent Venerer** to take effec
 
 ## Characters
 
-{% content-ref url="kazuha.md" %}
-[kazuha.md](kazuha.md)
-{% endcontent-ref %}
-
 {% content-ref url="jean.md" %}
 [jean.md](jean.md)
+{% endcontent-ref %}
+
+{% content-ref url="kazuha.md" %}
+[kazuha.md](kazuha.md)
 {% endcontent-ref %}
 
 {% content-ref url="sayu.md" %}
