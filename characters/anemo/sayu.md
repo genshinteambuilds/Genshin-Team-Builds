@@ -7,50 +7,60 @@
 
 ## Character Breakdown
 
-* Sayu's Elemental Skill has 2 functions: pressing it will roll her forward in a short distance then kicks enemies dealing anemo damage. Holding the elemental skill makes her roll forward continuously increasing her resistance to interruption while continuously dealing anemo damage while rolling, pressing it again will make her stop from rolling and kicks enemies in front of her.
-* Sayu functions as an Anemo Healer, primarily used for her Elemental Burst, which provides healing to active characters.
-* She is able to utilize the Viridescent Venerer 4 piece set bonus, allowing her to reduce enemy resistances.
+* **Elemental Skill **(Tap) makes Sayu roll forward a short distance and then deal **Anemo** Damage to enemies in front of her.
+* **Elemental Skill **(Hold) makes Sayu roll forwards continuously increasing her resistance to interruption and dealing **Anemo **damage while rolling. Using the skill again will cause Sayu to end her roll early and deal additional **Anemo** damage to enemies in front of her.
+  * **Elemental Skill** (Hold) can absorb another element, dealing additional damage of that element to enemies hit while Sayu is rolling.
+  * **Elemental Skill** cooldown time creases depending on how long Sayu spends rolling.
+* **Elemental Burst** summons a **Daruma** that deals **Anemo** damage to nearby enemies and **heals** nearby team members. **Healing** or **Damage** done depends on whether there are any nearby enemies and the current HP of team members.
+* Can act as a Debuffer with **Viridescent Venerer** 4-set.
 
 ## Additional Notes
 
-* Her Elemental Skill acts as a no-stamina cost sprint when held that also gives her slight stagger resistance. But, should you choose to do this, the cooldown is increased depending on how long you spend rolling. Good for exploration, very niche in combat.
-* Her first constellation makes healing with her much more consistent, while her fourth constellation helps with maintaining energy to maximize her burst uptime.
-* Her sixth constellation allows her to use Elemental Mastery to give an Attack% bonus as well as HP% bonus to the Daruma during the Elemental Burst
+* **C1** removes **HP** restrictions on Sayu's **Elemental Burst** and allows the summoned **Daruma** to heal and deal damage at the same time.
+* **C4 **allows Sayu to recover energy whenever she triggers a Swirl reaction.
+* **C6** allows her to use **Elemental Mastery** to give an **Attack%** bonus as well as **HP%** bonus to the Daruma during the **Elemental Burst.**
 
 ## Works Well With
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Sayu works fairly well with most elemental teams, as 4 set Viridescent Venerer is always welcome, and combining it with a healer allows for other supports to fit on the team.
+* Sayu pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can Debuff **Elemental Resistance** on enemies for 4 of the elements (**Cryo, Electro, Hydro, and Pyro**).
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)![](../../.gitbook/assets/Element\_Geo.webp)
+![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* Sayu does not provide much benefit over other healers on a Physical or Geo focused team, as she cannot decrease Physical or Geo resistance.
+* **Anemo **cannot cause **Elemental **Reactions with **Geo** and **Viridescent Venerer** cannot provide Debuffing for **Geo **and** Physical **Damage characters.
+  * Sayu can still be used with these characters if your team requires healing but will provide little other value.
+
+
 
 ## Teams
+
+{% hint style="warning" %}
+This character is a **Healer**. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
+{% endhint %}
 
 [**Reverse Vaporize**](../../teams/reverse-vaporize.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
-* Here she functions as the main healer and can be used to shred Cryo resistance with Viridescent Venerer for Ayaka’s burst or used to apply the Noblesse Oblige set to buff allied character’s attack.
+* Sayu functions as a **Healer** and can be used to Debuff **Cryo** resistance with **Viridescent Venerer** 4-set for Ayaka’s **Elemental Burst** or used to apply the **Noblesse Oblige** 4-set to Buff** **allied character’s attack.
 
 [**Melt**](../../teams/melt.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
-* Here she functions as a debuffer used to shred Cryo resistance with Viridescent Venerer. Note, that if available, characters such as Sucrose would fill this role better.
+* Sayu functions as a Debuffer used to Debuff **Cryo** resistance with **Viridescent Venerer** 4-set. Note, that if available, characters such as **Sucrose** would fill this role better.
 
 [**Freeze**](../../teams/freeze.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
-* Sayu is used in this team as the main healer and can be used to decrease Cryo resistance with 4 set Viridescent Venerer.
+* Sayu functions as a **Healer** and can be used to Debuff **Cryo** resistance with **Viridescent Venerer** 4-set.
 
 [**Electro-Charged**](../../teams/electro-charged.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
-* Sayu is used in this team as the main healer and can be used to decrease Electro resistance with 4 set Viridescent Venerer.
+* Sayu functions as a **Healer** and can be used to Debuff **Electro** resistance with **Viridescent Venerer** 4-set.

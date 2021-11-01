@@ -2,43 +2,43 @@
 
 ## Roles
 
-* **Main DPS**(Selfish)
+* **Main DPS **(Selfish)
 
 ## Character Breakdown
 
-* Elemental Skill has two charges and allows Xiao to dash quickly at an opponent dealing Anemo Damage.
-* Elemental Burst infuses Xiao's weapon with Anemo and provides additional damage on Normal, Charged, and Plunging Attacks. Additionally, Xiao's jump height is greatly increased, allowing Xiao to jump and perform Plunging Attacks continually while his Elemental Burst is active.
-  * Xiao continuously loses HP throughout the duration of his Elemental Burst.
-* Plunging Attacks during Xiao's Burst produce Anemo spears from the ground which deal damage in a large area around him.
+* **Elemental Skill** has two charges and allows Xiao to dash quickly at an opponent dealing **Anemo** Damage.
+* **Elemental Burst** infuses Xiao's weapon with **Anemo** and provides additional damage on **Normal, Charged, **and **Plunging Attacks.** Additionally, Xiao's jump height is greatly increased, allowing Xiao to jump and perform **Plunging Attacks** continually while his **Elemental Burst** is active.
+  * Xiao continuously loses **HP** throughout the duration of his **Elemental Burst.**
+  * **Plunging Attacks** performed during Xiao's **Elemental Burst** produce **Anemo** spears from the ground which deal damage in a large area around him.
 
 ## **Additional Notes**
 
 * Xiao is often played with another Anemo character that can provide energy to fuel his Elemental Burst.
-* Constellation 1 gives Xiao an extra charge to his Elemental Skill.
-* Constellation 6 allows Xiao to reset his Elemental Skill cooldown after a Plunging Attack.
-* Xiao cannot generate Elemental Particles during the duration of his Burst, and is often referred to as a Selfish Main DPS as swapping off of Xiao during his Elemental Burst will cancel it.
+* **C1** gives Xiao an extra charge to his **Elemental Skill.**
+* **C6** allows Xiao to reset his **Elemental Skill** cooldown after a **Plunging Attack.**
+* Xiao cannot generate **Elemental** Particles during the duration of his **Elemental Burst,** and is often referred to as a Selfish Main DPS as swapping off of Xiao during his **Elemental Burst** will cancel it.
 
 ## Works Well With
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Xiao works particularly well with Zhongli as he provides one of the few debuffs that work for Anemo type elemental damage. His shielding also helps Xiao from taking additional damage during his Elemental Burst.
+* Xiao works particularly well with Zhongli as he provides one of the few debuffs that work for **Anemo** type elemental damage. His shielding also helps Xiao from taking additional damage during his **Elemental Burst.**
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
-* Sucrose, Venti, and Jean are able to generate Anemo particles to help Xiao regain energy for his Elemental Burst. This is particularly notable since Xiao's damage relies heavily on having his Elemental Burst active as frequently as possible.
+* Sucrose, Venti, and Jean are able to generate **Anemo** particles to help Xiao regain energy for his **Elemental Burst**. This is particularly notable since Xiao's damage relies heavily on having his **Elemental Burst** active as frequently as possible.
 
 ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Unlike other Anemo characters which are often used in a supporting role, Xiao has limited synergy with other elements such as Cryo, Electro or Hydro as their reactions cannot be used to boost Xiao's damage.
-* Geo and Pyro Resonance can be used to boost Xiao's damage directly.
+* Unlike other Anemo characters which are often used in a supporting role, Xiao has limited synergy with other elements such as **Cryo**, **Electro or Hydro** as their reactions cannot be used to boost Xiao's damage.
+* **Geo** and **Pyro Resonance** can be used to boost Xiao's damage directly.
 
 ## Does Not Work Well With
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
 
 * As a Selfish Main DPS, Xiao does not work well with other characters that must stay on the field in order to do damage.
-* Physical Damage characters usually cannot buff Xiao or support him in any way.
+* **Physical** Damage characters usually cannot buff Xiao or support him in any way.
 
 ## Teams
 
@@ -47,14 +47,14 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-Xiao only really works in an Anemo team where Xiao works as the Selflish Main DPS. One example team is shown below. Additional teams and options can be found in the Anemo team page.
+Xiao only really works in an **Anemo **team where Xiao works as the Selflish Main DPS. One example team is shown below. Additional teams and options can be found in the **Anemo** team page.
 {% endhint %}
 
 #### [Anemo](../../teams/anemo.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
-* Geo Resonance is an effective way to boost Xiao's damage.
-* Albedo provides Off-Field damage with his Elemental Skill.
-* Zhongli provides Shielding and decreases the enemy's Elemental Resistance with his Elemental Skill.
+* **Geo Resonance** is an effective way to boost Xiao's damage.
+* Albedo provides Off-Field damage with his **Elemental Skill.**
+* Zhongli provides Shielding and decreases the enemy's **Elemental** Resistance with his **Elemental Skill.**
 * Jean provides Healing as well as acts as an Energy Battery for Xiao.

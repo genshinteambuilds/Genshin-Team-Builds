@@ -12,12 +12,12 @@ For the **Elemental Resistance** debuff of **Viridescent Venerer** to take effec
 
 ## Characters
 
-{% content-ref url="jean.md" %}
-[jean.md](jean.md)
-{% endcontent-ref %}
-
 {% content-ref url="kazuha.md" %}
 [kazuha.md](kazuha.md)
+{% endcontent-ref %}
+
+{% content-ref url="jean.md" %}
+[jean.md](jean.md)
 {% endcontent-ref %}
 
 {% content-ref url="sayu.md" %}
@@ -28,16 +28,16 @@ For the **Elemental Resistance** debuff of **Viridescent Venerer** to take effec
 [sucrose.md](sucrose.md)
 {% endcontent-ref %}
 
+{% content-ref url="traveler-anemo.md" %}
+[traveler-anemo.md](traveler-anemo.md)
+{% endcontent-ref %}
+
 {% content-ref url="venti.md" %}
 [venti.md](venti.md)
 {% endcontent-ref %}
 
 {% content-ref url="xiao.md" %}
 [xiao.md](xiao.md)
-{% endcontent-ref %}
-
-{% content-ref url="traveler-anemo.md" %}
-[traveler-anemo.md](traveler-anemo.md)
 {% endcontent-ref %}
 
 ## Teams

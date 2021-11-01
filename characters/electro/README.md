@@ -18,10 +18,6 @@ While Razor is listed here as an **Electro** character, he is primarily used as 
 [keqing.md](keqing.md)
 {% endcontent-ref %}
 
-{% content-ref url="kujou-sara.md" %}
-[kujou-sara.md](kujou-sara.md)
-{% endcontent-ref %}
-
 {% content-ref url="lisa.md" %}
 [lisa.md](lisa.md)
 {% endcontent-ref %}
@@ -32,6 +28,10 @@ While Razor is listed here as an **Electro** character, he is primarily used as 
 
 {% content-ref url="razor.md" %}
 [razor.md](razor.md)
+{% endcontent-ref %}
+
+{% content-ref url="kujou-sara.md" %}
+[kujou-sara.md](kujou-sara.md)
 {% endcontent-ref %}
 
 {% content-ref url="traveler-electro.md" %}

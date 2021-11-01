@@ -14,12 +14,12 @@
 [noelle.md](noelle.md)
 {% endcontent-ref %}
 
-{% content-ref url="zhongli.md" %}
-[zhongli.md](zhongli.md)
-{% endcontent-ref %}
-
 {% content-ref url="traveler-geo.md" %}
 [traveler-geo.md](traveler-geo.md)
+{% endcontent-ref %}
+
+{% content-ref url="zhongli.md" %}
+[zhongli.md](zhongli.md)
 {% endcontent-ref %}
 
 ## Teams

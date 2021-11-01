@@ -38,6 +38,10 @@ While Xinyan is listed here as a **Pyro** character, she is primarily used as a 
 [yanfei.md](yanfei.md)
 {% endcontent-ref %}
 
+{% content-ref url="yoimiya.md" %}
+[yoimiya.md](yoimiya.md)
+{% endcontent-ref %}
+
 ## Teams
 
 {% content-ref url="../../teams/melt.md" %}
