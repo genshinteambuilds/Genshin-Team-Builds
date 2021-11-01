@@ -21,7 +21,7 @@
 
 ## **Works Well With**
 
-![](https://lh4.googleusercontent.com/RjGHj8s3fMUgY3Ai5iSnsKuLAoxa8KmMm2bW5GOVA6-h31WcuBz9Wy8O1HHRjjFBjxKxcpBlt3OC7M0O0jTtBsxpS25l-iEsmJjFgYpVga4T\_EQ06vbCF64lXZq4g-liHRecVcf1=s0)**​**![](https://lh6.googleusercontent.com/gQmKQx89DYsYttoq73h6QTZrOtsTygf5d9f\_-a5UklSifFJ6YVgb86\_sVI80lkxv4p\_15iZf41D6xLVfLJR0ewe9xzHKKjTpBzcdvNWGzODVtFaNu97ghJ9aNhvm3R6jpPha\_qp9=s0)**​**![](https://lh4.googleusercontent.com/h9zJpzuvg4kQJTSVpvpj0zVPFHDVv2SycYasvfY52j5MgA8ZsCYbv\_GY9norc76Tbb1OcEECWiaKoQaYm8iR5pcrihRy0TdJ2GmdYKD\_-fu5TfQE1DGLzTXj7TkuGNV86-29bV3B=s0)**​**![](https://lh6.googleusercontent.com/y56jEUUno0CjJBL-ibu48U3OTD2mD8r1eu4lUTM40XtEVuNyRYKnKvamAE\_biQL2QeRfVJOpwb0iGSgOGo\_Z7DVOqLKz3KoEZW2Y\_5h\_ozUbLClXvI6w6DJcJYjHXDr3s1Qnqkap=s0)**​**![](https://lh4.googleusercontent.com/NR\_e16D7lFQc6ZWHRyL3vvL-tNVEZAa57jx8vFb3VTE-ySh02mmJBNGpzKu4s0Vtu9\_Vangt5k-JebBGwXK5Q2rlMk99aadPG5mRcT3qoAsyvk1Em4WB0WGtbUTnsWBPSTmELeC3=s0)**​**![](https://lh3.googleusercontent.com/g2umOKnryd6UJYF4r-sGBRqpVm74yxUU-a0htRyUGn1ADhZpC2HssXDjmV\_SMAkxJFn8AcoHJLgxqckZXVc32CkwR718Ot-kWz9uKFw-V-Ed6S5cYeMIPi3NCT8JWix-vpY45S5Y=s0)
+****![](../../.gitbook/assets/Element\_Anemo.webp)****![](../../.gitbook/assets/Element\_Cryo.webp)****![](../../.gitbook/assets/Element\_Electro.webp)****![](../../.gitbook/assets/Element\_Hydro.webp)****![](../../.gitbook/assets/Element\_Pyro.webp)****![](../../.gitbook/assets/Element\_Geo.webp)****
 
 * Zhongli can be slotted into almost any team composition as a flexible Support. He provides powerful shielding, universal resistance shred, and crowd control in a large area.
 * Zhongli is a strong inclusion to almost any team composition in the game, due to his universal buffing abilities and flexible kit.
