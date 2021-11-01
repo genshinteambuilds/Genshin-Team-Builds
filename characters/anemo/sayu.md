@@ -39,7 +39,7 @@
 This character is a **Healer**. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
 {% endhint %}
 
-[**Reverse Vaporize**](../../teams/reverse-vaporize.md)
+[**Vaporize (Pryo)**](../../teams/reverse-vaporize.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
