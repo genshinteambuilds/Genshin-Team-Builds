@@ -56,14 +56,14 @@ Click on the team names below for more details on how the team works and alterna
 * Jean acts as an Energy Battery for Xiao in this team and can also provide crowd control and Healing utility.
 
 {% hint style="info" %}
-In all the teams listed below, Jean universally provides Debuffing utility using the **Viridescent Venerer** 4-set and can also provide Healing**, **Crowd Control, and Cleansing utility based on the needs of the team.
+In all the teams listed below, Jean universally provides debuffing utility using the **Viridescent Venerer** 4-set and can also provide Healing**, **Crowd Control, and Cleansing utility based on the needs of the team.
 {% endhint %}
 
 #### [Electro-Charged (Electro)](../../teams/electro-charged.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
-* Jean fills both the Healer role in this team and the Debuffer, using **Viridescent Venerer** to increase the other party member's damage.
+* Jean fills both the Healer role in this team and can debuff enemies using the **Viridescent Venerer** 4-set.
 
 #### [Overload](../../teams/overload.md)
 
