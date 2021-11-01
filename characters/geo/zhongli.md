@@ -30,7 +30,7 @@
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
 * Zhongli does not work well in freeze team compositions since his Elemental Skill pulses shatters frozen enemies.
 
@@ -50,24 +50,24 @@ Click on the team names below for more details on how the team works and alterna
 
 ****[**Anemo**](../anemo/)****
 
-![](https://lh6.googleusercontent.com/1oeowrMj84Viwu4ZjRBeubqXAaupk7rY1Lt7irDtF6\_6H4yVBUFsmh8pLoiQXkwJlMoGsLbvOUNF8NdaOeJWU6AOjbypQXN58Jbyz39SJfVWFXS9KUlWNup4zttiZWkQITdfDMIw=s0) ![](https://lh5.googleusercontent.com/3sp4rrWtguRi8tFYJ8uX0HXiIofCwbi-hRMX26vLh3aYOOHxgqh7Egx8zlr2VXiHiKvXdE4kS756YF81zJRicz\_KfEjGMnnLGXCFmCJpQobDb3dzIyYPCnft7Ml7ZoIQunqlikM\_=s0) ![](https://lh3.googleusercontent.com/A9R5pkEMkib5t46yTzwFUDHciycLfugz4QPdS0ddyBsaf3C7-2AAmtolgNPKu9YK50u8vmpwEBTn6\_YHENEY7W-TcWCIA-M6vgcwnG4fPlsxTFT7dkQtbPGD3CEsXaH4ZsiKko7l=s0) ![](https://lh3.googleusercontent.com/JRV6U\_BXPg0TQ6p8m6SL4Gux1LicF-K3YGBivdY7djJxNwFyAGQLx\_4TIMIOpS2DYZ3abhGRsW4XHjwyZrXIk57YkBNrg-2Muo39k1IrJZ93GrvBKCWMQwzQc3SUoKjgVhjlUbeZ=s0)
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
 
 * Zhongli's universal RES decrease on his Jade Shield and Geo Resonance are especially effective on Xiao due to lack of other ways of reducing enemies' Anemo RES. His Elemental Burst also provides crowd control.
 
 ****[**Physical**](../../teams/physical.md)****
 
-![](https://lh5.googleusercontent.com/zGSNJt\_xjRds2SchJiVhhYySWfRGcUnYKXdECAfuFapSFpPN2Gshh-8DuE0s8t6MSgh-u3tLUdlf\_646H3pSZubYjjB7D3gWFkSTSw\_qQWIPDA4f20jdLKP1cEpPk8Bnda1sSyye=s0) ![](https://lh4.googleusercontent.com/OMfkfrguqm8CnPKkWyHLJTFq2UNfkW15VfAXJxcCyySiFx9pW1JS16qfHN0KSGrVuH1xYWbKTNY5GWEDFnJTsu4vdaDybYGye5iig2Uxb2XxI4\_qbz913t2j4qskPYVDCLyso8jZ=s0)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](https://lh6.googleusercontent.com/1a7KgXw3Ot1HJ\_s-OafuiUU3FeQh1qabFF5SVFmFcKE\_syqaAKmpdWr\_-TIufzelMBudig4lO-v9xrP8ldFnPK1zQxYMTXF6X1dl6UPAB1fj9KbKsMqltfrxK03I2oggNEvJCoUB=s0)&#x20;
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
 
 * Zhongli's resistance decrease on his Jade Shield provides an additional way to decrease Physical RES. His powerful shielding also allows Eula to Normal Attack as much as possible to fully enhance her Elemental Burst's Damage. His Elemental Burst also provides crowd control.
 
 ****[**Reverse Vaporize**](../../teams/reverse-vaporize.md)****
 
-![](https://lh3.googleusercontent.com/X6DqOGXDgWFZr6ZiaTuYMT9o5vwd9IYFPVWXVWpoczNLbEZft9tT1w6fm4o-4kvOTmgLZ0uXXyeiHlbrcgV-C9Ybwgr3aIgRPcJN9IWlMXEFIFTjRGYdrHEpzWxLqdCRIZjkfaDR=s0) ![](https://lh3.googleusercontent.com/r\_ZQF\_SKEbs6B1nwsqymQSq6p\_GxVZP9NRAYaGpnmO2yh15eWBagCLWcD6dB35QJ6T6n\_BFqJir\_p-YQ6RZE3ixyPL-xHYgxLXtuHC-NcGMhQHOXceoeOY6uQ6MV3tj7FL6nvMKp=s0)![](https://lh3.googleusercontent.com/g\_zGE7TEo0wKL5Rn0xVB12MI6dBaOaTnDVuXw9HiMDl4pLxjXZaYVNNxyUPixeDHverD6wFY7x4de4MycfH-qhh8gXKZMEhS4AGtJllSlD9HZIMISH0hoeLrcTKZWwviNW7Jd5mU=s0) ![](https://lh5.googleusercontent.com/X4zHSrKgLydETo\_dfy2KgYEdzBYyYwvxskPWM5Cu-frMRKU2WnUYf3zKBbsVCDS3jU6\_URe6jRl1hDavsNxKcL1hCPq1Q1PsQ\_abI1L0aPKcT75G06xZmxjAqJkgNvs2bq8OTrt9=s0)
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
 
 * Zhongli's shielding provides lowering enemies Pyro RES, making these Pyro DPS do more reverse vaporized damage on the enemies while providing them with his Jade Shield that protects them from getting damaged. His Elemental Burst also provides crowd control.
 
 ****[**Reverse Melt**](../../teams/reverse-melt.md)****
 
-![](https://lh3.googleusercontent.com/qbT55D5tX5u030qQ7aCd0GNMRNTtWRvuneYUTzR4o9xp6vv4AsXIb-EVPKpLLgJAkPbdnAj\_2ppl5VwFdg5VXrUa1idesWBU4XareIeA58T6EikWvCDB9SM91wE-fcpz6CSNpe4U=s0) ![](https://lh5.googleusercontent.com/WmEEf8SCQQGGmvA4bjgABISeIdLlshY5cPwyg3stO-jED7fw85CaHyY93JZ0lAtoeV5V0ystw7IekdRYN3OVDfwGDJ9XiCfIO0mVJz9Za\_dsvz4oG7\_WfF\_rqJk2pNHsUxub9Qj9=s0)![](https://lh3.googleusercontent.com/57954nQ4nNzfnP4wR6nZz2kjjEbItKO3BcpWGfdj0hO8czcWCOPs0PGO6sSFzJD3vFjlNG5nEMC7AxJ3-XoYfsVQF8COAo23J4PTpJh-BJ5VQpmXiWaXIj8x6PTQAUjzjD7c5V17=s0) ![](https://lh6.googleusercontent.com/Q3sPOXrY1hDliAS2nJGo6z450U7pwk3eQTcqTrdruPp1gh643nXIBuwL52GnXaupDw1z1XWcOcMtV2iapanpbJbD-A5fk-MyNsatThjTWrT\_J-nc1mqsQKulpgvOgcAhf6lWdXIp=s0)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Ganyu's extremely high damage is boosted even further by Zhongli's jade shield that decreases resistances and give Ganyu protection since she's vulnerable when she's doing her charged aimed attacks, and his Crowd Control and protective abilities greatly reduces Ganyu's chances of getting interrupted during her Charged Shot.
