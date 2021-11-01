@@ -3,7 +3,7 @@
 ## Roles
 
 * **Off-Field DPS** (Elemental Burst)
-* \*\*Support: \*\*Energy Battery
+* **Support**: Energy Battery
 
 ## Character Breakdown
 
@@ -27,7 +27,7 @@
 
 ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)
 
-* Traveler's high Electro application on Normal and Charged attacks can combine with Tartaglia's high Hydro application from the same source to frequent
+* Traveler's high Electro application on Normal and Charged Attacks can combine with Tartaglia's high Hydro application from the same source to frequent.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
 
@@ -48,14 +48,14 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-[Electro-Charged](../../teams/electro-charged.md)
+****[**Electro-Charged**](../../teams/electro-charged.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/ui\_avataricon\_aether\_electro.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
 * This team composition utilizes both Hydro and Electro characters who individually provide strong personal damage coupled with high energy generation from Electro resonance and Electro Traveler, providing high sustained area damage.
 * Electro Traveler can funnel energy onto Beidou and Xingqiu to help maintain their Elemental Bursts.
 
-[Physical](../../teams/physical.md)
+****[**Physical**](../../teams/physical.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/ui\_avataricon\_aether\_electro.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
