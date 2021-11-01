@@ -29,9 +29,11 @@
 
 ## Does Not Work Well With
 
-As a healer, she can fit in most team compositions that require healing.
+{% hint style="danger" %}
+Qiqi provides very little utility outside of healing and cannot generate energy with her Elemental Skill.
 
-* Note that outside of healing, she provides minimal team utility and does not produce Energy with her Elemental Skill. Thus, she can often be replaced by other healers who can provide more than just healing (most notably Diona for sharing her element) to the team, resulting in an overall stronger team composition.
+While she can be used on any team composition that is looking for a healer, Qiqi is often only used when no other options are available.&#x20;
+{% endhint %}
 
 ## Teams
 
@@ -49,10 +51,6 @@ This character is a healer. While some teams are provided below where they are p
 * Qiqi applies Cryo to allow for Superconduct for prolonged durations, as well as provides consistent healing to the character on field.
 
 [**Freeze**](../../teams/freeze.md)
-
-{% hint style="warning" %}
-While Qiqi could potentially function as a part of a Freeze team, it is not recommended as she provides very little to the team outside of being a second Cryo member.&#x20;
-{% endhint %}
 
 ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Qiqi.png)
 
