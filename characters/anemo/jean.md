@@ -87,4 +87,4 @@ In all the teams listed below, Jean universally provides Debuff utility using th
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
-* Jean provides her usual Viridescent Venerer debuffing in this team as well as acting as a Burst DPS in between rotations of the team's Pyro and Hydro characters.
+* Jean provides her usual **Viridescent Venerer** debuffing in this team as well as acting as a Burst DPS in between rotations of the team's Pyro and Hydro characters.
