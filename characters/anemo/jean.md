@@ -14,7 +14,7 @@
 * **Elemental Burst** also creates a **Dandelion Field** which continuously heals characters that stand in it.
 * **Elemental Burst** cleanses debuffs from all team members.
 * Can act as a Debuffer with **Viridescent Venerer** 4-set or as a buffer with **Noblesse Oblige** 4-set if running 2 **Anemo** supports.
-* **Anemo **characters need to be within a 20 level gap of enemies to be able to Crowd Control them most effectively.
+* **Anemo **characters need to be within 20 levels of enemies to be able to Crowd Control them most effectively.
 
 ## **Additional Notes**
 
@@ -28,7 +28,6 @@
 ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * Jean pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff** Elemental Resistance** on enemies for 4 of the elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
-* Jean can act as an Energy Battery for other **Anemo** characters, while those other **Anemo** characters can in turn act as Energy Batteries for Jean as well.
 * You should generally avoid pairing Jean with another Healer as Jean's healing is sufficient for most content.
   * Bennett + Jean is one exception to this rule in situations where this exact pairing can combine **Elemental Bursts** to quickly trigger **Swirl** to destroy enemy shields.&#x20;
 
