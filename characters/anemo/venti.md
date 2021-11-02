@@ -10,7 +10,6 @@
 * **Elemental Skill** (Tap) deals AoE **Anemo** damage in front of Venti and launches enemies hit into the air.
 * **Elemental Skill **(Hold) deals increased AoE **Anemo** damage around Venti and launches him into the air.
 * **Elemental Burst** creates a massive **Stormeye** that sucks in opponents and continuously deals **Anemo** damage. The Stormeye can absorb **Cryo, Electro, Hydro** or **Pyro** and will continuously deal additional damage of that elemental type.
-* **Anemo **characters need to be within 20 levels of enemies to be able to Crowd Control them most effectively.
 
 ## **Additional Notes**
 
@@ -30,8 +29,8 @@
 
 ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* **Anemo **cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo **and** Physical **damage characters.
-  * Venti can still provide the team with Crowd Control utility
+* **Anemo **cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo **and** Physical **Damage characters.
+  * He can however could still be used for Crowd Control.
 
 ## Teams
 
@@ -47,7 +46,7 @@ Click on the team names below for more details on how the team works and alterna
 * He can also decrease enemy **Anemo Resistance** to enemies when he has **C2** or **C6** active.
 
 {% hint style="info" %}
-In all the teams listed below, Venti universally provides debuffing utility using the **Viridescent Venerer** 4-set.
+In all the teams listed below, Venti universally provides debuff utility using the **Viridescent Venerer** 4-set.
 {% endhint %}
 
 [**Electro-Charged (Electro)**](../../teams/electro-charged.md)
