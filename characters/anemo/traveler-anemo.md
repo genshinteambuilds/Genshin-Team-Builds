@@ -11,6 +11,7 @@
 * **Elemental Skill** can gather smaller enemies and continuously deal Anemo damage when held.
 * **Elemental Burst** summons a tornado that moves forward and continuously pulls enemies toward its center, dealing **Anemo** damage.
 * Can act as a debuffer with **Viridescent Venerer** 4-set.
+* **Anemo **characters need to be within 20 levels of enemies to be able to Crowd Control them most effectively.
 
 ## Additional Notes
 
@@ -27,7 +28,7 @@
 
 ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* **Anemo **cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo **and** Physical **Damage characters.
+* **Anemo **cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo **and** Physical **damage characters.
 
 ## Teams
 
@@ -36,7 +37,7 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-In all the teams listed below, Traveler(Anemo) universally provides debuff utility using the **Viridescent Venerer** 4-set.
+In all the teams listed below, Traveler (Anemo) universally provides debuffing utility using the **Viridescent Venerer** 4-set.
 {% endhint %}
 
 [**Electro-Charged (Electro)**](../../teams/electro-charged.md)
