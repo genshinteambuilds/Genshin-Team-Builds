@@ -62,6 +62,10 @@ Refer to the character notes below for how characters work in this particular te
 
 * Xiao acts as the Main DPS and generally requires an Energy Battery (in this case, Sucrose), to maintain Elemental Burst uptime. Xiangling provides extra damage and activates Pyro Resonance with Bennett, who both heals and buffs Xiao's Attack.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Xiao.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Albedo.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Xiao acts as the Main DPS and uses Jean as an Energy Battery to maintain Elemental Burst uptime. Jean also functions as a Healer and possible Debuffer (with Constellation 4). Zhongli provides a Shield and debuffs enemies, while Albedo acts as a Sub DPS and activates Geo Resonance.
+
+![](../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
+
+* Since Jean can fill the two roles of Energy Battery and Healer at the same time, 2 Off-Field DPS can be used rather than an additional Healer or Shielder.
