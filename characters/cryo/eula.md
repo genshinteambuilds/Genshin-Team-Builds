@@ -9,13 +9,13 @@
 
 * Eula relies on her Elemental Burst and Normal Attacks to deal Physical damage.
 * Elemental Skill changes based on whether it is tapped or held.
-  * On tap, she deals Cryo damage and gains a stack of Grimheart.
+  * Elemental Skill (tap) deals Cryo damage and gains a stack of Grimheart.
     * Grimheart increases Eula's defense and resistance to interruption. A maximum of two stacks can be held.
-  * On hold, she consumes all Grimheart stacks, deals Cryo damage, and activates the following effects:
+  * Elemental Skill (hold) consumes all Grimheart stacks, deals Cryo damage, and activates the following effects:
     * Each stack of Grimheart consumed creates an instance of AoE Cryo damage.
     * If any Grimheart stacks are consumed, surrounding enemies will have their Physical and Cryo Resistance debuffed.
     * At A4, if two stacks of Grimheart are consumed this way, Eula will create a miniature version of her Elemental Burst which explodes instantly, dealing Physical damage.
-* Elemental Burst deals huge AOE Physical Damage after a set duration, or if Eula is switched out.
+* Elemental Burst deals huge AoE Physical Damage after a set duration, or if Eula is switched out.
   * Elemental Burst damage will increase based on how many times Eula hits enemies during its duration.
 
 ## **Additional Notes**
@@ -23,14 +23,14 @@
 * Elemental Burst grants a stack of Grimheart and resets the cooldown of her Elemental Skill.
   * As such, Eula should generally always use her Elemental Skill (tap) before using her Elemental Burst.
   * Using Elemental Skill (hold) after will consume the 2 stacks of Grimheart generated beforehand to both debuff Enemy Resistances and deal 4 instances of damage, which count toward her Elemental Burst.
-* Eula’s Burst does NOT snapshot buffs.
+* Eula’s Burst does NOT snapshot.
   * This makes short-lasting buffs much less useful for her Elemental Burst damage.
 
 ## **Works Well With**
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
-* Often paired with Eula to form a [Physical team](../../teams/physical.md).&#x20;
+* Often paired with Eula to form a** **[**Physical team**](../../teams/physical.md).&#x20;
 * Raiden Shogun provides Superconduct, buffs Elemental Burst damage, serves as a team Battery and is able to be used on-field after Eula uses her Elemental Burst.
 * Fischl provides off-field damage, constant Superconduct, and serves as an Electro Battery.
 
