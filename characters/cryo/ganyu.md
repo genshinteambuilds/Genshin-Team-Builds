@@ -8,17 +8,17 @@
 
 ## **Character Breakdown**
 
-* Elemental Skill deals AoE Cryo Damage and leaves a Cryo Lotus on the ground that Taunts surrounding enemies. The Lotus deals AoE Cryo Damage if destroyed or when it's duration ends.
+* Elemental Skill deals AoE Cryo Damage and leaves a Ice Lotus on the ground that Taunts surrounding enemies. The Ice Lotus deals AoE Cryo Damage if destroyed or when it's duration ends.
 * Elemental Burst creates a field which continually rains shards of ice on enemies inflicting Cryo damage.
-* Ganyu's charge attack has two levels:
-  * the first level fires a lone arrow dealing Cryo Damage
-  * the second level fires a Frostflake arrow which creates a bloom after hitting the target, dealing AoE Cryo damage
-* Ganyu's primary source of damage when used as a Main DPS character is her fully charged Aimed Charged Attack.
+* Ganyu's Charged Attack has two Charge levels:
+  * Charge Level 1: Fires a single arrow that deals Cryo Damage
+  * Charge Level 2: Fires a Frostflake arrow that deals Cryo Damage. The Frostflake Arrow blooms after hitting it's target, dealing additional AoE Cryo damage.
+* Ganyu's primary source of damage when used as a Main DPS character is her Charged Attack.
 
 ## **Additional Notes**
 
-* Ganyu’s Frostflake Arrow Bloom from her fully charged Aimed Charged Attack has a separate internal cooldown for reactions from the initial attack which allows Ganyu to trigger reactions with both components of her Aimed Charged Attack. This is incredibly powerful with Ganyu's Reverse Melt team compositions as both attacks can Melt.
-* Ganyu's Elemental Burst is typically not used much in Reverse Melt team compositions as the application of Cryo to enemies from her Burst can interfere with the Reverse Melt reactions coming from her Aimed Charged Attacks.
+* Ganyu’s Frostflake Arrow Bloom from her fully Charged Attack has a separate internal cooldown for reactions from the initial attack which allows Ganyu to trigger reactions with both components of her Charged Attack. This is incredibly powerful with Ganyu's Reverse Melt team compositions as both attacks can Melt.
+* Ganyu's Elemental Burst is typically not used much in Reverse Melt team compositions as the application of Cryo to enemies from her Burst can interfere with the Reverse Melt reactions coming from her Charged Attacks.
 * When used in a Off-Field DPS or Support capability, Ganyu's Elemental Burst can apply Cryo to enemies but this is not fast enough to enable Melt team compositions by herself.
 * While Ganyu can be used to apply Cryo for Freeze teams or Physical teams in an Off-Field DPS and Support role as well, Ganyu deals so much damage as a Main DPS character that this often performs worse than simply just using Ganyu in the Main DPS character role.
 
@@ -80,5 +80,5 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Ganyu uses Xiangling’s Elemental Burst to apply Pyro to enemies and Reverse Melt them with Ganyu’s Aimed Charged Attacks.
-* Bennett's Elemental Burst can also be used although only for a single Aimed Charged Attack.
+* Ganyu uses Xiangling’s Elemental Burst to apply Pyro to enemies and Reverse Melt them with Ganyu’s Charged Attacks.
+* Bennett's Elemental Burst can also be used although only for a single Charged Attack.
