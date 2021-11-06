@@ -51,26 +51,26 @@
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Bennett provides a high **ATK buff **that lasts the full duration of Eula's **Elemental Burst **and is a **Healer**.
-* **C6 **will infuse Eula's **Normal**/**Charged**/**Plunging Attacks **with **Pyro**, negating all of the **Physical **Damage bonuses she receives. Do not use C6 Bennett with Eula unless you are going for an **Elemental **Burst **Oneshot**.
+* **C6 **will infuse Eula's **Normal**/**Charged**/**Plunging Attacks **with **Pyro**, negating all of the **Physical **Damage bonuses she receives. Do not use C6 Bennett with Eula unless you are going for an **Elemental Burst Oneshot**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)
 
-* Lisa works well to support a Eula focused on extreme burst damage. She can apply Superconduct, debuff enemy defense, hold the Thrilling Tales of Dragonslayer’s Catalyst, and use the Noblesse Oblige set.
-* Her high Energy cost Elemental Burst and high Energy Recharge requirements make her more suitable for one rotation team compositions rather than consistent continuous rotation team compositions.
+* Lisa works well to support a Eula focused on extreme **burst **damage. She can apply **Superconduct**, **debuff **enemy **defense**, hold the **Thrilling Tales of Dragonslayer’s Catalyst**, and use the **Noblesse Oblige **set.
+* Her high **Energy cost Elemental Burst **and **high Energy Recharge **requirements make her more suitable for one rotation team compositions rather than consistent continuous rotation team compositions.
 
 ## **Does Not Work Well With**
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)&#x20;
 
-* Mona’s Omen debuff from her Elemental Burst does not last long enough for Eula to finish stacking hits for her Elemental Burst for its full duration.
+* Mona’s **Omen debuff **from her **Elemental Burst **does not last long enough for Eula to finish stacking hits for her **Elemental Burst **for its full duration.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)
 
-* Eula's kit innately favors Physical damage. Chongyun's elemental skill converts Eula's Normal Attacks to Cryo damage, which negates her build's Physical damage bonuses.
+* Eula's kit innately favors **Physical **damage. Chongyun's **Elemental Skill **converts Eula's **Normal Attacks **to **Cryo **damage, which negates her build's **Physical **damage bonuses.
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)
 
-* Anemo buffs and debuffs do not affect Physical damage. Anemo characters can still be used for their crowd control and utility but should generally be avoided.
+* **Anemo buffs **and **debuffs **do not affect **Physical **damage. Anemo characters can still be used for their **Crowd Control **and utility but should generally be avoided.
 
 ## **Teams**
 
@@ -82,10 +82,10 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* This team focuses on giving Eula high sustained DPS and Burst uptime with Rosaria to provide offensive buffs. Both Raiden and Rosaria serve as a Battery for Eula. Raiden is able to fill in on-field during the downtime when Eula's Elemental Burst is still on cooldown.
+* This team focuses on giving Eula high sustained **DPS **and **Burst uptime **with Rosaria to provide **offensive buffs**. Both Raiden and Rosaria serve as a **Battery **for Eula. Raiden is able to fill in **on-field **during the **downtime **when Eula's **Elemental Burst **is still **on cooldown**.
 
 ****[**Oneshot**](broken-reference/)****
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)** **![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* A very basic and straightforward Burst Eula team, focused on buffing Eula as much as possible and debuffing enemies for a more powerful Lightfall Sword.
+* A very basic and straightforward **Burst **Eula team, focused on **buffing **Eula as much as possible and **debuffing **enemies for a more powerful **Lightfall Sword**.
