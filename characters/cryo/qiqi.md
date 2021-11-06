@@ -6,10 +6,10 @@
 
 ## Character Breakdown
 
-* Elemental Skill periodically heals the active character, and occasionally attacks surrounding enemies. When attacking enemies with Qiqi during its active period, it heals all members in the party.
-* Elemental Burst tags enemies hit with a talisman for a duration, hitting the marked enemy with the active character will heal them.
-* Ascension 1 causes triggering a reaction to boost healing bonus by 20% for a character is affected by her Elemental Skill.
-* Ascension 4 gives a 50% chance to apply the mark from her Elemental Burst on to an enemy for 6s with her auto attacks (30s cooldown).
+* Elemental Skill periodically heals the active character, and occasionally attacks surrounding enemies. Attacking enemies with Qiqi's Normal or Charged Attacks while the Elemental Skill is actyive will heal all members in the party.
+* Elemental Burst deals Cryo damage and marks enemies hit with a talisman for a duration, attacking an enemy marked this way will heal the active character.
+* A1 boosts the Incoming Healing Bonus of characters affected by Qiqi's Elemental Skill whenever they trigger an Elemental Reaction.
+* A4 gives Qiqi's Normal and Charged Attacks a 50% chance to apply a Talisman identical to the ones from her Elemental Burst to an enemy for 6 seconds. This can only occur once every 30 seconds.
 
 ## Additional Notes
 
@@ -37,24 +37,22 @@ While she can be used on any team composition that is looking for a healer, Qiqi
 
 ## Teams
 
+{% hint style="info" %}
+Click on the team names below for more details on how the team works and alternative support options that can work with that team.
+{% endhint %}
+
 {% hint style="warning" %}
 This character is a healer. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
 {% endhint %}
-
-[**Physical**](../../teams/physical.md)
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Qiqi.png)
-
-* Razor acts as the teams Main DPS, making use of the Superconduct reaction to do damage.
-* Kaeya provides an additional source of Cryo application as well as activates Cryo resonance.&#x20;
-* Fischl generates Electro particles to help fuel Razor's Elemental Burst.
-* Qiqi applies Cryo to allow for Superconduct for prolonged durations, as well as provides consistent healing to the character on field.
 
 [**Freeze**](../../teams/freeze.md)
 
 ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Qiqi.png)
 
-* Childe acts as this team's Main DPS, constantly applying hydro to enemies.
-* Kaeya is the main source of Cryo application, which allows for the Freeze reaction to occur.
-* Kazuha applies Viridescent Venerer to debuff enemy resistances, as well as provides his elemental damage buff to teammates.
-* Qiqi acts as a healer as well as a second Cryo for the team.
+* Qiqi acts as a healer as well as a second Cryo for the team to increase Critical Rate on-hit on enemies affected by cryo or frozen.
+
+****[**Physical**](../../teams/physical.md)****
+
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Qiqi.png)****
+
+* Qiqi applies Cryo to allow for Superconduct for prolonged durations, as well as provides consistent healing to the character on field.
