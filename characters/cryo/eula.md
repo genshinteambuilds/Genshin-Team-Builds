@@ -7,51 +7,51 @@
 
 ## **Character Breakdown**
 
-* Eula relies on her Elemental Burst and Normal Attacks to deal Physical damage.
-* Elemental Skill changes based on whether it is tapped or held.
-  * Elemental Skill (tap) deals Cryo damage and gains a stack of Grimheart.
-    * Grimheart increases Eula's defense and resistance to interruption. A maximum of two stacks can be held.
-  * Elemental Skill (hold) consumes all Grimheart stacks, deals Cryo damage, and activates the following effects:
-    * Each stack of Grimheart consumed creates an instance of AoE Cryo damage.
-    * If any Grimheart stacks are consumed, surrounding enemies will have their Physical and Cryo Resistance debuffed.
-    * At A4, if two stacks of Grimheart are consumed this way, Eula will create a miniature version of her Elemental Burst which explodes instantly, dealing Physical damage.
-* Elemental Burst deals huge AoE Physical Damage after a set duration, or if Eula is switched out.
-  * Elemental Burst damage will increase based on how many times Eula hits enemies during its duration.
+* Eula relies on her **Elemental Burst **and **Normal Attacks **to deal **Physical **damage.
+* **Elemental Skill **changes based on whether it is tapped or held.
+  * **Elemental Skill (tap) **deals **Cryo **damage and gains a stack of **Grimheart**.
+    * **Grimheart **increases Eula's **defense **and **resistance to interruption**. A maximum of two stacks can be held.
+  * **Elemental Skill (hold) **consumes all **Grimheart **stacks, deals **Cryo **damage, and activates the following effects:
+    * Each stack of **Grimheart **consumed creates an instance of AoE Cryo damage.
+    * If any **Grimheart **stacks are consumed, surrounding enemies will have their **Physical **and **Cryo **Resistance **debuffed**.
+    * At **A4**, if two stacks of **Grimheart** are consumed this way, Eula will create a miniature version of her **Elemental Burst **which explodes instantly, dealing Physical damage.
+* **Elemental Burst **first strike enemies dealing **Cryo DMG** to nearby opponents** **then** **creates a **Lightfall Sword** that deals huge **AoE Physical **Damage after a set duration, or if Eula is switched out.
+  * **Elemental Burst** damage will increase based on how many times Eula hits enemies during its duration.
 
 ## **Additional Notes**
 
-* Elemental Burst grants a stack of Grimheart and resets the cooldown of her Elemental Skill.
-  * As such, Eula should generally always use her Elemental Skill (tap) before using her Elemental Burst.
-  * Using Elemental Skill (hold) after will consume the 2 stacks of Grimheart generated beforehand to both debuff Enemy Resistances and deal 4 instances of damage, which count toward her Elemental Burst.
-* Eula’s Burst does NOT snapshot.
-  * This makes short-lasting buffs much less useful for her Elemental Burst damage.
+* **Elemental Burst** grants a stack of **Grimheart **and resets the cooldown of her Elemental Skill.
+  * As such, Eula should generally always use her** Elemental Skill (tap)** before using her **Elemental Burst**.
+  * Using **Elemental Skill (hold)** after will consume the 2 stacks of **Grimheart **generated beforehand to both **debuff **Enemy **Resistances **and deal 4 instances of damage, which count toward her **Elemental Burst**.
+* Eula’s **Elemental Burst** does NOT **snapshot**.
+  * This makes short-lasting **buffs **much less useful for her **Elemental Burst **damage.
 
 ## **Works Well With**
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
 * Often paired with Eula to form a** **[**Physical team**](../../teams/physical.md).&#x20;
-* Raiden Shogun provides Superconduct, buffs Elemental Burst damage, serves as a team Battery and is able to be used on-field after Eula uses her Elemental Burst.
-* Fischl provides off-field damage, constant Superconduct, and serves as an Electro Battery.
+* Raiden Shogun provides **Superconduct**, buffs **Elemental Burst **damage, serves as a team **Battery** and is able to be used **on-field **after Eula uses her **Elemental Burst**.
+* Fischl provides **off-field damage**, constant **Superconduct**, and serves as an **Electro Battery**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Diona is a top option as a Cryo Battery as she provides Cryo Resonance and is a Healer/Shielder.
+* Diona is a top option as a **Cryo Battery **as she provides **Cryo Resonance **and is a **Healer **and **Shielder**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
-* Rosaria serves as a Cryo Battery and Crit Rate Buffer while also providing Cryo Resonance.
-* C6 reduces physical resistance of enemies hit by Rosaria's Elemental Burst.
+* Rosaria serves as a **Cryo Battery **and **Critical Rate **Buffer while also providing **Cryo Resonance**.
+* **C6 **reduces **Physical RES **of enemies hit by Rosaria's **Elemental Burst**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's Shield can prevent Eula from being interrupted, which lets her more easily stack hits for her Burst.
-* His Shield also further debuffs all Elemental and Physical Resistances.
+* Zhongli's **Shield **can prevent Eula from being **interrupted**, which lets her more easily stack hits for her **Elemental Burst**.
+* His **Shield **also further **debuffs **all **Elemental **and **Physical RES**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett provides a high ATK buff that lasts the full duration of Eula's Elemental Burst and is a Healer.
-* C6 will infuse Eula's Normal/Charged/Plunging Attacks with Pyro, negating all of the Physical Damage bonuses she receives. Do not use C6 Bennett with Eula unless you are going for an Elemental Burst Oneshot.
+* Bennett provides a high **ATK buff **that lasts the full duration of Eula's **Elemental Burst **and is a **Healer**.
+* **C6 **will infuse Eula's **Normal**/**Charged**/**Plunging Attacks **with **Pyro**, negating all of the **Physical **Damage bonuses she receives. Do not use C6 Bennett with Eula unless you are going for an **Elemental **Burst **Oneshot**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)
 

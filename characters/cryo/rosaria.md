@@ -8,13 +8,13 @@
 
 ## Character Breakdown
 
-* Elemental Skill moves Rosaria behind her target and deal 2 instances of Cryo damage. Against large enemies, Rosaria simply moves within range of them and not behind them.
+* Elemental Skill will reposition herself behind her target and deal 2 instances of Cryo damage. Against large enemies you will be moved to their front instead.
 * Elemental Burst starts with a wide swing with her weapon that deals Cryo damage then triggers continuous blasts of Cryo damage in a circle around the ice lance summoned in front of her.
-* A1 increases her Crit rate by 12% for 5 seconds when she uses her Elemental Skill.
-* A4 increases the whole party's Crit Rate (except Rosaria) by a certain number depending on Rosaria's Crit Rate after uisng her Elemental Burst.
 
 ## Additional Notes
 
+* A1 Talent increases her Crit rate by 12% for 5 seconds when she uses her Elemental Skill.
+* A4 Talent increases the whole party's Crit Rate (except Rosaria) by 15% of Rosaria's Crit Rate after activating her Elemental Burst
 * C1 provides Rosaria with an attack speed and damage increase on her Normal Attacks after triggering a Critical Hit, providing her a near constant buff for her Normal Attacks.
 * C2 increases the duration of her Elemental Burst by 4 seconds, making her Elemental Burst trigger 2 more blasts of Cryo damage.
 * C4 greatly improves Rosaria's self energy regeneration, allowing her to maintain her Elemental Burst easier.
