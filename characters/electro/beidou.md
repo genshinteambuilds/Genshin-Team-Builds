@@ -77,7 +77,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * Beidou is typically used as an Off-Field DPS in these teams with an on-field character such as Keqing or Childe to trigger her **Elemental Burst's** lightning arc.
 * A second **Electro** character is recommended to help recharge Beidou's **Elemental Burst**.
-* Last character slot is flexible and any character that can be used to provide extra damage or an **Anemo** character with **Viridescent Venerer **4-set.
+* Last character slot can be any character that can be used to provide extra damage or an **Anemo** character with **Viridescent Venerer **4-set.
 
 [**Overload**](../../teams/overload.md)****
 
