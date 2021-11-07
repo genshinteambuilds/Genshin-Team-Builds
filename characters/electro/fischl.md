@@ -7,42 +7,42 @@
 
 ## Character Breakdown
 
-* Fischl primarily uses her Elemental Skill to deal sustained Electro Damage from off-field.
-* Elemental Skill summons Oz, who deals a large burst of AoE Electro damage upon summon and periodically deals Electro damage to a single enemy for a set duration.
-  * Oz remains even when Fischl is not on the field.
-* Reactivating Fischl’s Elemental Skill while it’s already active will teleport Oz to her current location.
-* Fischl’s Elemental Burst will cause her to damage all enemies she comes into contact with during its duration and immediately summon Oz.
+* **Elemental Skill** is primarily used to deal sustained **Electro** damage from off-field.
+* **Elemental Skill** summons **Oz**, who deals a large burst of AoE **Electro** damage upon summon and periodically deals **Electro** damage to a single enemy for a set duration.
+  * **Oz** remains even when Fischl is not on the field.
+* Reactivating Fischl’s **Elemental Skill** while it’s already active will teleport **Oz** to her current location.
+* **Elemental Burst** will cause Fischl to damage all enemies she comes into contact with during its duration and immediately summon** Oz**.
 
 ## Additional Notes
 
-* Fischl’s Elemental Burst is currently the only Burst that does not provide Invincible Frames. Her movement can also be manually controlled during its animation.
-* Fischl’s Elemental Burst can also be canceled early by swapping to another character.
-* C6 benefits characters who attack frequently, as it applies a small secondary Electro hit on each attack.
+* Fischl’s **Elemental Burst** is currently the only **Elemental Burst** that does not provide Invincibility Frames. Her movement can also be manually controlled during its animation.
+* **Elemental Burst** can be canceled early by swapping to another character.
+* **C6 **benefits characters who attack frequently, as it applies a small secondary **Electro** hit on each attack.
 
 ## Works Well With
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
-* Eula can benefit from the high Superconduct uptime and extra damage provided by Fischl.
+* Eula can benefit from frequent **Superconduct** reactions which reduce **Physical Resistance** and the extra **Electro **damage provided by Fischl.
 
-![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
-* Tartaglia can apply Electro-Charged very frequently with Fischl.
+* Tartaglia and Xingqiu provide a high rate of **Hydro **application, and combined with Fischl's **Oz** she can constantly create **Electro-Charged** reactions.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
-* Fischl can help supplement Beidou's high Energy Recharge requirements.
+* Fischl can help supplement Beidou's high **Energy Recharge** requirements.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
 
-* Fischl allows Razor to use his Elemental Burst more frequently. She also does not take up Razor's field time.
+* Fischl provides Energy Particles and** Electro Resonance** allowing Razor to use his **Elemental Burst** more frequently.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)
+![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Fischl’s constant Electro application can knock enemies out of range when used with someone like Hu Tao or Diluc due to Overload's knockback effect. Electro can also interfere with the consistency of Vaporize reactions.
-  * However, some teams can still function this way. See [Overload](../../teams/overload.md).
+* Fischl’s constant **Electro** application can knock enemies out of range when used with a **Pyro **Main DPS due to **Overload's** knockback effect. **Electro** can also interfere with the consistency of **Vaporize** or **Melt** reactions.
+  * However, some teams can still function this way. See [**Overload**](../../teams/overload.md).
 
 ## Teams
 
@@ -51,29 +51,29 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-In all the teams listed below, Fischl universally provides Off-Field Electro application and Sub-DPS utility.
+In all the teams listed below, Fischl universally provides Off-Field **Electro** application and Sub-DPS utility.
 {% endhint %}
 
-[**Electro-Charged**](../../teams/electro-charged.md)
+[**Anemo**](https://genshinteambuilds.gitbook.io/teams/teams/anemo)****
+
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
+
+****[**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
-* This team composition utilizes both Hydro and Electro characters who individually provide strong personal damage coupled with high energy generation from Electro resonance, providing good sustained area damage.
+* This team utilizes both **Hydro** and **Electro** characters who provide strong individual damage coupled with high energy generation from **Electro Resonance** and frequent **Electro-Charged** reactions, resulting in high sustained area damage.
 
-[**Physical**](../../teams/physical.md)
+[**Geo**](https://genshinteambuilds.gitbook.io/teams/teams/geo)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
-
-* Fischl pairs well with Physical carries, especially Cryo ones thanks to her high Superconduct uptime. She also helps provide extra damage without requiring much field time.
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
 
 [**Overload**](../../teams/overload.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-****[**Anemo**](https://genshinteambuilds.gitbook.io/teams/teams/anemo)****
+[**Physical**](../../teams/physical.md)
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
+![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-****[**Geo**](https://genshinteambuilds.gitbook.io/teams/teams/geo)****
-
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
+* Fischl pairs well with **Physical** Main DPS because of high **Superconduct** reaction uptime which debuffs **Physical Resistance**. She also helps provide extra damage without requiring much field time.
