@@ -45,7 +45,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)
 
-* Beidou's ability to snapshot buffs with her **Elemental Burst** allows her to take full advantage of both Bennet and Kujou Sara's attack buffs. (Note that the **Electro Crit Damage** Increase from Kujou Sara's C6 cannot be snapshot and will not buff the entirety of Beidou's** Elemental Burst**.)
+* Beidou's ability to snapshot buffs with her **Elemental Burst** allows her to take full advantage of both Bennet and Kujou Sara's **Attack** buffs. (Note that the **Electro Crit Damage** Increase from Kujou Sara's C6 cannot be snapshot and will not buff the entirety of Beidou's** Elemental Burst**.)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
@@ -75,7 +75,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * Beidou is typically used as an Off-Field DPS in these teams with an on-field character such as Keqing or Childe to trigger her **Elemental Burst's** lightning arc.
 * A second **Electro** character is recommended to help recharge Beidou's **Elemental Burst**.
-* Last slot is a flex slot that can be used to contribute extra damage/swirl reations.
+* Last slot is a flex slot that can be used to contribute extra damage or **Swirl **reactions.
 
 [**Overload**](../../teams/overload.md)****
 
