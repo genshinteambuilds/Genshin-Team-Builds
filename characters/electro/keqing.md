@@ -34,7 +34,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
-* Beidou contributes to the team's overall damage with her own **Elemental Burst,** and her **C6** debuffs the **Electro Resistance** of enemies.
+* Beidou contributes to the team's overall damage with her own **Elemental Burst,** and her **C6** debuffs the **Electro Resistance** of enemies'.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
@@ -48,7 +48,7 @@
 
 ![](../../.gitbook/assets/Element\_Cryo.webp)&#x20;
 
-* Cryo support characters such work well with **Physical** Keqing as the **Superconduct r**eaction debuffs enemies **Physical Resistance**.
+* Cryo support characters such work well with **Physical** Keqing as the **Superconduct r**eaction debuffs enemies' **Physical Resistance**.
 
 ## Does Not Work Well With
 
