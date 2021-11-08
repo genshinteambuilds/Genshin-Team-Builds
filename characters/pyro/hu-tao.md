@@ -24,7 +24,7 @@
 
 ## **Works Well With**
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****
 
 * Xingqiu provides strong Hydro application enabling Hu Tao to Vaporize her attacks for 1.5x more damage. Check the [Reverse Vaporize](../../teams/reverse-vaporize.md) team page for team compositions and notes.
 
@@ -44,7 +44,7 @@
 
 ## **Does Not Work Well With**
 
-![](../../.gitbook/assets/Element\_Cryo.webp)
+****![](../../.gitbook/assets/Element\_Cryo.webp)****
 
 * Melt team compositions using Hu Tao typically do not work well due to the inability to apply Cryo Aura fast enough that Hu Tao will sometimes enables the Cryo units instead. Using 2 cryo applicants does not solve it's inconsistency. **However** if there is an alternative source of damage for Hu Tao like Reverse Vaporize on times you cannot melt then it becomes more viable.
 
@@ -59,7 +59,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Athough Bennett provides an ATK buff and also Pyro Resonance. Bennett can heal Hu Tao over 50% HP which is detrimental to Hu Tao.
+* Although Bennett provides an ATK buff and also Pyro Resonance. Bennett can heal Hu Tao over 50% HP which is detrimental to Hu Tao.
 * Hu Tao is one of the few units that does not need to rely on Bennett to deal damage which makes him free to be used on other teams.
 * [Oneshot](../../teams/oneshot.md) teams however would require a Bennett as Hu Tao's Elemental Burst snapshots when cast.
 
