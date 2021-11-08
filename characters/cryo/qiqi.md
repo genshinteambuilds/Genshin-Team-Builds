@@ -23,7 +23,7 @@
 
 * Qiqi can help to enable **Cryo resonance **for increased **Critical Rate **against enemies affected by **Cryo.**
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)
 
 * She works fairly well with a **Physical** Main DPS, as she can periodically apply **Cryo **with her **Elemental skill **to enable **Superconduct **to debuff enemy **Physical Resistance**, which they greatly benefit from.
 
