@@ -29,7 +29,7 @@
 
 * Diona provides **Cryo Resonance** for additional **Critical Rate** for these Freeze team Main Dps, for more information about **Freeze **teams, refer to [**Freeze**](../../teams/freeze.md).
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
 * Diona reduces the **stamina consumption **and can also aid making **Superconduct **reactions, also helps **Cryo Physical **Main DPS in recharging their **Elemental Burst** with her energy generation. For more information about **Physical **teams, refer to [**Physical**](../../teams/physical.md).
 
