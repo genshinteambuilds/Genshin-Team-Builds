@@ -27,7 +27,7 @@
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)
 
-* Kujou Sara is one of the Raiden Shogun’s best supports in her team, providing extra energy generation both from her own **Elemental Skill** as well as providing **Electro Resonance. **Her **Attack** boost can increase the Raiden Shogun’s **Elemental Burst** damage during its duration.
+* Kujou Sara is one of the Raiden Shogun’s best supports in her team, providing extra energy generation both from her own **Elemental Skill** as well as activating **Electro Resonance. **Her **Attack** boost can increase the Raiden Shogun’s **Elemental Burst** damage during its duration.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
