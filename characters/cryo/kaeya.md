@@ -62,18 +62,16 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
 
-* Kaeya's energy generation in **Freeze**-based teams is massive, able to support other **Cryo **characters with very little Energy Recharge.
+* Kaeya's energy generation in **Freeze**-based teams is massive, able to support other **Cryo **characters with very little Energy Recharge. He also provides **Cryo Resonance.**
 * Kaeya can be used as a Main DPS in Freeze teams, especially in combination with Chongyun. Chongyun's **Cryo Infusion **of **Normal Attacks **allows Kaeya to utilize his high **Normal **and **Charged Attack **damage while still gaining **Elemental Damage **bonuses.
-* Typically these teams will utilize Kaeya and another **Cryo **DPS, as **Cryo Resonance **is extremely powerful and easy to upkeep in this team.
 * The combination of the **Blizzard Strayer** set and **Cryo Resonance **can give Kaeya massive amounts of **Critical Rate **with no further investment.
 
 ****[**Melt (Pyro)**](../../teams/melt.md)****
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****
 
-* Kaeya will can be fit into a **Vaporize **team to allow triggers of the higher-damage **Melt **reaction in addition to standard **Vaporizes**.
+* Kaeya can be fit into a **Vaporize **team to allow triggers of the higher-damage **Melt **reaction in addition to standard **Vaporizes**.
 * Kaeya alone cannot produce enough **Cryo **application to **Melt **every attack from a **Pyro **Main DPS. Pairing with either another **Hydro **or **Cryo **character is necessary to maximize damage.
-* Due to **Cryo **overwriting **Hydro**, Off-Field DPS of both elements can be used simultaneously with the higher damage reaction being used whenever available.
 * Kaeya's increased **Cryo **application at **C6 **can increase the frequency at which this team can trigger **Melt**.
 
 [**Physical**](../../teams/physical.md)
