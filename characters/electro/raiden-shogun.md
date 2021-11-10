@@ -18,8 +18,8 @@
 
 ## **Additional Notes**
 
-* Raiden Shogun’s **Elemental Skill** will not launch a coordinated attack against enemies protected by certain shields, such as Abyss Mages.
-* The energy generated for the party from the Raiden Shogun’s **Elemental Burst** can only be applied 5 times, with a 1 second cooldown between activations.
+* **Elemental Skill** will not launch a coordinated attack against enemies protected by certain shields, such as Abyss Mages.
+* **Elemental Burst** can only provide energy to the team 5 times, with a 1 second cooldown between activations.
 * **C2** massively increases Raiden Shogun's **Elemental Burst** damage making her a strong Main DPS option when building a team.
 * The Raiden Shogun can't cook.
 
@@ -84,8 +84,6 @@ Click on the team names below for more details on how the team works and alterna
 * This team is much more effective with Raiden Shogun's** C2** and Kujou Sara's **C6**.
 
 [**Physical**](../../teams/physical.md)
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 

@@ -29,14 +29,14 @@
 
 * Diona provides **Cryo Resonance** for additional **Critical Rate** for these Freeze team Main Dps, for more information about **Freeze **teams, refer to [**Freeze**](../../teams/freeze.md).
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
 * Diona reduces the **stamina consumption **and can also aid making **Superconduct **reactions, also helps **Cryo Physical **Main DPS in recharging their **Elemental Burst** with her energy generation. For more information about **Physical **teams, refer to [**Physical**](../../teams/physical.md).
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * Diona works well with almost every team in the game by universally functioning as a **Healer **and a **Shielder**.
-* Diona's C6 **Elemental Mastery Buff **helps in teams that focus on **reaction damage**.
+* Diona's **C6** **Elemental Mastery Buff **helps in teams that focus on **reaction damage**.
 
 ## **Does Not Work Well With**
 

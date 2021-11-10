@@ -48,7 +48,7 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Sucrose is primarily acts as an Energy Battery for Xiao in this team and additionally provides some Crowd Control.
-  * With **Sacrificial Fragments** and **C1,** she can use her **Elemental Skill** 3 times in quick succession, which is one of the fastest ways to recharge Xiao's Energy.
+  * With **Sacrificial Fragments** and **Constellation 1,** she can use her **Elemental Skill** 3 times in quick succession, which is one of the fastest ways to recharge Xiao's Energy.
 
 {% hint style="info" %}
 In all the teams listed below, Sucrose universally provides debuffing utility using the **Viridescent Venerer** 4-set.

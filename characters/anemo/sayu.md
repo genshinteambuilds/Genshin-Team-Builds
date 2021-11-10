@@ -30,7 +30,7 @@
 
 ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* **Anemo **cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo **and** Physical **Damage characters.
+* **Anemo **cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo **and** Physical **damage characters.
   * Sayu can still be used with these characters if your team requires healing but will provide little other value.
 
 ## Teams

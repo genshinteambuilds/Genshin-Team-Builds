@@ -11,7 +11,7 @@
 * **Elemental Burst** effects change depending on whether Tartaglia is in his Ranged or Melee stance.
   * When Ranged, Tartaglia's **Elemental Burst** deals high AoE **Hydro** damage and applies **Riptide** to any enemies hit.
   * When Melee, Tartaglia's **Elemental Burst **deals even higher AoE **Hydro **damage and triggers** Riptide Blast** on any enemies hit that are already affected by Riptide.
-* Ascension 4 allows Tartaglia to mark enemies hit with **Riptide** whenever he deals **Critical Damage** using his **Normal Attacks** or **Charged Attacks** in his melee stance.
+* **A4** allows Tartaglia to mark enemies hit with **Riptide** whenever he deals **Critical Damage** using his **Normal Attacks** or **Charged Attacks** in his melee stance.
 * Tartarglia's** Charged Attacks** while in Ranged stance can also deal **Hydro** damage and apply **Riptide** to enemies when fully Charged.
   * Ranged Attacks on Tartaglia are typically avoided if possible.
 
@@ -26,9 +26,9 @@ Enemies affected by **Riptide** can take additional damage in multiple ways.
 
 ## Additional Notes
 
-* **Ascension 1** extends Riptide's duration on enemies by 8 seconds.
+* **A1** extends Riptide's duration on enemies by 8 seconds.
 * Tartaglia's Passive Talent increases your whole team's **Normal Attack** talent level by 1.
-* **Constellation 4** can cause issues with his **Vaporize** Oneshot team due to constantly applying **Hydro** on nearby enemies with Riptide Flash.
+* **C4** can cause issues with his **Vaporize** Oneshot team due to constantly applying **Hydro** on nearby enemies with Riptide Flash.
 
 ## Works Well With
 
@@ -38,11 +38,11 @@ Enemies affected by **Riptide** can take additional damage in multiple ways.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
-* Tartaglia applies **Hydro** quickly in his Melee stance allowing Xiangling’s **Elemental Skill** and **Elemental Burst** to **Vaporize** it while being Off-Field. Check out the [Vaporize(Hydro)](../../teams/vaporize.md) team page for more details.&#x20;
+* Tartaglia applies **Hydro** quickly in his Melee stance allowing Xiangling’s **Elemental Skill** and **Elemental Burst** to **Vaporize** it while being Off-Field. Check out the [**Vaporize(Hydro)**](../../teams/vaporize.md) team page for more details.&#x20;
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
-* Both Beidou and Fischl are often used with Tartaglia in his [Electro-Charged teams](../../teams/electro-charged.md).
+* Both Beidou and Fischl are often used with Tartaglia in his [**Electro-Charged**](../../teams/electro-charged.md)** **teams**.**
 * Beidou’s **Elemental Burst** can deal large amounts of **Electro** damage while Beidou is Off-Field. Tartaglia’s fast attack speed during his melee stance can also cause Beidou's **Elemental Burst** to trigger more often.
 * Fischl is often paired with Beidou due to Beidou's high **Elemental Burst** energy cost. Fischl generates more energy for Beidou, provides more Off-Field damage and also **Electro Resonance**. It is also possible to use Fischl by herself for** Electro-Charged** reactions if you do not have Beidou.
 
@@ -52,7 +52,7 @@ Enemies affected by **Riptide** can take additional damage in multiple ways.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
-* Typically only used with Tartaglia in [Oneshot](../../teams/oneshot.md) team compositions. Mona provides the **Omen** debuff to enemies that increases damage taken by enemies for a certain period of time. This can be used to further increase Tartaglia’s **Vaporize** **Elemental Burst** damage.
+* Typically only used with Tartaglia in** **[**Oneshot**](../../teams/oneshot.md) team compositions. Mona provides the **Omen** debuff to enemies that increases damage taken by enemies for a certain period of time. This can be used to further increase Tartaglia’s **Vaporize** **Elemental Burst** damage.
 
 ## **Does Not Work Well With**
 

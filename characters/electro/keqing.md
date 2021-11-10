@@ -17,7 +17,6 @@
 
 * Keqing can be played as either an **Electro** or **Physical** Main DPS giving her flexibility when it comes to her teams.
 * Keqing can easily run out of stamina due to her **Charged Attacks** being her main source of damage.
-* Her constellations are usually niche as they mostly are just extra damage. The damage increase tends to be minor.
 * She can maintain her **Electro Infusion** by using her **Elemental Skill** then using her **Elemental Burst **before recasting the **Elemental Skill**.
 * Keqing's **Charged Attack** can often knock back smaller enemies making it difficult to deal consistent damage.
 

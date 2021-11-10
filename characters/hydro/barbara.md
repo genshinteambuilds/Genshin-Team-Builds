@@ -10,14 +10,14 @@
 * **Elemental Skill** creates and aura which heals and applies **Hydro** to the active character every few seconds while also applying **Hydro** to enemies nearby the active character.
 * **Elemental Skill** additionally causes Barbara's **Normal Attacks** and **Charged Attacks** to heal the party a small amount.&#x20;
 * **Elemental Burst** heals all party members a large amount.&#x20;
+* **A1** reduces stamina consumption of the active character while Barbara's **Elemental Skill **is active.
+* **A4 **increase the duration of Barbara's **Elemental Skill** when **Energy Particles** are picked up.
 
 ## Additional Notes
 
-* **Elemental Skill** and **Elemental Burst** both heal based of off Barbara's maximum HP.
-* **Ascension 1** reduces stamina consumption of the active character while Barbara's **Elemental Skill **is active.
-* **Ascension 4 **increase the duration of Barbara's **Elemental Skill** when **Energy Particles** are picked up.
-* **Constellation 2 **provides a 15% **Hydro** damage bonus while Barbara's **Elemental Skill **is active.
-* **Constellation 6** resurrects a fallen party member with full health once every 15 minutes.
+* **Elemental Skill** and **Burst** both heal based of off Barbara's maximum HP.
+* **C2 **provides a 15% **Hydro** damage bonus while Barbara's **Elemental Skill **is active.
+* **C6** resurrects a fallen party member with full health once every 15 minutes.
   * This cooldown does not reset while entering or restarting domains, including Spiral Abyss. The resurrection can be used multiple times in multiple floors of Spiral Abyss, as long as the cooldown is waited out.
 
 ## Works well with
@@ -33,7 +33,7 @@
 
 ## Does not work well with
 
-&#x20;![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
+&#x20;![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Qiqi.png)
 
 * Barbara's focus on healing while providing little else greatly reduces her synergy with other Healers and Shielders, who often fill the same role, reducing Barbara's utility.&#x20;
 

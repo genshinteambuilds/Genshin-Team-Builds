@@ -7,35 +7,32 @@
 
 ## **Character Breakdown**
 
-* **Elemental Skill** summons a taunt that deals multiple instances of **Hydro** damage in an AoE around it, making it strong in **Freeze** comps.
-* **Elemental Burst** applies Illusory Bubble to all enemies in an AoE around her which applies **Hydro**, immobilizes enemies and provides the Omen debuff which increases all damage enemies take.
-  * When enemies take damage, the Illusory Bubble deals a large amount of **Hydro** damage. The Omen debuff will persist for 4 seconds after this.
+* **Elemental Skill** summons a taunt that deals multiple instances of **Hydro** damage in an AoE around it.
+* **Elemental Burst** applies Illusory Bubble to all enemies in an AoE around her which applies **Hydro**, immobilizes enemies and provides the **Omen** debuff which increases all damage enemies take.
+  * When enemies take damage, the Illusory Bubble deals a large amount of **Hydro** damage. The **Omen** debuff will persist for 4 seconds after this.
+* **A1** will create a weaker copy of Mona's **Elemental Skill** when Mona spends 2 seconds sprinting lasting 2 seconds and dealing less damage.
+* **A4** buffs Mona's **Hydro Damage** by 20% of her current **Energy Recharge**.
 
 ## **Additional Notes**
 
-* Mona most often is used to increase her team's damage via her **Elemental Burst**'s debuff, but can also be used as a Burst Sub Dps.
+* Mona most often is used to increase her team's damage via her **Elemental Burst**'s debuff, but can also be used as a Burst Sub DPS.
 * Mona’s **Elemental Burst** damage is affected by its own Damage Bonus buff.
 * Mona’s **Elemental Burst** will suspend smaller targets, effectively stunning them in place throughout its duration but will not suspend larger targets at all.
 * Mona can be built for her **Elemental Burst**'s Damage but should only be done so in teams that can amplify this damage, like **Vaporize**. If in a team that cannot, like **Freeze**, it is recommended to build her more for Support.
-* **Ascension 1** will create a weaker copy of Mona's **Elemental Skill** when Mona spends 2 seconds sprinting lasting 2 seconds and dealing less damage.
-* **Ascension 4** buffs Mona's **Hydro Damage** by 20% of her current **Energy Recharge**.
-* **Constellation 1** gives **Omen** an extra effect.
+* **C1** gives **Omen** an extra effect.
   * Increases the Damage of all Elemental Reactions that require **Hydro** by 15%.
   * Increases the duration of the** Freeze** Reaction by 15%
+* **Omen's** duration can be artificially increased as Mona's **Illusory Bubble** cannot be popped while enemies are **Frozen**. This makes her one of the best characters for [**Freeze**](../../teams/freeze.md) Teams.
 
 ## **Works Well With**
 
 [![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/bennett)​
 
-* Bennett both allows Mona's **Elemental Burst** to be **Vaporized** and grants an **Attack** buff to her, letting her become a Burst Sub Dps.
+* Bennett both allows Mona's **Elemental Burst** to be **Vaporized** and grants an **Attack** buff to her, letting her become a Burst Sub DPS.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)
 
-* Mona's **Elemental Skill** can keep opponents **Frozen** while her **Elemental Burst** can increase the damage of Ayaka’s **Elemental Burst**.
-
-[![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)](https://genshinteambuilds.gitbook.io/teams/characters/cryo/ganyu)
-
-* Similarly to Ayaka, Mona can easily keep enemies **Frozen** and increase Ganyu's damage in **Freeze** Ganyu comps.
+* Mona's **Elemental Skill** can keep opponents **Frozen** while her **Elemental Burst** can increase their **Cryo** damage.
 
 [![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/hu-tao)
 
@@ -62,4 +59,4 @@
 
 [![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png) ​](https://genshinteambuilds.gitbook.io/teams/characters/hydro/mona)[![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/bennett) [![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)](https://genshinteambuilds.gitbook.io/teams/characters/anemo/kazuha) [![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)](https://genshinteambuilds.gitbook.io/teams/characters/pyro/hu-tao)​
 
-* Mona's **Elemental Burst** debuff provides a Damage Bonus increase against enemies affected by it. She also provides taunting utility through her **Elemental Skill** and **Ascension 1**.
+* Mona's **Elemental Burst** debuff provides a Damage Bonus increase against enemies affected by it. She also provides taunting utility through her **Elemental Skill** and **A1**.

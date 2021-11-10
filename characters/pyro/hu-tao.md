@@ -15,7 +15,7 @@
 
 ## **Additional Notes**
 
-* Casting her **Elemental Skill** will sacrifice 30% of Hu Tao's current **HP.**
+* **Elemental Skill** will sacrifice 30% of Hu Tao's current **HP** when cast**.**
   * Hu Tao won't die with her **Elemental Skill **as it won't drop her below **1 HP.**
 * **C1 **makes Hu Tao's **Charged Attack** cost no stamina while her **Elemental Skill** is active.
 * Hu Tao's attack combo can depend whenever she is **C0** or **C1**:
