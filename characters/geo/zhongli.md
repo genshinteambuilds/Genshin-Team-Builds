@@ -2,7 +2,7 @@
 
 ## **Roles**
 
-* **Support**: Shielder**,** Debuffer, Crowd Control (Immobilization), Healer (Constellation 6)
+* **Support**: Shielder**,** Debuffer, Crowd Control (Immobilization), Healer (C6)
 * **Burst DPS**
 
 ## **Character Breakdown**
@@ -15,8 +15,8 @@
 ## **Additional Notes**
 
 * Zhongli’s jade shield decreases nearby enemy units' Elemental and Physical RES by 20%.
-* With Zhongli's Ascension 1, whenever his Jade Shield takes damage, it will fortify, increasing the shield strength of the fortified on-field character by 5%, can stack up to 5 times and will last within the Jade Shield's duration.
-* With Zhongli's Ascension 4, he gains an additional bonus damage on his talents based on his max HP.
+* With Zhongli's A1, whenever his Jade Shield takes damage, it will fortify, increasing the shield strength of the fortified on-field character by 5%, can stack up to 5 times and will last within the Jade Shield's duration.
+* With Zhongli's A4, he gains an additional bonus damage on his talents based on his max HP.
 * Zhongli's Stone Stele additionally causes all other Geo Constructs in the nearby area to pulse, doing additional Geo Damage.
 
 ## **Works Well With**

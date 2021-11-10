@@ -4,7 +4,7 @@
 
 * **Main DPS**
 * **Off-Field DPS** (Elemental Burst)
-* **Support:** Buffer (Ascension 4)
+* **Support:** Buffer (A4)
 
 ## Character Breakdown
 

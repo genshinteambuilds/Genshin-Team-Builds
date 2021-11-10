@@ -11,7 +11,7 @@
 * **Elemental Skill** infuses Hu Tao’s **Normal Attack** and **Charged Attacks** with **Pyro**. Using **Charged Attacks** applies **Blood Blossom** to the enemies hit. Enemies affected by **Blood Blossom** will take **Pyro** damage periodically.
 * **Elemental Burst** both deals a large amount of damage in an AoE around her and heals Hu Tao based on the amount of enemies hit with a maximum of 5 enemies.
 * **Elemental Burst** damage and healing are increased if Hu Tao’s **HP** is equal to or less than 50%
-* **Ascension 4** increases Hu Tao's **Pyro Damage** by 33% if her **HP** is equal to or less than 50%
+* **A4** increases Hu Tao's **Pyro Damage** by 33% if her **HP** is equal to or less than 50%
 
 ## **Additional Notes**
 

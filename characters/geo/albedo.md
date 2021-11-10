@@ -4,31 +4,31 @@
 
 * **Off-Field DPS** (Elemental Skill)
 * **Burst DPS**
-* **Support**: Buffer (Ascension 4, Constellation 4, Constellation 6)
+* **Support**: Buffer (A4, C4, C6)
 
 ## **Character Breakdown**
 
 * Elemental Skill creates a Geo construct that deals Geo damage in an area upon skill activation and creates a field.
   * While inside this field, whenever an enemy takes damage, an additional instance of Geo damage will also be dealt, with a short cooldown.&#x20;
-    * Ascension 1 causes Geo damage generated this way will deal increased damage to enemies under 50% HP.
+    * A1 causes Geo damage generated this way will deal increased damage to enemies under 50% HP.
   * The construct itself acts as an elevator.
 * Elemental Burst deals Geo damage in a frontal area.
   * If Albedo's Elemental Burst is cast within the field created by his Elemental Skill, it will do 7 more instances of Geo damage towards enemies in the field.
     * Damage dealt this way will not activate his Elemental Skill's effects.
-* Ascension 4 buffs all members of the party's Elemental Mastery after activating his Elemental Burst.
+* A4 buffs all members of the party's Elemental Mastery after activating his Elemental Burst.
 
 ## **Additional Notes**
 
 * His passive talent has a 10% chance to receive double product when Albedo crafts weapon ascension materials.
-* Constellation 4 buffs Plunging Attack damage when the active character is standing within the field created by Albedo's Elemental Skill.
-* Constellation 6 buffs the damage of the active character by 17% when protected by a shield created by Crystallize and inside of the field created by his Elemental Skill.
+* C4 buffs Plunging Attack damage when the active character is standing within the field created by Albedo's Elemental Skill.
+* C6 buffs the damage of the active character by 17% when protected by a shield created by Crystallize and inside of the field created by his Elemental Skill.
 
 ## **Works Well With**
 
 ****![](../../.gitbook/assets/Element\_Anemo.webp)****![](../../.gitbook/assets/Element\_Cryo.webp)****![](../../.gitbook/assets/Element\_Electro.webp)****![](../../.gitbook/assets/Element\_Hydro.webp)****![](../../.gitbook/assets/Element\_Pyro.webp)****![](../../.gitbook/assets/Element\_Geo.webp)****
 
 * Albedo works well with most of the characters in the game. His Elemental Skill is very easy to activate and does considerable amounts of damage.
-* The Elemental Mastery buff from Albedo's Ascension 4 passive allows him to be run in teams that are focused around elemental reactions.
+* The Elemental Mastery buff from Albedo's A4 passive allows him to be run in teams that are focused around elemental reactions.
 * Can be used as an activator for Geo Resonance.
 
 ## **Does Not Work Well With**
@@ -66,7 +66,7 @@ Click on the team names below for more details on how the team works and alterna
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)​​
 
 * Albedo can provide additional Off-Field damage and also activate Geo Resonance.
-* Xiao’s Plunge Attack damage is increased by Albedo’s Constellation 4.
+* Xiao’s Plunge Attack damage is increased by Albedo’s 4th Constellation.
 
 [**Electro-Charged**](../../teams/electro-charged.md)
 

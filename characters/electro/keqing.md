@@ -9,9 +9,9 @@
 
 * **Elemental Skill (Tap) **summons a **Lightning Stiletto** dealing **Electro **damage on enemy, and recasting teleports her to its location and does additional AoE **Electro **damage. If Keqing instead uses a **Charged Attack** the **Lightning Stiletto** explodes and deals AoE **Electro** damage.
   * **Elemental Skill (Hold)** allows her to manually aim the **Lightning Stiletto**.
-* **Ascension 1 Infuses** Keqing's **Normal and Charged Attacks** with **Electro** for 5 seconds after teleporting with her **Elemental Skill**.
+* **A1 Infuses** Keqing's **Normal and Charged Attacks** with **Electro** for 5 seconds after teleporting with her **Elemental Skill**.
 * **Elemental Burst **does several slashes and one stronger final slash in an area around her, dealing **Electro **damage.
-* **Ascension 4** gives Keqing 15% **Critical Rate** and 15% **Energy Recharge** for 8s after her using her **Elemental Burst**.
+* **A4** gives Keqing 15% **Critical Rate** and 15% **Energy Recharge** for 8s after her using her **Elemental Burst**.
 
 ## **Additional Notes**
 

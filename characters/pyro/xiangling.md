@@ -4,7 +4,7 @@
 
 * **Off-Field DPS**
 * **Main DPS**
-* **Support:** Buffer (Constellation 6), Debuffer (Constellation 1)
+* **Support:** Buffer (C6), Debuffer (C1)
 
 ## Character Breakdown
 

@@ -7,6 +7,7 @@
 
 ## Character Breakdown
 
+* **Elemental Skill** is primarily used to deal sustained **Electro** damage from off-field.
 * **Elemental Skill** summons **Oz**, who deals a large burst of AoE **Electro** damage upon summon and periodically deals **Electro** damage to a single enemy for a set duration.
   * **Oz** remains even when Fischl is not on the field.
 * Reactivating Fischl’s **Elemental Skill** while it’s already active will teleport **Oz** to her current location.
@@ -14,16 +15,15 @@
 
 ## Additional Notes
 
-* **Elemental Skill** is primarily used to deal sustained **Electro** damage from off-field.
 * Fischl’s **Elemental Burst** is currently the only **Elemental Burst** that does not provide Invincibility Frames. Her movement can also be manually controlled during its animation.
 * **Elemental Burst** can be canceled early by swapping to another character.
-* **Constellation 6 **benefits characters who attack frequently, as it applies a small secondary **Electro** hit on each attack.
+* **C6 **benefits characters who attack frequently, as it applies a small secondary **Electro** hit on each attack.
 
 ## Works Well With
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
-* Eula can benefit from frequent **Superconduct** reactions which debuffs **Physical Resistance,** and the extra **Electro **damage provided by Fischl.
+* Eula can benefit from frequent **Superconduct** reactions which reduce **Physical Resistance** and the extra **Electro **damage provided by Fischl.
 
 ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
@@ -31,11 +31,11 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
-* Fischl's **Electro Particle** generation can help recharge Beidou's high cost** Elemental Burst.**
+* Fischl can help supplement Beidou's high **Energy Recharge** requirements.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
 
-* Fischl provides **Electro Particles **and** Electro Resonance** allowing Razor to use his **Elemental Burst** more frequently.
+* Fischl provides Energy Particles and** Electro Resonance** allowing Razor to use his **Elemental Burst** more frequently.
 
 ## Does Not Work Well With
 
@@ -76,4 +76,4 @@ In all the teams listed below, Fischl universally provides Off-Field **Electro**
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Fischl pairs well with **Physical** Main DPS because of frequent **Superconduct** reactions, which debuffs **Physical Resistance**. She also helps provide extra damage without requiring much field time.
+* Fischl pairs well with **Physical** Main DPS because of high **Superconduct** reaction uptime which debuffs **Physical Resistance**. She also helps provide extra damage without requiring much field time.

@@ -2,8 +2,8 @@
 
 ## Roles
 
-* **Support:** Shielder, Cleanser, Buffer (Ascension 4), Debuffer (Constellation 4)
-* \*\*Burst DPS \*\*(Constellation 2)
+* **Support:** Shielder, Cleanser, Buffer (A4,), Debuffer (C4)
+* \*\*Burst DPS \*\*(C2)
 
 ## Character Breakdown
 

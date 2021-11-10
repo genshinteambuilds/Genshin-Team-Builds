@@ -76,7 +76,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* As a **Physical **Main DPS, Rosaria can use her easy **Cryo **application to trigger **Superconduct **and her **Constellation 1** and **Constellation 6 **to further enhance her damage.
+* As a **Physical **Main DPS, Rosaria can use her easy **Cryo **application to trigger **Superconduct **and her **C1** and **C6 **to further enhance her damage.
 
 ### Sub DPS/Support
 
@@ -99,4 +99,4 @@ Click on the team names below for more details on how the team works and alterna
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Rosaria's **Physical resistance **reduction at **C6 **makes her a powerful option for a **Physical **team, given how few sources exist to enhance the damage type.
-* Even without **Constellation 6**, Rosaria can still provide energy for a **Cryo **character like Eula, **Off-Field Cryo **application to trigger **Superconduct**, and a teamwide buff to **Critical Rate **after casting **Elemental Burst**.
+* Even without **C6**, Rosaria can still provide energy for a **Cryo **character like Eula, **Off-Field Cryo **application to trigger **Superconduct**, and a teamwide buff to **Critical Rate **after casting **Elemental Burst**.

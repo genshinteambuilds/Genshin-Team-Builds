@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Support**: Debuffer (VV, Constellation 2, Constellation 6), Crowd Control (Grouping), Energy Battery
+* **Support**: Debuffer (VV, C2, C6), Crowd Control (Grouping), Energy Battery
 * **Off-Field DPS** (Elemental Burst)
 
 ## Character Breakdown
@@ -14,10 +14,10 @@
 
 ## **Additional Notes**
 
-* **Ascension 1 **creates an upward current that the active characters can use to glide into the air when using **Elemental Skill** (Hold).
-* **Ascension 4** regenerates 15 energy for Venti after his **Elemental Burst** ends. If the **Elemental Burst** is infused with an element, every character with that infused element gains 15 energy.
-* **Constellation 2 **debuffs **Anemo Resistance** whenever enemies are hit by Venti's **Elemental Skill.**
-* **Constellation 6 **debuffs **Anemo Resistance** and **Elemental Resistance** of the absorbed element when enemies are hit by Venti's **Elemental Burst.**
+* **A1 **creates an upward current that the active characters can use to glide into the air when using **Elemental Skill** (Hold).
+* **A4** regenerates 15 energy for Venti after his **Elemental Burst** ends. If the **Elemental Burst** is infused with an element, every character with that infused element gains 15 energy.
+* **C2 **debuffs **Anemo Resistance** whenever enemies are hit by Venti's **Elemental Skill.**
+* **C6 **debuffs **Anemo Resistance** and **Elemental Resistance** of the absorbed element when enemies are hit by Venti's **Elemental Burst.**
 
 ## Works Well With
 
@@ -43,7 +43,7 @@ Click on the team names below for more details on how the team works and alterna
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Venti acts as Xiao's Energy Battery and a main source of Crowd Control.
-* He can also decrease enemy **Anemo Resistance** to enemies when he has **Constellation 2** or **Constellation 6** active.
+* He can also decrease enemy **Anemo Resistance** to enemies when he has **C2** or **C6** active.
 
 {% hint style="info" %}
 In all the teams listed below, Venti universally provides debuffing utility using the **Viridescent Venerer** 4-set.
@@ -66,4 +66,4 @@ In all the teams listed below, Venti universally provides debuffing utility usin
 ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Venti in this team is the primary source of Crowd Control for the whole team.
-* Venti can also act as an Energy Battery for Xiangling with his **Ascension 4** talent because of Xiangling's high energy requirements.
+* Venti can also act as an Energy Battery for Xiangling with his **A4** talent because of Xiangling's high energy requirements.

@@ -3,19 +3,19 @@
 ## Roles
 
 * **Main DPS**
-* **Support:** Debuffer (Constellation 2), Buffer (Constellation 6)
+* **Support:** Debuffer (C2), Buffer (C6)
 
 ## Character Breakdown
 
 * Elemental Skill throws a Jumpty Dumpty, which bounces 3 times and explodes into 8 mines. Jumpty Dumpty starts with 2 charges.
-* Ascension 1 gives Klee a 50% chance to gain an explosive spark when normal attacks and Jumpty Dumpty hit opponents. When in possession of a spark, Klee’s next charged attack will cost 0 stamina and have 50% increased damage.
+* A1 gives Klee a 50% chance to gain an explosive spark when normal attacks and Jumpty Dumpty hit opponents. When in possession of a spark, Klee’s next charged attack will cost 0 stamina and have 50% increased damage.
 * Elemental Burst summons 4 Sparks ‘n’ Splash 5 times over 10 seconds, dealing AoE Pyro Damage to nearby enemies.
-* Ascension 4 gives party members 2 elemental energy when Klee’s charged attacks deals Critical Damage.
+* A4 gives party members 2 elemental energy when Klee’s charged attacks deals Critical Damage.
 
 ## Additional Notes
 
-* With Constellation 2, Klee can be used as support by throwing out her 2 Jumpty Dumpty and switching out (stepping on the mines reduces opponents Defence by 23% for 10s)
-* At Constellation 6, Klee buffs all party members Pyro Damage by 10% for 25s after using her Elemental Burst.
+* With C2, Klee can be used as support by throwing out her 2 Jumpty Dumpty and switching out (stepping on the mines reduces opponents Defence by 23% for 10s)
+* At C6, Klee buffs all party members Pyro Damage by 10% for 25s after using her Elemental Burst.
 
 ## Works Well With
 

@@ -3,7 +3,7 @@
 ## Roles
 
 * **Burst DPS**
-* **Support:** Buffer (Constellation 1)
+* **Support:** Buffer (C1)
 * **Main DPS**
 
 ## Character Breakdown
@@ -11,10 +11,10 @@
 * Elemental Skill summons a meteor from the ground that deals Geo damage. The meteorite is considered as a Geo Construct
 * Elemental Skill has a maximum of 3 meteorites that can exist at the same time before the earliest summon is destroyed.
   * Holding Elemental Skill lets you control where to summon the meteor.
-  * With Constellation 2, meteorites deal damage when destroyed.
+  * With C2, meteorites deal damage when destroyed.
 * Elemental Burst creates shockwaves that deal Geo damage and erect a barrier at the edge of the shockwaves. The barrier is considered a Geo construct.
-  * Constellation 1 increases Crit Rate and resistance to interruptions of the characters inside the radius of the barrier.
-  * Constellation 4 causes the Traveler (Geo) to recover 5 energy for every enemy hit by their Elemental Burst. A maximum of 25 energy can be recovered.
+  * C1 increases Crit Rate and resistance to interruptions of the characters inside the radius of the barrier.
+  * C4 causes the Traveler (Geo) to recover 5 energy for every enemy hit by their Elemental Burst. A maximum of 25 energy can be recovered.
 
 ## Additional Notes
 

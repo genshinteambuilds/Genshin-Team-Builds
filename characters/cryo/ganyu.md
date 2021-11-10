@@ -4,7 +4,7 @@
 
 * **Main DPS**
 * **Off-Field DPS** (Elemental Burst)
-* **Support**: Crowd Control (Taunting), Buffer (Constellation 4)
+* **Support**: Crowd Control (Taunting), Buffer (C4)
 
 ## **Character Breakdown**
 
