@@ -14,7 +14,7 @@
   * **Elemental Skill (Hold) **consumes all **Grimheart **stacks, deals **Cryo **damage, and activates the following effects:
     * Each stack of **Grimheart **consumed creates an instance of AoE **Cryo **damage.
     * If any **Grimheart **stacks are consumed, surrounding enemies will have their **Physical **and **Cryo Resistance** debuffed.
-    * At **A4**, if two stacks of **Grimheart** are consumed this way, Eula will create a miniature version of her **Elemental Burst **which explodes instantly, dealing Physical damage.
+    * At **Ascension 4**, if two stacks of **Grimheart** are consumed this way, Eula will create a miniature version of her **Elemental Burst **which explodes instantly, dealing Physical damage.
 * **Elemental Burst **first strike enemies dealing **Cryo DMG** to nearby opponents** **then** **creates a **Lightfall Sword** that deals huge AoE** Physical **Damage after a set duration, or if Eula is switched out.
   * **Elemental Burst** damage will increase based on how many times Eula hits enemies during its duration.
 
@@ -41,7 +41,7 @@
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
 * Rosaria serves as a **Cryo **Battery** **and **Critical Rate **Buffer while also activating **Cryo Resonance**.
-* **C6 **reduces **Physical Resistance **of enemies hit by Rosaria's **Elemental Burst**.
+* **Constellation 6 **reduces **Physical Resistance **of enemies hit by Rosaria's **Elemental Burst**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
@@ -51,7 +51,7 @@
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Bennett provides a high **Attack **buff** **that lasts the full duration of Eula's **Elemental Burst **and is a **Healer**.
-* **C6 **will infuse Eula's **Normal**/**Charged**/**Plunging Attacks **with **Pyro**, negating all of the **Physical **Damage bonuses she receives. Do not use C6 Bennett with Eula unless you are going for an **Elemental Burst **oneshot.
+* **Constellation 6 **will infuse Eula's **Normal**/**Charged**/**Plunging Attacks **with **Pyro**, negating all of the **Physical **Damage bonuses she receives. Do not use C6 Bennett with Eula unless you are going for an **Elemental Burst **oneshot.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)
 

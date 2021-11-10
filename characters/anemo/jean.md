@@ -2,12 +2,12 @@
 
 ## Roles
 
-* **Support:** Healer, Debuffer (VV, C4), Energy Battery, Cleanser, Crowd Control (Grouping), Buffer (C2)
+* **Support:** Healer, Debuffer (VV, Constellation 4), Energy Battery, Cleanser, Crowd Control (Grouping), Buffer (Constellation 2)
 * **Burst DPS**
 
 ## Character Breakdown
 
-* **A1 **gives **Normal Attacks** and **Charged Attacks** a 50% chance to heal the party for 15% of Jean's **Attack**.
+* **Ascension 1 **gives **Normal Attacks** and **Charged Attacks** a 50% chance to heal the party for 15% of Jean's **Attack**.
 * **Elemental Skill** **(Tap)** deals damage and can knock back enemies.
 * **Elemental Skill** **(Hold)** can gather smaller enemies when held. Releasing the skill throws enemies in the direction Jean is facing which can cause them to take fall damage when they collide with walls or are flung sufficiently high into the air.
 * **Elemental Burst** deals a large amount of damage and heals a large amount when used.
@@ -19,7 +19,7 @@
 ## **Additional Notes**
 
 * Often paired with another **Anemo** character to act as an Energy Battery for them and also to regenerate energy for herself, as her **Elemental Burst** has a high energy requirement.
-* **C4** reduces the **Anemo Elemental Resistance** of enemies standing within the field created by her **Elemental Burst** by 40%.
+* **Constellation 4** reduces the **Anemo Elemental Resistance** of enemies standing within the field created by her **Elemental Burst** by 40%.
 * Jean's healing scales off **Attack.**
 * **Charged Attacks** can cause smaller enemies to float in the air for a short period of time after doing damage.
 

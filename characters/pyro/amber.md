@@ -21,7 +21,7 @@ She is also generally not recommended as a DPS as she is arguably one of the wea
 ## Additional Notes:
 
 * Amber at Constellation 2 can do heavy damage by manually triggering her Elemental Skill to explode early.
-* Amber at C6 boosts movement speed and attack of all members by 15% for 10s after using her burst, making it a buffing tool.
+* Amber at Constellation 6 boosts movement speed and attack of all members by 15% for 10s after using her burst, making it a buffing tool.
 
 ## Works Well With:
 

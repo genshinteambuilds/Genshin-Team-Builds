@@ -3,23 +3,23 @@
 ## Roles
 
 * **Off-Field DPS** (Elemental Burst)
-* **Support: **Debuffer (C6), Cleanser (Self Only)
+* **Support: **Debuffer (Constellation 6), Cleanser (Self Only)
 
 ## Character Breakdown
 
 * **Elemental Skill** provides a brief shield based off of her max HP, followed up by a counterattack that scales in both damage and energy generated through either absorbing multiple attacks or activating the skill at the moment where an attack hits you.
-  * **A1** increases her **Elemental Skill** damage to its maximum when Beidou blocks an attack the moment it hits her.
-* **A4** increases Beidou's attack speed and damage by 15% and greatly reduces her delay for unleashing charge attacks for 10s after using her **Elemental Skill** at its maximum damage.
+  * **Ascension 1** increases her **Elemental Skill** damage to its maximum when Beidou blocks an attack the moment it hits her.
+* **Ascension 4** increases Beidou's attack speed and damage by 15% and greatly reduces her delay for unleashing charge attacks for 10s after using her **Elemental Skill** at its maximum damage.
 * **Elemental Burst** creates a lightning arc which jump between enemies when your on-field character deals damage with their **Normal** or **Charged Attacks**, while also providing damage reduction and increased resistance to interruption.
 
 ## Additional Notes
 
 * Beidou excels the most as an Off-Field DPS, mainly relying on her **Elemental Burst** to provide damage.
-* **C2** allows her **Elemental Burst** lightning arc to bounce between 2 more enemies, greatly increasing her damage potential by up to 66%.
+* **Constellation 2** allows her **Elemental Burst** lightning arc to bounce between 2 more enemies, greatly increasing her damage potential by up to 66%.
 * Beidou's **Elemental Burst** snapshots buffs on cast, allowing supports such as Bennett to provide a damage increase for the entire duration of her **Elemental Burst.**
 * Beidou is often paired with another **Electro** character to help regenerate energy as her **Elemental Burst** has a high energy requirement.
-* Damage massively depends on there being multiple enemies on field, as the lightning arcs from **Elemental Burst** don't jump on a single enemy, leading to a huge damage loss of 66% (or 80% at **C2**+)
-* **C6** allows her **Elemental Burst** to reduce the **Electro** **Resistance** of surrounding enemies, making her a debuffer.
+* Damage massively depends on there being multiple enemies on field, as the lightning arcs from **Elemental Burst** don't jump on a single enemy, leading to a huge damage loss of 66% (or 80% at **Constellation 2**+)
+* **Constellation 6** allows her **Elemental Burst** to reduce the **Electro** **Resistance** of surrounding enemies, making her a debuffer.
 
 ## Works Well With
 

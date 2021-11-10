@@ -7,11 +7,11 @@
 
 ## **Character Breakdown**
 
-* Elemental Skill deals AoE hydro damage to surrounding enemies and switches Tartarglia into a Melee stance with dual wielding hydro blades.
+* Elemental Skill deals hydro damage in an area around him and switches Tartarglia into a Melee stance with dual wielding hydro blades.
 * Elemental Burst effects change depending on whether Tartaglia is in his Ranged or Melee stance.
   * When Ranged, Tartaglia's Elemental Burst deals high AoE hydro damage and applies Riptide to any enemies hit.
   * When Melee, Tartaglia's Elemental Burst deals even higher AoE hydro damage and triggers Riptide Blast on any enemies hit that are already affected by Riptide.
-* At A4, whenever Tartaglia deals Critical Damage using his Normal or Charged Attacks on his melee stance, it will mark enemies hit with Riptide.
+* Ascension 4 allows Tartaglia to mark enemies hit with Riptide whenever he deals Critical Damage using his Normal or Charged Attacks on his melee stance.
 * Tartarglia's Charged Attacks while in Ranged stance can also deal Hydro damage and apply Riptide to enemies when fully Charged.
   * Ranged Attacks on Tartaglia are typically avoided if possible.
 
@@ -26,9 +26,9 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
 ## Additional Notes
 
-* A1 extends Riptide's duration on enemies by 8 seconds.
+* Ascension 1 extends Riptide's duration on enemies by 8 seconds.
 * Tartaglia's passive talent, increases your whole team's Normal Attack talent level by 1.
-* C4 can cause issues with his Vaporize Oneshot team due to constantly applying Hydro on nearby enemies with Riptide Flash.
+* Constellation 4 can cause issues with his Vaporize Oneshot team due to constantly applying Hydro on nearby enemies with Riptide Flash.
 
 ## Works Well With
 
@@ -59,7 +59,7 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)****
 
 * Tartaglia generally does not work well in Freeze teams due to the long cooldown on his Elemental Skill resulting in periods of time where Hydro cannot be applied on to enemies reliably except via Charged Aimed Shots.
-* At C6, Tartaglia can maintain 100% uptime of his Melee stance that can make these team compositions work well.
+* At Constellation 6, Tartaglia can maintain 100% uptime of his Melee stance that can make these team compositions work well.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 

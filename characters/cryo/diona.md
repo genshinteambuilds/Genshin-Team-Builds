@@ -2,14 +2,14 @@
 
 ## Roles
 
-* **Support**: Healer, Shielder, Energy Battery, Cleanser, Buffer (C6)
+* **Support**: Healer, Shielder, Energy Battery, Cleanser, Buffer (Constellation 6)
 
 ## **Character Breakdown**
 
 * **Elemental Skill** changes based on whether it is tapped or held.
   * **Elemental Skill (Tap)** fires two homing projectiles that deal Cryo damage and create a Shield.
   * **Elemental Skill (Hold)** fires five homing projectiles that deal Cryo damage and creates a more powerful Shield.
-  * At **A1**, characters shielded by this **Elemental Skill** gain increased movement speed and decreased stamina consumption.
+  * At **Ascension 1**, characters shielded by this **Elemental Skill** gain increased movement speed and decreased stamina consumption.
   * The** Shield Absorption** scales with Diona's **Maximum HP**.
   * Diona's **Elemental Skill's** Shield duration is affected by the number of projectiles that hit enemies.
 * **Elemental Skill **will apply **Cryo **for a short duration to the active character upon cast or switch (while shielded) and can cleanse **Pyro **and **Electro** auras.
@@ -18,8 +18,8 @@
 ## **Additional Notes**
 
 * Often paired with another **Cryo **character on Freeze teams to act as an Energy Battery and receive Energy in return, also activates **Cryo **Resonance for additional **Critical Rate** while enemies are affected by **Cryo **or is **Frozen**.
-* At **A4, **enemy Attack is reduced by 10% when they are inside the field created by Diona’s **Elemental Burst.**
-*   Her **C6** has 2 conditional buffs when a party member is inside her Elemental Burst depending on their current HP:
+* At **Ascension 4, **enemy Attack is reduced by 10% when they are inside the field created by Diona’s **Elemental Burst.**
+*   Her **Constellation 6** has 2 conditional buffs when a party member is inside her Elemental Burst depending on their current HP:
 
     If the party members' **HP **is below or is equal to 50%, their incoming healing bonus is increased by 30%. If their **HP **is above 50%, their **Elemental Mastery** is increased by 200.&#x20;
 
@@ -29,14 +29,14 @@
 
 * Diona provides **Cryo Resonance** for additional **Critical Rate** for these Freeze team Main Dps, for more information about **Freeze **teams, refer to [**Freeze**](../../teams/freeze.md).
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
 * Diona reduces the **stamina consumption **and can also aid making **Superconduct **reactions, also helps **Cryo Physical **Main DPS in recharging their **Elemental Burst** with her energy generation. For more information about **Physical **teams, refer to [**Physical**](../../teams/physical.md).
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * Diona works well with almost every team in the game by universally functioning as a **Healer **and a **Shielder**.
-* Diona's C6 **Elemental Mastery Buff **helps in teams that focus on **reaction damage**.
+* Diona's **Constellation 6** **Elemental Mastery Buff **helps in teams that focus on **reaction damage**.
 
 ## **Does Not Work Well With**
 

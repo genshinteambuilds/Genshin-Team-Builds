@@ -10,14 +10,14 @@
 
 * **Elemental Skill **shoots a cone of **Cryo **Damage in front of him, healing him based off of his attack and generating a middling amount of **energy particles**.
 * **Elemental Bursts **summons **3 icicles **that revolve around the character on field for 15 seconds, dealing **Cryo **Damage to targets they hit.
-* **A4 **allows his **Elemental Skill **to generate additional **Cryo **energy particles whenever enemies are **frozen **by it.
+* **Ascension 4 **allows his **Elemental Skill **to generate additional **Cryo **energy particles whenever enemies are **frozen **by it.
 
 ## Additional Notes
 
 * His **Utility Passive **decreases sprinting **Stamina Consumption **by 20%, allowing for slightly more dodging ability** **especially with stamina intensive **Charged Attack **Characters.
 * Combination of decent **energy generation **and **Energy Recharge** as an ascension stat allows Kaeya to be able to build heavily into damage and still be able to support his own **Elemental Burst**, especially in **Freeze** team compositions.
-* **C2 **increases the duration of his Elemental Burst.&#x20;
-* **C6 **adds an additional icicle to the burst and refunding a portion of the Elemental Burst cost.
+* **Constellation 2 **increases the duration of his Elemental Burst.&#x20;
+* **Constellation 6 **adds an additional icicle to the burst and refunding a portion of the Elemental Burst cost.
 
 ## Works Well With
 

@@ -2,9 +2,9 @@
 
 ## Roles
 
-* **Support:** Buffer (A4, C2), Debuffer (VV), Crowd Control (Grouping), Energy Battery
+* **Support:** Buffer (Ascension 4, Constellation 2), Debuffer (VV), Crowd Control (Grouping), Energy Battery
 * **Off-Field DPS** (Elemental Burst)
-* **Main DPS** (C6)
+* **Main DPS** (Constellation 6)
 
 ## Character Breakdown
 
@@ -12,17 +12,17 @@
   * Performing a **Plunge Attack** after using his **Elemental Skill** creates a "small wind tunnel" and groups enemies.
 * **Elemental Burst** creates a field that can absorb **Cryo**, **Electro**, **Hydro**, or **Pyro** and will continually deal damage of that elemental type along with **Anemo** and **Swirl** damage.
   * Once the **Elemental Burst** absorbs an element, enemies within the field are periodically damaged with that element, allowing other **Elemental Reactions** with that element to frequently take place.
-* **A4** makes any element **Swirled** by Kazuha give the entire team an Elemental Damage boost to that element, proportional to his **Elemental Mastery.**
+* **Ascension 4** makes any element **Swirled** by Kazuha give the entire team an Elemental Damage boost to that element, proportional to his **Elemental Mastery.**
   * Kazuha can reach **Elemental Mastery** values as high as 1000, which gives 40% additional damage for any swirled element.
-* Kazuha can **Swirl** multiple different elements quite easily, providing buffs** **and debuffs for those elements with his **A4** and **Viridescent Venerer.**
+* Kazuha can **Swirl** multiple different elements quite easily, providing buffs** **and debuffs for those elements with his **Ascension 4** and **Viridescent Venerer.**
 * **Anemo **characters need to be within 20 levels of enemies to be able to Crowd Control them most effectively.
 
 ## **Additional Notes**
 
-* **C1** resets the cooldown of Kazuha's **Elemental Skill** after using his **Elemental Burst.**
-* **C2** increases the entire team's **Elemental Mastery** by 200 after using Kazuha's **Elemental Burst.**
-* **C4** allows Kazuha to generate much more energy for himself.
-* **C6** infuses Kazuha's attacks with **Anemo** and boosts their damage by 0.2% of his **Elemental Mastery**. This allows him to be used as the Main DPS character in an [**Anemo** team.](../../teams/anemo.md)
+* **Constellation 1** resets the cooldown of Kazuha's **Elemental Skill** after using his **Elemental Burst.**
+* **Constellation 2** increases the entire team's **Elemental Mastery** by 200 after using Kazuha's **Elemental Burst.**
+* **Constellation 4** allows Kazuha to generate much more energy for himself.
+* **Constellation 6** infuses Kazuha's attacks with **Anemo** and boosts their damage by 0.2% of his **Elemental Mastery**. This allows him to be used as the Main DPS character in an [**Anemo** team.](../../teams/anemo.md)
 
 ## Works Well With
 
@@ -50,7 +50,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Only recommended if Kazuha is **C6.**
+* Only recommended if Kazuha is **Constellation 6.**
 
 {% hint style="info" %}
 In all the teams listed below, Kazuha universally provides debuffing using the **Viridescent Venerer** 4-set and can also provide boosts to multiple elemental damage types.

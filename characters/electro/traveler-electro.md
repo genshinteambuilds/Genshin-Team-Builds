@@ -16,8 +16,8 @@
 ## Additional Notes
 
 * The majority of Electro Traveler's constellations and talents focus on further enhancing their energy generating abilities, making them a powerful battery for energy hungry characters.
-* C2 provides a modest amount of Electro resistance shred, enhancing both their and other Electro characters damage.
-* C6 greatly increases the damage of their Elemental Burst, allowing them to function as an Off-Field Sub DPS.
+* Constellation 2 provides a modest amount of Electro resistance shred, enhancing both their and other Electro characters damage.
+* Constellation 6 greatly increases the damage of their Elemental Burst, allowing them to function as an Off-Field Sub DPS.
 
 ## Works Well With
 

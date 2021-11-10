@@ -16,9 +16,9 @@
 
 ## Additional Notes
 
-* **C1** removes **HP** restrictions on Sayu's **Elemental Burst** and allows the summoned **Daruma** to heal and deal damage at the same time.
-* **C4 **allows Sayu to recover energy whenever she triggers a **Swirl** reaction.
-* **C6** allows her to use **Elemental Mastery** to give an **Attack%** bonus as well as **HP%** bonus to the **Daruma** during the **Elemental Burst.**
+* **Constellation 1** removes **HP** restrictions on Sayu's **Elemental Burst** and allows the summoned **Daruma** to heal and deal damage at the same time.
+* **Constellation 4 **allows Sayu to recover energy whenever she triggers a **Swirl** reaction.
+* **Constellation 6** allows her to use **Elemental Mastery** to give an **Attack%** bonus as well as **HP%** bonus to the **Daruma** during the **Elemental Burst.**
 
 ## Works Well With
 
@@ -30,7 +30,7 @@
 
 ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* **Anemo **cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo **and** Physical **Damage characters.
+* **Anemo **cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo **and** Physical **damage characters.
   * Sayu can still be used with these characters if your team requires healing but will provide little other value.
 
 ## Teams

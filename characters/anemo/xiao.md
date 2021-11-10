@@ -14,8 +14,8 @@
 ## **Additional Notes**
 
 * Xiao is often played with another Anemo character that can provide energy to fuel his **Elemental Burst**.
-* **C1** gives Xiao an extra charge to his **Elemental Skill.**
-* **C6** allows Xiao to reset his **Elemental Skill** cooldown after a **Plunging Attack.**
+* **Constellation 1** gives Xiao an extra charge to his **Elemental Skill.**
+* **Constellation 6** allows Xiao to reset his **Elemental Skill** cooldown after a **Plunging Attack.**
 * Xiao cannot generate **Elemental Particles** during the duration of his **Elemental Burst,** and is often referred to as a Selfish Main DPS as swapping off of Xiao during his **Elemental Burst** will cancel it.
 
 ## Works Well With

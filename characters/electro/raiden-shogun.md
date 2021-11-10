@@ -9,18 +9,18 @@
 ## **Character Breakdown**
 
 * With the Raiden Shogun in your party, casting **Elemental Bursts** from other party members will grant her **Resolve** (Max 60 stacks) based on the cost of the **Elemental Burst** used. **Resolve** increases her own **Elemental Burst's** damage.
-* **A1** grants 2 stacks of **Resolve** when a character collects an elemental particle, can occur once every 3 seconds.
+* **Ascension 1** grants 2 stacks of **Resolve** when a character collects an elemental particle, can occur once every 3 seconds.
 * **Elemental Skill **deals **Electro** damage on use and causes a coordinated attack to be launched whenever an active character deals damage to an enemy, dealing AoE **Electro** damage (with a short cooldown of 0.9s).
   * It also raises their **Elemental Burst** damage relative to the total **Energy Cost** of the active character's **Elemental Burst**.
 * **Elemental Burst** consumes all **Resolve** stacks gained and causes the Raiden Shogun to deal massive AoE **Electro** damage in the direction she is facing. Following the initial burst, she then converts her** Normal **and** Charged Attacks** to **Electro** which counts as **Elemental Burst **Damage for 7 seconds.&#x20;
   * The Raiden Shogun’s attacks during her **Elemental Burst** generate energy for the rest of the party.
-* **A4** causes **Energy Recharge** to increase the Raiden Shogun’s **Electro** damage by 0.4% as well as increase the **Energy Recharge** for the party from her **Elemental Burst** by 0.6% for every 1% above 100% Energy Recharge.
+* **Ascension 4** causes **Energy Recharge** to increase the Raiden Shogun’s **Electro** damage by 0.4% as well as increase the **Energy Recharge** for the party from her **Elemental Burst** by 0.6% for every 1% above 100% Energy Recharge.
 
 ## **Additional Notes**
 
 * Raiden Shogun’s **Elemental Skill** will not launch a coordinated attack against enemies protected by certain shields, such as Abyss Mages.
 * The energy generated for the party from the Raiden Shogun’s **Elemental Burst** can only be applied 5 times, with a 1 second cooldown between activations.
-* **C2** massively increases Raiden Shogun's **Elemental Burst** damage making her a strong Main DPS option when building a team.
+* **Constellation 2** massively increases Raiden Shogun's **Elemental Burst** damage making her a strong Main DPS option when building a team.
 * The Raiden Shogun can't cook.
 
 ## **Works Well With**
@@ -78,10 +78,10 @@ Click on the team names below for more details on how the team works and alterna
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****
 
 * This team that utilizes the Raiden Shogun as the Main DPS and focuses on buffing her **Elemental Burst **damage while feeding the whole team high amounts of energy. For a detailed look at how this team works, check out the [**Oneshot**](../../teams/oneshot.md) page.
-* Sara is used here to provide her **Attack** buff, as well as **Electro** particle generation for Raiden Shogun. She can also provide a **Critical Damage** Buff with **C6**.
+* Sara is used here to provide her **Attack** buff, as well as **Electro** particle generation for Raiden Shogun. She can also provide a **Critical Damage** Buff with **Constellation 6**.
 * Kazuha buffs Raiden Shogun's **Elemental Burst** even further by debuffing **Electro Resistance** with the **Viridescent Venerer **4-set, as well as buffing **Elemental Damage**.
 * Bennett acts as the team's healer while providing an **Attack **buff from his **Elemental Burst**.
-* This team is much more effective with Raiden Shogun's** C2** and Kujou Sara's **C6**.
+* This team is much more effective with Raiden Shogun's** Constellation 2** and Kujou Sara's **Constellation 6**.
 
 [**Physical**](../../teams/physical.md)
 

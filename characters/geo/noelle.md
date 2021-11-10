@@ -7,7 +7,7 @@
 
 ## **Character Breakdown**
 
-* Noelle can function as a Main DPS (ideally at C6) or a Support who provides healing, shielding, and possibly Geo Resonance.
+* Noelle can function as a Main DPS (ideally at Constellation 6) or a Support who provides healing, shielding, and possibly Geo Resonance.
 * Elemental Skill is a high cooldown shield that deals Geo damage when cast and when broken.
   * Elemental Skill does not generate particles.
   * The shield will automatically break after its duration is reached.
@@ -30,7 +30,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett can greatly buff Noelle's Attack. His C6 can’t override Noelle’s Geo infusion either.
+* Bennett can greatly buff Noelle's Attack. His Constellation 6 can’t override Noelle’s Geo infusion either.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
