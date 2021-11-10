@@ -85,8 +85,6 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Physical**](../../teams/physical.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
-
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * A standard team for Raiden Shogun that focuses on utilizing her off-field **Electro** damage for consistent **Superconduct** reactions to reduce **Physical Resistance** as well as increasing the teams **Elemental Burst** damage and energy economy.
