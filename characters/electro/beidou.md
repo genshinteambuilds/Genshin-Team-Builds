@@ -83,8 +83,6 @@ Click on the team names below for more details on how the team works and alterna
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****
-
 * Beidou's high Off-Field DPS makes this team work well against large or heavy enemies who can't get knocked back by **Overload**.
 * A second **Electro** character is recommended to help recharge Beidou's **Elemental Burst** and create more **Overload** reactions.
 * Yoimiya's attack range can help negate some of the downsides of **Overload's** Knockback.
