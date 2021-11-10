@@ -66,7 +66,7 @@ Click on the team names below for more details on how the team works and alterna
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)​​
 
 * Albedo can provide additional Off-Field damage and also activate Geo Resonance.
-* Xiao’s Plunge Attack damage is increased by Albedo’s 4th Constellation.
+* Xiao’s Plunge Attack damage is increased by Albedo’s C4.
 
 [**Electro-Charged**](../../teams/electro-charged.md)
 

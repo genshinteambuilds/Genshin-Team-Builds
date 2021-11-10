@@ -11,7 +11,7 @@
 
 * Infuses her Normal Attacks and Charged Attacks with Cryo upon Dashing.
 * Ayaka applies Cryo to surrounding enemies when exiting her Dash.
-  * At A4, Ayaka restores stamina and buffs her Cryo Damage if an enemy is hit by this effect.
+  * At **A4**, Ayaka restores stamina and buffs her Cryo Damage if an enemy is hit by this effect.
 * Charged Attack has an increased range over Ayaka's Normal Attacks
 * Elemental Skill deals AoE Cryo damage.
 * Elemental Burst deals a huge amount of Cryo damage over 5 seconds and slowly moves forward away from the character.
