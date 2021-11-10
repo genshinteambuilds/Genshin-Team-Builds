@@ -2,49 +2,56 @@
 
 ## Roles
 
-* **Main DPS**
-* \*\*Support: \*\*Shielder
+* **Main DPS **(Selfish)
+* **Support**: Shielder (C4)
 
 ## Character Breakdown
 
-* Yanfei’s main source of damage comes from her Charged attack. Due to this, conserving Stamina is important. By using her Normal Attack she gains 1 stack of Scarlet Seals (Max of 3 stacks). Having 3 Scarlet Seals before doing a charged attack is important if you want to maximize Vaporize/Melt damage.
-* Her best combo is usually 3 Normal Attacks to fully stack her Scarlet Seals then followed by 1 Charged Attack to consume the Scarlet Seals and deal additional damage.
-* Her Elemental Skill is a free damage source and used to get the max stack of Scarlet Seals after pressing it.
-* Her Elemental Burst initially deals high amount of AoE pyro damage in an area around her, gaining 3 stacks of Scarlet Seals and applying brilliance to her. Brilliance is a self-buff that give Yanfei Scarlet Seals over the period of her burst is active and increases her charged attack damage. Brilliance is deactivated once she leaves the field.
+* When Yanfei performs a **Normal Attack** she gains 1 stack of **Scarlet Seals** (Max of 3 stacks). They give the following effects:
+  * Decreases the stamina cost of her **Charged Attacks** by 15%.
+  * Increases the damage of her **Charged Attacks**.
+* **Elemental Skill** deals AoE **Pyro** damage and grants the max stack of **Scarlet Seals**.
+* **Elemental Burst **initially deals high amount of AoE **Pyro** damage in an area around her, gaining max stacks of **Scarlet Seals** and applying **Brilliance** to her.
+  * **Brilliance** is a buff that Yanfei applies to herself which, increases her **Charged Attack** damage and grants **Scarlet Seals** over the period of her **Elemental Burst** is active.
 
-## Additional Notes:
+## Additional Notes
 
-* Recommended to only be used at C1 as its her best constellation
-* For other constellations the next second best constellation would be C5 and then C6
+* Her best combo is usually 3 **Normal Attacks **to fully stack her** Scarlet Seals **then followed by 1 **Charged Attack** to consume the **Scarlet Seals** and deal additional damage.
+* **C1** allows Yanfei's **Scarlet Seal** to decrease the stamina cost of Yanfei's **Charged Attacks **by a further 10%, and increases resistance to interruption when performing a **Charged Attack**.
+  * This can decrease Yanfei's **Charge Attack** cost by up to 75% at Max Stacks.
+* **C4** creates a shield when Yanfei casts her **Elemental Burst**. This shield absorbs up to 45% of Yanfei's **Max HP** and lasts 15 seconds.
+* **C6** increases the max stacks of **Scarlet Seal** from 3 to 4.
+  * Combined with **C1** this will result in Yanfei's **Charged Attacks** costing no stamina with max stacks of **Scarlet Seal.**
+* Yanfei's **Brilliance** gets cancelled once she leaves the field. This makes her a Selfish DPS as she does significantly more damage with this buff active.
+* **A4** gives other party members a 10% increase in damage after using her **Elemental Burst**, based on how many stacks she gain from **A1** has, it also increases the damage by 1% per stack. This results up to a 20% damage buff.
 
 ## Works Well With
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett basically works with almost every Pyro DPS. He provides buffing, healing and Pyro Resonance.
+* Bennett's **Elemental Burst** provides healing and a massive attack buff, making him a recommended character in most teams. He can also provide **Pyro Resonance** which buffs attack.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
-* Yanfei is almost always paired with Xingqiu in order to allow Yanfei to Vaporize her attacks for 1.5x more damage. Check the [Reverse Vaporize team page](../../teams/reverse-vaporize.md) for team compositions and notes.
+* Yanfei is almost always paired with Xingqiu in order to allow her to **Vaporize** her attacks for 1.5x more damage. Check [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)** **for team compositions and notes.
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* As with all Elemental Damage DPS, Anemo supports and Zhongli work well by reducing the enemy's Elemental Resistance with Viridescent Venerer or Zhongli's Jade Shield. Anemo characters often also supply useful Crowd Control abilities or other buffs.
+* As with all Elemental Damage DPS, **Anemo** supports and Zhongli work well by reducing the enemy's **Elemental Resistance** with **Viridescent Venerer** or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
-* They're used with Yanfei in an overload or vapeload (vaporize and overload) team composition. Even if overload knockback enemies, with Yanfei's attack range, its not a big problem. Both Fischl and Beidou provide off-field electro damage and Electro Resonance which creates additional energy particles from Elemental Reactions.
+* Beidou and Fischl are used with Yanfei to create multiple **Elemental Reactions** (**Electro-Charged**, **Vaporize** and **Overload**). Even if **Overload **knocks back enemies, with Yanfei's long attack range, it's not an inconvenience. Both Fischl and Beidou provide Off-field **Electro **damage and **Electro Resonance** which creates additional **Energy Particles** from **Elemental Reactions**.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/Element\_Pyro.webp)
-
-* Yanfei is better to be used as the only pyro dps in the team as other pyro characters can steal elemental reactions from her
-* Bennett however is the only exception.
-
 ![](../../.gitbook/assets/Element\_Electro.webp)
 
-* Taser-Vape is still a fairly niche comp and Overload is something to be avoided.
+* While Beidou and Fischl can work with Yanfei, **Overload** is still an Elemental Reaction to be avoided as it makes **Vaporize** less consistent.
+
+![](../../.gitbook/assets/Element\_Pyro.webp)
+
+* Yanfei is better to be used as the only **Pyro** Main DPS in the team as they can steal **Elemental Reactions** from her.
 
 ## Teams
 
@@ -52,38 +59,30 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-[Reverse Vaporize](../../teams/reverse-vaporize.md)
+[**Melt (Cryo)**](../../teams/reverse-melt.md)****
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+* This team puts Yanfei into a **Support** role. She constantly applies **Pyro** on enemies, which allows Rosaria to create **Melt** reactions with her **Elemental Burst**.
+
+****[**Melt (Pyro)**](../../teams/melt.md)****
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+
+* This team is mainly used against groups of small enemies. Diona and Rosaria provide **Cryo Resonance** along with Rosaria's **Elemental Burst** for a **Critical Rate** boost.
+* Venti's **Elemental Burst** infuses with** Cryo **and groups up the enemies constantly applying** Cryo **allowing Yanfei to consistently** Melt** her attacks.
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+* This team is variation of the **Vaporize (Pyro)** team. Yanfei can periodically **Melt** her attacks while the majority of her **Elemental Reactions** will be** Vaporize**.
+
+[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* A typical Yanfei-Xingqiu Reverse Vaporize team composition where Yanfei can vaporize her charged attacks using the Hydro applied to the enemy by Xingqiu's Elemental Burst. Yanfei can consistently vaporize her Charged Attacks with 3 Normal Attacks followed by a Charged Attack.
-* Zhongli provides debuffing and shielding while Bennett provides buffing and healing.
-* Sucrose provides Elemental Mastery as well as debuffing with Viridescent Venerer.
-
-[Taser](broken-reference/)
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
-
-* This composition is a variation of the standard Reverse Vaporize where Yanfei can both do overload and vaporize reactions at the same time.
-* Beidou can deal large amounts of off-field damage during her Elemental Burst and can also provide Electro Resonance which lowers Energy Recharge Requirements.
-
-[Melt](../../teams/melt.md)
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
-
-* This composition is usually used against groups of small enemies. Diona and Rosaria provides Cryo Resonance along with Rosaria's Elementa Burst for a Crit Rate boost.&#x20;
-* Venti's Elemental Burst infuses with Cryo and groups up the enemies constantly apply cryo allowing Yanfei to Melt her attacks.
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
-
-* Melt Team which is variation of the Reverse Vaporize composition. Yanfei can periodically Melt her Attacks while the majority of her Elemental Reactions will be Reverse Vaporize.
-
-[Reverse Melt](../../teams/reverse-melt.md)
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
-
-* This team puts Yanfei into a support role as she constantly applies pyro on enemies to allow Rosaria to Reverse Melt.
+* This team allows Yanfei to **Vaporize** her **Charged Attacks** using the **Hydro** applied to the enemy by Xingqiu's** Elemental Burst**.
+* Bennett acts as the team's healer while providing an **Attack** buff from his **Elemental Burst**.
+* Zhongli debuffs enemies **Pyro Resistance** with his shield while also providing protection from damage.
+* Sucrose debuffs enemies' **Pyro Resistance** with** Viridescent Venerer **4-set, as well as providing **Elemental Mastery** buffs.
