@@ -10,15 +10,6 @@ Most of the characters within a given role are interchangeable except if mention
 Refer to the character notes below for how characters work in this particular team composition or click on their portraits for a description of how the character works in general.
 {% endhint %}
 
-|                                      Main DPS                                      |                                          Flex Supports                                         |                                   Healer / Shielder                                  |
-| :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
-|   <p><img src="../.gitbook/assets/UI_AvatarIcon_Klee.png" alt=""></p><p>Klee</p>   |       <p><img src="../.gitbook/assets/UI_AvatarIcon_Kazuha.png" alt=""></p><p>Kazuha</p>       | <p><img src="../.gitbook/assets/UI_AvatarIcon_Bennett.png" alt=""></p><p>Bennett</p> |
-| <p><img src="../.gitbook/assets/UI_AvatarIcon_Yanfei.png" alt=""></p><p>Yanfei</p> |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Sucrose.png" alt=""></p><p>Sucrose</p>      |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Jean.png" alt=""></p><p>Jean</p>    |
-|                                                                                    |        <p><img src="../.gitbook/assets/UI_AvatarIcon_Venti.png" alt=""></p><p>Venti</p>        | <p><img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""></p><p>Zhongli</p> |
-|                                                                                    |       <p><img src="../.gitbook/assets/UI_AvatarIcon_Albedo.png" alt=""></p><p>Albedo</p>       |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Sayu.png" alt=""></p><p>Sayu</p>    |
-|                                                                                    |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Xiangling.png" alt=""></p><p>Xiangling</p>    |                                                                                      |
-|                                                                                    | <p><img src="../.gitbook/assets/UI_AvatarIcon_Aether_Geo.png" alt=""></p><p>Traveler (Geo)</p> |                                                                                      |
-
 ## Main DPS
 
 |                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                        |
