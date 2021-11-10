@@ -16,7 +16,7 @@
 ## **Additional Notes**
 
 * Casting her **Elemental Skill** will sacrifice 30% of Hu Tao's current **HP.**
-  * Hu Tao won't die with her **Elemental Skill **as she won't drop below **1 HP** when cast.
+  * Hu Tao won't die with her **Elemental Skill **as it won't drop Hu Tao below **1 HP.**
 * **C1 **makes Hu Tao's **Charged Attack** cost no stamina while her **Elemental Skill** is active.
 * Hu Tao's attack combo can depend whenever she is **C0** or **C1**:
   * `NA → CA → JC → NA → CA → JC` at **C0**
@@ -25,6 +25,7 @@
     * Note: `NA → CA` is the result of using a **Charged Attack**. Hu Tao will always start her **Charged Attack** with an initial **Normal Attack**.
     * Animation cancelling the end of the **Charge Attack** is necessary for optimal damage if using `NA → CA`. Can be done with **Dash** or **Jump**.
   * Dash Cancels provide more damage overall in Hu Tao's attack combo but it isn't recommended at **C0** because of the **Stamina Consumption** from both the **Dash** and **Charged Attack.**
+* **Elemental Burst** is mainly used at the end of her attack combo just before her **Elemental Skill** expires or at an emergency when Hu Tao needs to dodge an attack or heal.
 
 ## **Works Well With**
 
@@ -105,4 +106,4 @@ Click on the team names below for more details on how the team works and alterna
 
 * A **Vaporize (Pyro)** team where Hu Tao can **Vaporize** her attacks using the **Hydro** applied to the enemy by Xingqiu's **Elemental Burst**.
 * Sucrose provides **Elemental Mastery** and **Elemental Resistance **debuff with **Viridescent Venerer.**
-* Amber can apply **Pyro** with her **Elemental Burst** for **Anemo** characters create **Swirl **rea**, ** and activate **Pyro Resonance**.
+* Amber can apply **Pyro** with her **Elemental Burst** for **Anemo** characters create **Swirl **reactions**, ** and activate **Pyro Resonance**.

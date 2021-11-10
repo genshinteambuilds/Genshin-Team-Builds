@@ -66,6 +66,14 @@ Click on the team names below for more details on how the team works and alterna
 * Kaeya can be used as a Main DPS in Freeze teams, especially in combination with Chongyun. Chongyun's **Cryo Infusion **of **Normal Attacks **allows Kaeya to utilize his high **Normal **and **Charged Attack **damage while still gaining **Elemental Damage **bonuses.
 * The combination of the **Blizzard Strayer** set and **Cryo Resonance **can give Kaeya massive amounts of **Critical Rate **with no further investment.
 
+[**Melt (Cryo)**](../../teams/reverse-melt.md)
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+* This team is based around frequently applying **Pyro **to enemies and then using Off-Field **Cryo **DPS to cause **Melt **reactions.
+* Given frequent enough **Pyro **application, both Kaeya and Rosaria's damage can trigger **Melt.**
+* **Melt (Cryo) **teams may lack team flexibility, as they rely on the Elemental applications of multiple characters.
+
 ****[**Melt (Pyro)**](../../teams/melt.md)****
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****
@@ -80,11 +88,3 @@ Click on the team names below for more details on how the team works and alterna
 
 * Kaeya's **Elemental Burst **following the active character allows for consistent **Superconduct **Applications.
 * In teams with Eula, Kaeya can be used to provide both **Cryo **Resonance and increased energy regeneration.
-
-[**Melt (Cryo)**](../../teams/reverse-melt.md)
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
-
-* This team is based around frequently applying **Pyro **to enemies and then using Off-Field **Cryo **DPS to cause **Melt **reactions.
-* Given frequent enough **Pyro **application, both Kaeya and Rosaria's damage can trigger **Melt.**
-* **Melt (Cryo) **teams may lack team flexibility, as they rely on the Elemental applications of multiple characters.
