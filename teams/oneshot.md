@@ -117,7 +117,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../.gitbook/assets/Element\_Pyro.webp)
 
-* Klee and Yanfei helps at applying Pyro and using an R5 Thrilling tales of Dragon Slayers which buffs your Mona with 48% atk and if you Klee's have her C2, her Elemental Skill shreds the enemy's DEF by 23%, which helps a lot to deal even more damage. If you don’t have Klee or Yanfei, any Pyro works.
+* Klee and Yanfei helps at applying Pyro and using an R5 Thrilling tales of Dragon Slayers which buffs your Mona with 48% atk and if you Klee's have her Constellation 2, her Elemental Skill shreds the enemy's DEF by 23%, which helps a lot to deal even more damage. If you don’t have Klee or Yanfei, any Pyro works.
 
 ### Supporting Cast
 
@@ -181,7 +181,7 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 ![](../.gitbook/assets/ui\_avataricon\_amber.png)
 
 * Amber provides very quick Pyro application at a range.&#x20;
-* Can activate Elegy for the End and further buff with C6.
+* Can activate Elegy for the End and further buff with Constellation 6.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
@@ -192,7 +192,7 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
 * Provides large buffs through her Elemental Burst and ability to carry Thrilling Tales of Dragon Slayer.
-* C1 and C4 improve the party's Vaporize damage and Crit Rate during the rotation.
+* Constellation 1 and Constellation 4 improve the party's Vaporize damage and Crit Rate during the rotation.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
@@ -265,7 +265,7 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* Provides Physical Damage buffs/debuffs through A4 and C4.
+* Provides Physical Damage buffs/debuffs through Ascension 4 and Constellation 4.
 * Can carry Wolf's Gravestone.
 
 ### Sample Eula Teams
