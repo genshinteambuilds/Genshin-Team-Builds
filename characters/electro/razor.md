@@ -6,7 +6,7 @@
 
 ## Character Breakdown
 
-* **Normal Attacks** are the most important part of Razor's kit, as that's his primary source of Damage.
+* **Normal Attacks** are the most important part of Razor's kit, as they are his primary source of Damage.
 * **Elemental Skill (Tap)** makes Razor deal **Electro** damage and gains an **Electro** Sigil (of which he can hold a maximum of 3). Each Sigil increases his **Energy Recharge**.
 * **Elemental Skill (Hold)** makes Razor deal **Electro** damage in an AoE and converts all of his **Electro** Sigils into energy.
 * **Elemental Burst** deals an instance of** Electro** damage in an AoE and consumes all his **Electro** Sigils, which then grant him energy. He gains the following effects:
@@ -15,15 +15,15 @@
   * **Charge Attack** disabled
   * Increased resistance to interruption
   * Cannot take damage from the **Electro-Charged** status and has increased** Electro** Resistance
-* **Ascension 1 **reduces the cooldown on Razor's Elemental Skill, and activating his **Elemental Burst **instantly resets the cooldown of his Elemental Skill.
-* **Ascension 4** gives Razor gains extra **Energy Recharge** when he has less than half of the energy needed for his **Elemental Burst**.
+* **A1 **reduces the cooldown on Razor's Elemental Skill, and activating his **Elemental Burst **instantly resets the cooldown of his Elemental Skill.
+* **A4** provides Razor extra **Energy Recharge** when he has less than half of the energy needed for his **Elemental Burst**.
 
 ## Additional Notes
 
-* When his **Elemental Burst **is not active, Razor deals more damage per second with a three-hit combo followed by a dash cancel to omit the final attack; however, if Razor's **Elemental Burst** is active he will deal more damage with a full four-hit combo and dash cancelling after the fourth hit instead.
-* Swapping to another character while Razor's **Elemental Burst** is active will cancel it. This why he is referred as a Selfish Main DPS and it is generally recommended to keep him on the field for as long as possible.
+* **Elemental Burst **can change Razor's optimal attack combo depending if it's active or not. Razor deals more damage per second with a three-hit combo followed by a dash cancel to omit the final attack if his **Elemental Burst** it's not active; however, if Razor's **Elemental Burst** is active he will deal more damage with a full four-hit combo and dash cancelling after the fourth hit instead.
+* **Elemental Burst** will be cancelled when swapping to another character while it's active. This why Razor is referred as a Selfish Main DPS and it is generally recommended to keep him on the field for as long as possible.
   * An exception to this is when all enemies have be defeated. Cancelling his **Elemental Burst** will return a small amount of energy to Razor.
-* Razor's Passive Talent reduces the stamina consumption of sprinting by 20% for the entire team, and is non-stackable with other similar Passive Talents. This makes Razor a good world exploration character, as his claymore can also mine ores.
+* Razor's Passive Talent reduces the **Stamina Consumption** of sprinting by 20% for the entire team, and is non-stackable with other similar Passive Talents. This makes Razor a good world exploration character, as his claymore can also mine ores.
 
 ## Works Well With
 
@@ -48,7 +48,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
 
-* Zhongli's shield allows Razor to negate incoming damage that might otherwise stagger him. Additionally, the shield also reduces enemy physical resistance. Zhongli's **Elemental Burst **locks enemies in place, preventing them from being knocked back by Razor's attacks.
+* Zhongli's shield allows Razor to negate incoming damage that might otherwise interrupt his attacks. Additionally, the shield also reduces enemy **Physical Resistance**. Zhongli's **Elemental Burst **locks enemies in place, preventing them from being knocked back by Razor's attacks.
 * Albedo provides Off-Field damage and can generate shields through the **Crystallize** reaction.
 
 ## **Does Not Work Well With**
