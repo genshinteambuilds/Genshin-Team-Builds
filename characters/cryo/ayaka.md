@@ -9,17 +9,18 @@
 
 ## Character Breakdown
 
-* Infuses her Normal Attacks and Charged Attacks with Cryo upon Dashing.
-* Ayaka applies Cryo to surrounding enemies when exiting her Dash.
-  * At **A4**, Ayaka restores stamina and buffs her Cryo Damage if an enemy is hit by this effect.
-* Charged Attack has an increased range over Ayaka's Normal Attacks
+* Dashing infuses her Normal Attacks and Charged Attacks with Cryo and applies Cryo to any surrounding enemies when Ayaka reappears after finishing her dash.
+  * At A4, Ayaka restores stamina and buffs her Cryo Damage if an enemy is hit by this effect.
 * Elemental Skill deals AoE Cryo damage.
-* Elemental Burst deals a huge amount of Cryo damage over 5 seconds and slowly moves forward away from the character.
-* The Elemental Burst will stop moving forwards upon encountering large or frozen enemies, resulting in that enemy potentially taking up to 20 hits from this ability.
+* Elemental Burst creates a snowstorm that deals a huge amount of Cryo damage over 5 seconds and slowly moves forward away from the character.
+* The snowstorm will stop moving forwards upon encountering large or frozen enemies, resulting in that enemy potentially taking up to 20 hits from this ability.
 * Ayaka's primary source of damage is her Elemental Burst.
 
 ## **Additional Notes**
 
+* Charged Attack has an increased range over Ayaka's Normal Attacks.
+* C2 summons 2 additional smaller snowstorms that deal 20% of the original's Damage.
+* C4 reduces the Defence of enemies hit by her Elemental Burst by 30% for 6s.
 * Ayaka can technically be used in Melt teams as both a Burst DPS role whilst providing Off-Field Cryo application to the enemy for 5 seconds with her Elemental Burst.
   * This is typically only done with very powerful teams and Oneshot setups since her Off-Field capabilities outside of those 5 seconds is nonexistent.
 
@@ -38,9 +39,9 @@
 
 * When not using Diona as a healer, an additional Cryo character is normally used with Ayaka to provide Cryo Resonance in [Freeze teams](../../teams/freeze.md).
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
-* As with all Elemental Damage DPS, Anemo Supports and Zhongli work well by reducing the enemy's Elemental Resistance with Viridescent Venerer or Zhongli's Jade Shield. Anemo characters often also supply useful Crowd Control abilities or other buffs.
+* As with all Elemental Damage DPS, Anemo Supports work well by reducing the enemy's Elemental Resistance with Viridescent Venerer. Anemo characters often also supply useful Crowd Control abilities or other buffs.
 * Kazuha, Sucrose and Venti can additionally infuse their Elemental Bursts with Hydro or Cryo, helping provide those elements in a [Freeze team](../../teams/freeze.md).
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
@@ -67,8 +68,7 @@
 
 ![](../../.gitbook/assets/Element\_Geo.webp)
 
-* There is often not enough space on Freeze teams to allow the addition of other Geo characters besides Zhongli.
-* While Albedo can still be used to provide some amount of Off-Field DPS, often an Anemo character is preferred instead to provide Crowd Control, Debuffing and help facilitate Freeze reactions.
+* Geo damage usually breaks the Frozen status of enemies.
 
 ## Teams
 

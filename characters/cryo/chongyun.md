@@ -7,9 +7,8 @@
 
 ## Character Breakdown
 
-* Elemental Skill deals AoE Cryo damage and creates a field on the ground.
-  * Claymore, Sword, and Polearm wielding characters gain both a Cryo infusion on their Normal and Charged Attacks as well as increased Attack Speed while within the field.
-  * **A4** causes a second instance of AoE Cryo damage when the field expires.
+* Elemental Skill deals AoE Cryo damage and creates a field on the ground within which all Sword, Claymore and Polearm-wielding characters' weapons will be infused with Cryo.
+  * A4 causes a second instance of AoE Cryo damage when the field expires and reduces the Cryo resistance of enemies hit by this.
 * Elemental Burst summons 3 spirit blades that deal large AoE Cryo damage and knock enemies back.
 
 ## **Additional Notes**
@@ -58,15 +57,15 @@ Click on the team names below for more details on how the team works and alterna
 * In Freeze teams, Chongyun acts as a Burst DPS and Support. The Cryo Infusion from Chongyun's Elemental Skill helps keep enemies frozen, and the extra Crit Rate gained from Cryo Resonance and the Blizzard Strayer artifact set let Chongyun utilize a more offensive build.
 * Chongyun can also act as an Energy Battery to other Cryo characters on the team.
 
-#### [Reverse Melt](../../teams/reverse-melt.md)
-
-#### &#x20;![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
-
-* In Reverse Melt teams, Chongyun acts as a Burst DPS. His Elemental Burst should be melted by prior Pyro application from Bennett or Klee.
-
 [**National**](../../teams/national.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * A variation of the popular "National Team" where Chongyun acts as a Burst DPS and Support.
 * This variation allows for both Melt and Reverse Melt reactions, and Chongyun's C2 slightly speeds up the team's rotations.&#x20;
+
+#### [Reverse Melt](../../teams/reverse-melt.md)
+
+#### &#x20;![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+* In Reverse Melt teams, Chongyun acts as a Burst DPS. His Elemental Burst should be melted by prior Pyro application from Bennett or Klee.
