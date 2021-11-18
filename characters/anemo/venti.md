@@ -51,9 +51,9 @@ In all the teams listed below, Venti universally provides debuffing utility usin
 
 [**Electro-Charged (Electro)**](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Venti provides Keqing and Mona Crowd Control to group up enemies for both of their **Elemental Bursts** to hit.
+* Venti provides Beidou and Mona Crowd Control to group up enemies for both of their **Elemental Bursts** to hit.
 
 [**Freeze (Cryo)**](../../teams/freeze.md)
 
@@ -63,7 +63,7 @@ In all the teams listed below, Venti universally provides debuffing utility usin
 
 ****[**Vaporize (Hydro)**](../../teams/vaporize.md)
 
-![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Venti in this team is the primary source of Crowd Control for the whole team.
-* Venti can also act as an Energy Battery for Xiangling with his **A4** talent because of Xiangling's high energy requirements.
+* Venti can also act as an Energy Battery for Klee with his **A4** talent allowing Klee to cast her  **Elemental Burst** sooner

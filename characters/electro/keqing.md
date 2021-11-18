@@ -71,14 +71,6 @@ Click on the team names below for more details on how the team works and alterna
 * Kazuha can replace Bennett as he provides an **Elemental Damage** bonus and **Electro Resistance** debuff with **Viridescent Venerer** 4-set, but he cannot provide the survivability that Bennett provides with his healing.
 * Jean can replace Bennett or Kazuha in which case she provides both an **Electro Resistance **debuff with **Viridescent** **Venerer** 4-set and healing but does not increase Keqing's damage as much compared to Bennett and Kazuha.
 
-****[**Overload**](../../teams/overload.md)****
-
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)
-
-* This team relies upon increasing Xiangling and Keqing's damage through the **Overload **reaction and Venti's **Swirl** reaction.
-* **Thundering Fury** 4-set is recommended to reduce the **Elemental Burst **cooldown of Keqing.
-* Small enemies that often get knocked back by the **Overload** reaction are dealt with using Venti's **Elemental Burst** infused with **Pyro **and Keqing's** Elemental Burst**.
-
 ****[**Physical**](../../teams/physical.md)****
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****

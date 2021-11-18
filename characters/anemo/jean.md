@@ -66,17 +66,17 @@ In all the teams listed below, Jean universally provides debuffing utility using
 
 #### [Overload](../../teams/overload.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
 * In this team, Jean will typically allow Venti to take the role of being a Debuffer with the **Viridescent Venerer** 4-set and instead provide the team with a **Noblesse Oblige** 4-set buff.
 * This is a Quickswap team where all members have low **Elemental Skill** cooldowns and all members constantly generate **Energy Particles** to fuel their **Elemental Bursts.**
 
 #### [Pure Pyro](../../teams/pure-pyro.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
 * In this team, Jean will typically allow Venti to take the role of being a Debuffer with the **Viridescent Venerer** 4-set and instead provide the team with a **Noblesse Oblige** 4-set buff.
-* Jean acts as an Energy Battery** **for Venti in this team.
+* Jean acts as an Energy Battery** **for Kazuha and a Burst DPS in this team.
 
 #### [Vaporize (Pyro)](../../teams/reverse-vaporize.md)
 
