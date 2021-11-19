@@ -14,14 +14,14 @@
 
 ## Additional Notes
 
-* With C2, Klee can be used as support by throwing out her 2 Jumpty Dumpty and switching out (stepping on the mines reduces opponents Defence by 23% for 10s)
+* C2 allows Klee to be used as support by throwing out her 2 Jumpty Dumpty and switching out, as stepping on the mines reduces opponents Defence by 23% for 10 seconds.
 * At C6, Klee buffs all party members Pyro Damage by 10% for 25s after using her Elemental Burst.
 
 ## Works Well With
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
 
-* In the main DPS role, Klee’s rapid pyro application allows for mono pyro, reverse melt, or vaporize team comps.
+* In the main DPS role, Klee’s rapid pyro application allows her to be used in Pure Pryo, Melt (Cryo) or Vaporize teams.
 * In Klee’s vaporize comp, do not use Klee’s elemental burst or else vaporize will be inconsistent.
 
 ## Doesn’t Work Well With
@@ -36,19 +36,20 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-[**Pyro**](../../teams/pure-pyro.md)****
+****[**Pure Pyro**](../../teams/pure-pyro.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Klee's goal is to deal as much pyro damage as possible through her Charged Attack, Elemental Skill, and Elemental Burst with the help of Mona's omen, Kazuha's Pyro Damage bonus buff, and Bennett's atk buff.
+* Klee's goal is to deal as much Pyro damage as possible through her Charged Attack, Elemental Skill during her Elemental Burst.&#x20;
+* Mona can debuff with enemies with Omen, increasing the damage they take while applying Hydro for Vaporize reactions.
 
-****[**Reverse Melt**](../../teams/reverse-melt.md)****
+****[**Melt (Cryo) **](../../teams/reverse-melt.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Her goal is to deal as much damage as possible through her CA, elemental skill, and elemental burst while providing a constant pyro aura for Rosaria to melt.
 
-[**Vaporize**](../../teams/vaporize.md)****
+[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
