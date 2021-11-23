@@ -24,10 +24,10 @@ Refer to the character notes below for how characters work in this particular te
 
 ## Main DPS
 
-|                                                                                    |                                                                                                                                                                                                                                      |
-| :--------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   <p><img src="../.gitbook/assets/UI_AvatarIcon_Xiao.png" alt=""></p><p>Xiao</p>   | <ul><li>Elemental Burst grants an Anemo infusion and increased jump height, allowing him to frequently use Plunging Attacks for damage.</li><li>At Constellation 6, his Elemental Skill becomes his main source of damage.</li></ul> |
-| <p><img src="../.gitbook/assets/UI_AvatarIcon_Kazuha.png" alt=""></p><p>Kazuha</p> | <ul><li>Gains an Anemo Infusion at Constellation 6. It is not recommended to use Kazuha as the Main DPS before this Constellation.</li></ul>                                                                                         |
+|                                                                                                                                |                                                                                                                                                                                                                                      |
+| :----------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|    <p><img src="../.gitbook/assets/UI_AvatarIcon_Xiao.png" alt=""></p><p><a href="../characters/anemo/xiao.md">Xiao</a></p>    | <ul><li>Elemental Burst grants an Anemo infusion and increased jump height, allowing him to frequently use Plunging Attacks for damage.</li><li>At Constellation 6, his Elemental Skill becomes his main source of damage.</li></ul> |
+| <p><img src="../.gitbook/assets/UI_AvatarIcon_Kazuha.png" alt=""></p><p><a href="../characters/anemo/kazuha.md">Kazuha</a></p> | <ul><li>Gains an Anemo Infusion at Constellation 6. It is not recommended to use Kazuha as the Main DPS before this Constellation.</li></ul>                                                                                         |
 
 ## Support
 
