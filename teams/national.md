@@ -2,6 +2,8 @@
 
 The National Team is as a very consistent Reverse Vaporize Team that performs exceptionally well for low investment. The core of the Team is Bennett, Xiangling, and Xingqiu, with an interchangeable 4th party member. The team gets the majority of its Damage by taking advantage of Bennett's Elemental Burst's team Attack buff on Xiangling's Elemental Burst, while also having Xingqiu's Elemental Burst active in order to enable large vaporizes with Xiangling's Pyronado. The 4th party slot is usually dedicated to a member that can provide the team some level of utility.
 
+
+
 {% hint style="danger" %}
 **When running this team, make sure that Xiangling is well equipped as her burst is this team's primary source of damage.**
 {% endhint %}
@@ -52,18 +54,18 @@ Refer to the character notes below for how characters work in this particular te
 
 ## Sample Team Compositions
 
-![](../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../.gitbook/assets/UI_AvatarIcon_Bennett.png) ![](../.gitbook/assets/UI_AvatarIcon_Chongyun.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)
 
 * A combination of Xingqiu burst and Chongyun’s field allows you to keep enemies tagged with cryo while Xiangling’s burst, skill, and Bennett’s skill use the application to melt. Make sure to keep using normal attacks to apply the cryo and hydro hits to keep up the reactions.
 * This team composition is known as the original CN National team or National team.
 
-![](../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../.gitbook/assets/UI_AvatarIcon_Bennett.png) ![](../.gitbook/assets/UI_AvatarIcon_Sucrose.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
 * Sucrose's role on this team is to provide an Elemental Mastery boost to all characters, as well as using the Viridescent Venerer set to reduce enemy Elemental Resistance. Sucrose can also hold Thrilling Tales of the Dragonslayer, which is a 3\* Catalyst, which at Refinement Rank 5, can provide up to 48% Attack bonus. Other Anemo supports such as Kazuha or Venti can fill her role by providing either boosts to Elemental Damage or powerful Crowd Control.
 
-![](../.gitbook/assets/UI_AvatarIcon_Xiangling.png) ![](../.gitbook/assets/UI_AvatarIcon_Xingqiu.png) ![](../.gitbook/assets/UI_AvatarIcon_Bennett.png) ![](../.gitbook/assets/UI_AvatarIcon_Shougun.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
 
-* Raiden Shogun's role is to boost the team's Energy Recharge, as well as act as a substantial sub DPS with her Elemental Burst. As a battery, using Raiden Shogun allows you to invest less into Energy Recharge for Xiangling and Xingqiu, and instead invest into higher offensive stats. Raiden Shogun also enables Overload and Electro Charge reactions while not interfering with Xiangling Reverse Vaporize that much.\\
+* Raiden Shogun's role is to boost the team's Energy Recharge, as well as act as a substantial sub DPS with her Elemental Burst. As a battery, using Raiden Shogun allows you to invest less into Energy Recharge for Xiangling and Xingqiu, and instead invest into higher offensive stats. Raiden Shogun also enables Overload and Electro Charge reactions while not interfering with Xiangling Reverse Vaporize that much.
 
 ### Footnotes
 
