@@ -54,7 +54,7 @@
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
 
-* Sara provides an A**ttack** buff, as well as **Electro Particle** generation for Raiden Shogun. She can also provide an **Electro** **Critical Damage **Buff with **C6**
+* Sara provides an **Attack** buff, as well as **Electro Particle** generation for Raiden Shogun. She can also provide an **Electro** **Critical Damage **Buff with **C6**
 * Kazuha buffs this **Elemental Burst** even further with **Viridescent Venerer **and his built-in **Elemental Damage** buff.&#x20;
 * Bennett acts as the team's healer while providing additional **Attack **from his **Elemental Burst**.
 * This team is much more effective with Raiden Shogun's **C2.**

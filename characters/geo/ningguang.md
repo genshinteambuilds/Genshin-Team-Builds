@@ -8,8 +8,8 @@
 
 ## Character Breakdown:
 
-* Normal Attack fires a homing **Geo** projectile.
-* Normal Attacks that hit an enemy will grant Ningguang one **Star Jade**. A maximum of three **Star Jades** can be held at once.&#x20;
+* **Normal Attack** fires a homing **Geo** projectile.
+* **Normal Attacks** that hit an enemy will grant Ningguang one **Star Jade**. A maximum of three **Star Jades** can be held at once.&#x20;
 * When Ningguang performs a **Charged Attack**, all **Star Jades** will be released and target opponents.
   * When Ninnguang has a **Star Jade**, her **Charged Attacks** will not cost stamina.
 * **Elemental Skill **summons a **Jade Screen** that does damage upon summon and remains on the field to block out projectiles.
