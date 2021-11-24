@@ -8,69 +8,76 @@
 
 ## Character Breakdown:
 
-* Her damage contribution is distributed across her Charge Attacks, Elemental Skill and Elemental Burst casts mostly.
-* Normal Attack/Charge Attack (NA/CA), each Normal Attack landed will grant her one Star Jade, which can stack up to 3 and when you do a Charge Attack, it releases all Star Jade stacks.
-* Ningguang’s Elemental Skill summons a Jade Screen that does damage upon summon and remains on the field to block out projectiles. Constellation 2 can reset her Skill cooldown if the screen shatters under any circumstances, including shattering from your own Skill recast. (6s CD)
-* Ningguang’s Elemental Burst fires 6 Homing Gems at nearby enemies and if there’s a present Jade Screen, the screen shattered into another 6 Homing Gems.
+* Normal Attack fires a homing **Geo** projectile.
+* Normal Attacks that hit an enemy will grant Ningguang one **Star Jade**. A maximum of three **Star Jades** can be held at once.&#x20;
+* When Ningguang performs a **Charged Attack**, all **Star Jades** will be released and target opponents.
+  * When Ninnguang has a **Star Jade**, her **Charged Attacks** will not cost stamina.
+* **Elemental Skill **summons a **Jade Screen** that does damage upon summon and remains on the field to block out projectiles.
+* **Elemental Burst** fires six homing projectiles at nearby enemies. If a **Jade Screen** is present, it is shattered into another six similar projectiles.
 
 ## Additional Note:
 
-* Regarding her best NA/CA combo, it depends on how close you are to the enemy, as mentioned above Star Jades stacks are only given when you land a hit, not when you fire a Normal Attack. If you’re too far away from the enemy and you attempt N1>CA combos, you may end up casting Charge Attacks before you even get a Star Jade to reduce the stamina consumption. If you’re at range, N2>CA for DPS. If you’re very close, N1>CA for DPS.
-* People often use walk animation cancel for her Normal Attack (NA) sequences, this can be done by holding down on a walking direction while doing normal attacks.
-* &#x20;Elemental Skill has a 6 second internal cooldown on generating Energy, so for the sake of maintaining Burst loops, wait 6 seconds to cast again if you need energy.
-* She doesn’t need any reactions to function, which makes her an excellent choice for coop where you can’t rely on others to set up for reactions, but as a trade off it also means you won’t get access to massive multipliers and can’t benefit from 4-set VV debuffs.
+* Her damage contribution is mainly distributed across her **Charge Attacks**, **Elemental Skill**, and **Elemental Burst** casts.
+* **C2** can reset her **Elemental Skill** cooldown if the **Jade Screen** shatters under any circumstances, including from a recast of her **Elemental Skill**.
+  * **Elemental Skill** has a six-second internal cooldown on **Energy Particle **generation.** **As such, there should generally be at least six seconds between every cast of her **Elemental Skill**.
+* Ningguang has a very simple **Normal** and **Charged Attack** combo, as **Star Jades **are only given on hit, not upon performing a **Normal Attack**. This combo will consistently make her **charged attacks** cost no stamina.
+  * N2 → CA (Rinse and Repeat)
+    * N2  = 2 **Normal Attacks**
+    * CA = **Charged Attack**
+  * Ningguang's** Elemental Skill** and **Burst** are cast on cooldown while performing this attack combo. Make sure her **Jade Screen** is present when casting her **Elemental Burst** for higher damage.
+    * **C2** will require Ningguang to perform a combo with her **Elemental Skill** and **Burst**.
+      * **Elemental Skill** → **Elemental Burst** → Wait for six seconds → **Elemental Skill**
+* Ningguang's **Normal Attack** be animation canceled, allowing her to perform them faster. This can be done by holding down on a walking direction while doing **Normal Attacks**.
+* Ningguang doesn’t require **Elemental Reactions** to deal damage, making her an excellent choice for co-op (where reaction setups are hard to coordinate). However, this means that Ningguang cannot benefit from the various effects provided by **Elemental Reactions**.
 
 ## Works well with
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli is the most ideal candidate for the Geo Resonance buff and shield that’s extremely durable and reduces nearby enemy Elemental/Physical Resistance values by 20%, this means you’ll be reducing a total of 40% Geo Resistance against enemies and even Geovishaps would no longer be your weakness. Burst timers also line up really decently.
+* Zhongli is the most ideal pairing for Ningguang because of the **Geo Resonance** buff. His shield is extremely durable and debuffs nearby enemy **Elemental/Physical Resistance**. Together, these two effects greatly increase Ningguang's damage.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
 
-* Albedo, a replacement option if you do not have Zhongli, easy to use and cooldowns line up with Ningguang’s timers. Note that you could even run a triple Geo team with Ningguang Zhongli and Albedo.
+* Albedo provides **Geo Particles**, **Geo Resonance**, and Off-field damage. His **Elemental Skill **cooldowns line up with Ningguang’s.&#x20;
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)
 
-* Geo MC is a replacement option if you do not have Zhongli, easy to use and cooldowns line up with Ningguang’s timers. Triple Geo is also viable for this one but will get significantly more messy as Geo MC does not do damage off-field and will require more swapping around.
+* Geo MC provides **Geo Particles,** **Geo Resonance**, and a **Critical Rate** buff**. **He also has cooldowns that align with Ningguang's. However, he lacks Off-Field damage, forcing frequent character swaps.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Provides pyro resonance, ATK buff and healing from his elemental burst.
+* Bennett's **Elemental Burst **provides healing and a massive** Attack** buff, making him a recommended character in most teams.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
-* Xiangling provides Pyro Resonance, an extra 10% ATK buff from Guoba’s Chili (A4 Talent) while also dishing out quite a lot of damage. Even without Bennett she’d always be a great filler option if you need a Pyro shield breaker.
+* Xiangling enables **Pyro Resonance,** provides an **Attack** buff with her **A4, **and can deal high amounts of damage with her **Elemental Burst**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
-* They both provide extra off-field DPS that’s easy to utilize, nothing special about her here.
+* Fischl and Beidou provide extra Off-field damage and generate** Energy Particles** to recharge Ninnguang's **Elemental Burst** faster.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)
 
-* Venti could be fairly useful for CC and grouping enemies together for more effective utilization of Ningguang’s C1. If Bennett is also on the team, it helps funnel energy into his Burst (Venti A4 Talent).
+* Venti is useful for Crowd Control and grouping small enemies together, which allows Ningguang to take advantage of her **C1**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
-* Mona provides hydro coverage, taunt utility, Thrilling Tales of Dragon Slayer buff and Omen debuff.
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)
-
-* Noelle is not a necessarily bad option for Ningguang, has decent shield but slightly poor uptime. The investment for Noelle is generally not recommended.
+* Mona provides taunt utility, an **Attack** buff (through the Thrilling Tales of Dragon Slayers catalyst), and** **her signature **Omen **debuff.
 
 ## Does not work well with
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
-* Note that this isn’t saying Xingqiu is bad with Ningguang, but his potential is wasted as Ningguang’s attack sequences usually does not line up too well with Xingqiu. This is saying Xingqiu should be reserved for another team that can utilize him better.
+* Xingqiu isn't necessarily bad with Ningguang (as any Off-field DPS works with a **Geo** Team), but his potential is wasted as Ningguang’s attack sequence generally does not line up well with Xingqiu.
+  * He is better used on teams where his utility and **Hydro** application greatly benefit other Main DPS characters.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)
 
-* Chongyun (Support), doesn’t provide anything aside from Cryo coverage.
+* Chongyun doesn’t provide anything else aside from **Elemental Burst** damage. Chongyun's **Elemental Skill** doesn't affect Catalyst Main DPS characters.
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)
 
-* Doesn’t provide anything aside from CC and extra damage ticks.
+* **Geo** cannot take advantage of Viridescent Venerer's effect. **Anemo** does not provide anything for Ningguang** **aside from Crowd Control.
 
 ## Teams
 
@@ -82,6 +89,6 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)&#x20;
 
-* Generally Ningguang’s teams consist of 2 Geo characters to get Geo Resonance, it’s a very valuable buff as Geo characters can only receive total damage buffs or atk buffs in general.
-* Pyro Resonance is highly recommended.
-* Prioritize for shield breaking utility, make sure that your Ningguang can properly deal damage without being stopped by inefficient shield breaking.
+* Ningguang’s teams generally consist of 2 **Geo** characters to activate **Geo Resonance**, which is recommended because of **Geo**'s lack of damaging reactions**.**&#x20;
+* **Pyro Resonance** is highly recommended.
+* Ningguang's attacks are ineffective against shields. As such, shield-breaking utility should be prioritized (if applicable) to maximize Ningguang's damage.
