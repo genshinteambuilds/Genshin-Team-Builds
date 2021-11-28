@@ -7,34 +7,35 @@
 
 ## **Character Breakdown**
 
-* Zhongli is a universal support. He provides the strongest shield with over 100% uptime and reliable crowd control with his petrify from his Elemental Burst.
-* Elemental Skill (tap) has a short base cooldown and summons a rock pillar (Stone Stele, a Geo Construct) that pulses Geo Damage in short intervals.
-* Holding Zhongli’s Elemental Skill will also summon a Stone Stele (only if the maximum amount has not been reached yet) and provide a jade shield based on his maximum HP.
-* Elemental Burst summons a large meteor that deals a large amounts of Geo Damage in an AoE around the target and petrifies enemy units for several seconds.
+* **Elemental Skill (Tap)** has a short base cooldown and summons a **Stone Stele** which counts as a **Geo Construct. **
+  * The **Stone Stele **pulses **Geo** Damage in short intervals.
+* **Elemental Skill (Hold) **will also summon a** Stone Stele** if the maximum amount of **Stone Steles **has not been reached, and provides a **Jade Shield** based on Zhongli's maximum **HP**.
+* **A1** allows his **Jade Shield** to fortify, increasing the shield strength of the fortified on-field character by 5% when it takes damage. This can stack up to 5 times and will last for the duration of **Jade Shield**.
+* **A4 **allows Zhongli to gain additional bonus damage on his **Normal Attacks, Charged Attacks, Elemental Skill, **and **Elemental Burst **based on his maximum **HP**.
+* **Elemental Burst** summons a large meteor that deals AoE **Geo **damage and petrifies enemies for several seconds.
 
 ## **Additional Notes**
 
-* Zhongli’s jade shield decreases nearby enemy units' Elemental and Physical RES by 20%.
-* With Zhongli's A1, whenever his Jade Shield takes damage, it will fortify, increasing the shield strength of the fortified on-field character by 5%, can stack up to 5 times and will last within the Jade Shield's duration.
-* With Zhongli's A4, he gains an additional bonus damage on his talents based on his max HP.
-* Zhongli's Stone Stele additionally causes all other Geo Constructs in the nearby area to pulse, doing additional Geo Damage.
+* Zhongli’s **Jade Shield** debuffs nearby enemy units'** Elemental and Physical Resistance** by 20%.
+* Zhongli's** Stone Stele **additionally causes all other **Geo Constructs** in the nearby area to pulse, dealing additional **Geo** Damage.
 
 ## **Works Well With**
 
 ****![](../../.gitbook/assets/Element\_Anemo.webp)****![](../../.gitbook/assets/Element\_Cryo.webp)****![](../../.gitbook/assets/Element\_Electro.webp)****![](../../.gitbook/assets/Element\_Hydro.webp)****![](../../.gitbook/assets/Element\_Pyro.webp)****![](../../.gitbook/assets/Element\_Geo.webp)****
 
-* Zhongli can be slotted into almost any team composition as a flexible Support. He provides powerful shielding, universal resistance shred, and crowd control in a large area.
-* Zhongli is a strong inclusion to almost any team composition in the game, due to his universal buffing abilities and flexible kit.
-* Teams containing Zhongli typically do not center around him, with him usually being slotted in an empty slot to enhance other members of the team.
-* Zhongli also typically allows you to not need to use a healer, as his shield will provide enough durability if sustained especially with his A1 talent.
+* Zhongli can be put into almost any team as a flexible Support. He provides powerful shielding, a universal **Resistance** debuff, and Crowd Control in a large area.
+* Teams containing Zhongli typically do not center around him. He is usually used in an empty slot to enhance other members of the team.
+* Zhongli also generally replaces healers, as his shield provides enough damage negation if sustained (especially with his **A1**).
 
 ## Does Not Work Well With
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
-* Zhongli does not work well in freeze team compositions since his Elemental Skill pulses shatters frozen enemies.
+* Zhongli does not work well in **Freeze** team compositions since his **Elemental Skill **pulses **Shatter Frozen** enemies.
 
-**NOTE:** Zhongli can still be used as the 4th spot on freeze teams, positioning his Stone Stele would just be crucial for him to not shatter frozen enemies.
+{% hint style="info" %}
+Zhongli can still be used as the 4th character on **Freeze** teams by positioning his **Stone Stele** to not **Shatter Frozen **enemies.
+{% endhint %}
 
 ## **Teams**
 
@@ -42,32 +43,36 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-[**Geo**](../../teams/geo.md)****
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
-
-* Zhongli provides Geo Resonance as well as decreasing elemental RES for both a Geo Main-DPS and Off-Field DPS from his Jade Shield. His Elemental Burst also provides crowd control.
+{% hint style="info" %}
+In all of the teams below, Zhongli universally provides shielding, a universal **Resistance **debuff on his **Jade Shield,** and Crowd Control via his **Elemental Burst**.
+{% endhint %}
 
 ****[**Anemo**](../anemo/)****
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
 
-* Zhongli's universal RES decrease on his Jade Shield and Geo Resonance are especially effective on Xiao due to lack of other ways of reducing enemies' Anemo RES. His Elemental Burst also provides crowd control.
+* Zhongli's shielding and **Resistance** debuffing are especially useful in Xiao teams due to Xiao's poor survivability and the lack of convenient abilities that debuff **Anemo Resistance**. He can also provide **Geo Resonance**.
+
+[**Geo**](../../teams/geo.md)****
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+* Zhongli provides **Geo Resonance.**
+
+****[**Melt (Cryo)**](../../teams/reverse-melt.md)
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+* Zhongli's **Jade Shield **and Crowd Control are especially valuable on Ganyu to decrease her vulnerability when performing **Charged Aimed Attacks**.&#x20;
 
 ****[**Physical**](../../teams/physical.md)****
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
 
-* Zhongli's resistance decrease on his Jade Shield provides an additional way to decrease Physical RES. His powerful shielding also allows Eula to Normal Attack as much as possible to fully enhance her Elemental Burst's Damage. His Elemental Burst also provides crowd control.
+* Zhongli's **Jade Shield** allows Eula to **Normal Attack** as much as possible to fully enhance her **Elemental Burst's **damage**.**
 
-****[**Reverse Vaporize**](../../teams/reverse-vaporize.md)****
+****[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)****
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
 
-* Zhongli's shielding provides lowering enemies Pyro RES, making these Pyro DPS do more reverse vaporized damage on the enemies while providing them with his Jade Shield that protects them from getting damaged. His Elemental Burst also provides crowd control.
-
-****[**Reverse Melt**](../../teams/reverse-melt.md)****
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
-
-* Ganyu's extremely high damage is boosted even further by Zhongli's jade shield that decreases resistances and give Ganyu protection since she's vulnerable when she's doing her charged aimed attacks, and his Crowd Control and protective abilities greatly reduces Ganyu's chances of getting interrupted during her Charged Shot.
+* Zhongli's **Jade Shield** allows Hu Tao to perform her **Charged Attack** as much as possible and protects her against enemy attacks if Hu Tao does not have the **Stamina **to dodge.
