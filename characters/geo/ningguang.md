@@ -77,7 +77,7 @@
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)
 
-* **Geo** cannot take advantage of Viridescent Venerer's effect. **Anemo** does not provide anything for Ningguang** **aside from Crowd Control.
+* **Geo** cannot take advantage of **Viridescent Venerer**'s effect. **Anemo** does not provide anything for Ningguang** **aside from Crowd Control.
 
 ## Teams
 
