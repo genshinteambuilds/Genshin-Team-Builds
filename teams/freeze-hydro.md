@@ -78,5 +78,5 @@ Refer to the character notes below for how characters work in this particular te
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
 
-* An budget friendly Freeze team that allows Xingqiu to deal **Hydro **damage while the active characer uses **Normal** and **Charged Attacks** which will be **Cryo **if within the field created by Chongyun's **Elemental Skill**.
+* A budget friendly Freeze team that allows Xingqiu to deal **Hydro **damage while the active characer uses **Normal** and **Charged Attacks** which will be **Cryo **if within the field created by Chongyun's **Elemental Skill**.
 
