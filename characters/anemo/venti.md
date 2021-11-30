@@ -10,26 +10,26 @@
 * **Elemental Skill (Tap)** deals AoE **Anemo** damage in front of Venti and launches enemies hit into the air.
 * **Elemental Skill (Hold)** deals increased AoE **Anemo** damage around Venti and launches him into the air.
 * **Elemental Burst** creates a massive **Stormeye** that sucks in opponents and continuously deals **Anemo** damage. The Stormeye can absorb **Cryo**, **Electro**, **Hydro** or **Pyro** and will continuously deal additional damage of that elemental type.
-* **Anemo **characters need to be within 20 levels of enemies to be able to Crowd Control them most effectively.
+* **Anemo** characters need to be within 20 levels of enemies to be able to Crowd Control them most effectively.
 
 ## **Additional Notes**
 
-* **A1 **creates an upward current that the active characters can use to glide into the air when using **Elemental Skill** (Hold).
+* **A1** creates an upward current that the active characters can use to glide into the air when using **Elemental Skill** (Hold).
 * **A4** regenerates 15 energy for Venti after his **Elemental Burst** ends. If the **Elemental Burst** is infused with an element, every character with that infused element gains 15 energy.
-* **C2 **debuffs **Anemo Resistance** whenever enemies are hit by Venti's **Elemental Skill.**
-* **C6 **debuffs **Anemo Resistance** and **Elemental Resistance** of the absorbed element when enemies are hit by Venti's **Elemental Burst.**
+* **C2** debuffs **Anemo Resistance** whenever enemies are hit by Venti's **Elemental Skill.**
+* **C6** debuffs **Anemo Resistance** and **Elemental Resistance** of the absorbed element when enemies are hit by Venti's **Elemental Burst.**
 
 ## Works Well With
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Venti pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff** Elemental Resistance** on enemies for 4 of the elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
+* Venti pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental Resistance** on enemies for 4 of the elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
 
 ## Does Not Work Well With
 
 ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* **Anemo **cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo **and** Physical **damage characters.
+* **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo** and **Physical** damage characters.
   * Venti can still provide the team with Crowd Control utility
 
 ## Teams

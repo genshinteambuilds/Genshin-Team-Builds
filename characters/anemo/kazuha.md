@@ -14,8 +14,8 @@
   * Once the **Elemental Burst** absorbs an element, enemies within the field are periodically damaged with that element, allowing other **Elemental Reactions** with that element to frequently take place.
 * **A4** makes any element **Swirled** by Kazuha give the entire team an Elemental Damage boost to that element, proportional to his **Elemental Mastery.**
   * Kazuha can reach **Elemental Mastery** values as high as 1000, which gives 40% additional damage for any swirled element.
-* Kazuha can **Swirl** multiple different elements quite easily, providing buffs** **and debuffs for those elements with his **A4** and **Viridescent Venerer.**
-* **Anemo **characters need to be within 20 levels of enemies to be able to Crowd Control them most effectively.
+* Kazuha can **Swirl** multiple different elements quite easily, providing buffs **** and debuffs for those elements with his **A4** and **Viridescent Venerer.**
+* **Anemo** characters need to be within 20 levels of enemies to be able to Crowd Control them most effectively.
 
 ## **Additional Notes**
 
@@ -34,11 +34,11 @@
 
 ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* **Anemo **cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo **and** Physical **damage characters.
+* **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo** and **Physical** damage characters.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)
 
-* Kazuha cannot buff** Anemo** damage as **Anemo** cannot be absorbed into his **Elemental Burst.** Other **Anemo** characters with more powerful Crowd Control abilities or other utility are often preferred in an **Anemo** team composition that uses Xiao as a Main DPS as a result.
+* Kazuha cannot buff **Anemo** damage as **Anemo** cannot be absorbed into his **Elemental Burst.** Other **Anemo** characters with more powerful Crowd Control abilities or other utility are often preferred in an **Anemo** team composition that uses Xiao as a Main DPS as a result.
 
 ## Teams
 

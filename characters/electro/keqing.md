@@ -7,17 +7,17 @@
 
 ## **Character Breakdown**
 
-* **Elemental Skill (Tap) **summons a **Lightning Stiletto** dealing **Electro **damage on enemy, and recasting teleports her to its location and does additional AoE **Electro **damage. If Keqing instead uses a **Charged Attack** the **Lightning Stiletto** explodes and deals AoE **Electro** damage.
+* **Elemental Skill (Tap)** summons a **Lightning Stiletto** dealing **Electro** damage on enemy, and recasting teleports her to its location and does additional AoE **Electro** damage. If Keqing instead uses a **Charged Attack** the **Lightning Stiletto** explodes and deals AoE **Electro** damage.
   * **Elemental Skill (Hold)** allows her to manually aim the **Lightning Stiletto**.
-* **A1 **infuses Keqing's **Normal and Charged Attacks** with **Electro** for 5 seconds after teleporting with her **Elemental Skill**.
-* **Elemental Burst **does several slashes and one stronger final slash in an area around her, dealing **Electro **damage.
+* **A1** infuses Keqing's **Normal and Charged Attacks** with **Electro** for 5 seconds after teleporting with her **Elemental Skill**.
+* **Elemental Burst** does several slashes and one stronger final slash in an area around her, dealing **Electro** damage.
 * **A4** gives Keqing 15% **Critical Rate** and 15% **Energy Recharge** for 8s after her using her **Elemental Burst**.
 
 ## **Additional Notes**
 
 * Keqing can be played as either an **Electro** or **Physical** Main DPS giving her flexibility when it comes to her teams.
 * Keqing can easily run out of stamina due to her **Charged Attacks** being her main source of damage.
-* She can maintain her **Electro **infusion by using her **Elemental Skill** then using her **Elemental Burst **before recasting the **Elemental Skill**.
+* She can maintain her **Electro** infusion by using her **Elemental Skill** then using her **Elemental Burst** before recasting the **Elemental Skill**.
 * Keqing's **Charged Attack** can often knock back smaller enemies making it difficult to deal consistent damage.
 
 ## **Works well with**
@@ -69,12 +69,12 @@ Click on the team names below for more details on how the team works and alterna
 * This team mainly uses Xingqiu and Beidou's **Elemental Bursts** to increase Keqing's **Charged Attack** damage and provide **Electro-Charged** reactions.
 * Beidou's **C6** debuffs **Electro Resistance** which increases Keqing's total damage output.
 * Kazuha can replace Bennett as he provides an **Elemental Damage** bonus and **Electro Resistance** debuff with **Viridescent Venerer** 4-set, but he cannot provide the survivability that Bennett provides with his healing.
-* Jean can replace Bennett or Kazuha in which case she provides both an **Electro Resistance **debuff with **Viridescent** **Venerer** 4-set and healing but does not increase Keqing's damage as much compared to Bennett and Kazuha.
+* Jean can replace Bennett or Kazuha in which case she provides both an **Electro Resistance** debuff with **Viridescent** **Venerer** 4-set and healing but does not increase Keqing's damage as much compared to Bennett and Kazuha.
 
 ****[**Physical**](../../teams/physical.md)****
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****
 
 * This team mainly relies on the **Superconduct** Reaction which debuffs **Physical Resistance**.
-* Do not recast Keqing's **Elemental Skill**. It should be detonated via **Charged Attack** to avoid **Electro **infusion.
+* Do not recast Keqing's **Elemental Skill**. It should be detonated via **Charged Attack** to avoid **Electro** infusion.
 * The 3rd and 4th slots in the team are flexible and their main role is to provide buffs, debuffs or other utility effects.

@@ -14,14 +14,14 @@
 * **Elemental Burst** deals AoE **Pyro** damage and creates a field on the ground. Allies within this field gain the following effects:
   * If the active character is below 70% HP, they regain HP until the character is at or above 70% HP
   * If the active character is above 70% HP, they gain a flat **Attack** buff.
-  * Periodically applies** Pyro **to the active character.
+  * Periodically applies **Pyro** to the active character.
 
 ## **Additional Notes:**
 
-* **C1 **allows him to buff Attack regardless of active character HP. It is worth noting that **C1** does **NOT** allow Bennett to continue healing past 70% HP.
+* **C1** allows him to buff Attack regardless of active character HP. It is worth noting that **C1** does **NOT** allow Bennett to continue healing past 70% HP.
 * **C6** allows Bennett's Elemental Burst to infuse Sword, Claymore and Polearm-wielding characters' weapons with **Pyro**. This makes it often not worth activating Bennett’s **C6** as it limits his viability in many teams.
 * Bennett's healing will scale based on his **Maximum HP,** while his **Attack** buff will scale based on his **Base Attack**.
-* **A4** prevents Bennett from being launched by the explosion at the end of his charge level two **Elemental Skill **and reduces the cooldown of his** Elemental Skill** by 50% when cast inside the field created by his** Elemental Burst**.
+* **A4** prevents Bennett from being launched by the explosion at the end of his charge level two **Elemental Skill** and reduces the cooldown of his **Elemental Skill** by 50% when cast inside the field created by his **Elemental Burst**.
 
 ## Works Well With
 
@@ -34,7 +34,7 @@
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
 * On **Freeze** teams Bennett will unfreeze frozen enemies, negating the **Critical Rate** bonus provided by **Cryo** Resonance.
-  * This is not the case for **Cryo** teams that seek to utilize the** Melt** reaction instead.
+  * This is not the case for **Cryo** teams that seek to utilize the **Melt** reaction instead.
 
 ## **Teams**
 
@@ -53,14 +53,14 @@ Click on the team names below for more details on how the team works and alterna
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
 * Bennett’s short **Elemental Skill** cooldown and controllable **Pyro** application allow him to consistently melt his **Elemental Skill** and **Elemental Burst**.
-* Chongyun's** Elemental Skill** allows Bennett to apply **Cryo **to enemies very consistently with his infused **Normal Attacks**.
+* Chongyun's **Elemental Skill** allows Bennett to apply **Cryo** to enemies very consistently with his infused **Normal Attacks**.
 
 [**Overload**](../../teams/overload.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
 * The low cooldown of Bennett's **Elemental Skill** benefits from the Thundering Fury 4-set bonus, which can allow Bennett to have a 1-second cooldown on his **Elemental Skill.**
-* Beidou and Fischl apply **Electro **and deal damage, while Bennett both deals damage and generates particles with his shortened skill cooldown. This allows for lower **Energy Recharge **requirements on Beidou.
+* Beidou and Fischl apply **Electro** and deal damage, while Bennett both deals damage and generates particles with his shortened skill cooldown. This allows for lower **Energy Recharge** requirements on Beidou.
 
 ### Support Teams
 
@@ -76,23 +76,23 @@ Click on the team names below for more details on how the team works and alterna
 
 * In this team, Bennett plays the role of healer, **Pyro** Resonance activator, and support.
 
-**​**[**National Team**](https://genshinteambuilds.gitbook.io/teams/teams/other)** **​
+**​**[**National Team**](https://genshinteambuilds.gitbook.io/teams/teams/other) **** ​
 
 ​ ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* In this team, Bennett plays the role of healer,** Pyro **Resonance activator, support, and Sub-DPS.
+* In this team, Bennett plays the role of healer, **Pyro** Resonance activator, support, and Sub-DPS.
 * Xiangling and Xingqiu's **Elemental Bursts** persist Off-Field, letting Bennett easily act as an Energy Battery for Xiangling.
 
 ****[**Oneshot**](broken-reference/)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
-* In this team, Bennett plays the role of healer,** Pyro **Resonance activator, and support.
-* Bennett is highly valued in Oneshot teams due to his easily accessible **Attack** buff and **Pyro **application.
+* In this team, Bennett plays the role of healer, **Pyro** Resonance activator, and support.
+* Bennett is highly valued in Oneshot teams due to his easily accessible **Attack** buff and **Pyro** application.
 
 ****[**Vaporize(Pyro)**](../../teams/reverse-vaporize.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* In this team, Bennett plays the role of healer,** Pyro** Resonance activator, and support.
+* In this team, Bennett plays the role of healer, **Pyro** Resonance activator, and support.
 * For teams with Xiangling, Bennett will also act as an Energy Battery and give Xiangling enough Energy to use her **Elemental Burst** more frequently.

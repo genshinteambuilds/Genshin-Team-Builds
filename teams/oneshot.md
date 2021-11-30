@@ -176,7 +176,7 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett** **provides a massive ATK buff and is able to set up by applying Pyro.
+* Bennett **** provides a massive ATK buff and is able to set up by applying Pyro.
 
 ![](../.gitbook/assets/ui\_avataricon\_amber.png)
 
@@ -230,7 +230,7 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 
 ## **Main Carry: Eula**
 
-**Enabler: **Lisa, Raiden
+**Enabler:** Lisa, Raiden
 
 **Supporting Cast:** Bennett, Zhongli, Xinyan
 

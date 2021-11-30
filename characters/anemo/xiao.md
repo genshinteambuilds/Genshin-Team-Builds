@@ -2,12 +2,12 @@
 
 ## Roles
 
-* **Main DPS **(Selfish)
+* **Main DPS** (Selfish)
 
 ## Character Breakdown
 
 * **Elemental Skill** has two charges and allows Xiao to dash quickly at an opponent dealing **Anemo** Damage.
-* **Elemental Burst** infuses Xiao's weapon with **Anemo** and provides additional damage on **Normal, Charged, **and **Plunging Attacks.** Additionally, Xiao's jump height is greatly increased, allowing Xiao to jump and perform **Plunging Attacks** continually while his **Elemental Burst** is active.
+* **Elemental Burst** infuses Xiao's weapon with **Anemo** and provides additional damage on **Normal, Charged,** and **Plunging Attacks.** Additionally, Xiao's jump height is greatly increased, allowing Xiao to jump and perform **Plunging Attacks** continually while his **Elemental Burst** is active.
   * Xiao continuously loses **HP** throughout the duration of his **Elemental Burst.**
   * **Plunging Attacks** performed during Xiao's **Elemental Burst** produce **Anemo** spears from the ground which deal damage in a large area around him.
 
@@ -47,7 +47,7 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-Xiao only really works in an **Anemo **team where Xiao works as the Selfish Main DPS. One example team is shown below. Additional teams and options can be found in the **Anemo** team page.
+Xiao only really works in an **Anemo** team where Xiao works as the Selfish Main DPS. One example team is shown below. Additional teams and options can be found in the **Anemo** team page.
 {% endhint %}
 
 #### [Anemo](../../teams/anemo.md)

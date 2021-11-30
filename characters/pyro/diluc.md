@@ -17,15 +17,15 @@
 
 ## **Additional Notes**
 
-* Diluc can be paired with Chongyun early in the game to create a **Melt **team with Diluc using 2 **Normal Attacks** per **Elemental Skill** usage while standing within Chongyun's Cryo field.
+* Diluc can be paired with Chongyun early in the game to create a **Melt** team with Diluc using 2 **Normal Attacks** per **Elemental Skill** usage while standing within Chongyun's Cryo field.
   * This does not work correctly once Diluc's **Normal Attacks** are infused with **Pyro** from his **Elemental Burst**. This team composition is typically abandoned once you reach a later stage in the game for this reason.
-* Diluc cannot **Melt** enemies that are **Frozen** as his **Claymore **weapon type causes **Shatter **instead
+* Diluc cannot **Melt** enemies that are **Frozen** as his **Claymore** weapon type causes **Shatter** instead
 
 ## Works Well With
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
-* Diluc is almost always paired with Xingqiu in order to allow Diluc to **Vaporize **his attacks for 1.5x more damage. Check the** Vaporize (Pyro)** team page for team compositions and notes.
+* Diluc is almost always paired with Xingqiu in order to allow Diluc to **Vaporize** his attacks for 1.5x more damage. Check the **Vaporize (Pyro)** team page for team compositions and notes.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
@@ -38,16 +38,16 @@
 
 * **Melt** team compositions using Diluc typically do not work well due to the inability of most **Cryo** supports to apply **Cryo** aura fast enough so that Diluc will be the character causing the **Melt** reaction and benefiting from the damage amplification.
 * **Melt** teams CAN work early in the game due to Diluc having much lower uptime on his **Elemental Burst** and **Pyro** infusion but generally fall off the further into the game you progress.
-* **Melt** teams can sometimes still work if enough **Cryo** applying sources are added to the team such as Venti's **Cryo **Infused **Elemental Burst** + Ganyu's **Elemental Burs**t but this is often not practical.
+* **Melt** teams can sometimes still work if enough **Cryo** applying sources are added to the team such as Venti's **Cryo** Infused **Elemental Burst** + Ganyu's **Elemental Burs**t but this is often not practical.
 
 ![](../../.gitbook/assets/Element\_Electro.webp)
 
 * **Electro** supports generally do not work well with Diluc as the **Overload** reaction causes enemies to be knocked back out of Diluc's melee range.
-* **Overload **teams CAN work early in the game. Unfortunately, the downside of knocking back enemies along with **Overload **scaling falling off in the late game result in these team compositions falling further and further behind as you progress in the game.
+* **Overload** teams CAN work early in the game. Unfortunately, the downside of knocking back enemies along with **Overload** scaling falling off in the late game result in these team compositions falling further and further behind as you progress in the game.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* **Physical **damage based characters do not synergize with Diluc's **Pyro **damage.
+* **Physical** damage based characters do not synergize with Diluc's **Pyro** damage.
 
 ## Teams
 
@@ -59,6 +59,6 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* A team where Diluc can vaporize his attacks using the **Hydro **applied to the enemy by Xingqiu's **Elemental Burst**.
+* A team where Diluc can vaporize his attacks using the **Hydro** applied to the enemy by Xingqiu's **Elemental Burst**.
 * Zhongli provides **Pyro Resistance** debuff and shielding.
-* Bennett acts as the team's healer while providing an A**ttack **buff from his **Elemental Burst.**
+* Bennett acts as the team's healer while providing an A**ttack** buff from his **Elemental Burst.**

@@ -16,12 +16,12 @@
 ## **Additional Notes**
 
 * **Elemental Skill** will sacrifice 30% of Hu Tao's current **HP** when cast**.**
-  * Hu Tao won't die with her **Elemental Skill **as it won't drop her below **1 HP.**
-* **C1 **makes Hu Tao's **Charged Attack** cost no stamina while her **Elemental Skill** is active.
+  * Hu Tao won't die with her **Elemental Skill** as it won't drop her below **1 HP.**
+* **C1** makes Hu Tao's **Charged Attack** cost no stamina while her **Elemental Skill** is active.
 * Hu Tao's attack combo can depend whenever she is **C0** or **C1**:
   * `NA → CA → JC → NA → CA → JC` at **C0**
   * `NA → CA → DC → NA → CA → DC`at **C1**
-    * `NA` = **Normal Attack** `CA` = **Charged Attack **`JC` = **Jump Cancel **`DC` =** Dash Cancel**
+    * `NA` = **Normal Attack** `CA` = **Charged Attack** `JC` = **Jump Cancel** `DC` = **Dash Cancel**
     * Note: `NA → CA` is the result of using a **Charged Attack**. Hu Tao will always start her **Charged Attack** with an initial **Normal Attack**.
     * Animation cancelling the end of the **Charge Attack** is necessary for optimal damage if using `NA → CA`. Can be done with **Dash** or **Jump**.
   * Dash Cancels provide more damage overall in Hu Tao's attack combo but it isn't recommended at **C0** because of the **Stamina Consumption** from both the **Dash** and **Charged Attack.**
@@ -100,10 +100,10 @@ Click on the team names below for more details on how the team works and alterna
 * A **Vaporize (Pyro)** team with **Geo** Units where Hu Tao can **Vaporize** her attacks using the **Hydro** applied to the enemy by Xingqiu's **Elemental Burst**.
 * Zhongli provides **Elemental Resistance** debuff with his shield while also protecting from all sources of damage.
 * Albedo provides off-field damage and **Elemental Mastery** buff when using his **Elemental Burst.**
-* Geo characters can run the **Instructor** 4-set to provide an** Elemental Mastery** Buff.
+* Geo characters can run the **Instructor** 4-set to provide an **Elemental Mastery** Buff.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_amber.png)
 
 * A **Vaporize (Pyro)** team where Hu Tao can **Vaporize** her attacks using the **Hydro** applied to the enemy by Xingqiu's **Elemental Burst**.
-* Sucrose provides **Elemental Mastery** and **Elemental Resistance **debuff with **Viridescent Venerer.**
-* Amber can apply **Pyro** with her **Elemental Burst** for **Anemo** characters create **Swirl **reactions**, ** and activate **Pyro Resonance**.
+* Sucrose provides **Elemental Mastery** and **Elemental Resistance** debuff with **Viridescent Venerer.**
+* Amber can apply **Pyro** with her **Elemental Burst** for **Anemo** characters create **Swirl** reactions**,** and activate **Pyro Resonance**.

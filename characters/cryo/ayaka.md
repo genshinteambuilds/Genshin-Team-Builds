@@ -41,7 +41,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
-* As with all Elemental** **Damage DPS, **Anemo** Supports work well by reducing the enemy's Elemental Resistance with **Viridescent Venerer**. **Anemo** characters often also supply useful **Crowd Control** abilities or other buffs.
+* As with all Elemental **** Damage DPS, **Anemo** Supports work well by reducing the enemy's Elemental Resistance with **Viridescent Venerer**. **Anemo** characters often also supply useful **Crowd Control** abilities or other buffs.
 * Kazuha, Sucrose and Venti can additionally infuse their **Elemental Bursts** with **Hydro** or **Cryo**, helping provide those elements in a [Freeze team](../../teams/freeze.md).
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
@@ -57,7 +57,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
 
-* Despite being an **Electro** character, Raiden's **Elemental Skill **will not interrupt the Freeze reaction. Additionally, Ayaka can also forgo ER requirements as Raiden will generate energy through her **Elemental Burs**t.
+* Despite being an **Electro** character, Raiden's **Elemental Skill** will not interrupt the Freeze reaction. Additionally, Ayaka can also forgo ER requirements as Raiden will generate energy through her **Elemental Burs**t.
 
 ## Does not work well with
 

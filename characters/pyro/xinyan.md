@@ -7,35 +7,35 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** deals **Pyro **Damage, applies **Pyro **to Xinyan, and creates a Shield. The shield's strength varies depending on how many opponents are hit by the **Elemental Skill**.
+* **Elemental Skill** deals **Pyro** Damage, applies **Pyro** to Xinyan, and creates a Shield. The shield's strength varies depending on how many opponents are hit by the **Elemental Skill**.
   * Hitting 0–1 opponents grants Shield Level 1: Ad Lib.
   * Hitting 2 opponents grants Shield Level 2: Lead-In.
   * Hitting 3 or more opponents grants Shield Level 3: Rave, which also deals Pyro Damage to nearby enemies.
-* **Elemental Burst** launches nearby opponents and deals Physical Damage followed by periodic **Pyro **Damage around her.
-* **A2 **decreases the amount of opponent's the **Elemental Skill** must hit to trigger that level of shielding. This means that after reaching this **Ascension **level, Xinyan will always trigger at least Shield Level 2: Lead In.
-* A4 makes characters shielded by Xinyan's **Elemental Skill** deal 15% increased **Physical **Damage.
+* **Elemental Burst** launches nearby opponents and deals Physical Damage followed by periodic **Pyro** Damage around her.
+* **A2** decreases the amount of opponent's the **Elemental Skill** must hit to trigger that level of shielding. This means that after reaching this **Ascension** level, Xinyan will always trigger at least Shield Level 2: Lead In.
+* A4 makes characters shielded by Xinyan's **Elemental Skill** deal 15% increased **Physical** Damage.
 
 ## Additional Notes
 
-* Often used as a **Physical **Support but lacks the ability to trigger **Superconduct**, making her a less desirable choice than **Electro**/**Cryo**-based **Physical **Supports.
+* Often used as a **Physical** Support but lacks the ability to trigger **Superconduct**, making her a less desirable choice than **Electro**/**Cryo**-based **Physical** Supports.
 * Can be used to cleanse the active character with her shield which momentarily applies **Pyro**. Swapping to another character while the shield is active will also cleanse that character as well.
-* **C4 **allows Xinyan's **Elemental Skill** to debuff enemy **Physical Resistance** by 15% for 12 seconds.
+* **C4** allows Xinyan's **Elemental Skill** to debuff enemy **Physical Resistance** by 15% for 12 seconds.
 
 ## Works Well With
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
-* Eula and Razor are both **Physical **Main DPS that can benefit from Xinyan's Shield and **Physical **Damage related Debuffs.
+* Eula and Razor are both **Physical** Main DPS that can benefit from Xinyan's Shield and **Physical** Damage related Debuffs.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett is able to pair with Xinyan nicely to provide Healing, Shielding, Buffs/Debuffs and **Pyro **Resonance to any **Physical **Main DPS.
+* Bennett is able to pair with Xinyan nicely to provide Healing, Shielding, Buffs/Debuffs and **Pyro** Resonance to any **Physical** Main DPS.
 
 ## Does Not Work Well With
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
 
-* Unless a team has a **Physical **Main DPS, Xinyan provides little as a Support.
+* Unless a team has a **Physical** Main DPS, Xinyan provides little as a Support.
 
 ## Teams
 
@@ -47,9 +47,9 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* A **Physical **team composition focused on providing large amounts of Buffs to Razor and Debuffs to the enemies.
-* Requires Bennett to be **C5 **or below.
+* A **Physical** team composition focused on providing large amounts of Buffs to Razor and Debuffs to the enemies.
+* Requires Bennett to be **C5** or below.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* This team is focused on providing Eula with multiple Buffs for her **Elemental Burst**. Xinyan provides **Physical **Damage related buff and debuffs.
+* This team is focused on providing Eula with multiple Buffs for her **Elemental Burst**. Xinyan provides **Physical** Damage related buff and debuffs.

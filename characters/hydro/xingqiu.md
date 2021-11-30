@@ -9,7 +9,7 @@
 
 * Elemental Skill deals hydro damage and applies the **Wet** Status to Xingqiu momentarily. Xingqiu's **Elemental Skill** also surrounds the active character with 3 (4 if **C1**) rain swords which reduce incoming damage and improves the active character's Interruption Resistance.
 * **Elemental Burst** is identical to **Elemental Skill** in applying the **Wet** Status to Xingqiu momentarily and surrounding the active character with rain swords. These rain swords will summon **Hydro** sword rain attacks that attack any enemies when a character performs a **Normal Attack**.
-* **A1 **allows Xingqiu's Rain Swords from his **Elemental Skill** and **Burst** to heal the active character based on Xingqiu's Max **HP** when it expires or shatters.
+* **A1** allows Xingqiu's Rain Swords from his **Elemental Skill** and **Burst** to heal the active character based on Xingqiu's Max **HP** when it expires or shatters.
 
 ## **Additional Notes**
 

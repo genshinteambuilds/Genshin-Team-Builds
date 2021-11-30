@@ -21,7 +21,7 @@
 * Mona can be built for her **Elemental Burst**'s Damage but should only be done so in teams that can amplify this damage, like **Vaporize**. If in a team that cannot, like **Freeze**, it is recommended to build her more for Support.
 * **C1** gives **Omen** an extra effect.
   * Increases the Damage of all Elemental Reactions that require **Hydro** by 15%.
-  * Increases the duration of the** Freeze** Reaction by 15%
+  * Increases the duration of the **Freeze** Reaction by 15%
 * **Omen's** duration can be artificially increased as Mona's **Illusory Bubble** cannot be popped while enemies are **Frozen**. This makes her one of the best characters for [**Freeze**](../../teams/freeze.md) Teams.
 
 ## **Works Well With**

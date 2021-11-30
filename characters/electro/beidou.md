@@ -3,7 +3,7 @@
 ## Roles
 
 * **Off-Field DPS** (Elemental Burst)
-* **Support: **Debuffer (C6), Cleanser (Self Only)
+* **Support:** Debuffer (C6), Cleanser (Self Only)
 
 ## Character Breakdown
 
@@ -45,7 +45,7 @@
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)
 
 * Beidou's ability to snapshot buffs with her **Elemental Burst** allows her to take full advantage of both Bennet and Kujou Sara's **Attack** buffs.
-* The** Electro Critical Damage** increase from Kujou Sara's **C6** can be snapshotted and will last for the entire duration of Beidou's** Elemental Burst**.
+* The **Electro Critical Damage** increase from Kujou Sara's **C6** can be snapshotted and will last for the entire duration of Beidou's **Elemental Burst**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
@@ -68,13 +68,13 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-****[**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md)** / **[**Electro-Charged (Electro)**](../../teams/electro-charged.md)****
+****[**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md) **/** [**Electro-Charged (Electro)**](../../teams/electro-charged.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Beidou is typically used as an Off-Field DPS in these teams with an on-field character such as Keqing or Childe to trigger her **Elemental Burst's **lightning discharges.
+* Beidou is typically used as an Off-Field DPS in these teams with an on-field character such as Keqing or Childe to trigger her **Elemental Burst's** lightning discharges.
 * A second **Electro** character is recommended to help recharge Beidou's **Elemental Burst**.
 
 [**Overload**](../../teams/overload.md)****
@@ -87,5 +87,5 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Beidou provides Off-Field **Electro** damage for Eula to trigger **Superconduct, **debuffing enemy **Physical Resistance**.
+* Beidou provides Off-Field **Electro** damage for Eula to trigger **Superconduct,** debuffing enemy **Physical Resistance**.
 * A second **Electro** character is recommended to help recharge Beidou's **Elemental Burst**.
