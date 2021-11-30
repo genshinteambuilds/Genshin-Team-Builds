@@ -29,7 +29,7 @@
 * Beidou can also debuff the the **Electro** **Resistance** of enemies with her **C6** active.
 * Keqing's main source of damage being her **Normal** or **Charged Attacks** allows Beidou's **Elemental Burst** to constantly deal **Electro** damage.
 
-![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
 * Childe and Xingqiu provide a high rate of **Hydro** application and combined with Beidou's **Elemental Burst** can constantly create **Electro-Charged** reactions.
 * The combination of damage reduction on both Beidou and Xingqiu's **Elemental Bursts** provides increased survivability while both abilities are active.
@@ -72,7 +72,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Beidou is typically used as an Off-Field DPS in these teams with an on-field character such as Keqing or Childe to trigger her **Elemental Burst's** lightning discharges.
 * A second **Electro** character is recommended to help recharge Beidou's **Elemental Burst**.
