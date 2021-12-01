@@ -82,7 +82,8 @@
 * [Physical](teams/physical.md)
 * [Pure Pyro](teams/pure-pyro.md)
 * [Oneshot](teams/oneshot.md)
-* [Overload](teams/overload.md)
+* [Overload (Pyro)](teams/overload.md)
+* [Overload (Electro)](teams/overload-electro.md)
 * [Vaporize (Hydro)](teams/vaporize.md)
 * [Vaporize (Pyro)](teams/reverse-vaporize.md)
 
