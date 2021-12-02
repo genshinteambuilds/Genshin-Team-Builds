@@ -3,7 +3,7 @@
 ## Roles
 
 * **Off-Field DPS** (Elemental Burst)
-* **Support:** Shielder, Buffer (C6)
+* **Support:** Shielder, Buffer (C6), Cleanser (Self)
 
 ## Character Breakdown
 
