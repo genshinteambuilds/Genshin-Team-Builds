@@ -74,7 +74,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 * Mona can also function as a damage amplifier alongside a cryo enabler, as her Omen is a 5 second Debuff that grants the increased damage during that duration.
 * Can carry Thrilling Tales of Dragon Slayer.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
+![](../.gitbook/assets/ui\_avataricon\_amber.png)
 
 * Able to carry Elegy for the End and easily activate the passive through her Elemental Burst.
 * At Constellation 6, using her Elemental Burst gives her team a small ATK% Buff.
@@ -167,7 +167,7 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 
 ### **Main Carry**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)****
+****![](../.gitbook/assets/ui\_avataricon\_tartaglia.png)****
 
 * Tartaglia has two ways to use his Elemental Burst, based on which form he is in. Bow form does less damage but occurs much faster since it returns 20 energy back to Tartaglia, while Melee form requires the transformation and does much more damage.&#x20;
 * Tartaglia Oneshot teams will focus on Vaporizing the Melee form Elemental Burst.
@@ -178,7 +178,7 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 
 * Bennett **** provides a massive ATK buff and is able to set up by applying Pyro.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
+![](../.gitbook/assets/ui\_avataricon\_amber.png)
 
 * Amber provides very quick Pyro application at a range.&#x20;
 * Can activate Elegy for the End and further buff with Constellation 6.
@@ -212,7 +212,7 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 
 ### Sample Childe Teams
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
+![](../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
 * Tartaglia Elemental Skill (apply Hydro on enemy) -> Bennett Elemental Burst (do not clear the Hydro application) -> Kazuha Elemental Burst (inside Bennett Elemental Burst) -> Mona Elemental Burst -> Tartaglia E -> Tartaglia Elemental Burst
 
@@ -220,11 +220,11 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 
 {% embed url="https://drive.google.com/file/d/1ayFszYOJv3Ut-XPdhTpv9RnnCNPiNY-N/view?usp=sharing" %}
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
+![](../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
 * Tartaglia Elemental Skill (apply Hydro on enemy) -> Bennett Elemental Burst (do not clear the Hydro application) -> Kazuha Elemental Burst (inside Bennett Elemental Burst) -> Xiangling Elemental Burst -> Tartaglia Elemental Skill -> Tartaglia Elemental Burst
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+![](../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Zhongli hold Elemental Skill -> Tartaglia Charged Aimed Shot -> Sucrose Elemental Skill -> Bennett Elemental Burst -> Tartaglia Elemental Skill (don't hit enemy with activation damage) -> Tartaglia Elemental Burst
 

@@ -45,7 +45,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Melt(Pyro)**](../../teams/melt.md)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Amber.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/ui\_avataricon\_amber.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Amber’s **Charged Attack** does considerable damage when activating the **Melt** reaction by hitting an enemy with **Cryo** applied to it.
   * **C2** allows her **Elemental Skill** to trigger the **Melt** reactions as well.
@@ -53,6 +53,6 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Vaporize(Hydro)**](../../teams/vaporize.md)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Amber.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_amber.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Amber **C6** and the weapon, **Elegy for the End**, makes her **Elemental Burst** grant allies bonus **Attack** and **Elemental Mastery.**

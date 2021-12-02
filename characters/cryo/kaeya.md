@@ -48,7 +48,7 @@
 * Barring **Physical** damage characters, **Superconduct** falls behind other Elemental Reactions in terms of damage.
 * **Physical** teams can still use Kaeya as well as an **Electro** character to easily trigger **Superconduct** from off field.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)
 
 * While Tartaglia can function in **Freeze** teams, especially with higher **constellations**, he's typically better used with other **elements**.
 

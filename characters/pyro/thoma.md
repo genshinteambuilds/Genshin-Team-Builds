@@ -4,4 +4,4 @@
 Work In Progress
 {% endhint %}
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tohma.png)
+![](<../../.gitbook/assets/UI\_AvatarIcon\_Tohma (1).png>)

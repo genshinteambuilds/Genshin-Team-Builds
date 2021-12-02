@@ -67,6 +67,7 @@
   * [Xinyan](characters/pyro/xinyan.md)
   * [Yanfei](characters/pyro/yanfei.md)
   * [Yoimiya](characters/pyro/yoimiya.md)
+  * [Thoma](characters/pyro/thoma-1.md)
 
 ## Teams
 
