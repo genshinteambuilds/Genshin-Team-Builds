@@ -26,6 +26,10 @@ While Xinyan is listed here as a **Pyro** character, she is primarily used as a 
 [klee.md](klee.md)
 {% endcontent-ref %}
 
+{% content-ref url="thoma-1.md" %}
+[thoma-1.md](thoma-1.md)
+{% endcontent-ref %}
+
 {% content-ref url="xiangling.md" %}
 [xiangling.md](xiangling.md)
 {% endcontent-ref %}
