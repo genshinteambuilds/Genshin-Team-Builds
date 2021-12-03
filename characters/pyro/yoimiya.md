@@ -70,7 +70,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Electro.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/ui\_avataricon\_aether\_electro.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * In this team Yoimiya can consistently trigger Beidou's **Elemental Burst** as she has a high attack speed.
 * When Beidou’s **Elemental Burst** is active, Yoimiya can use her **Elemental Skill** and create **Overload** reactions and keep them away from melee range. Beidou's **Elemental Burst** also help in dealing AoE damage to enemies which Yoimiya lacks.

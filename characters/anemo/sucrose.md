@@ -11,7 +11,7 @@
 * **Elemental Burst** creates a field that that can absorb **Cryo**, **Electro**, **Hydro** or **Pyro** and will continuously deal damage of that elemental type. If no element is absorbed, the field will only deal **Anemo** damage.
   * Once the **Elemental Burst** absorbs an element, enemies within the field are continuously damaged with that element, allowing other **Elemental Reactions** with that element to constantly take place.
 * **A1** raises the **Elemental Mastery** of all characters besides Sucrose whenever Sucrose triggers a **Swirl** reaction.
-  * This **Elemental Mastery** Buff only applies to characters matching the element Sucrose **Swirls**.
+  * This **Elemental Mastery b**uff only applies to characters matching the element Sucrose **Swirls**.
 * **A4** allows Sucrose to share 20% of her **Elemental Mastery** with her team members when her **Elemental Skill** or **Elemental Burst** hits an opponent.
   * Sucrose can reach **Elemental Mastery** values as high as 1000 which would give a total of 250 **Elemental Mastery** to her party members with both **A1** and **A4** talents.
 * Can act as a debuffer with **Viridescent Venerer** 4-set.
