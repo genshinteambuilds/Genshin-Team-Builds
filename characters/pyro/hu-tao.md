@@ -102,7 +102,7 @@ Click on the team names below for more details on how the team works and alterna
 * Albedo provides off-field damage and **Elemental Mastery** buff when using his **Elemental Burst.**
 * Geo characters can run the **Instructor** 4-set to provide an **Elemental Mastery** Buff.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_amber.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
 
 * A **Vaporize (Pyro)** team where Hu Tao can **Vaporize** her attacks using the **Hydro** applied to the enemy by Xingqiu's **Elemental Burst**.
 * Sucrose provides **Elemental Mastery** and **Elemental Resistance** debuff with **Viridescent Venerer.**
