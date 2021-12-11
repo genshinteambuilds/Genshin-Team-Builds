@@ -43,12 +43,14 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-****[**Physical**](../../teams/physical.md)****
+****[**Physical (Electro)**](../../teams/physical.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * A **Physical** team composition focused on providing large amounts of Buffs to Razor and Debuffs to the enemies.
 * Requires Bennett to be **C5** or below.
+
+[**Physical (Cryo)**](../../teams/physical-cryo.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 

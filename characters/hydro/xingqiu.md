@@ -59,7 +59,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * A popular team based around quickly swapping between characters and cycling their powerful **Elemental Bursts**, Xingqiu is used here primarily to provide **Vaporize** reactions with Xiangling's **Elemental Burst** and can also **Freeze** enemies when used with Chongyun, allowing **Pyro** Attacks to **Melt** instead.
 
-#### [Physical](../../teams/physical.md)
+#### [Physical (Cryo)](../../teams/physical-cryo.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)​​
 

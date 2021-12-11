@@ -71,7 +71,7 @@ Bennett is sometimes run in his team despite this for his healing and Attack buf
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-****[**Physical**](../../teams/physical.md)****
+****[**Physical (Electro)**](../../teams/physical.md)****
 
 **Superconduct**
 

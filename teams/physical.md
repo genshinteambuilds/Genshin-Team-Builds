@@ -1,13 +1,13 @@
-# Physical
+# Physical (Electro)
 
-This team composition mainly focuses around **physical damage**. This damage type isn't an **Elemental Reaction** but there are certain characters and **Elemental Reactions** that can increase **physical damage**, mainly the **Superconduct** reaction.
+This team composition mainly focuses on **Physical damage**. This damage type isn't an **Elemental Reaction** but there are certain characters and **Elemental Reactions** that can increase **Physical damage**, mainly the **Superconduct** reaction.
 
 **Superconduct** requires **Cryo** and **Electro** to be applied on an enemy which will then decrease their **Physical Resistance** by 40%. This makes all physical teams require a **Cryo** and an **Electro** unit to take advantage of this reaction.
 
 {% hint style="info" %}
 If you have two or more **Cryo** units in your party, you will gain **Cryo Resonance** which grants 15% **Crit Rate** against enemies affected by **Cryo**.\
 \
-If you add an extra E**lectro** Unit into your Party you will gain **Electro Resonance** which generates **Electro** particles when you create **Electro**-related **Elemental Reactions**. (i.e. **Electro-Charged**, **Overload** and **Superconduct**)
+If you add an extra **Electro** Unit into your Party you will gain **Electro Resonance** which generates **Electro** particles when you perform **Electro**-related **Elemental Reactions**. (i.e. **Electro-Charged**, **Overload** and **Superconduct**)
 {% endhint %}
 
 {% hint style="info" %}
@@ -38,7 +38,7 @@ Refer to the character notes below for how characters work in this particular te
 |   <p><img src="../.gitbook/assets/UI_AvatarIcon_Razor.png" alt=""></p><p><a href="../characters/electro/razor.md">Razor</a></p>  | <ul><li>Razor is a flexible carry and can work with a <strong></strong> lot of Support Units to increase his damage. When casting his <strong>Elemental Burst</strong>, his <strong>attack speed</strong> is increased and deals both <strong>Physical</strong> and <strong>Electro Damage</strong> at the same time, allowing him to trigger <strong>Elemental Reactions</strong>.</li></ul> |
 | <p><img src="../.gitbook/assets/UI_AvatarIcon_Keqing.png" alt=""></p><p><a href="../characters/electro/keqing.md">Keqing</a></p> | <ul><li>More often played as <strong>Electro Damage</strong>, but physical build is viable. Do not use the second cast of her <strong>Elemental Skill</strong> since it infuses her weapon with <strong>Electro</strong>, causing you to deal <strong>Electro Damage</strong> instead. It is recommended to use her <strong>Charged Attacks</strong> for higher damage.</li></ul>             |
 
-## Support
+## Core Support / Sub DPS
 
 |                                                                            Character                                                                           | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -50,7 +50,7 @@ Refer to the character notes below for how characters work in this particular te
 |                   <p><img src="../.gitbook/assets/UI_AvatarIcon_Ayaka.png" alt=""></p><p><a href="../characters/cryo/ayaka.md">Ayaka</a></p>                   | <ul><li><strong>Elemental Skill</strong> and <strong>Elemental Burst</strong> can consistently apply <strong>Cryo</strong> on enemies for constant <strong>Superconduct</strong> reactions.</li><li><strong>Elemental Burst</strong> can deal a large amount of damage if Ayaka is properly built, making her a viable Main DPS option with her own team.</li><li>Can be used as an Energy Battery.</li></ul>                                                                                                                                                                                                    |
 | <p><img src="../.gitbook/assets/ui_avataricon_aether_electro.png" alt=""></p><p><a href="../characters/electro/traveler-electro.md">Traveler (Electro)</a></p> | <ul><li>Provides off-field <strong>Electro</strong> application while <strong>Elemental Burst</strong> is active.</li><li>Can provide large amounts of energy <strong></strong> to other team members through both <strong>Elemental Burst</strong> and <strong>Skill</strong>.</li></ul>                                                                                                                                                                                                                                                                                                                        |
 
-## Flex Supports
+## Flex Support
 
 |                                                              Character                                                             | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | :--------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -76,18 +76,11 @@ Refer to the character notes below for how characters work in this particular te
 
 ## Sample Team Compositions
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
-
-* This Team Composition mainly relies on Eula's **Elemental Burst** to deal massive **Physical Damage**. **Superconduct** is constantly applied to enemies with Raiden and Eula's **Elemental Skills**.
-* Raiden plays a key role in this composition as she is great energy battery **** for Eula. Raiden's **Elemental Skill** also continuously provides particles off-field. When Eula has dealt damage with her **Elemental Burst**, follow with Raiden's **Elemental Burst** to refill energy for the entire party, allowing Eula and her supports to cast their **Elemental** **Bursts** in quick succession.
-* Rosaria serves to buff your Eula's **Crit Rate** with her **Elemental Skill** and funds Eula's **Elemental Burst**.
-* Bennet's **Elemental Burst** provides **Healing** and **ATK** buff to Eula inside its AoE.
-
 ![](../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Razor synergizes well with Xingqiu's **Elemental** **Burst** as his main source of damage is his N**ormal Attacks**. This triggers frequent **Electro-Charged** reactions.&#x20;
+* Razor synergizes well with Xingqiu's **Elemental** **Burst** as his main source of damage is his **Normal Attacks**. This triggers frequent **Electro-Charged** reactions.&#x20;
 * Fischl serves as an energy battery for Razor and provides consistent off-field **** damage.&#x20;
-* Diona is used to trigger **Superconduct** as well as provide both **Healing** and **Shields** for Razor.
+* Diona is used to trigger **Superconduct** as well as provide both healing and shielding **** for Razor.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 

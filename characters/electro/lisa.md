@@ -53,7 +53,7 @@ Click on the team names below for more details on how the team works and alterna
 * A team that focuses on sustained damage while having the option to deal burst damage with Childe **Vaporizing** his **Elemental Burst** with Bennett, as well as Lisa’s **Elemental Skill (Hold)**.
 * Lisa’s **Elemental Burst** reduces enemy **Defense** while also dealing damage even when she’s not on-field.
 
-****[**Physical**](../../teams/physical.md)****
+****[**Physical (Cryo)**](../../teams/physical-cryo.md)
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****
 

@@ -84,7 +84,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * A very basic and straightforward **Elemental Burst** Eula team, focused on buffing **** Eula as much as possible and debuffing **** enemies for a more powerful **Lightfall Sword**.
 
-[**Physical**](../../teams/physical.md)
+[**Physical (Cryo)**](../../teams/physical-cryo.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 

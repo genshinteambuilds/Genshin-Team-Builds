@@ -82,7 +82,7 @@ Click on the team names below for more details on how the team works and alterna
 * Kaeya alone cannot produce enough **Cryo** application to **Melt** every attack from a **Pyro** Main DPS. Pairing with either another **Hydro** or **Cryo** character is necessary to maximize damage.
 * Kaeya's increased **Cryo** application at **C6** can increase the frequency at which this team can trigger **Melt**.
 
-[**Physical**](../../teams/physical.md)
+[**Physical (Electro)**](../../teams/physical.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 

@@ -51,7 +51,7 @@ This character is a healer. While some teams are provided below where they are p
 
 * Qiqi acts as a healer as well as a second **Cryo** for the team to increase **Critical Rate** on-hit on enemies affected by **Cryo** or **Frozen**.
 
-****[**Physical**](../../teams/physical.md)****
+****[**Physical (Electro)**](../../teams/physical.md)
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Qiqi.png)****
 

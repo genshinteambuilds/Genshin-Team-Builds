@@ -94,7 +94,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * Rosaria provides constant **Cryo** application to enemies, which can be used for **Pyro** Main DPS to **Melt**.
 
-[**Physical**](../../teams/physical.md)
+[**Physical (Cryo)**](../../teams/physical.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 

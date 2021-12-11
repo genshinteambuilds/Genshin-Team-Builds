@@ -1,6 +1,6 @@
 # Albedo
 
-## **Roles**
+## y**Roles**
 
 * **Off-Field DPS** (Elemental Skill)
 * **Burst DPS**
@@ -63,7 +63,7 @@ In all the teams listed below, Albedo universally provides additional Off-Field 
 
 * Albedo can act as an Energy Battery for other **Geo** characters in the party.
 
-[**Physical**](../../teams/physical.md)
+[**Physical (Cryo)**](../../teams/physical-cryo.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 

@@ -65,7 +65,7 @@ In all of the teams below, Zhongli universally provides shielding, a universal *
 
 * Zhongli's **Jade Shield** and Crowd Control are especially valuable on Ganyu to decrease her vulnerability when performing **Charged Aimed Attacks**.&#x20;
 
-****[**Physical**](../../teams/physical.md)****
+****[**Physical (Cryo)**](../../teams/physical-cryo.md)
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
 

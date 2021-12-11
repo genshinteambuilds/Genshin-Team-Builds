@@ -83,8 +83,8 @@ Click on the team names below for more details on how the team works and alterna
 * Bennett acts as the team's healer while providing an **Attack** buff from his **Elemental Burst**.
 * This team is much more effective with Raiden Shogun's **C2** and Kujou Sara's **C6**.
 
-[**Physical**](../../teams/physical.md)
+[**Physical (Cryo)**](../../teams/physical-cryo.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* A standard team for Raiden Shogun that focuses on utilizing her off-field **Electro** damage for consistent **Superconduct** reactions to reduce **Physical Resistance** as well as increasing the teams **Elemental Burst** damage and energy economy.
+* A standard team for Raiden Shogun that focuses on utilizing her off-field **Electro** damage for consistent **Superconduct** reactions to reduce **Physical Resistance** as well as increasing the team's **Elemental Burst** damage and energy economy.
