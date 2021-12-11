@@ -26,7 +26,7 @@
 
 * Traveler (Electro) can provide Eula with **Superconduct**, which debuffs **Physical Resistance**, as well as help recharge her high-cost **Elemental Burst**.
 
-![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)
 
 * Traveler's (Electro) high **Electro** application can enable constant **Electro-Charged** reactions with Childe's **Elemental Skill** and can help recharge his **Elemental Burst** faster.
 
@@ -51,7 +51,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ****[**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md)****
 
-![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/ui\_avataricon\_aether\_electro.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/ui\_avataricon\_aether\_electro.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
 * This team utilizes both **Hydro** and **Electro** characters who provide strong individual damage coupled with high energy generation from **Electro Resonance** and **Electro-Charged** reactions, resulting in good sustained area damage.
 * Traveler (Electro) can provide energy for Beidou and Xingqiu to help maintain their **Elemental Bursts**.
