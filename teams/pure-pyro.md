@@ -1,9 +1,6 @@
 # Pure Pyro
 
-*
-* This composition is based around certain **Pyro** Characters, such as Klee, that do not work consistently with **Vaporize reactions** when partnered with Xingqiu. Thus, we abandon those reactions and instead utilize **Pyro**, **Geo**, and **Anemo** supports in order to amplify **Pyro damage** or provide **off-field** DPS. Swirl is the only notable **Elemental Reaction** as the **Viridescent Venerer** set can reduce enemies' **Pyro Resistance**. The core of the team is Klee/Yanfei, an **Anemo** Support, and a **Healer**/**Shield** character for sustain.
-
-
+This composition is based around certain **Pyro** Characters, such as Klee, that do not work consistently with **Vaporize reactions** when partnered with Xingqiu. Thus, we abandon those reactions and instead utilize **Pyro**, **Geo**, and **Anemo** supports in order to amplify **Pyro damage** or provide **off-field** DPS. Swirl is the only notable **Elemental Reaction** as the **Viridescent Venerer** set can reduce enemies' **Pyro Resistance**. The core of the team is Klee/Yanfei, an **Anemo** Support, and a **Healer**/**Shield** character for sustain.
 
 {% hint style="info" %}
 Characters are ranked roughly according to how well they perform in this team composition.

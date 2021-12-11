@@ -1,8 +1,8 @@
 # Oneshot
 
-These team compositions focus on dealing a large amount of burst damage to enemies (ideally ending the encounter immediately) without caring much about repeatability and follow up damage. This is usually accomplished by utilizing characters with very high Elemental Burst modifiers that can take full advantage of multiple scaling, Buffs, and/or Elemental Reactions. Notable Elemental Reactions are Melt and Vaporize as they are able to provide an additional final multiplier to Damage. The other character slots are used mainly to "setup" the Oneshot and stack multiple buffs and apply Elements in a specific order.
+These team compositions focus on dealing a large amount of burst damage to enemies (ideally ending the encounter immediately) without caring much about repeatability and follow up damage. This is usually accomplished by utilizing characters with very high **Elemental Burst** modifiers that can take full advantage of multiple scaling, Buffs, and/or **Elemental Reactions**. Notable Elemental Reactions are Melt and Vaporize as they are able to provide an additional final multiplier to Damage. The other character slots are used mainly to "setup" the Oneshot and stack multiple buffs and apply **Elements** in a specific order.
 
-Elemental Skill and Burst usage order and character swapping order is very important in these types of compositions. This playstyle will often have different artifacts and weapon choices than traditional play, and setups vary widely by availability of characters and equipment.
+**Elemental Skill** and **Burst** usage order and character swapping order is very important in these types of compositions. This playstyle will often have different artifacts and weapon choices than traditional play, and setups vary widely by availability of characters and equipment.
 
 {% hint style="info" %}
 Note: The teams shown on this page are only a few examples and not an exhaustive list by any means. The core concept of every Oneshot team is the same: activate all of your buffs and debuffs and set up Elements onto the enemy so that the Main Carry is able to maximize their burst damage. The damage you get out of a setup is extremely dependent upon your character’s artifact stats, supporting character’s stats, constellations, and weapons.
@@ -26,75 +26,75 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 ****![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****
 
-* Hu Tao is a complex character in terms of damage scaling, due to her constellations and HP scaling on her Elemental Burst as well as Staff of Homa, her signature weapon, giving even more HP scaling.
-* Testing Elemental Mastery and HP timepieces to see which gives the most damage with your current setup is a must.
-  * HP timepiece will generally be better for those with Staff of Homa.
+* Hu Tao is a complex character in terms of damage scaling, due to her constellations and **HP** scaling on her **Elemental Burst** as well as **Staff of Homa**, her signature weapon, giving even more **HP** scaling.
+* Testing **Elemental Mastery** and **HP** Sands to see which gives the most damage with your current setup is a must.
+  * **HP** Sands will generally be better for those with **Staff of Homa**.
 
 ### **Primary Enablers**
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
 
-* Generally the best choice at Constellation 4+. The DEF Shred (Constellation 4+) along with possible use of Freedom-Sworn make her the best choice at ultra high investment levels.
+* Generally the best choice at Constellation 4+. The **DEF** Shred (Constellation 4+) along with possible use of **Freedom-Sworn** make her the best choice at ultra high investment levels.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)
 
-* Able to buff damage on enemies inside her Elemental Burst at Constellation 4.
-* Able to carry Elegy for the End and provide more ATK DMG and Elemental Mastery.
+* Able to buff damage on enemies inside her **Elemental Burst** at Constellation 4.
+* Able to carry Elegy for the End and provide more **ATK DMG** and **Elemental Mastery**.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
-* Although Mona is not Cryo, she is able to be used in specific scenarios (Floor 7 with Cryogunner, Blizzard Strayer Domain). If Melt is not an option, then Mona can be used as a Vaporize Enabler.
-* Provides large Buffs through her Elemental Burst and ability to carry Thrilling Tales of Dragon Slayer.
+* Although Mona is not **Cryo**, she is able to be used in specific scenarios (Floor 7 with Cryogunner, Blizzard Strayer Domain). If Melt is not an option, then Mona can be used as a Vaporize Enabler.
+* Provides large Buffs through her **Elemental Burst** and ability to carry T**hrilling Tales of Dragon Slayer**.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)
 
-* Kaeya is able to provide constant Cryo and can carry Freedom-Sworn. Use him only if no other Enablers above are available.
+* Kaeya is able to provide constant **Cryo** and can carry Freedom-Sworn. Use him only if no other Enablers above are available.
 
 ### **Supporting cast**
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)&#x20;
 
-* Bennett provides a large Attack Buff from his Elemental Burst and can be used for Swirling Pyro as Hu Tao has no way to apply Pyro without using her Elemental Skill or Elemental Burst.
+* Bennett provides a large **ATK** Buff from his **Elemental Burst** and can be used for Swirling **Pyro** as Hu Tao has no way to apply Pyro without using her **Elemental Skill** or **Elemental Burst**.
 * Hu Tao should be very low in health before switching to her so that she does not heal past the 50% threshold for her passive. If needed, Bennett can be equipped with a non-upgraded flower to lower his Healing.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-* Can be run as a 4 set Viridescent Venerer carrier and provides a large damage boost to your team based on his own Elemental Mastery and the Element that he Swirls.
-* Constellation 2 grants 200 EM to everyone on the team.
-* Can carry Freedom-Sworn.
+* Can be run as a 4 set **Viridescent Venerer** carrier and provides a large damage boost to your team based on his own **Elemental Mastery** and the Element that he **Swirls**.
+* Constellation 2 grants 200 **Elemental Mastery** to everyone on the team.
+* Can carry **Freedom-Sworn**.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
-* Can be run as a 4 set Viridescent Venerer carrier and is able to transfer a flat amount of Elemental Mastery along with a portion of her own Elemental Mastery to other party members.
-* Can carry Thrilling Tales of Dragon Slayer.
-* Aim to use her after another Element has been applied, since Swirl increases the Elemental Mastery transfer.
+* Can be run as a 4 set **Viridescent Venerer** carrier and is able to transfer a flat amount of **Elemental Mastery** along with a portion of her own **Elemental Mastery** to other party members.
+* Can carry **Thrilling Tales of Dragon Slayer**.
+* Aim to use her after another **Element** has been applied, since **Swirl** increases the **Elemental Mastery** transfer.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
-* Mona can also function as a damage amplifier alongside a cryo enabler, as her Omen is a 5 second Debuff that grants the increased damage during that duration.
-* Can carry Thrilling Tales of Dragon Slayer.
+* Mona can also function as a damage amplifier alongside a **Cryo** enabler, as her Omen is a 5 second Debuff that grants the increased damage during that duration.
+* Can carry **Thrilling Tales of Dragon Slayer**.
 
 ![](../.gitbook/assets/ui\_avataricon\_amber.png)
 
-* Able to carry Elegy for the End and easily activate the passive through her Elemental Burst.
-* At Constellation 6, using her Elemental Burst gives her team a small ATK% Buff.
-* Used for Swirling Pyro for Viridescent Venerer's Debuff with an Anemo character.
+* Able to carry **Elegy for the End** and easily activate the passive through her **Elemental Burst**.
+* At Constellation 6, using her **Elemental Burst** gives her team a small **ATK**% Buff.
+* Used for **Swirling Pyro** for **Viridescent Venerer**'s Debuff with an **Anemo** character.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's Shield decreases all Elemental Resistance along with Stagger Resistance.
+* Zhongli's Shield decreases all **Elemental Resistance** along with **Stagger Resistance**.
 
 ### Sample Hu Tao Teams
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-* Bennett Elemental Burst -> Ayaka Dash (if 4pc Instructor) -> Kazuha Elemental Burst -> Ayaka Elemental Burst -> Hu Tao Elemental Skill -> Hu Tao Elemental Burst
+* Bennett **Elemental Burst** -> Ayaka Dash (if 4pc **Instructor**) -> Kazuha **Elemental Burst** -> Ayaka **Elemental Burst** -> Hu Tao **Elemental Skill** -> Hu Tao **Elemental Burst**
 
 {% embed url="https://drive.google.com/file/d/16SaV0cIho61AZ-Qf-MMPzQMuM3-tuCRY/view?usp=sharing" %}
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
-* Bennett Elemental Burst -> Sucrose Elemental Skill -> Kaeya Elemental Skill -> Kaeya Elemental Burst -> Hu Tao Elemental Skill -> Hu Tao Elemental Burst
+* Bennett **Elemental Burst** -> Sucrose **Elemental Skill** -> Kaeya **Elemental Skill** -> Kaeya **Elemental Burst** -> Hu Tao **Elemental Skill ->** Hu Tao **Elemental Burst**
 
 ## **Main Carry: Mona**
 
@@ -106,46 +106,46 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
-* Mona has a very high multiplier on her Elemental Burst that benefits from the Omen damage bonus that it provides. A Vaporized Mona' Elemental Burst has one of the highest damage ceilings in the game.&#x20;
-* Mona's Elemental Burst has an interesting mechanic where the initial cast applies Hydro and the damage only occurs after another instance of damage triggers her "bubble" to pop. Due to how Internal Cooldown of elemental application works, there needs to be at least 2.5 seconds between the initial Hydro application on cast and when the bubble breaks so that it is able to apply Hydro and Vaporize.
+* Mona has a very high multiplier on her **Elemental Burst** that benefits from the Omen damage bonus that it provides. A **Vaporized** Mona' **Elemental Burst** has one of the highest damage ceilings in the game.&#x20;
+* Mona's **Elemental Burst** has an interesting mechanic where the initial cast applies Hydro and the damage only occurs after another instance of damage triggers her "bubble" to pop. Due to how Internal Cooldown of elemental application works, there needs to be at least 2.5 seconds between the initial **Hydro** application on cast and when the bubble breaks so that it is able to apply **Hydro** and **Vaporize**.
 
 ### **Primary Enablers**
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)&#x20;
 
-* Bennett applies Pyro and his elemental burst buffs Mona’s ATK based on his base atk (weapon atk + character atk). There’s too much value in Bennett to not utilize him.
+* Bennett applies **Pyro** and his **Elemental Burst** buffs Mona’s **ATK** based on his base **ATK** (Weapon ATK + Character ATK). There’s too much value in Bennett to not utilize him.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../.gitbook/assets/Element\_Pyro.webp)
 
-* Klee and Yanfei helps at applying Pyro and using an R5 Thrilling tales of Dragon Slayers which buffs your Mona with 48% atk and if you Klee's have her Constellation 2, her Elemental Skill shreds the enemy's DEF by 23%, which helps a lot to deal even more damage. If you don’t have Klee or Yanfei, any Pyro works.
+* Klee and Yanfei helps at applying **Pyro** and using an R5 **Thrilling tales of Dragon Slayers** which buffs your Mona with **48% atk** and if you Klee's have her Constellation 2, her Elemental Skill shreds the enemy's **DEF** by 23%, which helps a lot to deal even more damage. If you don’t have Klee or Yanfei, any **Pyro** works.
 
 ### Supporting Cast
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
-* Can be run as a 4 set Viridescent Venerer carrier and is able to transfer a flat amount of Elemental Mastery along with a portion of her own Elemental Mastery to other party members.
-* Can carry Thrilling Tales of Dragon Slayer.
-* Aim to use her after another Element has been applied, since Swirl increases the Elemental Mastery transfer.
+* Can be run as a 4 set **Viridescent Venerer** carrier and is able to transfer a flat amount of **Elemental Mastery** along with a portion of her own **Elemental Mastery** to other party members.
+* Can carry **Thrilling Tales of Dragon Slayer**.
+* Aim to use her after another **Element** has been applied, since **Swirl** increases the **Elemental Mastery** transfer.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-* Can be run as a 4 set Viridescent Venerer carrier and provides a large damage boost to your team based on his own Elemental Mastery and the Element that he Swirls.
-* Constellation 2 grants 200 EM to everyone on the team.
-* Can carry Freedom-Sworn.
+* Can be run as a 4 set **Viridescent Venerer** carrier and provides a large damage boost to your team based on his own **Elemental Mastery** and the **Element** that he Swirls.
+* Constellation 2 grants 200 **Elemental Mastery** to everyone on the team.
+* Can carry **Freedom-Sworn**.
 
 ### Mona Vaporize Setup
 
-**Step 1**: Apply Hydro with Mona’s Normal Attack
+**Step 1**: Apply **Hydro** with Mona’s **Normal Attack**
 
-**Step 2**: Swirl with Sucrose’s skill (to decrease Hydro resistance by 40% with 4 set Viridescent Venerer’s effect)
+**Step 2**: **Swirl** with Sucrose’s **Elemental** **Skill** (to decrease **Hydro resistance** by 40% with 4 set **Viridescent Venere**r’s effect)
 
-**Step 3**: Use Bennett's skill to completely remove Hydro aura on enemies after swirling with sucrose (some Hydro aura still linger on the enemy, this is just to make sure that Step 4 won’t trigger any vaporize reactions from Bennett)
+**Step 3**: Use Bennett's **Elemental Skill** to completely remove **Hydro** aura on enemies after swirling with sucrose (some Hydro aura still linger on the enemy, this is just to make sure that Step 4 won’t trigger any **Vaporize** reactions from Bennett)
 
-**Step 4**: Use Bennett's Burst to buff up your Mona while also applying Pyro aura to the enemy
+**Step 4**: Use Bennett's **Elemental Burst** to buff up your Mona while also applying **Pyro** aura to the enemy
 
-**Step 5**: Use Mona's Burst and wait for roughly 2 seconds before swapping (there’s ICD\*/ Internal Cool Down on Mona’s burst, and you need to wait before swapping so that when you swap to Bennett, Mona will still gain the ATK buffs given by Bennett’s burst (it lingers for a while))
+**Step 5**: Use Mona's **Elemental Burst** and wait for roughly 2 seconds before swapping (there’s ICD\*/ Internal Cool Down on Mona’s **Elemental Burst**, and you need to wait before swapping so that when you swap to Bennett, Mona will still gain the **ATK** buffs given by Bennett’s burst (it lingers for a while))
 
-**Step 6**: Use Bennett's skill or apply any Pyro to “pop” the bubble
+**Step 6**: Use Bennett's **Elemental Skill** or apply any **Pyro** to “pop” the bubble
 
 _Step 1 & Step 2_ are skippable but it does boost your burst damage by a lot since it shreds 40% Hydro resistance.
 
@@ -157,7 +157,7 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
-* Mona Normal Attack -> Sucrose Elemental Skill -> Bennett Elemental Skill -> Bennett Elemental Burst -> Klee skill (if C2) if not Normal Attack is fine -> Mona Elemental Burst -> wait 2 seconds for ICD before swapping -> Bennett Elemental Skill
+* Mona **Normal Attack** -> Sucrose **Elemental Skill** -> Bennett **Elemental Skill** -> Bennett **Elemental Burst** -> Klee **Elemental Skill** (if C2) if not **Normal Attack** is fine -> Mona Elemental **Burs**t -> wait 2 seconds for ICD before swapping -> Bennett **Elemental Skill**
 
 ## **Main Carry:** Tartaglia / Childe
 
@@ -169,23 +169,23 @@ For ICDs, it’s a concept so that a skill cannot do the same elemental reaction
 
 ****![](../.gitbook/assets/ui\_avataricon\_tartaglia.png)****
 
-* Tartaglia has two ways to use his Elemental Burst, based on which form he is in. Bow form does less damage but occurs much faster since it returns 20 energy back to Tartaglia, while Melee form requires the transformation and does much more damage.&#x20;
-* Tartaglia Oneshot teams will focus on Vaporizing the Melee form Elemental Burst.
+* Tartaglia has two ways to use his **Elemental Burst**, based on which form he is in. Bow form does less damage but occurs much faster since it returns 20 energy back to Tartaglia, while Melee form requires the transformation and does much more damage.&#x20;
+* Tartaglia Oneshot teams will focus on **Vaporizing** the **Melee Stance Elemental Burst**.
 
 ### Primary Enablers
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett **** provides a massive ATK buff and is able to set up by applying Pyro.
+* Bennett **** provides a massive **ATK** buff and is able to set up by applying Pyro.
 
 ![](../.gitbook/assets/ui\_avataricon\_amber.png)
 
 * Amber provides very quick Pyro application at a range.&#x20;
-* Can activate Elegy for the End and further buff with Constellation 6.
+* Can activate **Elegy for the End** and further buff with Constellation 6.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
-* Xiangling is a solid choice for certain setups. She provides much needed off-field pyro application, as well as quite a lot of personal damage.&#x20;
+* Xiangling is a solid choice for certain setups. She provides much needed off-field _pyro_ application, as well as quite a lot of personal damage.&#x20;
 
 ### Supporting Cast
 
