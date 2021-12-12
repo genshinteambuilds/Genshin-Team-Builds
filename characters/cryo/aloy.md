@@ -55,7 +55,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * Aloy activates **Cryo Resonance** for additional **Critical Rate** and serves as an **Energy Battery** for the **Main DPS**.
 
-**Melt (Pyro)**
+****[**Melt (Cryo)**](../../teams/reverse-melt.md)****
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Aloy.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
 
