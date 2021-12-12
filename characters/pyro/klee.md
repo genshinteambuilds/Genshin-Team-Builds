@@ -42,10 +42,11 @@ In all teams below, Bennett acts as the team's healer while providing an **Attac
 
 ****[**Pure Pyro**](../../teams/pure-pyro.md)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Klee's goal is to deal as much **Pyro** damage as possible through her **Charged Attack**, **Elemental Skill** during her **Elemental Burst**.&#x20;
-* Mona can debuff with enemies with Omen, increasing the damage they take while applying **Hydro** for **Vaporize** reactions.
+* Xiangling and Bennett provide off-field **Pyro** application and team buffing respectively.
+* Kazuha provides resistance shred through 4pc **Viridescent Venerer** and team buffing as well.
 
 ****[**Melt (Cryo)** ](../../teams/reverse-melt.md)****
 

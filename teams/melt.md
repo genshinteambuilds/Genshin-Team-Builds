@@ -1,11 +1,5 @@
 # Melt (Pyro)
 
-**TODO: THIS ENTIRE PAGE IS JUNK. THIS IS NOT MEANT TO BE A VAPE/XQ CENTRED PAGE. MOST OF THESE COMPS ARE LITERALLY JUST MEME ONESHOT MELT NUMBERS OR AYAKA -> MELT A BUNCH COMPS. THE PAGE NEEDS TO BE UPDATED TO REFLECT THAT.**
-
-**THE ALTERNATIVE IS JUST MOSTLY A PYRO TEAM WITH OCCASIONAL BURST MELT DAMAGE OFF CHONGYUN / ALOY.**
-
-**THIS ISN'T WHERE NATIONAL TEAM WITH CHONGYUN BELONGS.**
-
 Melt comps are centered around applying **Cryo** in order to use **Pyro’s double damage reaction**. Note that it is sometimes very difficult to make the elemental application order correct, and if an incorrect elemental application order is used, these team comps will turn into a reverse melt comp with the cryo application stealing all of the reactions. Usually, these comps will be a mixture of melt and reverse vaporize reactions due to downtime and practicality.
 
 {% hint style="info" %}
@@ -80,6 +74,6 @@ Refer to the character notes below for how characters work in this particular te
 
 * Damage comes primarily during Ayaka’s burst window. During Ayaka’s burst, Hutao can get 3 charge attacks and a burst to melt if you jump cancel/dash cancel correctly. Do not risk the 3rd charge attack if there has been any delay in getting the attacks off or if an animation cancel is failed, since the timing is quite strict. Xingqiu burst allows for some follow up damage using **reverse vaporise** as a backup plan.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* A little inconsistent with melts using a combination of Xingqiu and Kaeya bursts to hopefully melt a few **charged attacks** and **Elemental Bursts** from Hutao. A more consistent team composition damage wise would replace the healer with a second cryo burst, such as Ganyu or Rosaria, to try to make the melts more consistent. But would only be doable if confident enough with only Hutao bursts and Xingqiu’s swords for healing.
+* A party setup that utilizes **Cryo Resonance** and off-field **Cryo** application to allow Hu Tao to melt her **Charged Attacks**.

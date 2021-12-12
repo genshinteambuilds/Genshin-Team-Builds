@@ -85,9 +85,9 @@ Refer to the character notes below for how characters work in this particular te
 
 ## Sample Team Compositions
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * This Team Composition mainly relies on Eula's **Elemental Burst** to deal massive **Physical Damage**. **Superconduct** is constantly applied to enemies with Raiden and Eula's **Elemental Skills**.
 * Raiden plays a key role in this composition as she is great energy battery **** for Eula. Raiden's **Elemental Skill** also continuously provides particles off-field. When Eula has dealt damage with her **Elemental Burst**, follow with Raiden's **Elemental Burst** to refill energy for the entire party, allowing Eula and her supports to cast their **Elemental** **Bursts** in quick succession.
 * Rosaria serves to buff your Eula's **Crit Rate** with her **Elemental Skill** and funds Eula's **Elemental Burst**.
-* Bennet's **Elemental Burst** provides **Healing** and **ATK** buff to Eula inside its AoE.
+* Diona provides shielding and healing as well as being an Energy Battery for Eula.

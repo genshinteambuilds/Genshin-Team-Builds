@@ -66,6 +66,6 @@ Refer to the character notes below for how characters work in this particular te
 
 * Use Ganyu **charged attacks** during Xiangling burst while near the enemy. Zhongli provides shield to protect Ganyu from getting staggered and take no damage while charging her attacks. Bennett is here to heal and buff your team and get Xiangling energy should you need it.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Activate Xiangling, Rosaria, and Kaeya bursts. Switch to Bennett and use his **Elemental Burst** when needed and his skill on cooldown to try to keep **Pyro** applied. It is recommended to have a fairly high amount of damage investment on all characters in this team, including Xiangling and Bennett.
+* Xiangling is used to provide consistent off-field **Pyro** application while Bennett is used to buff Rosaria and Xiangling. Sucrose is used to provide extra **Pyro** application and shred resistance through **Viridescent Venerer**. It is recommended to have a fairly high amount of damage investment on all characters in this team, including Xiangling and Bennett.

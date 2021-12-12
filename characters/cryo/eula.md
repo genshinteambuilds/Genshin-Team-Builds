@@ -88,8 +88,9 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Physical (Cryo)**](../../teams/physical-cryo.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * This team focuses on giving Eula high sustained damage **** and **Elemental Burst** uptime.
-* Both Raiden Shogun and Diona serve as an Energy Battery **** for Eula.&#x20;
+* Raiden Shogun, Rosaria, and Diona serve as an Energy Battery **** for Eula making this team very consistent with **Elemental Burst** uptime.
+* Rosaria is able to provide team **Critical Rate** buffs and reduce enemy **Physical Resistance**.
 * Raiden Shogun is able to fill in on-field **** during the downtime **** when Eula's **Elemental Burst** is still on cooldown.

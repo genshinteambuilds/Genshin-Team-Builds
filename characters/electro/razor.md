@@ -75,11 +75,12 @@ Click on the team names below for more details on how the team works and alterna
 
 **Superconduct**
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* A team that runs Razor as Main DPS and **Cryo** supports to cause **Superconduct**.
-* Two **Cryo** characters are often run to act as **** Energy Batteries for one another.
-* The last slot can be any utility or damaging character.
+* A team that runs Razor as Main DPS and a **Cryo** support to cause **Superconduct**.
+* Xingqui provides off-field damage and stagger resistance.
+* Fischl acts as an Energy Battery and provides off-field damage.
+* Diona provides **Cryo** for **Superconduct** and also shields and heals.&#x20;
 
 
 
