@@ -83,7 +83,7 @@ Click on the team names below for more details on how the team works and alterna
 * In this team, Bennett plays the role of healer, **Pyro** Resonance activator, support, and Sub-DPS.
 * Xiangling and Xingqiu's **Elemental Bursts** persist Off-Field, letting Bennett easily act as an Energy Battery for Xiangling.
 
-****[**Oneshot**](broken-reference/)****
+****[**Oneshot**](../../teams/oneshot.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
