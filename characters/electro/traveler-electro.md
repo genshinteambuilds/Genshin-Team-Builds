@@ -56,7 +56,7 @@ Click on the team names below for more details on how the team works and alterna
 * This team utilizes both **Hydro** and **Electro** characters who provide strong individual damage coupled with high energy generation from **Electro Resonance** and **Electro-Charged** reactions, resulting in good sustained area damage.
 * Traveler (Electro) can provide energy for Beidou and Xingqiu to help maintain their **Elemental Bursts**.
 
-****[**Physical (Cryo)**](../../teams/physical.md)****
+****[**Physical (Cryo)**](../../teams/physical-cryo.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/ui\_avataricon\_aether\_electro.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
