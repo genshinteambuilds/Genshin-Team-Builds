@@ -7,56 +7,58 @@
 
 ## **Character Breakdown**
 
-* Eula relies on her **Elemental Burst** and **Normal Attacks** to deal **Physical** damage.
+* Eula relies on her **Elemental Burst, Skill** and **Normal Attacks** to deal **Physical** damage.
 * **Elemental Skill** changes based on whether it is tapped or held.
-  * **Elemental Skill (Tap)** deals **Cryo** damage and gains a stack of **Grimheart**.
-    * **Grimheart** increases Eula's **Defense** and resistance to interruption. A maximum of two stacks can be held.
-  * **Elemental Skill (Hold)** consumes all **Grimheart** stacks, deals **Cryo** damage, and activates the following effects:
-    * Each stack of **Grimheart** consumed creates an instance of AoE **Cryo** damage.
-    * If any **Grimheart** stacks are consumed, surrounding enemies will have their **Physical** and **Cryo Resistance** debuffed.
-    * At **A4**, if two stacks of **Grimheart** are consumed this way, Eula will create a miniature version of her **Elemental Burst** which explodes instantly, dealing Physical damage.
-* **Elemental Burst** first strike enemies dealing **Cryo DMG** to nearby opponents **** then **** creates a **Lightfall Sword** that deals huge AoE **Physical** Damage after a set duration, or if Eula is switched out.
+  * **Elemental Skill (Tap)** deals **Cryo** damage and gains Eula a stack of Grimheart.
+    * Grimheart increases Eula's **Defense** and resistance to interruption. A maximum of two stacks can be held.
+  * **Elemental Skill (Hold)** consumes all Grimheart stacks, deals **Cryo** damage, and activates the following effects:
+    * Each stack of Grimheart consumed creates an instance of AoE **Cryo** damage.
+    * If any Grimheart stacks are consumed, surrounding enemies will have their **Physical** and **Cryo Resistance** debuffed.
+    * At **A4**, if two stacks of Grimheart are consumed, Eula will create a miniature version of her **Elemental Burst** which explodes instantly, dealing **Physical** damage.
+* **Elemental Burst** first deals **Cryo Damage** to nearby enemies, then **** creates a **Lightfall Sword** that deals huge AoE **Physical** Damage after a set duration, or if Eula is switched out.
   * **Elemental Burst** damage will increase based on how many times Eula hits enemies during its duration.
+  * **Elemental Burst** grants a stack of Grimheart and resets the cooldown of her **Elemental Skill**. As such, Eula should generally always use her **Elemental Skill (Tap)** before using her **Elemental Burst**.
 
 ## **Additional Notes**
 
-* **Elemental Burst** grants a stack of **Grimheart** and resets the cooldown of her Elemental Skill.
-  * As such, Eula should generally always use her **Elemental Skill (Tap)** before using her **Elemental Burst**.
-  * Using **Elemental Skill (Hold)** after will consume the 2 stacks of **Grimheart** generated beforehand to both debuff **** Enemy **Resistances** and deal 4 instances of damage, which count toward her **Elemental Burst**.
 * Eula’s **Elemental Burst** does NOT **snapshot**.
   * This makes short-lasting buffs **** much less useful for her **Elemental Burst** damage.
+* The typical rotation for Eula's **Elemental Burst** setup is:
+  * `E → Q → N → N → N → N → E (Hold) → N → N → N → N` where:
+  * `N` = **Normal Attack** `E` = **Elemental Skill** `Q` = **Elemental Burst**
 
 ## **Works Well With**
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
-* Often paired with Eula to form a **** [**Physical team**](../../teams/physical.md).&#x20;
+* Often paired with Eula to form a **** [**Physical** team](../../teams/physical.md).&#x20;
 * Raiden Shogun provides **Superconduct**, buffs **Elemental Burst** damage, serves as an Energy Battery and is able to be used on-field **** after Eula uses her **Elemental Burst**.
 * Fischl provides off-field damage, constant **Superconduct**, and serves as an **Electro** Battery.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Diona is a top option as a **Cryo** Battery **** as she activates **Cryo Resonance** and is a **Healer** and **Shielder**.
+* Diona is a popular option as a **Cryo** healer for Eula as she activates **Cryo Resonance** and provides **Cryo Energy Particles** alongside her healing and shielding.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
-* Rosaria serves as a **Cryo** Battery **** and **Critical Rate** Buffer while also activating **Cryo Resonance**.
+* Rosaria serves as a **Cryo** Energy Battery **** and **Critical Rate** Buffer while also activating **Cryo Resonance**.
 * **C6** reduces **Physical Resistance** of enemies hit by Rosaria's **Elemental Burst**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's shield can prevent Eula from being **interrupted**, which lets her more easily stack hits for her **Elemental Burst**.
-* His shield **** also further debuffs **** all **Elemental** and **Physical Resistance**.
+* Zhongli's shield can prevent Eula from being **interrupted**, which lets her more easily build up hits for her **Elemental Burst**.
+* His shield **** also further debuffs **Elemental** and **Physical Resistances** of enemies.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Bennett provides a high **Attack** buff **** that lasts the full duration of Eula's **Elemental Burst** and is a **Healer**.
 * **C6** will infuse Eula's **Normal**/**Charged**/**Plunging Attacks** with **Pyro**, negating all of the **Physical** Damage bonuses she receives. Do not use C6 Bennett with Eula unless you are going for an **Elemental Burst** oneshot.
+* Note that since Eula's **Elemental Burst** does not snapshot, Eula's **Elemental Burst** must finish within the duration of Bennett's **Elemental Burst** or a large amount of damage is lost.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)
 
-* Lisa works well to support a Eula focused on her **Elemental Burst** damage. She can apply **Superconduct**, debuff **** enemy **Defense**, hold the **Thrilling Tales of Dragonslayer’s Catalyst**, and use the **Noblesse Oblige** set.
-* Her high energy cost **Elemental Burst** and high **Energy Recharge** requirements make her more suitable for one rotation team compositions rather than consistent continuous rotation team compositions.
+* Lisa works well to support a Eula focused on her **Elemental Burst** damage. She can apply **Superconduct**, debuff **Defense**, hold the **Thrilling Tales of Dragonslayer’s Catalyst**, and use the **Noblesse Oblige** set.
+* Her high energy cost **Elemental Burst** and high **Energy Recharge** requirements make her more suitable for one rotation team compositions rather than consistent continuous rotation team compositions unless also paired with Raiden.
 
 ## **Does Not Work Well With**
 
@@ -82,10 +84,12 @@ Click on the team names below for more details on how the team works and alterna
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png) **** ![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* A very basic and straightforward **Elemental Burst** Eula team, focused on buffing **** Eula as much as possible and debuffing **** enemies for a more powerful **Lightfall Sword**.
+* A very basic and straightforward **Elemental Burst** Eula team, focused on buffing **** Eula as much as possible and debuffing **** enemies for a more powerful Lightfall Sword.
 
 [**Physical (Cryo)**](../../teams/physical-cryo.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* This team focuses on giving Eula high sustained damage **** and **Elemental Burst** uptime **** with Rosaria to provide offensive **** buffs. Both Raiden Shogun and Rosaria serve as an **Energy** **Battery** for Eula. Raiden Shogun is able to fill in on-field **** during the downtime **** when Eula's **Elemental Burst** is still on cooldown.
+* This team focuses on giving Eula high sustained damage **** and **Elemental Burst** uptime.
+* Both Raiden Shogun and Diona serve as an Energy Battery **** for Eula.&#x20;
+* Raiden Shogun is able to fill in on-field **** during the downtime **** when Eula's **Elemental Burst** is still on cooldown.
