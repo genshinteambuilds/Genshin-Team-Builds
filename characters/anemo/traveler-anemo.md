@@ -37,7 +37,7 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-In all the teams listed below, Traveler (Anemo) universally provides debuffing utility using the **Viridescent Venerer** 4-set.
+In the following teams, Traveler (Anemo) provides debuffing utility using the **Viridescent Venerer** 4-set.
 {% endhint %}
 
 [**Electro-Charged (Electro)**](../../teams/electro-charged.md)

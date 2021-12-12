@@ -9,16 +9,16 @@
 
 ## Character Breakdown
 
-* Dashing infuses her **Normal Attacks** and **Charged Attacks** with **Cryo** and applies **Cryo** to any surrounding enemies when Ayaka reappears after finishing her dash.
-  * At **A4**, Ayaka **restores stamina** and **buffs** her **Cryo** Damage if an enemy is hit by this effect.
+* **Dashing** infuses her **Normal Attacks** and **Charged Attacks** with **Cryo** and applies **Cryo** to surrounding enemies when Ayaka reappears after finishing her dash.
+  * **A4** allows Ayaka to regain stamina and receive a buff to her **Cryo** Damage if an enemy is hit by this effect.
 * **Elemental Skill** deals AoE **Cryo** damage.
-* **Elemental Burst** creates a **snowstorm** that deals a huge amount of Cryo damage over 5 seconds and slowly moves forward away from the character.
-* The snowstorm will stop moving forwards upon encountering large or frozen enemies, resulting in that enemy potentially taking up to 20 hits from this ability.
+* **Elemental Burst** creates a snowstorm that deals a huge amount of Cryo damage over 5 seconds and slowly moves away from the character.
+  * The snowstorm will stop moving upon encountering large or **Frozen** enemies, resulting in that enemy potentially taking up to 20 hits from this ability.
 * Ayaka's primary source of damage is her **Elemental Burst.**
 
 ## **Additional Notes**
 
-* **Charged Attack** has an **increased** **range** over Ayaka's Normal Attacks.
+* **Charged Attack** has an increased range over Ayaka's Normal Attacks.
 * **C2** summons 2 additional smaller snowstorms that deal 20% of the original's Damage.
 * **C4** reduces the **Defence** of enemies hit by her **Elemental Burst** by 30% for 6s.
 * Ayaka can technically be used in **Melt** teams as both a Burst DPS role whilst providing Off-Field **Cryo** application to the enemy for 5 seconds with her **Elemental Burst**.

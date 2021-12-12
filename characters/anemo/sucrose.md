@@ -51,7 +51,7 @@ Click on the team names below for more details on how the team works and alterna
   * With **Sacrificial Fragments** and **Constellation 1,** she can use her **Elemental Skill** 3 times in quick succession, which is one of the fastest ways to recharge Xiao's Energy.
 
 {% hint style="info" %}
-In all the teams listed below, Sucrose universally provides debuffing utility using the **Viridescent Venerer** 4-set.
+In the following teams, Sucrose provides debuffing utility using the **Viridescent Venerer** 4-set.
 {% endhint %}
 
 #### [Electro-Charged (See Notes)](../../teams/electro-charged-hydro.md)
