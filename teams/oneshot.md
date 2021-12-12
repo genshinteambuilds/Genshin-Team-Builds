@@ -14,7 +14,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 **Enablers** - The characters that is responsible for applying the **Element** for the Main Carry to react with. Only applicable for **Melt**/**Vaporize** Main Carries.
 
-**For the mobile gamers:** AA refers to character’s **Auto Attack**, E refers to a character’s **Elemental Skill**, Q is their **Elemental Burst**.
+**For the mobile gamers:** N refers to character’s **Normal Attack**, C refers to character's **Charged Attack**, E refers to a character’s **Elemental Skill**, Q is their **Elemental Burst**.
 
 ## **Main Carry: Hu Tao**
 
@@ -88,13 +88,13 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-* Bennett **Elemental Burst** →  Ayaka **Dash** (if 4pc **Instructor**) -> Kazuha **Elemental Burst** →  Ayaka **Elemental Burst** →  Hu Tao **Elemental Skill** →  Hu Tao **Elemental Burst**
+* `Bennett Q →  Ayaka Dash (if 4pc`` `**`Instructor`**`) →  Kazuha Q → Ayaka Q` → `Hu Tao E → Hu Tao Q`&#x20;
 
 {% embed url="https://drive.google.com/file/d/16SaV0cIho61AZ-Qf-MMPzQMuM3-tuCRY/view?usp=sharing" %}
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
-* Bennett **Elemental Burst** -> Sucrose **Elemental Skill** -> Kaeya **Elemental Skill** -> Kaeya **Elemental Burst** -> Hu Tao **Elemental Skill ->** Hu Tao **Elemental Burst**
+* `Bennett Q -> Sucrose E -> Kaeya E -> Kaeya Q -> Hu Tao E -> Hu Tao Q`
 
 ## **Main Carry: Mona**
 
@@ -149,7 +149,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 _Step 1 & Step 2_ are skippable but it does boost your burst damage by a lot since it shreds 40% Hydro resistance.
 
-**\*ICD/ Internal CoolDown**
+**\*ICD/ Internal Cooldown**
 
 For ICDs, it’s a concept so that a skill cannot do the same **elemental reactions** right after it has just caused one. This means you cannot trigger **Vaporize** from the same source right after triggering one. Mona’s initial **burst** on enemies affected with **Pyro** aura acts as a **Vaporize** reaction, and you must wait for about 2 seconds to apply another instance of **Pyro** so that her burst is vaporized properly.
 
@@ -157,7 +157,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
-* Mona **Normal Attack** →  Sucrose **Elemental Skill** → Bennett **Elemental Skill** →  Bennett **Elemental Burst** →  Klee **Elemental Skill** (if C2) if not **Normal Attack** is fine →  Mona Elemental **Burs**t →  wait 2 seconds for ICD before swapping →  Bennett **Elemental Skill**
+* `Mona N →  Sucrose E → Bennett E →  Bennett Q →  Klee E (if C2) if not N is fine →  Mona Q →  wait 2 seconds for ICD before swapping →  Bennett E`
 
 ## **Main Carry:** Tartaglia / Childe
 
@@ -169,7 +169,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ****![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)****
 
-* Tartaglia has two ways to use his **Elemental Burst**, based on which form he is in. Bow form does less damage but occurs much faster since it returns 20 energy back to Tartaglia, while Melee form requires the transformation and does much more damage.&#x20;
+* Tartaglia has two ways to use his **Elemental Burst**, based on which form he is in. **Ranged stance** (rQ) does less damage but occurs much faster since it returns 20 energy back to Tartaglia, while **Melee stance** (mQ) **** requires the transformation and does much more damage.&#x20;
 * Tartaglia Oneshot teams will focus on **Vaporizing** the **Melee Stance Elemental Burst**.
 
 ### Primary Enablers
@@ -214,19 +214,17 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-* Tartaglia **Elemental Skill** (apply **Hydro** on enemy) →  Bennett **Elemental Burst** (does not clear the **Hydro** application) →  Kazuha **Elemental Burst** (inside Bennett **Elemental Burst**) →  Mona **Elemental Burst** →  Tartaglia Elemental Skill (to change from **bow stance** to **melee stance**)→  Tartaglia **Elemental Burst**
-
-
+* `Tartaglia E (apply`` `**`Hydro`**` ``on enemy) →  Bennett Q (does not clear the Hydro application) →  Kazuha Q (inside Bennett Q) →  Mona Q→  Tartaglia E (to change from ranged stance to melee stance)→  Tartaglia mQ`
 
 {% embed url="https://drive.google.com/file/d/1ayFszYOJv3Ut-XPdhTpv9RnnCNPiNY-N/view?usp=sharing" %}
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-* Tartaglia **Elemental Skill** (apply **Hydro** on enemy) →  Bennett **Elemental Burst** (does not clear the **Hydro** application) →  Kazuha **Elemental Burst** (inside Bennett Elemental Burst)                  →  Xiangling **Elemental Burst** → Tartaglia **Elemental Skill** → Tartaglia **Elemental Burst**
+* `Tartaglia E (apply`` `**`Hydro`**` ``on enemy) →  Bennett Q (does not clear the Hydro application) →  Kazuha Q(inside Bennett Elemental Burst) →  Xiangling Q → Tartaglia E → Tartaglia mQ`
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli **hold Elemental Skill** → Tartaglia **Charged Aimed Shot** -> Sucrose **Elemental Skill** -> Bennett **Elemental Burst** -> Tartaglia **Elemental Skill** (don't hit enemy with activation damage)  → Tartaglia **Elemental Burst**
+* `Zhongli hold E → Tartaglia E (apply`` `**`Hydro`**` ``on enemy) →  Sucrose E →  Bennett Q →  Tartaglia E (don't hit enemy with activation damage) →  Tartaglia mQ`
 
 ## **Main Carry: Eula**
 
@@ -272,7 +270,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* Eula **Elemental Skill** -> Bennett **Elemental** **Burst** →  Lisa **Elemental Burst** → Eula **Elemental Burst**  →  Eula **Normal Attack** x 4→ Eula **hold Elemental Skill** → Eula **Normal Attack** x 4 → Xinyan **Elemental Skill**
+* `Eula E -> Bennett Q →  Lisa Q → Eula Q  →  Eula N x 4→ Eula hold E → Eula N x 4 → Xinyan E`
 * Utilizes **Pyro Resonance** and Lisa's **DEF shred** to provide high amounts of buffs and debuffs for Eula.&#x20;
 * Xinyan can increase Eula's damage significantly if she is able to proc **Wolf's Gravestone's** passive with her **Elemental Skill**.&#x20;
 * Note: Bennett's **Elemental Burst** will barely last long enough for this rotation. Make sure to utilize the quick **Elemental Burst** commands (ALT + #) when using this rotation.
@@ -321,7 +319,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Ayaka **Dash** (apply **Cryo** on enemy) → Kazuha **Elemental Burst** (infuse **Cryo**) → Bennett **Elemental Burst** → Mona **Elemental Skill** → Mona **Elemental Burst** → Ayaka **Elemental Burst**
+* `Ayaka`` `**`Dash`**` ``(apply`` `**`Cryo`**` ``on enemy) → Kazuha Q (infuse Cryo) → Bennett Q → Mona E → Mona Q → Ayaka Q`
 
 {% embed url="https://drive.google.com/file/d/1CQ5yy74_hY5Dugzq_p-EOJiSj7MMX11k/view?usp=sharing" %}
 
@@ -366,6 +364,6 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Raiden Shogun **Elemental Skill** → Kazuha **Elemental Burst** → Bennett **Elemental Burst** → Sara **Elemental Burst** → Raiden **Elemental Burst**
+* `Raiden Shogun E → Kazuha Q → Bennett Q → Sara Q → Raiden Q`
 
 {% embed url="https://drive.google.com/file/d/1E8FsBAgILEqwLOE09S6yQ4_-zN70AI_A/view?usp=sharing" %}
