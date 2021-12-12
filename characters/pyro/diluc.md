@@ -9,8 +9,8 @@
 * **Elemental Skill** deals damage and can be used 3 times before going on cooldown.
 * **Elemental Skill** can be animation cancelled with Diluc's Normal Attack
   * Diluc's typical **Elemental Skill** + **Normal Attack** chain is as follows:
-    * N → E → N → E → N → E → N
-    * where N = **Normal Attack** and E = **Elemental Skill**
+    * `N → E → N → E → N → E → N`
+    * where: `N` = **Normal Attack** and `E` = **Elemental Skill**
 * **Elemental Burst** deals damage and knocks back enemies in a wide AoE.
 * **Elemental Burst** infuses Diluc's Normal Attacks with **Pyro**.
   * **A4** allows him to reach 100% uptime with the **Pyro** infusion from his **Elemental Burst**.
