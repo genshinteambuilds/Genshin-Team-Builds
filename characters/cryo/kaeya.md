@@ -8,23 +8,23 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** shoots a cone of **Cryo** Damage in front of him, healing him based off of his attack and generating a middling amount of **energy particles**.
-* **Elemental Bursts** summons **3 icicles** that revolve around the character on field for 15 seconds, dealing **Cryo** Damage to targets they hit.
-* **A4** allows his **Elemental Skill** to generate additional **Cryo** energy particles whenever enemies are **frozen** by it.
+* **Elemental Skill** deals **Cryo Damage** in a cone in front of Kaeya, also healing him slightly based on Kaeya's **Attack**.
+  * **A4** allows his **Elemental Skill** to generate additional **Cryo** energy particles whenever enemies are **Frozen** by it.
+* **Elemental Burst** summons **3 icicles** that revolve around the character on field for 15 seconds, dealing **Cryo** Damage to any targets they hit.
 
 ## Additional Notes
 
-* His **Utility Passive** decreases sprinting **Stamina Consumption** by 20%, allowing for slightly more dodging ability **** especially with stamina intensive **Charged Attack** Characters.
-* Combination of decent **energy generation** and **Energy Recharge** as an ascension stat allows Kaeya to be able to build heavily into damage and still be able to support his own **Elemental Burst**, especially in **Freeze** team compositions.
-* **C2** increases the duration of his Elemental Burst.&#x20;
-* **C6** adds an additional icicle to the burst and refunding a portion of the Elemental Burst cost.
+* Kaeya's **Utility Passive** decreases sprinting stamina consumption by 20%, allowing for slightly more dodging ability **** especially with stamina intensive **Charged Attack** Characters.
+* Combination of decent **Energy Particle** generation and **Energy Recharge** as an ascension stat allows Kaeya to be able to build heavily into damage and still be able to support his own **Elemental Burst**, especially in **Freeze** team compositions.
+* **C2** increases the duration of his **Elemental Burst**.&#x20;
+* **C6** adds an additional icicle to the **Elemental Burst** and refunds a portion of the energy cost.
 
 ## Works Well With
 
 ![](../../.gitbook/assets/Element\_Cryo.webp)
 
 * Off-Field DPS capabilities pair well with other **Cryo** Main DPS to add additional **Cryo** application and damage to teams.
-* Kaeya's high energy generation allows him to work as a powerful energy battery for other **Cryo** Main DPS, especially in **Freeze** teams.
+* Kaeya's high **Energy Particle** generation allows him to work as a powerful Energy Battery for other **Cryo** Main DPS, especially in **Freeze** teams.
 * **Cryo Resonance** as a whole is very powerful in teams which constantly apply the element.
 
 ![](../../.gitbook/assets/Element\_Pyro.webp)
@@ -33,24 +33,11 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
-* Characters with high **Hydro** application paired with Kaeya enables **Freeze**.
-* Kaeya's energy generation is greatly boosted when he applies **Freeze** with his **Elemental Skill**.
-
-![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
-
-* Kaeya's large amount of AoE damage is highly effective when paired with **** Crowd Control, especially when in comps not utilizing **Freeze**.
-* Similarly to all **Elemental** Damage focused characters, Kaeya benefits greatly from the **Elemental Resistance** debuff provided by **Anemo** supports using **Viridescent Venerer** set and Zhongli's shield.
+* Characters with high **Hydro** application paired with Kaeya enables **Freeze** teams.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/Element\_Electro.webp)
-
-* Barring **Physical** damage characters, **Superconduct** falls behind other Elemental Reactions in terms of damage.
-* **Physical** teams can still use Kaeya as well as an **Electro** character to easily trigger **Superconduct** from off field.
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)
-
-* While Tartaglia can function in **Freeze** teams, especially with higher **constellations**, he's typically better used with other **elements**.
+* There aren't really many characters Kaeya does not work with. Typically it is more a question of whether or not better characters are available.
 
 ## Teams
 
@@ -58,7 +45,7 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-[**Freeze** ](../../teams/freeze.md)****
+[**Freeze (Cryo)**](../../teams/freeze.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
 
@@ -76,9 +63,9 @@ Click on the team names below for more details on how the team works and alterna
 
 ****[**Melt (Pyro)**](../../teams/melt.md)****
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****
 
-* Kaeya can be fit into a **Vaporize** team to allow triggers of the higher-damage **Melt** reaction in addition to standard **Vaporizes**.
+* Kaeya can be fit into a **Vaporize / Melt** team to allow triggers of the higher-damage **Melt** reaction in addition to standard **Vaporizes**.
 * Kaeya alone cannot produce enough **Cryo** application to **Melt** every attack from a **Pyro** Main DPS. Pairing with either another **Hydro** or **Cryo** character is necessary to maximize damage.
 * Kaeya's increased **Cryo** application at **C6** can increase the frequency at which this team can trigger **Melt**.
 
@@ -86,5 +73,5 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Kaeya's **Elemental Burst** following the active character allows for consistent **Superconduct** Applications.
-* In teams with Eula, Kaeya can be used to provide both **Cryo** Resonance and increased energy regeneration.
+* Kaeya's **Elemental Burst** following the active character allows for consistent **Superconduct** applications.
+* In teams with Eula, Kaeya can be used to provide both **Cryo Resonance** and act as an Energy Battery.

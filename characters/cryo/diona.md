@@ -60,19 +60,19 @@ Click on the team names below for more details on how the team works and alterna
 This character is a healer. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options. **** Diona's shield is also useful on every team.
 {% endhint %}
 
-[**Freeze**](../../teams/freeze.md)****
+[**Freeze (Cryo)**](../../teams/freeze.md)****
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****
 
 * Diona activates **Cryo Resonance** for additional **Critical Rate**. She also provides **Cryo Energy Particles** to charge the Cryo Main DPS' **Elemental Burst**.
 
-****[**Melt**](../../teams/melt.md)****
+****[**Melt (Pyro)**](../../teams/melt.md)****
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****
 
 * Diona can reduce stamina consumption, allowing Hu Tao to execute more **Charged Attacks** or keep up more stamina for dodging.
 
-****[**Physical**](../../teams/physical.md)****
+****[**Physical (Cryo)**](../../teams/physical.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
