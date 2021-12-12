@@ -29,7 +29,7 @@
 
 * Ganyu and Xiangling is a standard pairing for **Melt** combos, Xiangling’s frequent **Pyro** application can enable Ganyu’s **Charged Attacks** to consistently **Melt** for extreme damage.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
 * While Tartaglia is played as the Main DPS when paired with Xiangling, he effectively ends up being the Support in this composition, applying constant **Hydro** auras and causing Xiangling’s abilities to consistently **Vaporize**.
   * Childe and Xingqiu have a high rate of **Hydro** application which allows all of Xiangling’s abilities to consistently **Vaporize** for 1.5x more damage.
