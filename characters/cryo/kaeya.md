@@ -14,7 +14,7 @@
 
 ## Additional Notes
 
-* Kaeya's **Utility Passive** decreases sprinting stamina consumption by 20%, allowing for slightly more dodging ability **** especially with stamina intensive **Charged Attack** Characters.
+* Kaeya's **Utility Passive** decreases sprinting **Stamina** consumption by 20%, allowing for slightly more dodging ability **** especially with **Stamina** intensive **Charged Attack** Characters.
 * Combination of decent **Energy Particle** generation and **Energy Recharge** as an ascension stat allows Kaeya to be able to build heavily into damage and still be able to support his own **Elemental Burst**, especially in **Freeze** team compositions.
 * **C2** increases the duration of his **Elemental Burst**.&#x20;
 * **C6** adds an additional icicle to the **Elemental Burst** and refunds a portion of the energy cost.

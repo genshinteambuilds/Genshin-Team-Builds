@@ -9,7 +9,7 @@
 * **Elemental Skill** changes based on whether it is tapped or held.
   * **Elemental Skill (Tap)** fires two homing projectiles that deal **Cryo** damage and creates a Shield.
   * **Elemental Skill (Hold)** fires five homing projectiles that deal **Cryo** damage and creates a more powerful Shield.
-  * **A1** increases movement speed and decreases stamina consumption of characters shielded by Diona's **Elemental Skill.**
+  * **A1** increases movement speed and decreases **Stamina** consumption of characters shielded by Diona's **Elemental Skill.**
   * The **** shield's strength scales with Diona's **Max HP**.
   * Diona's **Elemental Skill's** shield duration is affected by the number of projectiles that hit enemies.
 * **Elemental Burst** creates a field that deals continuous **Cryo** damage in an AoE and continuously heals characters that stand in it.
@@ -70,11 +70,11 @@ This character is a healer. While some teams are provided below where they are p
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****
 
-* Diona can reduce stamina consumption, allowing Hu Tao to execute more **Charged Attacks** or keep up more stamina for dodging.
+* Diona can reduce **Stamina** consumption, allowing Hu Tao to execute more **Charged Attacks** or keep up more **Stamina** for dodging.
 
 ****[**Physical (Cryo)**](../../teams/physical.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * Diona acts as an Energy Battery **** (for **Cryo Physical** Main DPS) and can aid in making **Superconduct** reactions which debuffs the **Physical Resistance** of enemies.
-* Diona's stamina consumption also usually comes in handy on **Physical** teams due to often needing to chase down enemies.
+* Diona's **Stamina** consumption also usually comes in handy on **Physical** teams due to often needing to chase down enemies.

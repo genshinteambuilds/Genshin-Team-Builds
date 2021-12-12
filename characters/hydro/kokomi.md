@@ -8,27 +8,27 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** summons a Bake-Kurage, which periodically heals allies, damages enemies in an area, and applies **Hydro**. Applies **Hydro** to Kokomi, which can cleanse some debuffs.
-* **Elemental Burst** deals **Hydro** damage to nearby enemies and causes her **Elemental Skill** and **Normal and Charged Attacks** to gain damage based on her **Max** **HP** for a short duration. Additionally, Kokomi gains resistance to interruption and her **Normal and Charged Attacks** heal all party members.
-* **A1** causes the duration of Kokomi's **Elemental Skill** to be refreshed when she uses her **Elemental Burst**.
+* **Elemental Skill** summons a **Bake-Kurage**, which periodically heals allies, damages enemies in an area, and applies **Hydro**. Applies **Hydro** to Kokomi, which can cleanse some debuffs.
+* **Elemental Burst** deals **Hydro** damage to nearby enemies and causes her **Elemental Skill** and **Normal** and **Charged Attacks** to gain damage based on her **Max** **HP** for a short duration. Additionally, Kokomi gains resistance to interruption and her **Normal** and **Charged Attacks** heal all party members.
+* **A1** causes the duration of Kokomi's **Elemental Skill** duration to be refreshed when she uses her **Elemental Burst**.
 * **A4** increases the bonus damage gained during Kokomi's **Elemental Burst** by 15% of her **Healing Bonus**.&#x20;
-* Kokomi's third passive talent reduces her **Crit Rate** by 100% in exchange for a 25% increase in **Healing Bonus**.&#x20;
+* Kokomi's 3rd Passive Talent reduces her **Critical Rate** by 100% in exchange for a 25% increase in **Healing Bonus**.&#x20;
 
 ## **Additional Notes**
 
 * Kokomi's healing scales off **HP.**&#x20;
-* Kokomi's massive **Crit Rate** reduction from her third passive talent greatly hampers her ability as a traditional Main DPS**.**&#x20;
+* Kokomi's massive **Critical Rate** reduction from her third passive talent greatly hampers her ability as a traditional Main DPS**.**&#x20;
   * Kokomi's high **Hydro** application enables her to be a non-conventional Main DPS in teams through frequently triggering reactions.&#x20;
 
 ## **Works Well With**
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****
 
-* Kokomi's **Hydro** application from her **Elemental Skill** can work together with these characters to create a Freeze team.
+* Kokomi's **Hydro** application from her **Elemental Skill** and **Normal**/**Charged Attacks** can work together with these characters to permanently keep enemies **Frozen.**
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
-* The high **Electro** application of these characters can allow Kokomi to constantly trigger **Electro-charged**.
+* The high **Electro** application of these characters can allow Kokomi to constantly trigger **Electro-charged** reactions.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)****
 
@@ -43,11 +43,11 @@
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Zhongli's high shielding often reduces the need for Kokomi's healing.
-* Zhongli’s Geo pillar also shatters frozen enemies.
+* Zhongli’s **Stone Seele** also triggers **Shatter** reactions on **Frozen** enemies.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Qiqi.png)
 
-* Kokomi's high healing leads to overlap when paired with other characters who primarily heal or shield, such as Diona or Barbara.
+* Kokomi's high healing leads to overlap when paired with other characters who primarily heal or shield.
 
 ## **Teams**
 
@@ -66,7 +66,7 @@ This character is a healer. While some teams are provided below where they are p
 * Kokomi's high **Hydro** application allows her to be used as a Main DPS in this team to repeatedly trigger **Electro-Charged**.
 * Kokomi's massive reduction in **Crit Rate** allows her to build heavily into **Elemental Mastery**, greatly increasing the damage of **Electro-Charged**.
 
-****[**Freeze**](../../teams/freeze.md)****
+****[**Freeze (Cryo)**](../../teams/freeze.md)****
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)****
 

@@ -10,7 +10,7 @@
 ## Character Breakdown
 
 * **Dashing** infuses her **Normal Attacks** and **Charged Attacks** with **Cryo** and applies **Cryo** to surrounding enemies when Ayaka reappears after finishing her dash.
-  * **A4** allows Ayaka to regain stamina and receive a buff to her **Cryo** Damage if an enemy is hit by this effect.
+  * **A4** allows Ayaka to regain **Stamina** and receive a buff to her **Cryo** Damage if an enemy is hit by this effect.
 * **Elemental Skill** deals **AoE Cryo** damage.
 * **Elemental Burst** creates a snowstorm that deals a huge amount of **Cryo** damage over 5 seconds and slowly moves away from the character.
   * The snowstorm will stop moving upon encountering large or **Frozen** enemies, resulting in that enemy potentially taking up to 20 hits from this ability.
