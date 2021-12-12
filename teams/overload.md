@@ -81,7 +81,8 @@ Carries represent on-field application of their respective elements (electro for
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-*
+* Xiangling and Fischl each apply off-field **Pyro** and **Electro** respectively, with Bennett acting as the **ATK** buffer and energy battery for Xiangling.&#x20;
+* Venti's **Elemental Burst** can be infused with either **Pyro** or **Electro** and group enemies so that they can be reacted with easily.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
