@@ -7,7 +7,7 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** summons **Oz**, who deals a large burst of AoE **Electro** damage upon summon and periodically deals **Electro** damage to a single enemy for a set duration.
+* **Elemental Skill** summons **Oz**, who deals a large burst of **AoE** **Electro** damage upon summon and periodically deals **Electro** damage to a single enemy for a set duration.
   * **Oz** remains even when Fischl is not on the field.
 * Reactivating Fischl’s **Elemental Skill** while it’s already active will teleport **Oz** to her current location.
 * **Elemental Burst** will cause Fischl to damage all enemies she comes into contact with during its duration and immediately summon **Oz**.
@@ -16,7 +16,7 @@
 
 * **Elemental Skill** is primarily used to deal sustained **Electro** damage from off-field.
 * Fischl’s **Elemental Burst** is currently the only **Elemental Burst** that does not provide Invincibility Frames. Her movement can also be manually controlled during its animation.
-* **Elemental Burst** can be canceled early by swapping to another character.
+* **Elemental Burst** can be cancelled early by swapping to another character.
 * **C6** benefits characters who attack frequently, as it applies a small secondary **Electro** hit on each attack.
 
 ## Works Well With
@@ -31,17 +31,17 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
-* Fischl's **Electro Particle** generation can help recharge Beidou's high cost **Elemental Burst.**
+* Fischl's **Electro Energy Particle** generation can help recharge Beidou's high cost **Elemental Burst.**
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
 
-* Fischl provides **Electro Particles** and **Electro Resonance** allowing Razor to use his **Elemental Burst** more frequently.
+* Fischl provides **Electro Energy Particles** and **Electro Resonance** allowing Razor to use his **Elemental Burst** more frequently.
 
 ## Does Not Work Well With
 
 ![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Fischl’s constant **Electro** application can knock enemies out of range when used with a **Pyro** Main DPS due to **Overload's** knockback effect. **Electro** can also interfere with the consistency of **Vaporize** or **Melt** reactions.
+* Fischl’s constant **Electro** application can knock enemies out of range when used with a **Pyro** Main DPS due to **Overload's** knock-back effect. **Electro** can also interfere with the consistency of **Vaporize** or **Melt** reactions.
   * However, some teams can still function this way. See [**Overload**](../../teams/overload.md).
 
 ## Teams

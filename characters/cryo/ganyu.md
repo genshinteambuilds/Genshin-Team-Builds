@@ -10,7 +10,7 @@
 
 * Ganyu's **Charged Attack** has two Charge levels:
   * Charge Level 1: Fires a single arrow that deals **Cryo Damage**
-  * Charge Level 2: Fires a Frostflake Arrow that deals **Cryo Damage**. The **** Frostflake Arrow blooms after hitting it's target, dealing additional **AoE Cryo Damage**.
+  * Charge Level 2: Fires a **Frostflake Arrow** that deals **Cryo Damage**. The **** Frostflake Arrow blooms after hitting it's target, dealing additional **AoE Cryo Damage**.
 * **Elemental Skill** deals **AoE Cryo Damage** and leaves an Ice Lotus **** on the ground that taunts surrounding enemies. The Ice Lotus deals **AoE Cryo Damage** if destroyed or when it's duration ends.
 * **Elemental Burst** creates a field which continually rains shards of ice **** on enemies inflicting **Cryo Damage**.
 * Ganyu's primary source of damage when used as a Main DPS character is her **Charged Attack**.

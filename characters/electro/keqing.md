@@ -7,16 +7,16 @@
 
 ## **Character Breakdown**
 
-* **Elemental Skill (Tap)** summons a **Lightning Stiletto** dealing **Electro** damage on enemy, and recasting teleports her to its location and does additional AoE **Electro** damage. If Keqing instead uses a **Charged Attack** the **Lightning Stiletto** explodes and deals AoE **Electro** damage.
+* **Elemental Skill (Tap)** summons a **Lightning Stiletto** dealing **Electro** damage on enemy, and recasting teleports her to its location and does additional AoE **Electro** damage. If Keqing instead uses a **Charged Attack** the **Lightning Stiletto** explodes and deals **AoE** **Electro** damage.
   * **Elemental Skill (Hold)** allows her to manually aim the **Lightning Stiletto**.
 * **A1** infuses Keqing's **Normal and Charged Attacks** with **Electro** for 5 seconds after teleporting with her **Elemental Skill**.
 * **Elemental Burst** does several slashes and one stronger final slash in an area around her, dealing **Electro** damage.
-* **A4** gives Keqing 15% **Critical Rate** and 15% **Energy Recharge** for 8s after her using her **Elemental Burst**.
+* **A4** gives Keqing 15% **Critical Rate** and 15% **Energy Recharge** for 8 seconds after her using her **Elemental Burst**.
 
 ## **Additional Notes**
 
 * Keqing can be played as either an **Electro** or **Physical** Main DPS giving her flexibility when it comes to her teams.
-* Keqing can easily run out of stamina due to her **Charged Attacks** being her main source of damage.
+* Keqing can easily run out of **Stamina** due to her **Charged Attacks** being her main source of damage.
 * She can maintain her **Electro** infusion by using her **Elemental Skill** then using her **Elemental Burst** before recasting the **Elemental Skill**.
 * Keqing's **Charged Attack** can often knock back smaller enemies making it difficult to deal consistent damage.
 
@@ -29,7 +29,7 @@
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
 * Xingqiu's **Elemental Burst** has a high rate of **Hydro** application which allows for constant **Electro-Charged** reactions.
-* For **Physical** Keqing, he can also be used with a **Cryo** character to freeze the enemies which prevents knock-back from disrupting her damage.
+* For **Physical** Keqing, he can also be used with a **Cryo** character to **Freeze** the enemies which prevents knock-back from disrupting her damage.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
@@ -37,17 +37,17 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's shield blocks a large amount of damage from enemies, allowing Keqing to focus more on dealing damage than dodging. It also reduces enemy **Resistances**. Zhongli's **Elemental Burst** provides a petrify debuff to enemies allowing for a window to attack without worrying about knockback from Keqing's **Charged Attacks**.
+* Zhongli's shield blocks a large amount of damage from enemies, allowing Keqing to focus more on dealing damage rather than dodging. It also reduces enemy **Resistances**. Zhongli's **Elemental Burst** provides a **Petrify** debuff to enemies allowing for a window to attack without worrying about knock-back from Keqing's **Charged Attacks**.
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)
 
 * Keqing pairs well with **Anemo** characters as the **Viridescent Venerer** 4-set can debuff **Electro** **Resistance** on enemies.
-* Kazuha provides buffs to **Elemental Damage** with **Swirl** Reactions.
+* Kazuha provides buffs to **Elemental Damage** with **Swirl** reactions.
 * Venti is used primarily on **Electro** Keqing teams. He can keep enemies grouped and damage can be dealt to all enemies trapped in his Elemental Burst with Keqing's **Elemental Skill** and **Burst**.
 
 ![](../../.gitbook/assets/Element\_Cryo.webp)&#x20;
 
-* Cryo support characters such work well with **Physical** Keqing as the **Superconduct r**eaction debuffs enemies' **Physical Resistance**.
+* Cryo support characters such work well with **Physical** Keqing as the **Superconduct** **Elemental Reaction** debuffs enemies' **Physical Resistance**.
 
 ## Does Not Work Well With
 

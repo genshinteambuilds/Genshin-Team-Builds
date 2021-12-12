@@ -15,7 +15,7 @@
 
 ## Additional Notes
 
-* Traveler (Electro) serves as an **Energy Battery**, as their **Elemental Skill** and **Elemental Burst** both provide energy to an on-field character.
+* Traveler (Electro) serves as an Energy Battery, as their **Elemental Skill** and **Elemental Burst** both provide energy to an on-field character.
 * The majority of Traveler's (Electro) **Constellations** and **Talents** focus on further enhancing their energy-generating abilities, making them a powerful Energy Battery for characters with high-cost **Elemental Bursts**.
 * **C2** provides an **Electro Resistance** debuff, enhancing both their and other **Electro** characters' damage.
 * **C6** greatly increases the damage of their **Elemental Burst**, allowing them to function as an Off-Field Sub DPS.
@@ -32,7 +32,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
 
-* Electro Traveler provides Razor with a consistent source of energy generation, allowing him to use his **Elemental Burst** much more frequently.
+* Traveler (Electro) provides Razor with a consistent source of energy generation, allowing him to use his **Elemental Burst** much more frequently.
 * Razor's tendency to spend large amounts of time on field doesn't interrupt Traveler, as they require very little time on field to activate their abilities.
 
 ## Does Not Work Well With
@@ -40,7 +40,7 @@
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)
 
 * **Overload** can be a burden for close-range DPS, as its knockback effect wastes time chasing smaller enemies around.
-* Many **Pyro** DPS are better suited to use reactions other than **Overload**, which Electro Traveler can interfere with.
+* Many **Pyro** DPS are better suited to use reactions other than **Overload**, which Traveler (Electro) can interfere with.
 * Neither Diluc nor Hu Tao requires large amounts of energy, making large parts of Electro Traveler's kit useless.
 
 ## Teams

@@ -26,7 +26,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
-* Sucrose, Venti, and Jean are able to generate **Anemo** particles to help Xiao regain energy for his **Elemental Burst**. This is particularly notable since Xiao's damage relies heavily on having his **Elemental Burst** active as frequently as possible.
+* Sucrose, Venti, and Jean are able to generate **Anemo** **Particles** to help Xiao regain energy for his **Elemental Burst**. This is particularly notable since Xiao's damage relies heavily on having his **Elemental Burst** active as frequently as possible.
 
 ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 

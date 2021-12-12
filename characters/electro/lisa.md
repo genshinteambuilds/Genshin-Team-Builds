@@ -8,7 +8,7 @@
 ## Character Breakdown
 
 * **Elemental Skill** **(Tap)** releases a homing **Electro** orb that deals **Electro** damage and applies 1 stack of the **Conductive** status (Max 3 stacks).
-* **Elemental Skill** **(Hold)** causes lightning to strike down dealing massive **Electro** damage to all enemies within its AoE.
+* **Elemental Skill** **(Hold)** causes lightning to strike down dealing massive **Electro** damage to all enemies within its **AoE.**
   * Deals more damage to enemies with higher **Conductive** stacks which get consumed.
 * **Elemental Burst** deals continuous **Electro** damage within its area of effect and knocks back enemies on hit.
   * **A4** reduces enemies' **Defense** by 15% for 10 sec when hit by her **Elemental Burst**.
@@ -16,8 +16,8 @@
 ## Additional Notes
 
 * **A1** allows Lisa to apply a stack of the **Conductive** status when she performs a **Charged Attack**.
-* Lisa is often paired with another **Electro** character to help regenerate energy as her **Elemental Burst** has a high energy requirement.
-* Can apply more than 1 stack of the **Conductive** status if Lisa’s **Elemental Skill** hit enemies closely grouped together or when Lisa’s **Elemental Skill** applies the **Overload** or **Superconduct** reactions.
+* Lisa is often paired with another **Electro** character to help gain more **Electro Energy Particles** as her **Elemental Burst** has a high energy requirement.
+* Can apply more than 1 stack of the **Conductive** status if Lisa’s **Elemental Skill** hit enemies closely grouped together or when Lisa’s **Elemental Skill** applies the **Overload** or **Superconduct Elemental Reactions**.
 
 ## Works Well With
 

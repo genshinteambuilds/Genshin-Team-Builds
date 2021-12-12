@@ -9,7 +9,7 @@
 
 * **Elemental Skill** provides a brief shield based off of her total **HP**. Attacks taken by this shield while Beidou holds up her Elemental Skill determine the damage of the counterattack performed when the Elemental Skill is released. 2 attacks are required to reach the maximum damage.
   * **A1** allows Beidou to immediately perform the maximum damage of her counterattack if the **Elemental Skill** is used at the precise moment when the character is hit. This lets Beidou tap the Elemental Skill to "Perfect Counter" enemy attacks rather than taking multiple attacks over a period of time.
-  * **A4** increases Beidou's Attack Speed and Damage of her **Normal** and **Charged Attacks** by 15% and greatly reduces the delay before unleashing **Charged Attacks** for 10s after using her **Elemental Skill** at its maximum damage.
+  * **A4** increases Beidou's Attack Speed and Damage of her **Normal** and **Charged Attacks** by 15% and greatly reduces the delay before unleashing **Charged Attacks** for 10 seconds after using her **Elemental Skill** at its maximum damage.
 * **Elemental Burst** creates a lightning discharge which jumps between enemies when your active character deals damage with their **Normal** or **Charged Attacks**. While the **Elemental Burst** is active, resistance to interruption is increased and damage taken is reduced.
 
 ## Additional Notes
@@ -19,7 +19,7 @@
 * **Elemental Burst** snapshots buffs on cast, allowing supports such as Bennett to provide a damage increase for the entire duration of the **Elemental Burst.**
 * **C2** allows her **Elemental Burst** lightning discharge to bounce between 2 more enemies, greatly increasing her damage.
   * Due to this, Beidou's damage scales with the number of enemies surrounding the active character and decreases by a large amount if only attacking a single target.
-* **C6** allows her **Elemental Burst** to reduce the **Electro** **Resistance** of surrounding enemies, making her a debuffer for Electro characters.
+* **C6** allows her **Elemental Burst** to reduce the **Electro** **Resistance** of surrounding enemies, making her a debuffer for **Electro** characters.
 
 ## Works Well With
 
@@ -40,7 +40,7 @@
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)
 
-* **Anemo** characters pair well with Beidou as they can provide **Elemental Resistance** debuffs with the **Viridescent Venerer** 4-set or other Elemental Damage buffs when triggering a **Swirl** reaction.
+* **Anemo** characters pair well with Beidou as they can provide **Elemental Resistance** debuffs with the **Viridescent Venerer** 4-set or other elemental damage buffs when triggering a **Swirl** reaction.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)
 
@@ -49,18 +49,18 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
-* Provides additional Off-Field damage to compliment Beidou and helps generate **Electro Particles** to recharge her **Elemental Burst**.
+* Provides additional Off-Field damage to compliment Beidou and helps generate **Electro Energy Particles** to recharge her **Elemental Burst**.
 
 ## Does Not Work Well With
 
 ![](../../.gitbook/assets/Element\_Cryo.webp)
 
-* Pairing Beidou with most **Cryo** Main DPS will largely lead to triggering **Superconduct**, a reaction which does not increase **Cryo** damage or **Electro** damage.
+* Pairing Beidou with most **Cryo** Main DPS will largely lead to triggering **Superconduct**, a reaction which does not increase **Cryo** damage or **Electro** damage, and will also interrupt the **Freeze** reaction.
   * **Physical** Main DPS that use **Cryo** abilities are an exception and can be used with her in order to provide additional Off-Field damage alongside providing **Superconduct**.
 
 ![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Against smaller enemies with low knockback resistance, the knockback of **Overload** can lead to spending too much time chasing them around.
+* Against smaller enemies with low Knock-back **Resistance**, the knock-back of **Overload** can lead to spending too much time chasing them around.
 
 ## Teams
 
