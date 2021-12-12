@@ -55,31 +55,29 @@ Click on the team names below for more details on how the team works and alterna
 * Jean acts as an Energy Battery for Xiao in this team and can also provide crowd control and Healing utility.
 
 {% hint style="info" %}
-In all the teams listed below, Jean universally provides debuffing utility using the **Viridescent Venerer** 4-set.
+In the following teams, Jean provides debuffing utility using the **Viridescent Venerer** 4-set as well as healing.
 {% endhint %}
 
 #### [Electro-Charged (Electro)](../../teams/electro-charged.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
-* Jean fills both the Healer role in this team and can debuff enemies using the **Viridescent Venerer** 4-set.
+#### [Vaporize (Pyro)](../../teams/reverse-vaporize.md)
 
-#### [Overload](../../teams/overload.md)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
+
+{% hint style="info" %}
+In the following teams, Jean allows Kazuha or Venti to take the role of being a Debuffer with the **Viridescent Venerer** 4-set and instead provides the team with a **Noblesse Oblige** 4-set buff alongside her healing. She also acts as a Energy Battery for Kazuha or Venti.
+{% endhint %}
+
+#### [Overload (Pyro)](../../teams/overload.md)&#x20;
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
-
-* In this team, Jean will typically allow Venti to take the role of being a Debuffer with the **Viridescent Venerer** 4-set and instead provide the team with a **Noblesse Oblige** 4-set buff.
-* This is a Quickswap team where all members have low **Elemental Skill** cooldowns and all members constantly generate **Energy Particles** to fuel their **Elemental Bursts.**
 
 #### [Pure Pyro](../../teams/pure-pyro.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
-* In this team, Jean will typically allow Venti to take the role of being a Debuffer with the **Viridescent Venerer** 4-set and instead provide the team with a **Noblesse Oblige** 4-set buff.
-* Jean acts as an Energy Battery **** for Kazuha and a Burst DPS in this team.
+####
 
-#### [Vaporize (Pyro)](../../teams/reverse-vaporize.md)
-
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
-
-* Jean provides her usual **Viridescent Venerer** debuffing in this team as well as acting as a Burst DPS in between rotations of the team's Pyro and Hydro characters.
+*

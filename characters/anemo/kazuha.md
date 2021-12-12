@@ -53,7 +53,7 @@ Click on the team names below for more details on how the team works and alterna
 * Only recommended if Kazuha is **C6.**
 
 {% hint style="info" %}
-In all the teams listed below, Kazuha universally provides debuffing using the **Viridescent Venerer** 4-set and can also provide boosts to multiple elemental damage types.
+In the following teams, Kazuha provides debuffing utility using the **Viridescent Venerer** 4-set and can also provide boosts to multiple elemental damage types.
 {% endhint %}
 
 #### [Electro-Charged (Electro)](../../teams/electro-charged.md)
@@ -66,7 +66,7 @@ In all the teams listed below, Kazuha universally provides debuffing using the *
 
 * Kazuha can apply either **Hydro** or **Cryo** with his **Elemental Burst** and help enable AoE **Freeze** teams.
 
-#### [Overload](../../teams/overload.md)
+#### [Overload (Pyro)](../../teams/overload.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 

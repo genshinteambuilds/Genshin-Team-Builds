@@ -44,32 +44,33 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-In all the teams listed below, Sayu universally provides debuffing utility using the **Viridescent Venerer** 4-set.
+In the following teams, Sayu provides debuffing utility using the **Viridescent Venerer** 4-set as well as healing.
 {% endhint %}
 
 [**Electro-Charged (Electro)**](../../teams/electro-charged.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
-* Sayu functions as a Healer and can be used to debuff **Electro Resistance** with **Viridescent Venerer** 4-set.
-
 [**Freeze (Cryo)**](../../teams/freeze.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
-
-* Sayu functions as a Healer and can be used to debuff **Cryo Resistance** with **Viridescent Venerer** 4-set.
 
 ****[**Melt (Cryo)**](../../teams/reverse-melt.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
-* Sayu functions as a debuffer used to debuff **Cryo Resistance** with **Viridescent Venerer** 4-set. Note, that if available, characters such as **Sucrose** would fill this role better.
-
 [**Vaporize (Pryo)**](../../teams/reverse-vaporize.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
-* Sayu functions as a Healer and can be used to debuff **Cryo Resistance** with **Viridescent Venerer** 4-set for Ayaka’s **Elemental Burst** or used to apply the **Noblesse Oblige** 4-set to buff **** allied character’s attacks.
+{% hint style="info" %}
+In the following teams, Sayu allows Kazuha or Venti to take the role of being a Debuffer with the Viridescent Venerer 4-set and instead provides the team with a Noblesse Oblige 4-set buff alongside her healing.
+{% endhint %}
 
+#### [Overload (Pyro)](../../teams/overload.md)&#x20;
 
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
+#### [Pure Pyro](../../teams/pure-pyro.md)
+
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
