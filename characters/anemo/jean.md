@@ -78,6 +78,3 @@ In the following teams, Jean allows Kazuha or Venti to take the role of being a 
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
-####
-
-*
