@@ -86,4 +86,8 @@ Carries represent on-field application of their respective elements (electro for
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
+* Yoimiya rapidly deals **Pyro damage** while remaining on-field, **Elemental Burst** applies an "Aurora Blaze" on opponents that can trigger AoE **Pyro** damage off-field.
+* Raiden acts as an off-field **Electro** sub-DPS, and can provide energy for the team with her **Elemental Burst**.
+* Kazuha can buff the team's **Pyro** and **Electro** **damage**, as well as debuff those respective enemy **Resistances.**
+
 ![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
