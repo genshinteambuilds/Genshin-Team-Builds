@@ -25,7 +25,7 @@
 
 * Eula can benefit from frequent **Superconduct** reactions which debuffs **Physical Resistance,** and the extra **Electro** damage provided by Fischl.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
 * Tartaglia and Xingqiu provide a high rate of **Hydro** application, and combined with Fischl's **Oz** she can constantly create **Electro-Charged** reactions.
 
@@ -60,7 +60,7 @@ In all the teams listed below, Fischl universally provides Off-Field **Electro**
 
 ****[**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
 * This team utilizes both **Hydro** and **Electro** characters who provide strong individual damage coupled with high energy generation from **Electro Resonance** and frequent **Electro-Charged** reactions, resulting in high sustained area damage.
 
