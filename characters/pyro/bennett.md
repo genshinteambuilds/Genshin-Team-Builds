@@ -85,7 +85,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ****[**Oneshot**](broken-reference/)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
+![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
 * In this team, Bennett plays the role of healer, **Pyro** Resonance activator, and support.
 * Bennett is highly valued in Oneshot teams due to his easily accessible **Attack** buff and **Pyro** application.
