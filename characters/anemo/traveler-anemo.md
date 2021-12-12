@@ -42,12 +42,12 @@ In all the teams listed below, Traveler (Anemo) universally provides debuffing u
 
 [**Electro-Charged (Electro)**](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_lumine\_anemo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Lumine\_Anemo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 [**Freeze (Cryo)**](https://genshinteambuilds.gitbook.io/teams/teams/freeze)****
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)****![](../../.gitbook/assets/ui\_avataricon\_lumine\_anemo.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Lumine\_Anemo.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****
 
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_lumine\_anemo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Lumine\_Anemo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
