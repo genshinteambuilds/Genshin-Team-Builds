@@ -1,6 +1,6 @@
 # Overload (Electro)
 
-Overload occurs when you hit an enemy marked with **pyro** using an **electro attack** or vice versa, creating a small **AoE** hit of **pyro damage** and applying **knockback** to enemies that can be knocked back. This is not a very high amount of damage, so this will primarily be used to supplement your damage rather than be the primary focus. Thus, we still require a primary damage dealer similar to other teams, and as Overload is **pyro** + **electro**, said carry will be from one of these **elements** (often **pyro**).
+**Overload** occurs when a **Pyro** marked enemy is hit with **Electro** or vice versa, creating a small **AoE** hit of **Pyro damage** and can potentially knock back enemies. **Overload damage** is based off the **Elemental** **Mastery** and level of the character applying the second element. Most **Overload** teams have a **Pyro** Main DPS, however several on-field **Electro** Main DPS characters can work with Xiangling effectively.
 
 {% hint style="info" %}
 Characters are ranked roughly according to how well they perform in this team composition.
