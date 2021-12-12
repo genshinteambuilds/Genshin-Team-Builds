@@ -66,7 +66,8 @@
 
 ![](../../.gitbook/assets/Element\_Geo.webp)
 
-* **Geo** damage usually breaks the **Frozen** status of enemies.
+* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in **Freeze** teams.&#x20;
+* **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.
 
 ## Teams
 

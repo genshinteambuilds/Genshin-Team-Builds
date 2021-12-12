@@ -42,7 +42,8 @@
 
 ![](../../.gitbook/assets/Element\_Geo.webp)
 
-* **Geo** characters besides Zhongli see little benefit from pairing with Chongyun due to the lack of damaging reactions between **Geo** and **Cryo**.
+* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in **Freeze** teams.&#x20;
+* **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.
 
 ## Teams
 

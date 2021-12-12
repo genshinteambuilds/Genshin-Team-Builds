@@ -58,10 +58,11 @@
 * Ganyu’s primary source of damage is not **Physical** resulting in other **Physical** characters and **Electro** characters not working well with her when Ganyu is used as a Main DPS.
 * While Ganyu can be used as an **Off-Field** DPS in those teams instead to provide **Cryo** for **Superconduct**, this is often seen as a waste since other **Cryo** characters can work equally well in that role.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)
+![](../../.gitbook/assets/Element\_Geo.webp)
 
-* **Geo** damage **Shatters Frozen** enemies making these characters not ideal in **Freeze** teams.
-* Even outside of **Freeze** teams, **Geo** characters besides Zhongli are still generally not used due to poor synergy of the character's themselves with Ganyu and not being as competitive as other options on the team.
+* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in **Freeze** teams.&#x20;
+* Zhongli is also not used in Ganyu **Freeze** teams for this reason.
+* **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.
 
 ## Teams
 

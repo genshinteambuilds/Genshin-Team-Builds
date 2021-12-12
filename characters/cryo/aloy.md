@@ -40,7 +40,8 @@
 
 ****![](../../.gitbook/assets/Element\_Geo.webp)****
 
-* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in **Freeze** teams. Even outside of **Freeze** teams, **Geo** characters besides Zhongli tend to lack synergy with Aloy and teams that typically contain her.
+* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in **Freeze** teams.&#x20;
+* **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.
 
 ## Teams
 
