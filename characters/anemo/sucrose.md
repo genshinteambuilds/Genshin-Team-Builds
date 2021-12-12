@@ -54,7 +54,7 @@ Click on the team names below for more details on how the team works and alterna
 In the following teams, Sucrose provides debuffing utility using the **Viridescent Venerer** 4-set.
 {% endhint %}
 
-#### [Electro-Charged (See Notes)](../../teams/electro-charged-hydro.md)
+#### [Electro-Charged (Hydro)](../../teams/electro-charged-hydro.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 

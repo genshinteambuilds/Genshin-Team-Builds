@@ -20,7 +20,7 @@
 ## Additional Notes
 
 * **Elemental Skill** generates a large number of **Energy Particles**.
-  * As such, she can be used as a replacement for Diona in Freeze teams that need an Energy Battery. However, Aloy is neither a Healer nor Shielder.
+  * As such, she can be used as a replacement for Diona in **Freeze** teams that need an Energy Battery. However, Aloy is neither a Healer nor Shielder.
 
 ## Works Well With
 
@@ -30,7 +30,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett can potentially be paired with Aloy in a Melt or Oneshot team composition where Aloy is used as Burst DPS with her **Elemental Burst**.
+* Bennett can potentially be paired with Aloy in a **Melt** or Oneshot team composition where Aloy is used as Burst DPS with her **Elemental Burst**.
 
 ## Does Not Work Well With
 
@@ -40,7 +40,7 @@
 
 ****![](../../.gitbook/assets/Element\_Geo.webp)****
 
-* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in Freeze teams. Even outside of Freeze teams, **Geo** characters besides Zhongli tend to lack synergy with Aloy and teams that typically contain her.
+* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in **Freeze** teams. Even outside of **Freeze** teams, **Geo** characters besides Zhongli tend to lack synergy with Aloy and teams that typically contain her.
 
 ## Teams
 
@@ -48,7 +48,7 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-****[**Freeze**](../../teams/freeze.md)****
+****[**Freeze (Cryo)**](../../teams/freeze.md)****
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aloy.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
