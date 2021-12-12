@@ -63,7 +63,7 @@ Refer to the character notes below for how characters work in this particular te
 
 ## Sample Team Compositions
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 {% hint style="info" %}
 If you do not struggle with survivability with Shields from **Crystallization** and **Geo Resonance**, you can opt to run another off-field DPS character instead of a healer.
@@ -72,7 +72,7 @@ If you do not struggle with survivability with Shields from **Crystallization** 
 * Zhongli's shield coupled with **Geo Resonance** reduces the **Geo** Resistance of Enemies by -40% which is a massive boost of damage.
 * Ningguang, especially with **C2**, generates a substantial amount of energy particles allowing both her and Zhongli to cast their **Elemental Burs**t frequently. Make sure you have Ningguang's Jade Screen on the field to summon more projectiles for her **Elemental Burst**.&#x20;
 * When **Elemental Bursts** are not ready to be cast, Ningguang can deal sustained damage with her **Normal** and **Charged Attacks**.
-* Beidou deals off-field **AoE** damage**,** with which complements Ninguang's default mode of dealing damage, her **Normal Attacks**. Fischl acts as Beidou's energy battery.
+* Xiangling deals off-field **AoE** damage and Bennett acts as Xiangling's Energy Battery and overall team buffer and healer.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)![](../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 

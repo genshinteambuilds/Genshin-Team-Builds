@@ -72,3 +72,21 @@ Refer to the character notes below for how characters work in this particular te
 |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Qiqi.png" alt=""></p><p><a href="../characters/cryo/qiqi.md">Qiqi</a></p>      | <ul><li>Provides Healing.</li><li>Qiqi's <strong>Elemental Skill</strong> can technically apply <strong>Cryo</strong> but the rate of application makes this basically negligible.</li><li>Qiqi provides some of the strongest healing in the game with the application of her <strong>Talisman</strong> on <strong>Elemental Burst</strong> and with <strong>Normal Attacks</strong> at <strong>Ascension 4</strong>. She unfortunately does not provide any other utility and is thus, generally not recommended if you have access to other alternatives.</li></ul>                                                                                                 |
 |                      ![](../.gitbook/assets/UI\_AvatarIcon\_Tohma.png)[Thoma](../characters/pyro/thoma-1.md)                      | <ul><li>Provides shielding with his <strong>Elemental Skill</strong> and <strong>Burst</strong>.</li><li>Provides <strong>Pyro Resonance</strong>.</li><li>Thoma can provide <strong>Pyro</strong> application for <strong>Anemo</strong> characters to use the <strong>Viridescent Venerer</strong> artifact set to debuff enemy resistances.</li><li>Slightly buffs <strong>Normal Attack</strong> damage at <strong>Constellation 6</strong>.'s</li><li>Thoma's shield is much weaker than Zhonglis and care must be taken to not take as many hits if using Thoma for shielding.</li></ul>                                                                         |
 |     <p><img src="../.gitbook/assets/UI_AvatarIcon_Noelle.png" alt=""><br><a href="../characters/geo/noelle.md">Noelle</a></p>     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+## Sample Team Compositions
+
+![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+
+* A reliable team set up that allows Hu Tao to consistently **Vaporize** her **Charged Attacks** while having the safety of a strong shield and some extra off-field damage and buffs.
+* Xingqui provides the off-field **Hydro** application for Hu Tao and damage resistance.
+* Albedo provides off-field damage and combined with Zhongli's shield, provides **Geo Resonance** for Hu Tao while also safely allowing her to be below 50% HP.&#x20;
+
+![](../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+* A team composition that focuses on Diluc **Vaporizing** his **Normal Attacks** and **Elemental Skill** strikes while also providing a strong shield and large attack buffs.
+
+![](../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+* A team composition that focuses **vaporizing** Yoimiya's **Normal Attacks**.
+* Sucrose is used to provide resistance shred through **4pc Viridescent Venerer**.
+

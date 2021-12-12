@@ -67,7 +67,7 @@ Refer to the character notes below for how characters work in this particular te
 
 ## Sample Team Compositions
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * A popular **Vaporize (Hydro)** that's also known as **Childe International**.
 * Tartaglia keeps Hydro on the enemies, as well as providing damage. Xiangling **Elemental Burst** and **Elemental Skill Vaporize** off of Tartaglia's Hydro, accounting for the lion's share of damage in this team.&#x20;
