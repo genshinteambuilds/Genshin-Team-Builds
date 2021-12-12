@@ -28,10 +28,6 @@
 
 * Aloy can provide **Cryo Resonance** for additional **Critical Rate** and **Energy Particles** for Cryo Main DPS characters.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
-
-* Bennett can potentially be paired with Aloy in a **Melt** or Oneshot team composition where Aloy is used as Burst DPS with her **Elemental Burst**.
-
 ## Does Not Work Well With
 
 ![](../../.gitbook/assets/Element\_Electro.webp)
