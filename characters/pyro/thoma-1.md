@@ -63,7 +63,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ****[**Pure Pyro**](../../teams/pure-pyro.md)****
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Tohma.png)****
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Tohma.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
 
 * Thoma is used as a Shielder and Off-Field DPS in this team, using his **Elemental Burst** to provide additional shielding and damage to the rest of the party.
 
