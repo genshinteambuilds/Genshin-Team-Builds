@@ -55,7 +55,7 @@
 
 ![](../../.gitbook/assets/Element\_Cryo.webp)
 
-* Pairing Beidou with most **Cryo** Main DPS will largely lead to triggering **Superconduct**, a reaction which does not increase **Cryo** damage or **Electro** damage, and will also interrupt the **Freeze** reaction.
+* Pairing Beidou with most **Cryo** Main DPS will largely lead to triggering **Superconduct**, a reaction which does not increase **Cryo** damage or **Electro** damage, and will also stop enemies from being **Frozen.**
   * **Physical** Main DPS that use **Cryo** abilities are an exception and can be used with her in order to provide additional Off-Field damage alongside providing **Superconduct**.
 
 ![](../../.gitbook/assets/Element\_Pyro.webp)
@@ -77,7 +77,7 @@ Click on the team names below for more details on how the team works and alterna
 * Beidou is typically used as an Off-Field DPS in these teams with an on-field character such as Keqing or Childe to trigger her **Elemental Burst's** lightning discharges.
 * A second **Electro** character is recommended to help recharge Beidou's **Elemental Burst**.
 
-[**Overload**](../../teams/overload.md)****
+****[**Overload (Pyro)**](../../teams/overload.md)****
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
 

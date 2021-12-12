@@ -7,12 +7,12 @@
 
 ## **Character Breakdown**
 
-* **Elemental Skill (Tap)** has a short base cooldown and summons a **Stone Stele** which counts as a **Geo Construct.**&#x20;
-  * The **Stone Stele** pulses **Geo** Damage in short intervals.
-* **Elemental Skill (Hold)** will also summon a **Stone Stele** if the maximum amount of **Stone Steles** has not been reached, and provides a **Jade Shield** based on Zhongli's maximum **HP**.
+* **Elemental Skill (Tap)** has a short base cooldown and summons a **Stone Stele** which counts as a **Geo** construct ****&#x20;
+  * The **Stone Stele** pulses in short intervals dealing **Geo** Damage .
+* **Elemental Skill (Hold)** will also summon a **Stone Stele** if the maximum amount of **Stone Steles** has not been reached, and provides a **Jade Shield** based on Zhongli's **Max** **HP**.
 * **A1** allows his **Jade Shield** to fortify, increasing the shield strength of the fortified on-field character by 5% when it takes damage. This can stack up to 5 times and will last for the duration of **Jade Shield**.
 * **A4** allows Zhongli to gain additional bonus damage on his **Normal Attacks, Charged Attacks, Elemental Skill,** and **Elemental Burst** based on his maximum **HP**.
-* **Elemental Burst** summons a large meteor that deals AoE **Geo** damage and petrifies enemies for several seconds.
+* **Elemental Burst** summons a large meteor that deals **AoE** **Geo** damage and petrifies enemies for several seconds.
 
 ## **Additional Notes**
 
@@ -31,7 +31,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
-* Zhongli does not work well in **Freeze** team compositions since his **Elemental Skill** pulses **Shatter Frozen** enemies.
+* Zhongli does not work well in **Freeze** teams since his **Elemental Skill** pulse triggers the **Shatter** reaction which stops enemies from being **Frozen.**
 
 {% hint style="info" %}
 Zhongli can still be used as the 4th character on **Freeze** teams by positioning his **Stone Stele** to not **Shatter Frozen** enemies.
@@ -44,14 +44,14 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-In all of the teams below, Zhongli universally provides shielding, a universal **Resistance** debuff on his **Jade Shield,** and Crowd Control via his **Elemental Burst**.
+In all of the teams below, Zhongli universally provides shielding, a **Universal** **Resistance** debuff on his **Jade Shield,** and Crowd Control via his **Elemental Burst**.
 {% endhint %}
 
 ****[**Anemo**](../anemo/)****
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
 
-* Zhongli's shielding and **Resistance** debuffing are especially useful in Xiao teams due to Xiao's poor survivability and the lack of convenient abilities that debuff **Anemo Resistance**. He can also provide **Geo Resonance**.
+* Zhongli's shielding and **Universal Resistance** debuffing are especially useful in Xiao teams due to Xiao's poor survivability and the lack of convenient abilities that debuff **Anemo Resistance**. He can also provide **Geo Resonance**.
 
 [**Geo**](../../teams/geo.md)****
 
@@ -69,7 +69,7 @@ In all of the teams below, Zhongli universally provides shielding, a universal *
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
 
-* Zhongli's **Jade Shield** allows Eula to **Normal Attack** as much as possible to fully enhance her **Elemental Burst's** damage**.**
+* Zhongli's **Jade Shield** allows Eula to **Normal Attack** as much as possible and debuff **Physical Resistance** to fully enhance her **Elemental Burst's** damage**.**
 
 ****[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)****
 
