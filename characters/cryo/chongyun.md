@@ -65,8 +65,8 @@ Click on the team names below for more details on how the team works and alterna
 * A variation of the popular "National Team" where Chongyun acts as a Burst DPS and Support.
 * This variation allows for both **Melt** and Reverse **Melt** reactions, and Chongyun's **C2** slightly speeds up the team's rotations.&#x20;
 
-#### [Melt (Cryo)](../../teams/reverse-melt.md)
+#### [Melt (Pyro) ](../../teams/melt.md)
 
-#### &#x20;![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### &#x20;![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* In Reverse **Melt** teams, Chongyun acts as a Burst DPS with his **Elemental Burst**.
+* Chongyun can provide a large amount of Burst DPS with his **Elemental Burst**, particularly when Reverse **Melting** Bennett's **Elemental Burst**.

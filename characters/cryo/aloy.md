@@ -28,6 +28,10 @@
 
 * Aloy can provide **Cryo Resonance** for additional **Critical Rate** and **Energy Particles** for Cryo Main DPS characters.
 
+![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+* Could potentially be used as a Burst DPS when paired with Bennett in order to Melt her **Elemental Burst**.
+
 ## Does Not Work Well With
 
 ![](../../.gitbook/assets/Element\_Electro.webp)
@@ -50,3 +54,9 @@ Click on the team names below for more details on how the team works and alterna
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aloy.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
 * Aloy activates **Cryo Resonance** for additional **Critical Rate** and serves as an **Energy Battery** for the **Main DPS**.
+
+**Melt (Pyro)**
+
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Aloy.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
+
+* Aloy can Reverse **Melt** her **Elemental Burst** to deal significant **Burst DPS**.
