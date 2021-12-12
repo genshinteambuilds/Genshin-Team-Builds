@@ -89,7 +89,7 @@ Click on the team names below for more details on how the team works and alterna
 * A **Melt** team that swaps to Yanfei after Ayaka uses her **Elemental Burst** in order to perform **Charged Attacks** on Yanfei that **Melt** for large amounts of damage.
 * Ayaka's **Elemental Burst** still does a very large amount of damage on this team.
 
-#### [Oneshot](broken-reference/)
+#### [Oneshot](../../teams/oneshot.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
