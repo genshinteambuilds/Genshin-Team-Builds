@@ -4,6 +4,7 @@
 
 * **Off-Field DPS** (Elemental Burst)
 * **Support**: Debuffer (A4)
+* **Main DPS** (Not Recommended)
 
 ## Character Breakdown
 

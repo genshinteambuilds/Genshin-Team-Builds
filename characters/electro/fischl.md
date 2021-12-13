@@ -3,7 +3,7 @@
 ## Roles
 
 * **Off-Field DPS** (Elemental Skill, Elemental Burst)
-* **Main DPS**
+* **Main DPS** (Not Recommended)
 
 ## Character Breakdown
 

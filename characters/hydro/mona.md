@@ -4,6 +4,7 @@
 
 * **Burst DPS**
 * **Support**: Crowd Control (Taunting, Immobilization), Debuffer
+* **Main DPS** (Not Recommended)
 
 ## **Character Breakdown**
 
