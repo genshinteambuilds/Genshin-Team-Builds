@@ -21,10 +21,10 @@
 * **C2** can reset her **Elemental Skill** cooldown if the **Jade Screen** shatters under any circumstances, including from a recast of her **Elemental Skill**.
   * **Elemental Skill** has a six-second internal cooldown on **Energy Particle** generation. **** As such, there should generally be at least six seconds between every cast of her **Elemental Skill**.
 * Ningguang has a very simple **Normal** and **Charged Attack** combo, as **Star Jades** are only given on hit, not upon performing a **Normal Attack**. This combo will consistently make her **charged attacks** cost no stamina.
-  * `N → N → CA (Rinse and Repeat)`
-  * where: `N`  = **Normal Attack** `CA` = **Charged Attack**
+  * `NA → NA → CA (Rinse and Repeat)`
+  * where: `NA`  = **Normal Attack** `CA` = **Charged Attack**
   * **C2** will require Ningguang to perform a combo with her **Elemental Skill** and **Burst** and then her **Normal**/**Charged Attack** combo.
-    * `E → Q → (N → N → CA for 6 seconds) → E → N → N → CA`
+    * `E → Q → (NA → NA → CA for 6 seconds) → E → NA → NA → CA`
     * where: `E` = **Elemental Skill** `Q` = **Elemental Burst**
 * Ningguang's **Normal Attack** animation can be cancelled, allowing her to perform them faster. This can be done by holding down on a walking direction while doing **Normal Attacks**.
 * Ningguang doesn’t require **Elemental Reactions** to deal damage, making her an excellent choice for co-op (where reaction setups are hard to coordinate). However, this means that Ningguang cannot benefit from the various effects provided by **Elemental Reactions** to increase her damage.

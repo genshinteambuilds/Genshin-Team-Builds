@@ -24,8 +24,8 @@
 * Eula’s **Elemental Burst** does NOT **snapshot**.
   * This makes short-lasting buffs **** much less useful for her **Elemental Burst** damage.
 * The typical rotation for Eula's **Elemental Burst** setup is:
-  * `E → Q → N → N → N → N → E (Hold) → N → N → N → N`&#x20;
-  * where: `N` = **Normal Attack** `E` = **Elemental Skill** `Q` = **Elemental Burst**
+  * `E → Q → NA → NA → NA → NA → E (Hold) → NA → NA → NA → NA`&#x20;
+  * where: `NA` = **Normal Attack** `E` = **Elemental Skill** `Q` = **Elemental Burst**
 
 ## **Works Well With**
 

@@ -7,9 +7,9 @@
 
 ## **Character Breakdown**
 
-* **Elemental Skill** knocks back enemies near Hu Tao on activation and buffs Hu Tao’s **Attack** based on her maximum **HP**. It also increases her resistance to **interruption**.
+* **Elemental Skill** knocks back enemies near Hu Tao on activation and buffs Hu Tao’s **Attack** based on her **Max HP**. It also increases her resistance to **interruption.**
 * **Elemental Skill** infuses Hu Tao’s **Normal Attack** and **Charged Attacks** with **Pyro**. Using **Charged Attacks** applies **Blood Blossom** to the enemies hit. Enemies affected by **Blood Blossom** will take **Pyro** damage periodically.
-* **Elemental Burst** both deals a large amount of damage in an AoE around her and heals Hu Tao based on the amount of enemies hit with a maximum of 5 enemies.
+* **Elemental Burst** both deals a large amount of damage in an **AoE** around her and heals Hu Tao based on the amount of enemies hit with a maximum of 5 enemies.
 * **Elemental Burst** damage and healing are increased if Hu Tao’s **HP** is equal to or less than 50%
 * **A4** increases Hu Tao's **Pyro Damage** by 33% if her **HP** is equal to or less than 50%
 
@@ -24,7 +24,7 @@
     * `NA` = **Normal Attack** `CA` = **Charged Attack** `JC` = **Jump Cancel** `DC` = **Dash Cancel**
     * Note: `NA → CA` is the result of using a **Charged Attack**. Hu Tao will always start her **Charged Attack** with an initial **Normal Attack**.
     * Animation cancelling the end of the **Charge Attack** is necessary for optimal damage if using `NA → CA`. Can be done with **Dash** or **Jump**.
-  * Dash Cancels provide more damage overall in Hu Tao's attack combo but it isn't recommended at **C0** because of the **Stamina Consumption** from both the **Dash** and **Charged Attack.**
+  * Dash Cancels provide more damage overall in Hu Tao's attack combo but it isn't recommended at **C0** because of the **Stamina** consumption from both the **Dash** and **Charged Attack.**
 * **Elemental Burst** is mainly used at the end of her attack combo just before her **Elemental Skill** expires or at an emergency when Hu Tao needs to dodge an attack or heal.
 
 ## **Works Well With**
@@ -39,20 +39,20 @@
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)
 
-* As with all Elemental Damage DPS, **Anemo** Supports work well by reducing the enemy's **Elemental Resistance** via **Viridescent Venerer** provided there is a 2nd pyro in your team. **Anemo** characters often also supply useful grouping CC and additional offensive party buffs.
+* As with all **Elemental Damage** DPS characters, **Anemo** supports work well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set provided that there is a 2nd **Pyro** character on the team. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 
 ![](../../.gitbook/assets/Element\_Geo.webp)
 
 * **Geo** characters work well with Hu Tao as she doesn't have good **Pyro** application. Zhongli can work in debuffing enemy **Elemental Resistances** with just having his **Jade Shield** active. His shield also provides protection from damage as Hu Tao sacrifices her **HP** when casting her **Elemental Skill**.
-* Other **Geo** Characters can increase Hu Tao's **Elemental Mastery** like Albedo with his **Elemental Burst** and also provide **Geo Resonance** that increases Hu Tao's Damage while shielded.
-* Can also be equipped with **Instructor** 4-set for **Elemental Mastery** Buff.
+* Other **Geo** Characters can increase Hu Tao's **Elemental Mastery** like Albedo with his **Elemental Burst** and also provide **Geo Resonance** that increases Hu Tao's damage while shielded.
+* Can also be equipped with **Instructor** 4-set for additional **Elemental Mastery** Buff.
 
 ## **Does Not Work Well With**
 
 ****![](../../.gitbook/assets/Element\_Cryo.webp)****
 
-* **Melt** team compositions using Hu Tao typically do not work well due to the inability to apply **Cryo** Aura fast enough that Hu Tao will sometimes enables the **Cryo** units instead. Using two **Cryo** characters does not solve it's inconsistency.&#x20;
-  * However if there is an alternative source of damage for Hu Tao like the **Vaporize** reaction on times you cannot **Melt** then it becomes a powerful team option.
+* **Melt** team compositions using Hu Tao typically do not work well due to the inability to apply **Cryo** Aura fast enough that Hu Tao will sometimes enable the **Cryo** characters instead.
+  * However if there is an alternative source of damage for Hu Tao like the **Vaporize** reaction on times you cannot **Melt** then it becomes a viable team option.
 
 ![](../../.gitbook/assets/Element\_Electro.webp)
 
@@ -61,7 +61,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
-* Interferes with Hu Tao's **Vaporize** reactions which will result in a Damage loss.
+* Interferes with Hu Tao's **Vaporize** reactions which will results in a Damage loss.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
@@ -89,13 +89,13 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) or ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-* A Oneshot team composition where Hu Tao and Mona/Ayaka typically only cast their **Elemental Bursts** and the fight ends before any actual use of **Normal Attacks** needs to take place. For a detailed look at how Oneshots work, check out[ **Oneshot**](broken-reference/) page.
+* A Oneshot team where Hu Tao and Mona/Ayaka typically only cast their **Elemental Bursts** and the fight ends before any actual use of **Normal Attacks** needs to take place. For a detailed look at how Oneshots work, check out[ **Oneshot**](broken-reference/) page.
 
 ****[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * A **Vaporize (Pyro)** team with **Geo** Units where Hu Tao can **Vaporize** her attacks using the **Hydro** applied to the enemy by Xingqiu's **Elemental Burst**.
 * Zhongli provides **Elemental Resistance** debuff with his shield while also protecting from all sources of damage.
@@ -107,3 +107,4 @@ Click on the team names below for more details on how the team works and alterna
 * A **Vaporize (Pyro)** team where Hu Tao can **Vaporize** her attacks using the **Hydro** applied to the enemy by Xingqiu's **Elemental Burst**.
 * Sucrose provides **Elemental Mastery** and **Elemental Resistance** debuff with **Viridescent Venerer.**
 * Amber can apply **Pyro** with her **Elemental Burst** for **Anemo** characters create **Swirl** reactions**,** and activate **Pyro Resonance**.
+  * If she has **Elegy for the End** equipped she can provide an **Attack** and **Elemental Mastery** buff.

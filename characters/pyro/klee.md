@@ -7,22 +7,22 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** throws a Jumpty Dumpty, which bounces 3 times and explodes into 8 mines. Jumpty Dumpty starts with 2 charges.
-* **A1** gives Klee a 50% chance to gain an explosive spark when normal attacks and Jumpty Dumpty hit opponents. When in possession of a spark, Klee’s next **Charged Attack** will cost 0 stamina and have 50% increased damage.
-* Elemental Burst summons 4 Sparks ‘n’ Splash 5 times over 10 seconds, dealing AoE **Pyro** Damage to nearby enemies.
-* **A4** gives party members 2 **Elemental Energy** when Klee’s **Charged Attacks** deals **Critical Damage.**
+* **Elemental Skill** throws a **Jumpty Dumpty,** which bounces 3 times and explodes into 8 mines. **Jumpty Dumpty** starts with 2 charges.
+* **A1** gives Klee a 50% chance to gain an explosive spark when **Normal attacks** and J**umpty Dumpty** hits enemies. When in possession of a spark, Klee’s next **Charged Attack** will cost no **Stamina** and have 50% increased damage.
+* **Elemental Burst** summons 4 Sparks ‘n’ Splash 5 times over 10 seconds, dealing **AoE** **Pyro** Damage to nearby enemies.
+* **A4** gives party members 2 energy when Klee’s **Charged Attacks** deals **Critical Damage.**
 
 ## Additional Notes
 
-* **C2** allows Klee to be used as support by throwing out her 2 Jumpty Dumpty and switching out, as stepping on the mines reduces opponents **Defense** by 23% for 10 seconds.
-* At **C6**, Klee buffs all party members **Pyro** Damage by 10% for 25s after using her **Elemental Burst.**
+* **C2** allows Klee to be used as support by throwing out her 2 **Jumpty Dumpty** and switching out, as the mines reduces enemies' **Defense** by 23% for 10 seconds.
+* At **C6**, Klee provides 3 energy to the party every 3 seconds while her **Elemental Burst** is active. Klee also buffs all party members **Pyro** damage by 10% for 25 seconds after casting her **Elemental Burst.**
 
 ## Works Well With
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
 
-* In the main DPS role, Klee’s rapid **Pyro** application allows her to be used in Pure **Pryo**, **Melt** (**Cryo**) or **Vaporize** teams.
-* In Klee’s **Vaporize** comp, do not use Klee’s **Elemental Burst** or else **Vaporize** will be inconsistent.
+* In the main DPS role, Klee’s rapid **Pyro** application allows her to be used in **Pure** **Pryo**, **Melt (Cryo)** or **Vaporize** teams.
+* In Klee’s **Vaporize** teams, her **Elemental Burst** can apply **Pyro** too fast and causes **Vaporize** reactions to be inconsistent.
 
 ## Doesn’t Work Well With
 
@@ -46,18 +46,12 @@ In all teams below, Bennett acts as the team's healer while providing an **Attac
 
 * Klee's goal is to deal as much **Pyro** damage as possible through her **Charged Attack**, **Elemental Skill** during her **Elemental Burst**.&#x20;
 * Xiangling and Bennett provide off-field **Pyro** application and team buffing respectively.
-* Kazuha provides resistance shred through 4pc **Viridescent Venerer** and team buffing as well.
-
-****[**Melt (Cryo)** ](../../teams/reverse-melt.md)****
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
-
-* In this team Klee deals as much damage as possible through her **Charged Attack**, **Elemental Skill** and **Elemental Burst**, while applying **Pyro** for Rosaria to create **Melt** reactions.
+* Kazuha provides **Pyro Resistance** debuff through **Viridescent Venerer** 4-set and buffs **Pyro** damage with his **A4**.
 
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Klee is the Main DPS in the team as she creates **Vaporize** reactions with her **Charged Attack**, **Elemental Skill** and **Elemental Burst**.
+* Klee triggers **Vaporize** reactions with her **Charged Attack**, **Elemental Skill** and **Elemental Burst**.
 * Xingqiu applies **Hydro** on enemies with his **Elemental Burst** and provides resistance to interruption.
-* Sucrose debuffs enemies' **Pyro Resistanc**e with **Viridescent Venerer** while also buffing **Elemental Mastery**.
+* Sucrose debuffs enemies' **Pyro Resistance** with **Viridescent Venerer** while also buffing **Elemental Mastery**.
