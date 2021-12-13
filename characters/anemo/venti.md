@@ -46,7 +46,7 @@ Click on the team names below for more details on how the team works and alterna
 * He can also decrease enemy **Anemo Resistance** to enemies when he has **C2** or **C6** active.
 
 {% hint style="info" %}
-In all the teams listed below, Venti universally provides debuffing utility using the **Viridescent Venerer** 4-set.
+In the following teams, Venti provides debuffing utility using the **Viridescent Venerer** 4-set.
 {% endhint %}
 
 [**Electro-Charged (Electro)**](../../teams/electro-charged.md)
