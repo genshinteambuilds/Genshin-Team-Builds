@@ -1,18 +1,22 @@
 # Electro-Charged (Hydro)
 
-This team composition focuses on the **Electro-Charged** Elemental Reaction that requires **Hydro** and **Electro** to be applied to an enemy. It will deal **Electro** Damage and Stagger the affected unit and can deal **Electro** Damage to other nearby enemy units affected by **Hydro**. **Electro-Charged** teams will be focused on keeping this reaction on as many enemy units as possible as long as possible, dealing consistent additional DPS while providing some crowd control.
+This team composition focuses on the **Electro-Charged** Elemental Reaction that requires **Hydro** and **Electro** to be applied to an enemy. It will deal **Electro Damage**, **Stagger** the affected unit and deal **Electro** Damage to enemy units affected by **Hydro** in close proximity.&#x20;
 
-The optimal party setup would be to have:
+**Electro-Charged** teams will be focused on keeping this reaction on as many enemy units as possible, for as long as possible to deal small constant DPS that sums up overtime.
 
-* **Hydro** unit Main DPS&#x20;
-* **Electro** unit Core Support
+**Anemo** characters with **Viridescent Venerer** are recommended due to the ease of swirling both **Electro** and **Hydro** and maintaining **Hydro** through **Swirls**. &#x20;
+
+The optimal party setup is as follows:
+
+* **Electro** unit Main DPS
+* **Hydro** unit Core Support
 * Flex Support
 * Healer / Shielder
 
 {% hint style="info" %}
-**Electro-Charged** is considered a Transformative Elemental Reaction so it's base DMG scales off of the level of the character that triggered it and it cannot critically strike.
+**Electro-Charged** is considered a Transformative **Elemental Reaction** so its damage scales off of the level of the character that triggered it and it cannot deal **Critical DMG**.
 
-Even though its damage scales off of **Elemental Mastery**, it is generally recommended against gearing for **Elemental Mastery** as it has poor scaling in comparison to **Melt/Vaporize**.
+Even though its damage scales off of **Elemental Mastery**, it is generally not recommended to gear characters for **Elemental Mastery** due to its poor scalings compared to building for a character's talent damage.
 {% endhint %}
 
 {% hint style="info" %}
@@ -45,7 +49,7 @@ Refer to the character notes below for how characters work in this particular te
 
 |                                                                Character                                                                | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | :-------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><img src="../.gitbook/assets/UI_AvatarIcon_Tartaglia.png" alt=""></p><p><a href="../characters/hydro/tartaglia.md">Tartaglia</a></p> | <ul><li>Can apply AoE <strong>Hydro</strong> at a fast rate with his Melee Form <strong>Normal Attacks</strong> and <strong>Charged Attacks</strong> from <strong>Elemental Skill</strong> allowing strong setup for <strong>Electro-Charged</strong> reactions. He deals significant AoE <strong>Hydro</strong> Damage and <strong>Electro-Charged</strong> adds even more AoE Damage along with stagger.</li><li>Focuses on <strong>Charged Attacks</strong> in Melee Form along with <strong>Elemental Burst</strong> to deal damage.</li></ul> |
+| <p><img src="../.gitbook/assets/UI_AvatarIcon_Tartaglia.png" alt=""></p><p><a href="../characters/hydro/tartaglia.md">Tartaglia</a></p> | <ul><li>Can apply <strong>AoE Hydro</strong> at a fast rate with his Melee Form <strong>Normal Attacks</strong> and <strong>Charged Attacks</strong> from <strong>Elemental Skill</strong> allowing strong setup for <strong>Electro-Charged</strong> reactions. He deals significant AoE <strong>Hydro</strong> Damage and <strong>Electro-Charged</strong> adds even more AoE Damage along with stagger.</li><li>Focuses on <strong>Charged Attacks</strong> in Melee Form along with <strong>Elemental Burst</strong> to deal damage.</li></ul> |
 |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Kokomi.png" alt=""></p><p><a href="../characters/hydro/kokomi.md">Kokomi</a></p>     | <ul><li>Can apply <strong>Hydro</strong> at a fast rate with her <strong>Normal Attacks</strong> and <strong>Charged Attacks</strong> at a range. <strong>Elemental Skill</strong> adds even more AoE <strong>Hydro</strong> application.</li><li>Can focus on building large amounts of <strong>Elemental Mastery</strong> without giving up large amounts of damage due to her <strong>Critical Rate</strong> reduction. </li></ul>                                                                                                              |
 |          <p><img src="../.gitbook/assets/UI_AvatarIcon_Mona.png" alt=""><br><a href="../characters/hydro/mona.md">Mona</a></p>          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Barbara.png" alt=""><br><a href="../characters/hydro/barbara.md">Barbara</a></p>     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
