@@ -3,7 +3,7 @@
 ## Roles
 
 {% hint style="warning" %}
-It is generally not recommended to use Amber Support without **C6** or/and the **Elegy for the End** bow**.**
+It is generally not recommended to use Amber Support without **C6** and/or the **Elegy for the End** bow**.**
 
 She is also generally not recommended as a DPS as she is arguably one of the weaker damage dealers available.
 {% endhint %}

@@ -9,7 +9,7 @@
 
 * **Elemental Skill** deals **AoE** **Cryo** damage and creates a field on the ground within which all **Sword**, **Claymore** and **Polearm**-wielding characters' weapons will be infused with **Cryo**.
   * **A4** causes a second instance of **AoE Cryo** damage when the field expires and reduces the **Cryo Resistance** of enemies that take damage from this.
-* **Elemental Burst** summons 3 spirit blades that deal large AoE **Cryo** damage and knock enemies back.
+* **Elemental Burst** summons 3 spirit blades that deal large **AoE** **Cryo** damage and knock enemies back.
 
 ## **Additional Notes**
 

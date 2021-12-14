@@ -12,10 +12,10 @@
   * **Elemental Skill (Tap)** deals **Cryo** damage and gains Eula a stack of Grimheart.
     * Grimheart increases Eula's **Defense** and resistance to interruption. A maximum of two stacks can be held.
   * **Elemental Skill (Hold)** consumes all Grimheart stacks, deals **Cryo** damage, and activates the following effects:
-    * Each stack of Grimheart consumed creates an instance of AoE **Cryo** damage.
+    * Each stack of Grimheart consumed creates an instance of **AoE** **Cryo** damage.
     * If any Grimheart stacks are consumed, surrounding enemies will have their **Physical** and **Cryo Resistance** debuffed.
     * At **A4**, if two stacks of Grimheart are consumed, Eula will create a miniature version of her **Elemental Burst** which explodes instantly, dealing **Physical** damage.
-* **Elemental Burst** first deals **Cryo Damage** to nearby enemies, then **** creates a **Lightfall Sword** that deals huge AoE **Physical** Damage after a set duration, or if Eula is switched out.
+* **Elemental Burst** first deals **Cryo Damage** to nearby enemies, then **** creates a **Lightfall Sword** that deals huge **AoE Physical** Damage after a set duration, or if Eula is switched out.
   * **Elemental Burst** damage will increase based on how many times Eula hits enemies during its duration.
   * **Elemental Burst** grants a stack of Grimheart and resets the cooldown of her **Elemental Skill**. As such, Eula should generally always use her **Elemental Skill (Tap)** before using her **Elemental Burst**.
 

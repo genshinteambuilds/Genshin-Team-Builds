@@ -39,7 +39,9 @@ Refer to the character notes below for how characters work in this particular te
 
 ## Flex Support
 
-**NOTE:** Very flexible slot as the team has few requirements. Mainly there to contribute extra damage and allow for Swirls.
+{% hint style="info" %}
+Very flexible slot as the team has few requirements. Mainly there to contribute extra damage and allow for **Swirl** reactions.
+{% endhint %}
 
 |                                                                Character                                                               | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | :------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,7 +66,9 @@ Refer to the character notes below for how characters work in this particular te
 
 ## Sample Team Composition
 
-**NOTE:** Teams are very flexible as there are very few requirements and synergies in an **Anemo**-based team.
+{% hint style="info" %}
+Teams are very flexible as there are very few requirements and synergies in an **Anemo**-based team.
+{% endhint %}
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
