@@ -10,7 +10,7 @@
   * **Elemental Skill (Tap)** fires two homing projectiles that deal **Cryo** damage and creates a Shield.
   * **Elemental Skill (Hold)** fires five homing projectiles that deal **Cryo** damage and creates a more powerful Shield.
   * **A1** increases movement speed and decreases **Stamina** consumption of characters shielded by Diona's **Elemental Skill.**
-  * The **** shield's strength scales with Diona's **Max HP**.
+  * The **** Shield's Damage Absorption scales with Diona's **Max HP**.
   * Diona's **Elemental Skill's** shield duration is affected by the number of projectiles that hit enemies.
 * **Elemental Burst** creates a field that deals continuous **Cryo** damage in an AoE and continuously heals characters that stand in it.
 

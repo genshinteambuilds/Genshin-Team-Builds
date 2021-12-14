@@ -8,9 +8,9 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** summons **Gouba**, a pet who deals four instances of **Pyro** Damage over a few seconds and will remain on the field even without Xiangling.
-* **Elemental Burst** creates a **Pyro** whirlwind that circles around your character for a few seconds, dealing **Pyro** Damage whenever it comes in contact with an enemy. Like her **Elemental Skill**, it persists even with Xiangling is not on the field.
-* **A4** causes Guoba to drop to a chili upon disappearing. The chili buffs the **Attack** of any character that collects it by 10%.
+* **Elemental Skill** summons **Gouba**, a pet who deals four instances of **Pyro** damage over a few seconds and will remain on the field even without Xiangling.
+* **Elemental Burst** creates a **Pyro** whirlwind that circles around your character for a few seconds, dealing **Pyro** damage whenever it comes in contact with an enemy. Like her **Elemental Skill**, it persists even with Xiangling is not on the field.
+* **A4** causes **Gouba** to drop to a chili upon disappearing. The chili buffs the **Attack** of any character that collects it by 10%.
 
 ## Additional Notes
 
@@ -31,7 +31,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
-* While Tartaglia is played as the Main DPS when paired with Xiangling, he effectively ends up being the Support in this composition, applying constant **Hydro** auras and causing Xiangling’s abilities to consistently **Vaporize**.
+* While Tartaglia is played as the Main DPS when paired with Xiangling, he effectively ends up being the Support, applying constantly **Hydro** on enemies and causing Xiangling’s abilities to consistently **Vaporize**.
   * Childe and Xingqiu have a high rate of **Hydro** application which allows all of Xiangling’s abilities to consistently **Vaporize** for 1.5x more damage.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
@@ -40,13 +40,13 @@
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* As with all Elemental Damage DPS, **Anemo** supports and Zhongli work well by reducing the enemy's **Elemental Resistance** with **Viridescent Venerer** or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
+* As with all **Elemental Damage** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 
 ## Does Not Work Well With
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
 
-* Razor prefers constant **Superconduct** uptime and likes to keep in close quarters with his opponent to deal DPS, with Xiangling, Razor will end up causing frequent **Overloads** which can fly enemies out of your DPS range.
+* Razor prefers constant **Superconduct** uptime and likes to keep in close quarters with his opponent to deal DPS, with Xiangling, Razor will end up causing frequent **Overloads** which can knock back enemies out his range.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)
 
@@ -64,7 +64,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* This team focuses on enabling Ganyu to deal massive damage through **Melt r**eactions provided from Xiangling’s **Pyro** application. It is recommended to build her with Energy Recharge to frequently cast her **Elemental Burst**.
+* This team focuses on enabling Ganyu to deal massive damage through **Melt** reactions provided from Xiangling’s **Pyro** application. It is recommended to build her with Energy Recharge to frequently cast her **Elemental Burst**.
 * Kazuha debuffs enemies **Pyro Resistance** with **Viridescent Venerer**, and buffs Xiangling **Pyro** Damage at the same time with his **A4.**
 * Bennett acts as the team's healer while providing an **Attack** buff from his **Elemental Burst** and **Pyro Resonance**.
 
@@ -74,4 +74,4 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* This team will have Xiangling dealing the bulk of its damage with the **Hydro** unit applying constant **Hydro** auras to the enemy and having Xiangling’s **Elemental Burst** **Vaporize** it.
+* This team will have Xiangling dealing the bulk of its damage with the **Hydro** character applying **Hydro** to the enemy and allowing Xiangling’s **Elemental Burst** to **Vaporize**.

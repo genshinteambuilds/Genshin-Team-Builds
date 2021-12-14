@@ -7,13 +7,14 @@
 
 ## **Character Breakdown**
 
-* **Elemental Skill** is a high cooldown shield that deals **Geo** damage when cast.
+* **Elemental Skill** is a Shield that deals **Geo** damage when cast.
   * **Elemental Skill** does not generate **Energy Particles**.
+  * The Shield's Damage Absorption scales on Noelle's **Defense**.
 * **A1** creates a shield when any character in the party falls below 30% **HP**. This has a cooldown of 60 seconds.
 * **A4** reduces the cooldown of her **Elemental Skill** by 1 second for every 4 **Normal** or **Charged Attacks** that hit enemies. Hitting multiple enemies with one attack will only count as one hit.
 * **Elemental Burst** deals **Geo** damage in a wide area. Noelle gains the following effects:
   * Attack range greatly increased.
-  * Gains a **Geo** infusion which cannot be overridden.
+  * Converts Noelle's **Normal** and **Charged Attack** damage into into **Geo** which cannot be overridden.
   * Gains an **Attack** buff that scales off of her **Defense**.
 
 ## **Additional Notes**

@@ -8,36 +8,36 @@
 ## Character Breakdown
 
 * When Yanfei performs a **Normal Attack** she gains 1 stack of **Scarlet Seals** (Max of 3 stacks). They give the following effects:
-  * Decreases the stamina cost of her **Charged Attacks** by 15%.
+  * Decreases the **Stamina** cost of her **Charged Attacks** by 15%.
   * Increases the damage of her **Charged Attacks**.
-* **Elemental Skill** deals AoE **Pyro** damage and grants the max stack of **Scarlet Seals**.
-* **Elemental Burst** initially deals high amount of AoE **Pyro** damage in an area around her, gaining max stacks of **Scarlet Seals** and applying **Brilliance** to her.
+* **Elemental Skill** deals **AoE** **Pyro** damage and grants the max stack of **Scarlet Seals**.
+* **Elemental Burst** initially deals high amount of **AoE** **Pyro** damage in an area around her, gaining max stacks of **Scarlet Seals** and applying **Brilliance** to her.
   * **Brilliance** is a buff that Yanfei applies to herself which, increases her **Charged Attack** damage and grants **Scarlet Seals** over the period of her **Elemental Burst** is active.
 
 ## Additional Notes
 
 * Her best combo is usually 3 **Normal Attacks** to fully stack her **Scarlet Seals** then followed by 1 **Charged Attack** to consume the **Scarlet Seals** and deal additional damage.
-* **C1** allows Yanfei's **Scarlet Seal** to decrease the stamina cost of Yanfei's **Charged Attacks** by a further 10%, and increases resistance to interruption when performing a **Charged Attack**.
+* **C1** allows Yanfei's **Scarlet Seal** to decrease the **Stamina** cost of Yanfei's **Charged Attacks** by a further 10%, and increases resistance to interruption when performing a **Charged Attack**.
   * This can decrease Yanfei's **Charge Attack** cost by up to 75% at Max Stacks.
 * **C4** creates a shield when Yanfei casts her **Elemental Burst**. This shield absorbs up to 45% of Yanfei's **Max HP** and lasts 15 seconds.
 * **C6** increases the max stacks of **Scarlet Seal** from 3 to 4.
-  * Combined with **C1** this will result in Yanfei's **Charged Attacks** costing no stamina with max stacks of **Scarlet Seal.**
+  * Combined with **C1** this will result in Yanfei's **Charged Attacks** costing no **Stamina** with max stacks of **Scarlet Seal.**
 * Yanfei's **Brilliance** gets cancelled once she leaves the field. This makes her a Selfish DPS as she does significantly more damage with this buff active.
-* **A4** gives other party members a 10% increase in damage after using her **Elemental Burst**, based on how many stacks she gain from **A1** has, it also increases the damage by 1% per stack. This results up to a 20% damage buff.
+* **A4** allows Yanfei's to deal an additional instance of **AoE Pyro** damage equal to 80% of her **Attack** when dealing **Critical Damage** with a **Charged Attack**. This counts as **Charged Attack** damage.
 
 ## Works Well With
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett's **Elemental Burst** provides healing and a massive attack buff, making him a recommended character in most teams. He can also provide **Pyro Resonance** which buffs attack.
+* Bennett's **Elemental Burst** provides healing and a massive **Attack** buff, making him a recommended character in most teams. He can also activate **Pyro Resonance** which also buffs **Attack**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
-* Yanfei is almost always paired with Xingqiu in order to allow her to **Vaporize** her attacks for 1.5x more damage. Check [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md) **** for team compositions and notes.
+* Yanfei is almost always paired with Xingqiu in order to allow her to **Vaporize** her attacks for 1.5x more damage. Check [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md) **** for more details.
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* As with all Elemental Damage DPS, **Anemo** supports and Zhongli work well by reducing the enemy's **Elemental Resistance** with **Viridescent Venerer** or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
+* As with all **Elemental Damage** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
@@ -47,9 +47,9 @@
 
 ![](../../.gitbook/assets/Element\_Electro.webp)
 
-* While Beidou and Fischl can work with Yanfei, **Overload** is still an Elemental Reaction to be avoided as it makes **Vaporize** less consistent.
+* While Beidou and Fischl can work with Yanfei, **Overload** is still an Elemental Reaction to be avoided as it makes **Vaporize** reactions less consistent.
 
-![](../../.gitbook/assets/Element\_Pyro.webp)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)
 
 * Yanfei is better to be used as the only **Pyro** Main DPS in the team as they can steal **Elemental Reactions** from her.
 
