@@ -1,33 +1,12 @@
 # Electro-Charged (Hydro)
 
-This team composition focuses on the **Electro-Charged** Elemental Reaction that requires **Hydro** and **Electro** to be applied to an enemy. It will deal **Electro Damage**, **Stagger** the affected unit and deal **Electro** Damage to enemy units affected by **Hydro** in close proximity.&#x20;
+This team composition focuses on the **Electro-Charged Elemental Reaction** that requires **Hydro** and **Electro** to be applied to an enemy. This reaction deals **Electro Damage** over time to target affected by the reaction as well as to any nearby targets that are **Wet**.
 
-**Electro-Charged** teams will be focused on keeping this reaction on as many enemy units as possible, for as long as possible to deal small constant DPS that sums up overtime.
+This particular page shows **Electro-Charged** teams with a **Hydro** Main DPS character. For **Electro-Charged** teams with **Electro** Main DPS characters, see [Electro-Charged (Electro)](electro-charged.md).
 
-**Anemo** characters with **Viridescent Venerer** are recommended due to the ease of swirling both **Electro** and **Hydro** and maintaining **Hydro** through **Swirls**. &#x20;
-
-The optimal party setup is as follows:
-
-* **Electro** unit Main DPS
-* **Hydro** unit Core Support
-* Flex Support
-* Healer / Shielder
-
-{% hint style="info" %}
-**Electro-Charged** is considered a Transformative **Elemental Reaction** so its damage scales off of the level of the character that triggered it and it cannot deal **Critical DMG**.
-
-Even though its damage scales off of **Elemental Mastery**, it is generally not recommended to gear characters for **Elemental Mastery** due to its poor scalings compared to building for a character's talent damage.
+{% hint style="danger" %}
+**Characters are ranked roughly according to how well they perform in this team composition.**
 {% endhint %}
-
-{% hint style="info" %}
-Characters are ranked roughly according to how well they perform in this team composition.
-
-Most of the characters within a given role are interchangeable except if mentioned above.\
-\
-Refer to the character notes below for how characters work in this particular team composition or click on their portraits for a description of how the character works in general.
-{% endhint %}
-
-
 
 |                                         Main DPS                                         |                                   Core Support / Sub DPS                                   |                                             Flex Support                                            |                                   Healer / Shielder                                  |
 | :--------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |

@@ -2,12 +2,8 @@
 
 Reverse melt teams rely primarily on Xiangling’s constant **Pyro** application to set up melts.
 
-{% hint style="info" %}
-Characters are ranked roughly according to how well they perform in this team composition.
-
-Most of the characters within a given role are interchangeable except if mentioned above.\
-\
-Refer to the character notes below for how characters work in this particular team composition or click on their portraits for a description of how the character works in general.
+{% hint style="danger" %}
+**Characters are ranked roughly according to how well they perform in this team composition.**
 {% endhint %}
 
 |                                       Main DPS                                       |                                  Core Support / Sub DPS                                  |                                     Flex Support                                     |                                   Healer / Shielder                                  |

@@ -4,10 +4,10 @@ The Freeze team and the **Frozen** **Elemental Reaction** require both **Cryo** 
 
 Freeze teams can also typically gain up to 55% **Critical Rate** while the enemies are **Frozen** through making use of the **Blizzard Strayer** 4-set effect and **Cryo Resonance**.
 
-{% hint style="info" %}
-Characters are ranked roughly according to how well they perform in this team composition.
+It is technically possible to use Chongyun's
 
-Refer to the character notes below for how characters work in this particular team composition.
+{% hint style="danger" %}
+**Characters are ranked roughly according to how well they perform in this team composition.**
 {% endhint %}
 
 |                                       Main DPS                                       |                                Core Support / Sub DPS                                |                                            Flex Support                                            |                                   Healer / Shielder                                  |

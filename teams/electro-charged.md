@@ -1,44 +1,25 @@
 # Electro-Charged (Electro)
 
-This team composition focuses on the **Electro-Charged** Elemental Reaction that requires **Hydro** and **Electro** to be applied to an enemy. It will deal **Electro Damage**, **Stagger** the affected unit and deal **Electro** Damage to enemy units affected by **Hydro** in close proximity.&#x20;
+This team composition focuses on the **Electro-Charged Elemental Reaction** that requires **Hydro** and **Electro** to be applied to an enemy. This reaction deals **Electro Damage** over time to target affected by the reaction as well as to any nearby targets that are **Wet**.
 
-**Electro-Charged** teams will be focused on keeping this reaction on as many enemy units as possible, for as long as possible to deal small constant DPS that sums up overtime.
+This particular page shows **Electro-Charged** teams with a **Electro** Main DPS character. For **Electro-Charged** teams with **Hydro** Main DPS characters, see [Electro-Charged (Hydro)](electro-charged-hydro.md).
 
-**Anemo** characters with **Viridescent Venerer** are recommended due to the ease of swirling both **Electro** and **Hydro** and maintaining **Hydro** through **Swirls**. &#x20;
-
-The optimal party setup is as follows:
-
-* **Electro** unit Main DPS
-* **Hydro** unit Core Support
-* Flex Support
-* Healer / Shielder
-
-{% hint style="info" %}
-**Electro-Charged** is considered a Transformative **Elemental Reaction** so its damage scales off of the level of the character that triggered it and it cannot deal **Critical DMG**.
-
-Even though its damage scales off of **Elemental Mastery**, it is generally not recommended to gear characters for **Elemental Mastery** due to its poor scalings compared to building for a character's talent damage.
+{% hint style="danger" %}
+**Characters are ranked roughly according to how well they perform in this team composition.**
 {% endhint %}
 
-{% hint style="info" %}
-Characters are ranked roughly according to how well they perform in this team composition.
-
-Most of the characters within a given role are interchangeable except if mentioned above.\
-\
-Refer to the character notes below for how characters work in this particular team composition or click on their portraits for a description of how the character works in general.
-{% endhint %}
-
-|                                       Main DPS                                      |                                Core Support / Sub DPS                               |                                             Flex Support                                            |                                 Healer / Shielder                                 |
-| :---------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
-|  <p><img src="../.gitbook/assets/UI_AvatarIcon_Keqing.png" alt=""></p><p>Keqing</p> | <p><img src="../.gitbook/assets/UI_AvatarIcon_Xingqiu.png" alt=""></p><p>Xingqu</p> |          <p><img src="../.gitbook/assets/UI_AvatarIcon_Kazuha.png" alt=""></p><p>Kazuha</p>         | <p><img src="../.gitbook/assets/UI_AvatarIcon_Bennett.png" alt=""><br>Bennett</p> |
-| <p><img src="../.gitbook/assets/UI_AvatarIcon_Shougun.png" alt=""></p><p>Raiden</p> |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Mona.png" alt=""></p><p>Mona</p>   |          <p><img src="../.gitbook/assets/UI_AvatarIcon_Sucrose.png" alt=""><br>Sucrose</p>          |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Jean.png" alt=""><br>Jean</p>    |
-|     <p><img src="../.gitbook/assets/UI_AvatarIcon_Lisa.png" alt=""><br>Lisa</p>     |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Kokomi.png" alt=""></p><p>Kokomi</p> |            <p><img src="../.gitbook/assets/UI_AvatarIcon_Venti.png" alt=""><br>Venti</p>            | <p><img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""><br>Zhongli</p> |
-|                                                                                     |                                                                                     |           <p><img src="../.gitbook/assets/UI_AvatarIcon_Beidou.png" alt=""><br>Beidou</p>           |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Kokomi.png" alt=""><br>Kokomi</p>  |
-|                                                                                     |                                                                                     |           <p><img src="../.gitbook/assets/UI_AvatarIcon_Fischl.png" alt="">​<br>Fischl</p>          | <p><img src="../.gitbook/assets/UI_AvatarIcon_Barbara.png" alt=""><br>Barbara</p> |
-|                                                                                     |                                                                                     |             <p>​<img src="../.gitbook/assets/UI_AvatarIcon_Lisa.png" alt=""><br>Lisa</p>            |   <p><img src="../.gitbook/assets/UI_AvatarIcon_Qiqi.png" alt=""></p><p>Qiqi</p>  |
-|                                                                                     |                                   <p>​​</p><p></p>                                  |          <p><img src="../.gitbook/assets/UI_AvatarIcon_Sara.png" alt=""><br>Kujou Sara</p>          |   <p><img src="../.gitbook/assets/UI_AvatarIcon_Diona.png" alt=""><br>Diona</p>   |
-|                                                                                     |                                                                                     |           <p><img src="../.gitbook/assets/UI_AvatarIcon_Albedo.png" alt=""><br>Albedo</p>           |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Sayu.png" alt=""><br>Sayu</p>    |
-|                                                                                     |                                                                                     |   <p><img src="../.gitbook/assets/UI_AvatarIcon_Lumine_Anemo.png" alt=""><br>Traveler (Anemo)</p>   |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Noelle.png" alt=""><br>Noelle</p>  |
-|                                                                                     |                                                                                     | <p><img src="../.gitbook/assets/ui_avataricon_aether_electro.png" alt=""><br>Traveler (Electro)</p> |                                   <p></p><p></p>                                  |
+|                                       Main DPS                                      |                                Core Support / Sub DPS                                |                                             Flex Support                                            |                                 Healer / Shielder                                 |
+| :---------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+|  <p><img src="../.gitbook/assets/UI_AvatarIcon_Keqing.png" alt=""></p><p>Keqing</p> | <p><img src="../.gitbook/assets/UI_AvatarIcon_Xingqiu.png" alt=""></p><p>Xingqui</p> |          <p><img src="../.gitbook/assets/UI_AvatarIcon_Kazuha.png" alt=""></p><p>Kazuha</p>         | <p><img src="../.gitbook/assets/UI_AvatarIcon_Bennett.png" alt=""><br>Bennett</p> |
+| <p><img src="../.gitbook/assets/UI_AvatarIcon_Shougun.png" alt=""></p><p>Raiden</p> |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Mona.png" alt=""></p><p>Mona</p>    |          <p><img src="../.gitbook/assets/UI_AvatarIcon_Sucrose.png" alt=""><br>Sucrose</p>          |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Jean.png" alt=""><br>Jean</p>    |
+|     <p><img src="../.gitbook/assets/UI_AvatarIcon_Lisa.png" alt=""><br>Lisa</p>     |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Kokomi.png" alt=""></p><p>Kokomi</p>  |            <p><img src="../.gitbook/assets/UI_AvatarIcon_Venti.png" alt=""><br>Venti</p>            | <p><img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""><br>Zhongli</p> |
+|                                                                                     |                                                                                      |           <p><img src="../.gitbook/assets/UI_AvatarIcon_Beidou.png" alt=""><br>Beidou</p>           |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Kokomi.png" alt=""><br>Kokomi</p>  |
+|                                                                                     |                                                                                      |           <p><img src="../.gitbook/assets/UI_AvatarIcon_Fischl.png" alt="">​<br>Fischl</p>          | <p><img src="../.gitbook/assets/UI_AvatarIcon_Barbara.png" alt=""><br>Barbara</p> |
+|                                                                                     |                                                                                      |             <p>​<img src="../.gitbook/assets/UI_AvatarIcon_Lisa.png" alt=""><br>Lisa</p>            |   <p><img src="../.gitbook/assets/UI_AvatarIcon_Qiqi.png" alt=""></p><p>Qiqi</p>  |
+|                                                                                     |                                   <p>​​</p><p></p>                                   |          <p><img src="../.gitbook/assets/UI_AvatarIcon_Sara.png" alt=""><br>Kujou Sara</p>          |   <p><img src="../.gitbook/assets/UI_AvatarIcon_Diona.png" alt=""><br>Diona</p>   |
+|                                                                                     |                                                                                      |           <p><img src="../.gitbook/assets/UI_AvatarIcon_Albedo.png" alt=""><br>Albedo</p>           |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Sayu.png" alt=""><br>Sayu</p>    |
+|                                                                                     |                                                                                      |   <p><img src="../.gitbook/assets/UI_AvatarIcon_Lumine_Anemo.png" alt=""><br>Traveler (Anemo)</p>   |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Noelle.png" alt=""><br>Noelle</p>  |
+|                                                                                     |                                                                                      | <p><img src="../.gitbook/assets/ui_avataricon_aether_electro.png" alt=""><br>Traveler (Electro)</p> |                                   <p></p><p></p>                                  |
 
 ## Main DPS
 

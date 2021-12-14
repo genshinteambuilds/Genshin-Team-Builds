@@ -8,10 +8,8 @@ The **Hydro** character enables the **Frozen** reaction and can be boosted by 15
 Note, **Freeze** teams with a **Hydro** main DPS is not a very well supported archetype. Any DPS listed below Childe should be considered very off meta and not recommended.
 {% endhint %}
 
-{% hint style="info" %}
-Characters are ranked roughly according to how well they perform in this team composition.
-
-Refer to the character notes below for how characters work in this particular team composition.
+{% hint style="danger" %}
+**Characters are ranked roughly according to how well they perform in this team composition.**
 {% endhint %}
 
 |                                        Main DPS                                       |                                Core Support / Sub DPS                                |                                                                                                                      Flex Support                                                                                                                     |                                    Healer/Shielder                                    |
