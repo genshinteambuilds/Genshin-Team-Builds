@@ -7,7 +7,7 @@ The Freeze team and the **Frozen** **Elemental Reaction** require both **Cryo** 
 This page contains **Freeze** teams with a **Hydro** Main DPS character. For **Freeze** teams with **Cryo** Main DPS characters, see [Freeze (Cryo)](freeze.md).
 
 {% hint style="info" %}
-Note, **Freeze** teams with **Hydro** Main DPS characters are currently not a very well supported archetype. While these may work, you may find yourself struggling to deal damage as fast as other team compositions.
+**Freeze** teams with **Hydro** Main DPS characters are currently not a very well supported archetype. While these may work, you may find yourself struggling to deal damage as fast as other team compositions.
 {% endhint %}
 
 {% hint style="danger" %}

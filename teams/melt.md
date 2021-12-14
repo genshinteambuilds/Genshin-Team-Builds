@@ -3,11 +3,13 @@
 Melt comps are centered around applying **Cryo** in order to use **Pyro’s** double damage reaction. Note that it is sometimes very difficult to make the elemental application order correct, and if an incorrect elemental application order is used, the reaction will reverse and result in **Cryo** stealing all reactions and reverse **Melting** instead. Usually, these comps will be a mixture of **Melt** and reverse **Vaporize** reactions due to downtime and practicality.
 
 {% hint style="info" %}
-Characters are ranked roughly according to how well they perform in this team composition.
-
-Most of the characters within a given role are interchangeable except if mentioned above.\
+Melt teams with **Pyro** Main DPS characters are currently not a well supported archetype. The teams provided here are primarily focused on extremely high **Elemental Burst** damage similar to [Oneshot](oneshot.md) team compositions.\
 \
-Refer to the character notes below for how characters work in this particular team composition or click on their portraits for a description of how the character works in general.
+If you fail to dispatch enemies with the **Elemental Bursts**, you may find yourself struggling to deal damage while recharging energy and while the **Elemental Bursts** are on cooldown.
+{% endhint %}
+
+{% hint style="danger" %}
+**Characters are ranked roughly according to how well they perform in this team composition.**
 {% endhint %}
 
 |                                      Main DPS                                      |                                Core Support / Sub DPS                                |                                     Flex Support                                     |                                   Healer / Shielder                                  |
