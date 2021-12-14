@@ -2,7 +2,7 @@
 
 This team composition focuses on the **Electro-Charged Elemental Reaction** that requires **Hydro** and **Electro** to be applied to an enemy. This reaction deals **Electro Damage** over time to target affected by the reaction as well as to any nearby targets that are **Wet**.
 
-This particular page shows **Electro-Charged** teams with a **Electro** Main DPS character. For **Electro-Charged** teams with **Hydro** Main DPS characters, see [Electro-Charged (Hydro)](electro-charged-hydro.md).
+This page contains **Electro-Charged** teams with a **Electro** Main DPS character. For **Electro-Charged** teams with **Hydro** Main DPS characters, see [Electro-Charged (Hydro)](electro-charged-hydro.md).
 
 {% hint style="danger" %}
 **Characters are ranked roughly according to how well they perform in this team composition.**

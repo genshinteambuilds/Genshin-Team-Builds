@@ -10,8 +10,12 @@ If you have two or more **Cryo** units in your party, you will gain **Cryo Reson
 If you add an extra **Electro** Unit into your Party you will gain **Electro Resonance** which generates **Electro** particles when you perform **Electro**-related **Elemental Reactions**. (i.e. **Electro-Charged**, **Overload** and **Superconduct**)
 {% endhint %}
 
-{% hint style="danger" %}
-**Characters are ranked roughly according to how well they perform in this team composition.**
+{% hint style="info" %}
+Characters are ranked roughly according to how well they perform in this team composition.
+
+Most of the characters within a given role are interchangeable except if mentioned below.\
+\
+Refer to the character notes below for how characters work in this particular team composition or click on their portraits for a description of how the character works in general.
 {% endhint %}
 
 

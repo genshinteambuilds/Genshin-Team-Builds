@@ -2,8 +2,12 @@
 
 **Geo** Teams do not have an **Elemental Reaction** to amplify their damage. This means building a **Geo** team is very straightforward as it will mainly be 2 **Geo** Units for **Geo Resonance**, and then find other sources of damage and utility using the last two slots, either via buffs, turrets, or **Pyro Resonance** since almost nothing else benefits in their damage.
 
-{% hint style="danger" %}
-**Characters are ranked roughly according to how well they perform in this team composition.**
+{% hint style="info" %}
+Characters are ranked roughly according to how well they perform in this team composition.
+
+Most of the characters within a given role are interchangeable except if mentioned above.\
+\
+Refer to the character notes below for how characters work in this particular team composition or click on their portraits for a description of how the character works in general.
 {% endhint %}
 
 |                                                                Main DPS                                                               |                                                       Support / Resonance                                                       |                                                              Flex Support                                                              |                                                         Healer / Shielder                                                        |

@@ -2,12 +2,12 @@
 
 **Anemo** Main DPS do not have **Elemental Reactions** to amplify their damage. As such, most team compositions focus on buffing the Main DPS and ensuring that the Main DPS's **Elemental Burst** is readily available.
 
-Typically, another **Anemo** character is added to the team to help provide **Energy Particles** to the Main DPS.
+{% hint style="info" %}
+Characters are ranked roughly according to how well they perform in this team composition.
 
-Besides the Healer, the final character on the team is often one that deals consistent Off-Field DPS.
-
-{% hint style="danger" %}
-**Characters are ranked roughly according to how well they perform in this team composition.**
+Most of the characters within a given role are interchangeable except if mentioned above.\
+\
+Refer to the character notes below for how characters work in this particular team composition or click on their portraits for a description of how the character works in general.
 {% endhint %}
 
 |                                         Main DPS                                        |                                   Support / Battery                                  |                                                                                                                 Flex Support                                                                                                                |                                  Healer / Shielder                                   |

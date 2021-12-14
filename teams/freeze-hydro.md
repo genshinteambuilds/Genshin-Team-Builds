@@ -2,10 +2,12 @@
 
 The Freeze team and the **Frozen** **Elemental Reaction** require both **Cryo** and **Hydro** to be applied to enemies with the goal of immobilizing them, making them unable to harm the player.
 
-The **Hydro** character enables the **Frozen** reaction and can be boosted by 15% **Critical Rate** from **Cryo Resonance**. These characters can either specialize in the 4 pc **Heart of Depth** set, 4 pc **Blizzard Strayer** set or the 2 sets of **Noblesse/Heart of Depth/Gladiator**.&#x20;
+**Cryo Resonance** is still often used in these teams due to providing at least 15% **Critical Rate** to the team.
 
-{% hint style="danger" %}
-Note, **Freeze** teams with a **Hydro** main DPS is not a very well supported archetype. Any DPS listed below Childe should be considered very off meta and not recommended.
+This page contains **Freeze** teams with a **Hydro** Main DPS character. For **Freeze** teams with **Cryo** Main DPS characters, see [Freeze (Cryo)](freeze.md).
+
+{% hint style="info" %}
+Note, **Freeze** teams with **Hydro** Main DPS characters are currently not a very well supported archetype. While these may work, you may find yourself struggling to deal damage as fast as other team compositions.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -24,6 +26,7 @@ Note, **Freeze** teams with a **Hydro** main DPS is not a very well supported ar
 |                                                                                       |                                                                                      |                                                                                     <p><img src="../.gitbook/assets/UI_AvatarIcon_Ayaka.png" alt=""><br>Ayaka</p>                                                                                     | <p>​<img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""></p><p>Zhongli</p> |
 |                                                                                       |                                                                                      | <p>​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MgIuSiDFSNyVZCB3uMq%2Fuploads%2Fgit-blob-9c3829ec272783e9e3e488999cae330abffea4e6%2Fui_avataricon_lumine_anemo.png?alt=media" alt="">​</p><p>Traveler (Anemo)</p> |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Noelle.png" alt=""><br>Noelle</p>    |
 |                                                                                       |                                                                                      |                                                                                     <p>​​<img src="../.gitbook/assets/UI_AvatarIcon_Aloy.png" alt=""><br>Aloy</p>                                                                                     |                                                                                       |
+|                                                                                       |                                                                                      |                                                                                  <p><img src="../.gitbook/assets/UI_AvatarIcon_Chongyun.png" alt=""><br>Chongyun</p>                                                                                  |                                                                                       |
 
 ## Main DPS
 
@@ -57,6 +60,7 @@ Note, **Freeze** teams with a **Hydro** main DPS is not a very well supported ar
 |                <p>​<img src="../.gitbook/assets/UI_AvatarIcon_Ayaka.png" alt=""><br><a href="../characters/cryo/ayaka.md">Ayaka</a></p>                | ****                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | <p><img src="../.gitbook/assets/UI_AvatarIcon_Lumine_Anemo.png" alt=""></p><p><a href="../characters/anemo/traveler-anemo.md">Traveler (Anemo)</a></p> | <ul><li><p>Unlike the other <strong>Anemo</strong> Supports, Traveler cannot help apply Hydro or Cryo to maintain the <strong>Frozen</strong> status on enemies.</p><p>Traveler can still be helpful by providing debuffing with the <strong>Viridescent Venerer</strong> 4-set and Grouping Crowd Control.</p></li></ul>                                                                                                                                                                                                                  |
 |                 <p><img src="../.gitbook/assets/UI_AvatarIcon_Aloy.png" alt=""></p><p><a href="../characters/cryo/aloy.md">Aloy</a></p>                | <ul><li><strong>Cryo</strong> Supports are primarily added to provide <strong>Cryo Resonance</strong> and act as Energy Batteries.</li></ul>                                                                                                                                                                                                                                                                                                                                                                                               |
+|            <p><img src="../.gitbook/assets/UI_AvatarIcon_Chongyun.png" alt=""><br><a href="../characters/cryo/chongyun.md">Chongyun</a></p>            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 ## Healer / Shielder
 

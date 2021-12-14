@@ -8,8 +8,12 @@ The team derives the majority of its damage by taking advantage of Bennett's **E
 **When running this team, make sure that Xiangling is well equipped as her burst is this team's primary source of damage.**
 {% endhint %}
 
-{% hint style="danger" %}
-**Characters are ranked roughly according to how well they perform in this team composition.**
+{% hint style="info" %}
+Characters are ranked roughly according to how well they perform in this team composition.
+
+Most of the characters within a given role are interchangeable except if mentioned above.\
+\
+Refer to the character notes below for how characters work in this particular team composition or click on their portraits for a description of how the character works in general.
 {% endhint %}
 
 |                                        Core Damage                                       |                                Core Support / Sub DPS                                |                                                                                                                Flex Support                                                                                                               |                                      Core Healer                                     |
