@@ -60,6 +60,12 @@
 
 ## Teams
 
+[**Melt (Pyro)**](../../teams/melt.md)****
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+
+* Venti's **Elemental Burst** will provide Crowd Control by grouping up small enemies close together. Ganyu's **Elemental Burst** will infuse Venti's **Elemental Burst** with **Cryo**. This can allow Yoimiya to use her **Elemental Skill** and trigger **Melt** reactions.
+
 ****[**Overload (Pyro)**](../../teams/overload.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)

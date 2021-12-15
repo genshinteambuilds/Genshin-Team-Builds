@@ -43,6 +43,14 @@ She is also generally not recommended as a DPS as she is arguably one of the wea
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
+[**Melt (Pyro)**](../../teams/melt.md)****
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Amber.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+* Amber’s **Charged Attack** does considerable damage when activating the **Melt** reaction by hitting an enemy with **Cryo** applied to it.
+  * **C2** allows her **Elemental Skill** to trigger the **Melt** reactions as well.
+* Rosaria's **Elemental Burst** applies **Cryo** to enemies which allows Amber to **Melt**.
+
 ****[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Amber.png)

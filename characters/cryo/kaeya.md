@@ -27,10 +27,6 @@
 * Kaeya's high **Energy Particle** generation allows him to work as a powerful Energy Battery for other **Cryo** Main DPS, especially in **Freeze** teams.
 * **Cryo Resonance** as a whole is very powerful in teams which constantly apply the element.
 
-![](../../.gitbook/assets/Element\_Pyro.webp)
-
-* Kaeya's high frequency **Cryo** application and relatively high damage on his **Elemental Burst** allows him to function in both [**Melt (Pyro)** ](../../teams/melt.md)and [**Melt (Cryo)**](../../teams/reverse-melt.md) **** teams.
-
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
 * Characters with high **Hydro** application paired with Kaeya enables **Freeze** teams.

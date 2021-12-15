@@ -75,6 +75,14 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
+****[**Melt (Pyro)**](../../teams/melt.md)****
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+
+* Hu Tao **Melts** most of her damage during Kaeya's **Elemental Burst**. Having an **Instructor** 4-set equipped will provide Hu Tao an **Elemental Mastery** boost whenever he freezes an enemy.
+* Xingqiu **Elemental Burst** allows for some follow up damage using **Vaporize** reactions as a backup plan because **Melt** reactions are not as consistent.
+* Diona can provide Shields and **Cryo** **Resonance**.&#x20;
+
 ****[**Oneshot**](../../teams/oneshot.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) or ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)&#x20;
