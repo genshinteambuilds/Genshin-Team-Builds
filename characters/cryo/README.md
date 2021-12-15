@@ -48,8 +48,8 @@ While Eula is listed here as a **Cryo** character, she is primarily used as a Ma
 [freeze.md](../../teams/freeze.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../teams/melt.md" %}
-[melt.md](../../teams/melt.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="../../teams/reverse-melt.md" %}

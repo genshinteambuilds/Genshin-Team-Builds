@@ -3,15 +3,7 @@
 There are no strong **Vaporize (Hydro)** team compositions, due to the lack of **Hydro** characters that can consistently use the reaction well. The closest two would be Childe and Mona’s [**Oneshot**](oneshot.md) team compositions. This page will cover teams that utilize the **Vaporize** reaction with a **Hydro Main DPS**.
 
 {% hint style="danger" %}
-**When running this team, make sure that Xiangling is well equipped as her burst is a large part of the team's total damage output.**
-{% endhint %}
-
-{% hint style="info" %}
-Characters are ranked roughly according to how well they perform in this team composition.
-
-Most of the characters within a given role are interchangeable except if mentioned above.\
-\
-Refer to the character notes below for how characters work in this particular team composition or click on their portraits for a description of how the character works in general.
+**Characters are ranked roughly according to how well they perform in this team composition.**
 {% endhint %}
 
 |                                         Main DPS                                         |                                  Core Support / Sub DPS                                  |                                     Flex Support                                     |                                   Healer / Shielder                                  |

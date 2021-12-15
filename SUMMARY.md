@@ -76,7 +76,6 @@
 * [Freeze (Cryo)](teams/freeze.md)
 * [Freeze (Hydro)](teams/freeze-hydro.md)
 * [Geo](teams/geo.md)
-* [Melt (Pyro)](teams/melt.md)
 * [Melt (Cryo)](teams/reverse-melt.md)
 * [National](teams/national.md)
 * [Physical (Cryo)](teams/physical-cryo.md)
