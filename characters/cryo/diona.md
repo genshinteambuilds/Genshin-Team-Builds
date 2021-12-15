@@ -66,12 +66,6 @@ This character is a healer. While some teams are provided below where they are p
 
 * Diona activates **Cryo Resonance** for additional **Critical Rate**. She also provides **Cryo Energy Particles** to charge the Cryo Main DPS' **Elemental Burst**.
 
-****[**Melt (Pyro)**](../../teams/melt.md)****
-
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****
-
-* Diona can reduce **Stamina** consumption, allowing Hu Tao to execute more **Charged Attacks** or keep up more **Stamina** for dodging.
-
 ****[**Physical (Cryo)**](../../teams/physical.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
