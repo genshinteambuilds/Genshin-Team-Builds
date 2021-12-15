@@ -88,3 +88,10 @@ Click on the team names below for more details on how the team works and alterna
 * This is theoretically Hu Tao's highest damage team although does not have a dedicated healer and is therefore not recommended for newer players.
 * Amber can apply **Pyro** with her **Elemental Burst** which can then be swirled by an Anemo character. Amber also provides **Pyro Resonance**.
 * Amber and Kazuha are specifically chosen here due to access to **Freedom Sworn**, **Elegy of the End**, as well as a host of buffs and debuffs. Alternative **Anemo** or **Pyro** character can be used over these two characters but may result in slightly lower DPS.
+
+**Vaporize (+Melt)**
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+
+* A **Cryo** Off-Field DPS character coupled with Diona can allow Hu Tao to occasionally **Melt** attacks alongside the normal **Vaporizes** from Xingqiu.
+* Diona is particularly useful since she also provides shielding and reduces stamina consumption allowing Hu Tao to execute more **Charged Attacks**.
