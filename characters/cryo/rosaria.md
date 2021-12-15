@@ -80,6 +80,12 @@ Click on the team names below for more details on how the team works and alterna
 * The combination of **Cryo Resonance**, the **Blizzard Strayer** set, and Rosaria's **A1** can give **Cryo** Main DPS characters large amounts of **Critical Rate**.
 * Rosaria can act as an Energy Battery for other **Cryo** Main DPS characters.
 
+[**Melt (Pyro)**](../../teams/melt.md)
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+
+* Rosaria provides constant **Cryo** application to enemies, which can be used by **Pyro** Main DPS to **Melt** attacks.
+
 [**Physical (Cryo)**](../../teams/physical.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)

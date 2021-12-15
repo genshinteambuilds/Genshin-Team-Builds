@@ -46,23 +46,11 @@ This character is a healer. While some teams are provided below where they are p
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-### **Main DPS Teams**
+****[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 
-****[**Melt (Pyro)**](../../teams/melt.md)****
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
-
-* Bennett’s short **Elemental Skill** cooldown and controllable **Pyro** application allow him to consistently melt his **Elemental Skill** and **Elemental Burst**.
-* Chongyun's **Elemental Skill** allows Bennett to apply **Cryo** to enemies with his infused **Normal Attacks**.
-
-[**Overload**](../../teams/overload.md)****
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
-
-* The low cooldown of Bennett's **Elemental Skill** benefits from the **Thundering Fury** 4-set effect, which can allow Bennett to have a 1 second cooldown on his **Elemental Skill.**
-* Beidou and Fischl apply **Electro** and deal damage, while Bennett both deals damage and generates **Energy Particles** with his shortened skill cooldown. This allows for lower **Energy Recharge** requirements on Beidou.
-
-### Support Teams
+* Bennett can be used as the Main DPS in this particular team as well as provide healing at the same time. Albedo is added as a source of Off-Field DPS that does not interfere with the Vaporize reaction.
 
 ****[**Electro-Charged (Electro)**](../../teams/electro-charged.md)
 

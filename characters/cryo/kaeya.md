@@ -64,14 +64,6 @@ Click on the team names below for more details on how the team works and alterna
 * Given frequent enough **Pyro** application, both Kaeya and Rosaria's damage can trigger **Melt.**
 * **Melt (Cryo)** teams may lack team flexibility, as they rely on the Elemental applications of multiple characters.
 
-****[**Melt (Pyro)**](../../teams/melt.md)****
-
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****
-
-* Kaeya can be fit into a **Vaporize / Melt** team to allow triggers of the higher-damage **Melt** reaction in addition to standard **Vaporizes**.
-* Kaeya alone cannot produce enough **Cryo** application to **Melt** every attack from a **Pyro** Main DPS. Pairing with either another **Hydro** or **Cryo** character is necessary to maximize damage.
-* Kaeya's increased **Cryo** application at **C6** can increase the frequency at which this team can trigger **Melt**.
-
 [**Physical (Electro)**](../../teams/physical.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)

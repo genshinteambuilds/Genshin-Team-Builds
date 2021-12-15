@@ -65,24 +65,8 @@ Click on the team names below for more details on how the team works and alterna
 
 * This team puts Yanfei into a **Support** role. She constantly applies **Pyro** on enemies, which allows Rosaria to create **Melt** reactions with her **Elemental Burst**.
 
-****[**Melt (Pyro)**](../../teams/melt.md)****
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
-
-* This team is mainly used against groups of small enemies. Diona and Rosaria provide **Cryo Resonance** along with Rosaria's **Elemental Burst** for a **Critical Rate** boost.
-* Venti's **Elemental Burst** infuses with **Cryo** and groups up the enemies constantly applying **Cryo** allowing Yanfei to consistently **Melt** her attacks.
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
-
-* This team is variation of the **Vaporize (Pyro)** team. Yanfei can periodically **Melt** her attacks while the majority of her **Elemental Reactions** will be **Vaporize**.
-
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * This team allows Yanfei to **Vaporize** her **Charged Attacks** using the **Hydro** applied to the enemy by Xingqiu's **Elemental Burst**.
-* Bennett acts as the team's healer while providing an **Attack** buff from his **Elemental Burst**.
-* Zhongli debuffs enemies **Pyro Resistance** with his shield while also providing protection from damage.
-* Sucrose debuffs enemies' **Pyro Resistance** with **Viridescent Venerer** 4-set, as well as providing **Elemental Mastery** buffs.
