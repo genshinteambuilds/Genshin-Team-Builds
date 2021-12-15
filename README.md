@@ -1,5 +1,5 @@
 ---
-description: by the Genshin Party Setup Team
+description: by Miko-chan#0698 & Co.
 ---
 
 # Introduction
