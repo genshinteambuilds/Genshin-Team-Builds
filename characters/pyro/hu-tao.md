@@ -81,7 +81,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ### Character Specific Teams
 
-**Vaporize**
+**Vaporize (Optimized)**
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
 
