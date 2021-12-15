@@ -43,7 +43,8 @@
 ****![](../../.gitbook/assets/Element\_Cryo.webp)****
 
 * **Melt** team compositions using Hu Tao typically do not work well due to the inability to apply **Cryo** Aura fast enough that Hu Tao will sometimes enable the **Cryo** characters instead.
-* Ayaka is an exception in [Oneshot](../../teams/oneshot.md) teams however will suffer from the same problems where **Cryo** cannot be applied beyond Ayaka's short duration **Elemental Burst**.
+  * It is possible to combine Xingqiu with **Cryo** characters to avoid this problem. See [Character Specific Teams](hu-tao.md#character-specific-teams).
+  * Ayaka is an exception when used in [Oneshot](../../teams/oneshot.md) teams.
 
 ![](../../.gitbook/assets/Element\_Electro.webp)
 
