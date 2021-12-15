@@ -9,13 +9,13 @@
 
 ## **Character Breakdown**
 
-* With the Raiden Shogun in your party, casting **Elemental Bursts** from other party members will grant her **Resolve** (Max 60 stacks) based on the energy cost of the **Elemental Burst** used. **Resolve** increases her own **Elemental Burst's** damage.
-* **A1** grants 2 stacks of **Resolve** when a character collects an **Energy Particle**, can occur once every 3 seconds.
-* **Elemental Skill** deals **Electro** damage on use and causes a coordinated attack to be launched whenever an active character deals damage to an enemy, dealing **AoE** **Electro** damage (with a short cooldown of 0.9 seconds).
+* With the Raiden Shogun in your party, casting **Elemental Bursts** from other party members will grant her Resolve (Max 60 stacks) based on the energy cost of the **Elemental Burst** used. Resolve increases her own **Elemental Burst's** damage.
+* **A1** grants 2 stacks of Resolve when a character collects an **Energy Particle**, can occur once every 3 seconds.
+* **Elemental Skill** deals Electro damage on use and causes a coordinated attack to be launched whenever an active character deals damage to an enemy, dealing **AoE** **Electro** **Damage** (with a short Cooldown of 0.9 seconds).
   * It also raises their **Elemental Burst** damage relative to the total **Energy Cost** of the active character's **Elemental Burst**.
-* **Elemental Burst** consumes all **Resolve** stacks gained and causes the Raiden Shogun to deal massive **AoE** **Electro** damage in the direction she is facing. Following the initial burst, she then converts her **Normal** and **Charged Attacks** to **Electro** which counts as **Elemental Burst** Damage for 7 seconds.&#x20;
+* **Elemental Burst** consumes all Resolve stacks gained and causes the Raiden Shogun to deal massive **AoE** **Electro** **Damage** in the direction she is facing. Following the initial burst, she then converts her **Normal** and **Charged Attacks** to **Electro** which counts as **Elemental Burst** Damage for 7 seconds.&#x20;
   * The Raiden Shogun’s attacks during her **Elemental Burst** generate energy for the rest of the party.
-* **A4** causes **Energy Recharge** to increase the Raiden Shogun’s **Electro** damage by 0.4% as well as increase the **Energy Recharge** for the party from her **Elemental Burst** by 0.6% for every 1% above 100% **Energy Recharge.**
+* **A4** causes **Energy Recharge** to increase the Raiden Shogun’s **Electro** **Damage** by 0.4% as well as increase the **Energy Recharge** for the party from her **Elemental Burst** by 0.6% for every 1% above 100% **Energy Recharge.**
 
 ## **Additional Notes**
 
@@ -32,7 +32,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
-* Eula is naturally a very strong Main DPS to pair with Raiden Shogun due to the fact that Raiden Shogun provides consistent **Superconduct** reaction when off-field while also increasing Eula’s **Elemental Burst** damage which she is generally very reliant on. The Raiden Shogun’s energy generation can also assist recharging Eula’s own **Elemental Burst.**
+* Eula is naturally a very strong Main DPS to pair with Raiden Shogun due to the fact that Raiden Shogun provides consistent **Superconduct** reaction when Off-Field while also increasing Eula’s **Elemental Burst** damage which she is generally very reliant on. The Raiden Shogun’s energy generation can also assist recharging Eula’s own **Elemental Burst.**
 
 ![](../../.gitbook/assets/ui\_avataricon\_aether\_electro.png)
 
@@ -48,13 +48,13 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
-* Xingqiu's **Elemental Burst** can be triggered by Raiden Shogun's **Normal Attacks** in her **Elemental Burst**. Along with the damage reduction, small amounts of healing, and an **Elemental Burst** costing 80 energy which grants Raiden Shogun with more **Resolve** stacks, Xingqiu is able to provide a strong mix of offensive damage and defensive utility while also benefiting from the energy Raiden Shogun can generate.
+* Xingqiu's **Elemental Burst** can be triggered by Raiden Shogun's **Normal Attacks** in her **Elemental Burst**. Along with the damage reduction, small amounts of healing, and an **Elemental Burst** costing 80 energy which grants Raiden Shogun with more Resolve stacks, Xingqiu is able to provide a strong mix of offensive damage and defensive utility while also benefiting from the energy Raiden Shogun can generate.
 
 ## **Does Not Work Well With**
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)****
 
-* Beidou's **Elemental Burst** cannot be triggered by Raiden Shogun's **Normal Attacks** in her **Elemental Burst**, making Beidou lose her usefulness in providing powerful off-field damage.
+* Beidou's **Elemental Burst** cannot be triggered by Raiden Shogun's **Normal Attacks** in her **Elemental Burst**, making Beidou lose her usefulness in providing powerful Off-Field damage.
   * A Beidou pairing can be utilized somewhat by staggering the **Elemental Burst** rotations such that Raiden uses her **Elemental Burst** before and after Beidou's **Elemental Burst** duration is over.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)
@@ -81,11 +81,11 @@ Click on the team names below for more details on how the team works and alterna
 * This team that utilizes the Raiden Shogun as the Main DPS and focuses on buffing her **Elemental Burst** damage while feeding the whole team high amounts of energy. For a detailed look at how this team works, check out the [**Oneshot**](../../teams/oneshot.md) page.
 * Sara provides an **Attack** buff, as well as **Electro Energy Particle** generation for Raiden Shogun. She can also provide a **Critical Damage** Buff with **C6**.
 * Kazuha buffs Raiden Shogun's **Elemental Burst** even further by debuffing **Electro Resistance** with the **Viridescent Venerer** 4-set, as well as buffing **Elemental Damage**.
-* Bennett acts as the team's healer while providing an **Attack** buff from his **Elemental Burst**.
+* Bennett acts as the team's healer while providing an **Attack** Buff from his **Elemental Burst**.
 * This team is much more effective with Raiden Shogun's **C2** and Kujou Sara's **C6**.
 
 [**Physical (Cryo)**](../../teams/physical-cryo.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* A standard team for Raiden Shogun that focuses on utilizing her off-field **Electro** damage for consistent **Superconduct** reactions to reduce **Physical Resistance** as well as increasing the team's **Elemental Burst** damage and energy economy.
+* A standard team for Raiden Shogun that focuses on utilizing her Off-Field **Electro** **Damage** for consistent **Superconduct** reactions to reduce **Physical Resistance** as well as increasing the team's **Elemental Burst** damage and energy economy.

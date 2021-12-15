@@ -8,10 +8,10 @@
 ## Character Breakdown
 
 * **Elemental Skill** creates a small Wind Spirit that pulls opponents towards it's location and launches opponents within it's AoE into the air.
-* **Elemental Burst** creates a field that that can absorb **Cryo**, **Electro**, **Hydro** or **Pyro** and will continuously deal damage of that elemental type. If no element is absorbed, the field will only deal **Anemo** damage.
+* **Elemental Burst** creates a field that that can absorb **Cryo**, **Electro**, **Hydro** or **Pyro** and will continuously deal damage of that elemental type. If no element is absorbed, the field will only deal **Anemo** **Damage**.
   * Once the **Elemental Burst** absorbs an element, enemies within the field are continuously damaged with that element, allowing other **Elemental Reactions** with that element to constantly take place.
 * **A1** raises the **Elemental Mastery** of all characters besides Sucrose whenever Sucrose triggers a **Swirl** reaction.
-  * This **Elemental Mastery b**uff only applies to characters matching the element Sucrose **Swirls**.
+  * This **Elemental Mastery** buff only applies to characters matching the element Sucrose **Swirls**.
 * **A4** allows Sucrose to share 20% of her **Elemental Mastery** with her team members when her **Elemental Skill** or **Elemental Burst** hits an opponent.
   * Sucrose can reach **Elemental Mastery** values as high as 1000 which would give a total of 250 **Elemental Mastery** to her party members with both **A1** and **A4** talents.
 * Can act as a debuffer with **Viridescent Venerer** 4-set.
@@ -22,7 +22,7 @@
 * **Elemental Skill** can also stagger larger enemies such as Geovishaps.
 * **Elemental Skill** and **Elemental Burst** are useful for Crowd Control.
 * **C1** gives her **Elemental Skill** an additional charge.
-* **C6** allows Sucrose to boost **Elemental** Damage by 20% for the element absorbed by her Elemental Burst.
+* **C6** allows Sucrose to boost **Elemental** **Damage** by 20% for the element absorbed by her **Elemental Burst**.
 
 ## Works Well With
 
@@ -34,7 +34,7 @@
 
 ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo** and **Physical** damage characters.
+* **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo** and **Physical Dgeamage** characters.
   * Sucrose can still provide the team with Crowd Control utility.
 
 ## Teams
@@ -58,7 +58,7 @@ In the following teams, Sucrose provides debuffing utility using the **Viridesce
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
-* Often referred to as the Sucrose Taser team, this team makes use of **Electro** and **Hydro** Off-Field DPS while Sucrose creates **Swirl** Reactions with her **Elemental Skill, Normal Attacks** and **Charged Attacks**, buffing the teams' **Elemental Mastery** while decreasing enemies **Electro** and **Hydro** Resistance.
+* Often referred to as the Sucrose Taser team, this team makes use of **Electro** and **Hydro** Off-Field DPS while Sucrose creates **Swirl** Reactions with her **Elemental Skill, Normal Attacks** and **Charged Attacks**, buffing the teams' **Elemental Mastery** while decreasing enemies **Electro** and **Hydro** **Resistance**.
 * Note: This team does not contain a dedicated healer and is not included within the Electro-Charged team page for that reason. Kokomi Taser team compositions have largely replaced Sucrose Taser teams due to the ability for Kokomi to provide healing.
 
 #### [Freeze (Cryo)](../../teams/freeze.md)
@@ -71,10 +71,10 @@ In the following teams, Sucrose provides debuffing utility using the **Viridesce
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Sucrose's **Elemental Burst** can infuse with **Pyro** allowing the **Cryo** Main DPS to **Melt.** Her **Elemental Mastery** buff also helps the **Cryo** Main DPS to deal more **Melt** damage.&#x20;
+* Sucrose's **Elemental Burst** can infuse with **Pyro** allowing the **Cryo** Main DPS to **Melt.** Her **Elemental Mastery** buff also helps the **Cryo** Main DPS to deal more **Melt** **Damage**.&#x20;
 
 #### [Vaporize (Pyro)](../../teams/reverse-vaporize.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Sucrose provides **Elemental Mastery** for the team to deal more **Vaporize** damage, as well as Crowd Control with her **Elemental Skill** and **Elemental Burst.** She also decreases **Pyro Resistance** for the **Pyro** Main DPS to deal more damage.
+* Sucrose provides **Elemental Mastery** for the team to deal more **Vaporize** **Damage**, as well as Crowd Control with her **Elemental Skill** and **Elemental Burst.** She also decreases **Pyro Resistance** for the **Pyro** Main DPS to deal more damage.

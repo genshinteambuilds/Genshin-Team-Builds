@@ -27,7 +27,7 @@
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Jean pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental Resistance** on enemies for 4 of the elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
+* Jean pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental Resistance** on enemies for 4 of the Elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
 * You should generally avoid pairing Jean with another Healer as Jean's healing is sufficient for most content.
   * Bennett + Jean is one exception to this rule in situations where this exact pairing can combine **Elemental Bursts** to quickly trigger **Swirl** to destroy enemy shields.&#x20;
 
@@ -35,7 +35,7 @@
 
 ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo** and **Physical** damage characters.
+* **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo** and **Physical Damage** characters.
   * Jean can still be used with these characters if your team requires healing but will provide little other value.
 
 ## Teams
@@ -52,7 +52,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Jean acts as an Energy Battery for Xiao in this team and can also provide crowd control and Healing utility.
+* Jean acts as an Energy Battery for Xiao in this team and can also provide Crowd Control and Healing utility.
 
 {% hint style="info" %}
 In the following teams, Jean provides debuffing utility using the **Viridescent Venerer** 4-set as well as healing.
@@ -67,7 +67,7 @@ In the following teams, Jean provides debuffing utility using the **Viridescent 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
 {% hint style="info" %}
-In the following teams, Jean allows Kazuha or Venti to take the role of being a Debuffer with the **Viridescent Venerer** 4-set and instead provides the team with a **Noblesse Oblige** 4-set buff alongside her healing. She also acts as a Energy Battery for Kazuha or Venti.
+In the following teams, Jean allows Kazuha or Venti to take the role of being a Debuffer with the **Viridescent Venerer** 4-set and instead provides the team with a **Noblesse Oblige** 4-set buff alongside her healing. She also acts as an Energy Battery for Kazuha or Venti.
 {% endhint %}
 
 #### [Overload (Pyro)](../../teams/overload.md)&#x20;

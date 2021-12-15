@@ -10,9 +10,9 @@
 
 * **Elemental Skill** creates a vacuum that launches Kazuha into the air and can group smaller enemies.
   * Performing a **Plunge Attack** after using his **Elemental Skill** creates a "small wind tunnel" and groups enemies.
-* **Elemental Burst** creates a field that can absorb **Cryo**, **Electro**, **Hydro**, or **Pyro** and will continually deal damage of that elemental type along with **Anemo** and **Swirl** damage.
+* **Elemental Burst** creates a field that can absorb **Cryo**, **Electro**, **Hydro**, or **Pyro** and will continually deal damage of that elemental type along with **Anemo** and **Swirl** **Damage**.
   * Once the **Elemental Burst** absorbs an element, enemies within the field are periodically damaged with that element, allowing other **Elemental Reactions** with that element to frequently take place.
-* **A4** makes any element **Swirled** by Kazuha give the entire team an Elemental Damage boost to that element, proportional to his **Elemental Mastery.**
+* **A4** makes any element **Swirled** by Kazuha give the entire team an **Elemental Damage** boost to that element, proportional to his **Elemental Mastery.**
   * Kazuha can reach **Elemental Mastery** values as high as 1000, which gives 40% additional damage for any swirled element.
 * Kazuha can **Swirl** multiple different elements quite easily, providing buffs **** and debuffs for those elements with his **A4** and **Viridescent Venerer.**
 * **Anemo** characters need to be within 20 levels of enemies to be able to Crowd Control them most effectively.
@@ -22,7 +22,7 @@
 * **C1** resets the cooldown of Kazuha's **Elemental Skill** after using his **Elemental Burst.**
 * **C2** increases the entire team's **Elemental Mastery** by 200 after using Kazuha's **Elemental Burst.**
 * **C4** allows Kazuha to generate much more energy for himself.
-* **C6** infuses Kazuha's attacks with **Anemo** and boosts their damage by 0.2% of his **Elemental Mastery**. This allows him to be used as the Main DPS character in an [**Anemo** team.](../../teams/anemo.md)
+* **C6** infuses Kazuha's attacks with **Anemo** and boosts their damage by 0.2% of his **Elemental Mastery**. This allows him to be used as the Main DPS character in an [**Anemo**](../../teams/anemo.md) team.
 
 ## Works Well With
 
@@ -34,11 +34,11 @@
 
 ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo** and **Physical** damage characters.
+* **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo** and **Physical Damage** characters.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)
 
-* Kazuha cannot buff **Anemo** damage as **Anemo** cannot be absorbed into his **Elemental Burst.** Other **Anemo** characters with more powerful Crowd Control abilities or other utility are often preferred in an **Anemo** team composition that uses Xiao as a Main DPS as a result.
+* Kazuha cannot buff **Anemo** **Damage** as **Anemo** cannot be absorbed into his **Elemental Burst.** Other **Anemo** characters with more powerful Crowd Control abilities or other utility are often preferred in an **Anemo** team composition that uses Xiao as a Main DPS as a result.
 
 ## Teams
 
@@ -70,7 +70,7 @@ In the following teams, Kazuha provides debuffing utility using the **Viridescen
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* While Kazuha's **Elemental Skill** can provide decent **Crowd Control** and his **Elemental Burst** can cause **Overload** reactions, this may not work efficiently for large numbers of smaller enemies that are displaced by Overload's knockback.
+* While Kazuha's **Elemental Skill** can provide decent **Crowd Control** and his **Elemental Burst** can cause **Overload** reactions, this may not work efficiently for large numbers of smaller enemies that are displaced by Overload's Knockback.
 
 #### [Pure Pyro](../../teams/pure-pyro.md)
 
@@ -80,7 +80,7 @@ In the following teams, Kazuha provides debuffing utility using the **Viridescen
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Kazuha's **Elemental Burst** can provide Pyro application when activated within the field created by Bennett's Elemental Burst.
+* Kazuha's **Elemental Burst** can provide **Pyro** application when activated within the field created by Bennett's **Elemental Burst**.
 
 #### [Vaporize (Pyro)](../../teams/reverse-vaporize.md)
 

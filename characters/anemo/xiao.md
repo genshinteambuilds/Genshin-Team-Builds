@@ -6,7 +6,7 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** has two charges and allows Xiao to dash quickly at an opponent dealing **Anemo** Damage.
+* **Elemental Skill** has two charges and allows Xiao to dash quickly at an opponent dealing **Anemo** **Damage**.
 * **Elemental Burst** infuses Xiao's weapon with **Anemo** and provides additional damage on **Normal, Charged,** and **Plunging Attacks.** Additionally, Xiao's jump height is greatly increased, allowing Xiao to jump and perform **Plunging Attacks** continually while his **Elemental Burst** is active.
   * Xiao continuously loses **HP** throughout the duration of his **Elemental Burst.**
   * **Plunging Attacks** performed during Xiao's **Elemental Burst** produce **Anemo** spears from the ground which deal damage in a large area around him.
@@ -22,7 +22,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Xiao works particularly well with Zhongli as he provides one of the few debuffs that work for **Anemo** damage. His shielding also helps Xiao from taking additional damage during his **Elemental Burst**.
+* Xiao works particularly well with Zhongli as he provides one of the few debuffs that work for **Anemo** **Damage**. His shielding also helps Xiao from taking additional damage during his **Elemental Burst**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
@@ -38,7 +38,7 @@
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
 
 * As a Selfish Main DPS, Xiao does not work well with other characters that must stay on the field in order to do damage.
-* **Physical** damage characters usually cannot buff Xiao or support him in any way.
+* **Physical** **Damage** characters usually cannot buff Xiao or support him in any way.
 
 ## Teams
 

@@ -19,7 +19,7 @@
 * **Elemental Skill** and **Burst** both heal based of off Barbara's **Max HP.**
 * **C2** provides a 15% **Hydro** damage bonus while Barbara's **Elemental Skill** is active.
 * **C6** resurrects a fallen party member with full health once every 15 minutes.
-  * This cooldown does not reset while entering or restarting domains, including Spiral Abyss. The resurrection can be used multiple times in multiple floors of Spiral Abyss, as long as the cooldown is waited out.
+  * This Cooldown does not reset while entering or restarting domains, including Spiral Abyss. The resurrection can be used multiple times in multiple floors of Spiral Abyss, as long as the Cooldown is waited out.
 
 ## Works well with
 

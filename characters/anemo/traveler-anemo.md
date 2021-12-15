@@ -8,9 +8,9 @@
 ## Character Breakdown
 
 * **Elemental Skill (Tap)** deals damage and can knock back enemies.
-* **Elemental Skill (Hold)** can gather smaller enemies in front of Traveler (Anemo) and continuously deals Anemo damage to them.
+* **Elemental Skill (Hold)** can gather smaller enemies in front of Traveler (Anemo) and continuously deals **Anemo** damage to them.
 * **Elemental Burst** summons a tornado that moves forward and continuously pulls enemies toward its center, dealing **Anemo** damage.
-* Can act as a debuffer with **Viridescent Venerer** 4-set.
+* Can act as a Debuffer with **Viridescent Venerer** 4-set.
 * **Anemo** characters need to be within 20 levels of enemies to be able to Crowd Control them most effectively.
 
 ## Additional Notes

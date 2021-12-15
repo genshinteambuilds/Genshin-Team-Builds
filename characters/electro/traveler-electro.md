@@ -8,16 +8,16 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** launches 3 thunder shadows in a cone, dealing damage and creating up to 3 **Abundance Amulets** when hitting enemies.
-  * **Abundance Amulets** are absorbed when a character walks close to them, granting that character energy and increased **Energy Recharge** for a short duration.
+* **Elemental Skill** launches 3 thunder shadows in a cone, dealing damage and creating up to 3 Abundance Amulets when hitting enemies.
+  * Abundance Amulets are absorbed when a character walks close to them, granting that character energy and increased **Energy Recharge** for a short duration.
 * **Elemental Burst** deals initial damage upon activation and then calls down lightning when the character on-field uses **Normal** or **Charged Attacks**.
   * The character who triggers the lightning gains a small amount of energy.
 
 ## Additional Notes
 
-* Traveler (Electro) serves as an Energy Battery, as their **Elemental Skill** and **Elemental Burst** both provide energy to an on-field character.
+* Traveler (Electro) serves as an Energy Battery, as their **Elemental Skill** and **Elemental Burst** both provide energy to an On-Field character.
 * The majority of Traveler's (Electro) **Constellations** and **Talents** focus on further enhancing their energy-generating abilities, making them a powerful Energy Battery for characters with high-cost **Elemental Bursts**.
-* **C2** provides an **Electro Resistance** debuff, enhancing both their and other **Electro** characters' damage.
+* **C2** provides an **Electro Resistance** Debuff, enhancing both their and other **Electro** characters' damage.
 * **C6** greatly increases the damage of their **Elemental Burst**, allowing them to function as an Off-Field Sub DPS.
 
 ## Works Well With
@@ -39,7 +39,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)
 
-* **Overload** can be a burden for close-range DPS, as its knockback effect wastes time chasing smaller enemies around.
+* **Overload** can be a burden for close-range DPS, as its Knock-back effect wastes time chasing smaller enemies around.
 * Many **Pyro** DPS are better suited to use reactions other than **Overload**, which Traveler (Electro) can interfere with.
 * Neither Diluc nor Hu Tao requires large amounts of energy, making large parts of Electro Traveler's kit useless.
 
@@ -60,5 +60,5 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/ui\_avataricon\_aether\_electro.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Traveler (Electro) synergizes well with **Physical** characters by providing consistent **Electro** damage for **Superconduct** reactions while taking up very little field time.
+* Traveler (Electro) synergizes well with **Physical** characters by providing consistent **Electro** **Damage** for **Superconduct** reactions while taking up very little field time.
 * Electro Traveler's high energy generation can help support characters such as Eula, who rely on their **Elemental Bursts** for large portions of their damage.

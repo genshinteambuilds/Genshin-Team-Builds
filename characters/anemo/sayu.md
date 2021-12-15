@@ -7,18 +7,18 @@
 
 ## Character Breakdown
 
-* **Elemental Skill (Tap)** makes Sayu roll forward a short distance and then deal **Anemo** Damage to enemies in front of her.
-* **Elemental Skill (Hold)** makes Sayu roll forwards continuously, increasing her resistance to interruption and dealing **Anemo** damage while rolling. Using the skill again will cause Sayu to end her roll early and deal additional **Anemo** damage to enemies in front of her.
+* **Elemental Skill (Tap)** makes Sayu roll forward a short distance and then deal **Anemo** **Damage** to enemies in front of her.
+* **Elemental Skill (Hold)** makes Sayu roll forwards continuously, increasing her resistance to interruption and dealing **Anemo Damage** while rolling. Using the skill again will cause Sayu to end her roll early and deal additional **Anemo** **Damage** to enemies in front of her.
   * **Elemental Skill (Hold)** can absorb another element, dealing additional damage of that element to enemies hit while Sayu is rolling.
 * **Elemental Skill** cooldown time creases depending on how long Sayu spends rolling.
-* **Elemental Burst** summons a **Daruma** that deals **Anemo** damage to nearby enemies and heals nearby team members. Healing or Damage done depends on whether there are any nearby enemies and the current **HP** of team members.
-* Can act as a debuffer with **Viridescent Venerer** 4-set.
+* **Elemental Burst** summons a Daruma that deals **Anemo** **Damage** to nearby enemies and heals nearby team members. Healing or Damage done depends on whether there are any nearby enemies and the current **HP** of team members.
+* Can act as a Debuffer with **Viridescent Venerer** 4-set.
 
 ## Additional Notes
 
-* **C1** removes **HP** restrictions on Sayu's **Elemental Burst** and allows the summoned **Daruma** to heal and deal damage at the same time.
+* **C1** removes **HP** restrictions on Sayu's **Elemental Burst** and allows the summoned Daruma to heal and deal damage at the same time.
 * **C4** allows Sayu to recover energy whenever she triggers a **Swirl** reaction.
-* **C6** allows her to use **Elemental Mastery** to give an **Attack%** bonus as well as **HP%** bonus to the **Daruma** during the **Elemental Burst.**
+* **C6** allows her to use **Elemental Mastery** to give an **Attack%** bonus as well as **HP%** bonus to the Daruma during the **Elemental Burst.**
 
 ## Works Well With
 
@@ -30,7 +30,7 @@
 
 ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo** and **Physical** damage characters.
+* **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo** and **Physical Damage** characters.
   * Sayu can still be used with these characters if your team requires healing but will provide little other value.
 
 ## Teams
@@ -64,7 +64,7 @@ In the following teams, Sayu provides debuffing utility using the **Viridescent 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
 {% hint style="info" %}
-In the following teams, Sayu allows Kazuha or Venti to take the role of being a Debuffer with the Viridescent Venerer 4-set and instead provides the team with a Noblesse Oblige 4-set buff alongside her healing.
+In the following teams, Sayu allows Kazuha or Venti to take the role of being a Debuffer with the **Viridescent Venerer** 4-set and instead provides the team with a **Noblesse Oblige** 4-set buff alongside her healing.
 {% endhint %}
 
 #### [Overload (Pyro)](../../teams/overload.md)&#x20;
