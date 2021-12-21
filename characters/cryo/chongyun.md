@@ -22,7 +22,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
-* Often paired with either of these characters in order to create a **Freeze** team.
+* Often paired with either of these characters in order to create a [**Freeze** ](../../teams/freeze.md)team.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 

@@ -24,7 +24,7 @@
 
 ![](../../.gitbook/assets/Element\_Cryo.webp)
 
-* **Cryo Resonance** is extremely powerful and especially in **Freeze** teams where the combination of **Cryo** Resonance and the **Blizzard Strayer** artifact set can give up to 55% **Critical Rate**.
+* **Cryo Resonance** is extremely powerful and especially in [**Freeze** ](../../teams/freeze.md)teams where the combination of **Cryo** Resonance and the **Blizzard Strayer** artifact set can give up to 55% **Critical Rate**.
 * Rosaria can act as an Energy Battery for other **Cryo** Main DPS, such as Ayaka or Eula.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
@@ -39,7 +39,7 @@
 
 ![](../../.gitbook/assets/Element\_Geo.webp)
 
-* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in **Freeze** teams.
+* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in [**Freeze** ](../../teams/freeze.md)teams.
 * **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.
 
 ## Teams
@@ -84,5 +84,5 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Rosaria's **Physical Resistance** reduction at **C6** makes her a powerful option for a **Physical** team, given how few sources exist to enhance the damage type.
+* Rosaria's **Physical Resistance** reduction at **C6** makes her a powerful option for a [**Physical** ](../../teams/physical-cryo.md)team, given how few sources exist to enhance the damage type.
 * Even without **C6**, Rosaria can still provide energy for a **Cryo** character like Eula, Off-Field **Cryo** application to trigger **Superconduct**, and a teamwide buff to **Critical Rate** after casting her **Elemental Burst**.

@@ -40,7 +40,7 @@
 
 ****![](../../.gitbook/assets/Element\_Geo.webp)****
 
-* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in **Freeze** teams.&#x20;
+* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in [**Freeze** ](../../teams/freeze.md)teams.&#x20;
 * **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.
 
 ## Teams

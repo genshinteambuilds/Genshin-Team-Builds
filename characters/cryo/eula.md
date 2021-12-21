@@ -31,7 +31,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
-* Often paired with Eula to form a **** [**Physical** team](../../teams/physical-cryo.md).&#x20;
+* Often paired with Eula to form a **** [**Physical** ](../../teams/physical-cryo.md)team.&#x20;
 * Raiden Shogun provides **Superconduct**, buffs **Elemental Burst** damage, serves as an Energy Battery and is able to be used on-field **** after Eula uses her **Elemental Burst**.
 * Fischl provides off-field damage, constant **Superconduct**, and serves as an **Electro** Battery.
 
@@ -47,12 +47,12 @@
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Zhongli's shield can prevent Eula from being **interrupted**, which lets her more easily build up hits for her **Elemental Burst**.
-* His shield **** also further debuffs **Elemental** and **Physical Resistances** of enemies.
+* His shield **** also further Debuffs **Elemental** and **Physical Resistances** of enemies.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Bennett provides a high **Attack** buff **** that lasts the full duration of Eula's **Elemental Burst** and is a **Healer**.
-* **C6** will infuse Eula's **Normal**/**Charged**/**Plunging Attacks** with **Pyro**, negating all of the **Physical** Damage bonuses she receives. Do not use C6 Bennett with Eula unless you are going for an **Elemental Burst** oneshot.
+* **C6** will infuse Eula's **Normal**/**Charged**/**Plunging Attacks** with **Pyro**, negating all of the **Physical** Damage bonuses she receives. Do not use C6 Bennett with Eula unless you are going for an **Elemental Burst** Oneshot.
 * Note that since Eula's **Elemental Burst** does not snapshot, Eula's **Elemental Burst** must finish within the duration of Bennett's **Elemental Burst** or a large amount of damage is lost.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)

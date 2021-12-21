@@ -60,7 +60,7 @@
 
 ![](../../.gitbook/assets/Element\_Geo.webp)
 
-* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in **Freeze** teams.&#x20;
+* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in [**Freeze** ](../../teams/freeze.md)teams.&#x20;
 * Zhongli is also not used in Ganyu **Freeze** teams for this reason.
 * **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.
 

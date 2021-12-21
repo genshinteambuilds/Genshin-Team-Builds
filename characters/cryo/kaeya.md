@@ -24,18 +24,18 @@
 ![](../../.gitbook/assets/Element\_Cryo.webp)
 
 * Off-Field DPS capabilities pair well with other **Cryo** Main DPS to add additional **Cryo** application and damage to teams.
-* Kaeya's high **Energy Particle** generation allows him to work as a powerful Energy Battery for other **Cryo** Main DPS, especially in **Freeze** teams.
+* Kaeya's high **Energy Particle** generation allows him to work as a powerful Energy Battery for other **Cryo** Main DPS, especially in [**Freeze** ](../../teams/freeze.md)teams.
 * **Cryo Resonance** as a whole is very powerful in teams which constantly apply the element.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
-* Characters with high **Hydro** application paired with Kaeya enables **Freeze** teams.
+* Characters with high **Hydro** application paired with Kaeya enables [**Freeze** ](../../teams/freeze.md)teams.
 
 ## Does Not Work Well With
 
 ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MgIuSiDFSNyVZCB3uMq%2Fuploads%2Fgit-blob-7ed91ef028836de9f8d735e6b2d725cafe6d0999%2FElement\_Geo.webp?alt=media)​
 
-* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in **Freeze** teams.
+* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in [**Freeze** ](../../teams/freeze.md)teams.
 * **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.
 
 ## Teams
