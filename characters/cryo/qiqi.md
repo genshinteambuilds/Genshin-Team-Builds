@@ -6,7 +6,7 @@
 
 ## Character Breakdown
 
-* **Elemental** Skill periodically heals the active character, and occasionally attacks surrounding enemies within melee range. Attacking enemies with Qiqi's **Normal** or **Charged** Attacks while the **Elemental Skill** is active will heal **** all members in the party.
+* **Elemental** **Skill** periodically heals the active character, and occasionally attacks surrounding enemies within melee range. Attacking enemies with Qiqi's **Normal** or **Charged** Attacks while the **Elemental Skill** is active will heal **** all members in the party.
 * **Elemental Burst** deals **Cryo** damage and marks enemies hit with a Fortune Talisman for a duration. Attacking an enemy marked with a talisman will heal **** the active character.
 * **A1** boosts the **Incoming Healing Bonus** of characters affected by Qiqi's **Elemental** **Skill** whenever they trigger an **Elemental Reaction**.
 * **A4** gives Qiqi's **Normal** and **Charged Attacks** has a 50% chance to apply a **Fortune** **Talisman** identical to the ones from her **Elemental Burst** to an enemy for 6 seconds. This can only occur once every 30 seconds.

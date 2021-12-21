@@ -10,7 +10,7 @@
 
 * Ganyu's **Charged Attack** has two Charge levels:
   * Charge Level 1: Fires a single arrow that deals **Cryo Damage**
-  * Charge Level 2: Fires a **Frostflake Arrow** that deals **Cryo Damage**. The **** Frostflake Arrow blooms after hitting it's target, dealing additional **AoE Cryo Damage**.
+  * Charge Level 2: Fires a Frostflake Arrow that deals **Cryo Damage**. The **** Frostflake Arrow blooms after hitting it's target, dealing additional **AoE Cryo Damage**.
 * **Elemental Skill** deals **AoE Cryo Damage** and leaves an Ice Lotus **** on the ground that taunts surrounding enemies. The Ice Lotus deals **AoE Cryo Damage** if destroyed or when it's duration ends.
 * **Elemental Burst** creates a field which continually rains shards of ice **** on enemies inflicting **Cryo Damage**.
 * Ganyu's primary source of damage when used as a Main DPS character is her **Charged Attack**.
@@ -31,9 +31,9 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
-* Mona is currently the premier **Support** for **Freeze** Ganyu teams.
+* Mona is currently the premier Support for **Freeze** Ganyu teams.
 * When using Mona's **Elemental Burst**, **Omen** and **Hydro** are applied to the enemy, amplifying damage **** and also inflicting the **Frozen** status on them.
-* **Omen's** duration is also extended **** while enemies are **Frozen** allowing Ganyu to continue attacking enemies affected by **Omen** for longer.
+* Omen's **** duration is also extended **** while enemies are **Frozen** allowing Ganyu to continue attacking enemies affected by Omen for longer.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
@@ -56,7 +56,7 @@
 ![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
 * Ganyu’s primary source of damage is not **Physical** resulting in other **Physical** characters and **Electro** characters not working well with her when Ganyu is used as a Main DPS.
-* While Ganyu can be used as an **Off-Field** DPS in those teams instead to provide **Cryo** for **Superconduct**, this is often seen as a waste since other **Cryo** characters can work equally well in that role.
+* While Ganyu can be used as an Off-Field **** DPS in those teams instead to provide **Cryo** for **Superconduct**, this is often seen as a waste since other **Cryo** characters can work equally well in that role.
 
 ![](../../.gitbook/assets/Element\_Geo.webp)
 
@@ -75,7 +75,7 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * This particular example is often called Morgana due to the combination of Mona and Ganyu.
-* Ganyu makes use of Mona's **Elemental Burst** to **Freeze** enemies while amplifying damage done to them with **Omen**. **Omen's** duration is extended while enemies are **Frozen** allowing Ganyu to continue dealing amplified damage for a longer period of time.
+* Ganyu makes use of Mona's **Elemental Burst** to **Freeze** enemies while amplifying damage done to them with Omen. Omen's duration is extended while enemies are **Frozen** allowing Ganyu to continue dealing amplified damage for a longer period of time.
 
 #### [Melt (Cryo)](../../teams/reverse-melt.md)
 

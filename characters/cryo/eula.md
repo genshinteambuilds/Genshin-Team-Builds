@@ -10,7 +10,7 @@
 * Eula relies on her **Elemental Burst, Skill** and **Normal Attacks** to deal **Physical** damage.
 * **Elemental Skill** changes based on whether it is tapped or held.
   * **Elemental Skill (Tap)** deals **Cryo** damage and gains Eula a stack of Grimheart.
-    * Grimheart increases Eula's **Defense** and resistance to interruption. A maximum of two stacks can be held.
+    * Grimheart increases Eula's **Defense** and Resistance to interruption. A maximum of two stacks can be held.
   * **Elemental Skill (Hold)** consumes all Grimheart stacks, deals **Cryo** damage, and activates the following effects:
     * Each stack of Grimheart consumed creates an instance of **AoE** **Cryo** damage.
     * If any Grimheart stacks are consumed, surrounding enemies will have their **Physical** and **Cryo Resistance** debuffed.
@@ -64,7 +64,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)&#x20;
 
-* Mona’s **Omen** debuff **** from her **Elemental Burst** does not last long enough for Eula to finish stacking hits for her **Elemental Burst** for its full duration.
+* Mona’s **Omen** Debuff **** from her **Elemental Burst** does not last long enough for Eula to finish stacking hits for her **Elemental Burst** for its full duration.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)
 
@@ -84,7 +84,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png) **** ![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* A very basic and straightforward **Elemental Burst** Eula team, focused on buffing **** Eula as much as possible and debuffing **** enemies for a more powerful Lightfall Sword.
+* A very basic and straightforward **Elemental Burst** Eula team, focused on buffing **** Eula as much as possible and Debuffing **** enemies for a more powerful Lightfall Sword.
 
 [**Physical (Cryo)**](../../teams/physical-cryo.md)
 
@@ -93,4 +93,4 @@ Click on the team names below for more details on how the team works and alterna
 * This team focuses on giving Eula high sustained damage **** and **Elemental Burst** uptime.
 * Raiden Shogun, Rosaria, and Diona serve as an Energy Battery **** for Eula making this team very consistent with **Elemental Burst** uptime.
 * Rosaria is able to provide team **Critical Rate** buffs and reduce enemy **Physical Resistance**.
-* Raiden Shogun is able to fill in on-field **** during the downtime **** when Eula's **Elemental Burst** is still on cooldown.
+* Raiden Shogun is able to fill in On-Field **** during the downtime **** when Eula's **Elemental Burst** is still on cooldown.

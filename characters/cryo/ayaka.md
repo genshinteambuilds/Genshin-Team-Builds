@@ -9,7 +9,7 @@
 
 ## Character Breakdown
 
-* **Dashing** infuses her **Normal Attacks** and **Charged Attacks** with **Cryo** and applies **Cryo** to surrounding enemies when Ayaka reappears after finishing her dash.
+* **Dashing** infuses her **Normal** and **Charged Attacks** with **Cryo** and applies **Cryo** to surrounding enemies when Ayaka reappears after finishing her dash.
   * **A4** allows Ayaka to regain **Stamina** and receive a buff to her **Cryo** Damage if an enemy is hit by this effect.
 * **Elemental Skill** deals **AoE Cryo** damage.
 * **Elemental Burst** creates a snowstorm that deals a huge amount of **Cryo** damage over 5 seconds and slowly moves away from the character.
@@ -22,7 +22,7 @@
 * **C2** summons 2 additional smaller snowstorms that deal 20% of the original snowstorm's damage.
 * **C4** reduces the **Defense** of enemies hit by her **Elemental Burst** by 30% for 6s.
 * Ayaka can technically be used in **Melt** teams as both a Burst DPS role whilst providing Off-Field **Cryo** application to the enemy for 5 seconds with her **Elemental Burst**.
-  * This is typically only done with very powerful teams and Oneshot setups since her Off-Field capabilities outside of those 5 seconds is nonexistent.
+  * This is typically only done with very powerful teams and [Oneshot ](../../teams/oneshot.md)setups since her Off-Field capabilities outside of those 5 seconds is nonexistent.
 
 ## Works Well With
 
@@ -50,7 +50,7 @@
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)
 
 * These characters can be paired with Ayaka in a [Oneshot ](ayaka.md#oneshot)**Melt** team composition where Ayaka is used as Burst DPS and very short duration Off-Field DPS during her **Elemental Burst**.
-* **Melt** teams using Ayaka are almost always Oneshot team setups since Ayaka's **Elemental Burst** lasts only 5 seconds and can only be reasonably applied to large enemies in this composition.&#x20;
+* **Melt** teams using Ayaka are almost always [Oneshot ](../../teams/oneshot.md)team setups since Ayaka's **Elemental Burst** lasts only 5 seconds and can only be reasonably applied to large enemies in this composition.&#x20;
 * **Melt** teams using Ayaka can struggle at putting out sustained DPS after Ayaka's **Elemental Burst** is entirely finished and on cooldown.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)

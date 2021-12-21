@@ -84,5 +84,5 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Rosaria's **Physical resistance** reduction at **C6** makes her a powerful option for a **Physical** team, given how few sources exist to enhance the damage type.
+* Rosaria's **Physical Resistance** reduction at **C6** makes her a powerful option for a **Physical** team, given how few sources exist to enhance the damage type.
 * Even without **C6**, Rosaria can still provide energy for a **Cryo** character like Eula, Off-Field **Cryo** application to trigger **Superconduct**, and a teamwide buff to **Critical Rate** after casting her **Elemental Burst**.

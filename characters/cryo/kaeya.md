@@ -58,7 +58,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * This team is based around frequently applying **Pyro** to enemies and then using Off-Field **Cryo** DPS to cause **Melt** reactions.
 * Given frequent enough **Pyro** application, both Kaeya and Rosaria's damage can trigger **Melt.**
-* **Melt (Cryo)** teams may lack team flexibility, as they rely on the Elemental applications of multiple characters.
+* ****[**Melt (Cryo)**](../../teams/reverse-melt.md) **** teams may lack team flexibility, as they rely on the Elemental applications of multiple characters.
 
 [**Physical (Electro)**](../../teams/physical.md)
 

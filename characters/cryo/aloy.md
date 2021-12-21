@@ -20,7 +20,7 @@
 ## Additional Notes
 
 * **Elemental Skill** generates a large number of **Energy Particles**.
-  * As such, she can be used as a replacement for Diona in **Freeze** teams that need an Energy Battery. However, Aloy is neither a Healer nor Shielder.
+  * As such, she can be used as a replacement for Diona in [**Freeze** teams](../../teams/freeze.md) that need an Energy Battery. However, Aloy is neither a Healer nor Shielder.
 
 ## Works Well With
 
@@ -53,7 +53,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aloy.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
-* Aloy activates **Cryo Resonance** for additional **Critical Rate** and serves as an **Energy Battery** for the **Main DPS**.
+* Aloy activates **Cryo Resonance** for additional **Critical Rate** and serves as an Energy Battery for the **Main DPS**.
 
 ****[**Melt (Cryo)**](../../teams/reverse-melt.md)****
 

@@ -64,7 +64,7 @@ This character is a healer. While some teams are provided below where they are p
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****
 
-* Diona activates **Cryo Resonance** for additional **Critical Rate**. She also provides **Cryo Energy Particles** to charge the Cryo Main DPS' **Elemental Burst**.
+* Diona activates **Cryo Resonance** for additional **Critical Rate**. She also provides **Cryo Energy Particles** to charge the **Cryo** Main DPS' **Elemental Burst**.
 
 ****[**Physical (Cryo)**](../../teams/physical.md)****
 
