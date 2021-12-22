@@ -8,9 +8,9 @@
 
 ## **Character Breakdown**
 
-* **Elemental Skill** summons a taunt that deals multiple instances of **Hydro** damage in an **AoE** around it.
+* **Elemental Skill** summons a taunt that deals multiple instances of **Hydro** **Damage** in an **AoE** around it.
 * **Elemental Burst** applies **Illusory Bubble** to all enemies in an **AoE** around her which applies **Hydro**, immobilizes enemies and provides the **Omen** Debuff which increases all damage enemies take.
-  * When enemies take damage, the **Illusory Bubble** deals a large amount of **Hydro** damage. The **Omen** Debuff will persist for 4 seconds after this.
+  * When enemies take damage, the **Illusory Bubble** deals a large amount of **Hydro** **Damage**. The **Omen** Debuff will persist for 4 seconds after this.
 * **A1** will create a weaker copy of Mona's **Elemental Skill** when Mona spends 2 seconds sprinting lasting 2 seconds and dealing less damage.
 * **A4** buffs Mona's **Hydro Damage** by 20% of her current **Energy Recharge**.
 

@@ -9,7 +9,7 @@
 ## Character Breakdown
 
 * **Elemental Skill** summons a Bake-Kurage, which periodically heals allies, damages enemies in an area, and applies **Hydro**. Applies **Hydro** to Kokomi, which can cleanse some debuffs.
-* **Elemental Burst** deals **Hydro** damage to nearby enemies and causes her **Elemental Skill** and **Normal** and **Charged Attacks** to gain damage based on her **Max** **HP** for a short duration. Additionally, Kokomi gains resistance to interruption and her **Normal** and **Charged Attacks** heal all party members.
+* **Elemental Burst** deals **Hydro Damage** to nearby enemies and causes her **Elemental Skill** and **Normal** and **Charged Attacks** to gain damage based on her **Max** **HP** for a short duration. Additionally, Kokomi gains resistance to interruption and her **Normal** and **Charged Attacks** heal all party members.
 * **A1** causes the duration of Kokomi's **Elemental Skill** duration to be refreshed when she uses her **Elemental Burst**.
 * **A4** increases the bonus damage gained during Kokomi's **Elemental Burst** by 15% of her **Healing Bonus**.&#x20;
 * Kokomi's 3rd Passive Talent reduces her **Critical Rate** by 100% in exchange for a 25% increase in **Healing Bonus**.&#x20;
