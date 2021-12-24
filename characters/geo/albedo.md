@@ -8,10 +8,10 @@
 
 ## **Character Breakdown**
 
-* **Elemental Skill** creates a **Geo** construct that deals **Geo** damage in an area upon skill activation and creates a field.
-  * While inside this field, whenever an enemy takes damage, an additional instance of **Geo** damage will also be dealt, with a short cooldown.&#x20;
+* **Elemental Skill** creates a **Geo** construct that deals **Geo** **Damage** in an area upon skill activation and creates a field.
+  * While inside this field, whenever an enemy takes damage, an additional instance of **Geo** **Damage** will also be dealt, with a short cooldown.&#x20;
     * **A1** allows his **Elemental Skill** to deal increased damage to enemies under 50% **HP**.
-  * The **Geo** construct itself acts as an elevator.
+  * The **Geo** Construct itself acts as an Elevator that lifts up Characters within the flower **Geo** Construct.
 * **Elemental Burst** deals **Geo** damage in a frontal area.
   * If Albedo's **Elemental Burst** is cast within the field created by his **Elemental Skill**, it will do 7 more instances of **Geo** damage towards enemies in the field.
     * Damage dealt this way will not activate his **Elemental Skill**'s effects.
@@ -19,7 +19,7 @@
 
 ## **Additional Notes**
 
-* His Passive Talent has a 10% chance to double the product when Albedo crafts weapon ascension materials.
+* His Passive Talent has a 10% chance to double the product when Albedo crafts Weapon Ascension Materials.
 * **C4** buffs **Plunging Attack** damage when the active character is standing within the field created by Albedo's **Elemental Skill**.
 * **C6** buffs the damage of the active character by 17% when protected by a shield created by the **Crystallize** reaction and is inside of the field created by his **Elemental Skill**.
 
@@ -35,7 +35,7 @@
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)****
 
-* Since Albedo does **Geo** damage with his whole kit, he triggers the **Shatter** reaction against **Frozen** enemies. This makes him a bad choice for **Freeze** teams.
+* Since Albedo does **Geo** **Damage** with his whole kit, he triggers the **Shatter** reaction against **Frozen** enemies. This makes him not an ideal option for [**Freeze** ](../../teams/freeze.md)teams.
 
 ## **Teams**
 

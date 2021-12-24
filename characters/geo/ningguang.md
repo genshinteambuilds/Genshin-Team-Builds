@@ -9,15 +9,15 @@
 ## Character Breakdown:
 
 * **Normal Attack** fires a homing **Geo** projectile.
-* **Normal Attacks** that hit an enemy will grant Ningguang one **Star Jade**. A maximum of three **Star Jades** can be held at once.&#x20;
+* **Normal Attacks** that hit an enemy will grant Ningguang one **Star Jade**. A maximum of three **Star Jades** stacks can be held at once.&#x20;
 * When Ningguang performs a **Charged Attack**, all **Star Jades** will be released and target opponents.
-  * When Ninnguang has a **Star Jade**, her **Charged Attacks** will not consume **Stamina.**
+  * When Ninguang has a **Star Jade**, her **Charged Attacks** will not consume **Stamina.**
 * **Elemental Skill** summons a **Jade Screen** that does damage upon summon and remains on the field to block out projectiles. This will count as a **Geo** construct.
 * **Elemental Burst** fires six homing projectiles at nearby enemies. If a **Jade Screen** is present, it is shattered into another six similar projectiles.
 
 ## Additional Note:
 
-* Her damage contribution is mainly distributed across her **Charge Attacks**, **Elemental Skill**, and **Elemental Burst** casts.
+* Her damage contribution is mainly distributed across her **Charged Attacks**, **Elemental Skill**, and **Elemental Burst** casts.
 * **C2** can reset her **Elemental Skill** cooldown if the **Jade Screen** shatters under any circumstances, including from a recast of her **Elemental Skill**.
   * **Elemental Skill** has a six-second internal cooldown on **Energy Particle** generation. **** As such, there should generally be at least six seconds between every cast of her **Elemental Skill**.
 * Ningguang has a very simple **Normal** and **Charged Attack** combo, as **Star Jades** are only given on hit, not upon performing a **Normal Attack**. This combo will consistently make her **charged attacks** cost no stamina.
@@ -33,11 +33,11 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli is the most ideal pairing for Ningguang because of the **Geo Resonance** buff. His shield is extremely durable and debuffs nearby enemies' **Elemental Resistance**. Together, these two effects greatly increase Ningguang's damage.
+* Zhongli is the most ideal pairing for Ningguang because of the **Geo Resonance** buff. His Shield is extremely durable and Debuffs nearby enemies' **Elemental Resistance**. Together, these two effects greatly increase Ningguang's damage.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
 
-* Albedo provides **Geo Energy Particles**, **Geo Resonance**, and Off-field damage. His **Elemental Skill** cooldowns line up with Ningguang’s.&#x20;
+* Albedo provides **Geo Energy Particles**, **Geo Resonance**, and Off-Field damage. His **Elemental Skill** cooldowns line up with Ningguang’s.&#x20;
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)
 
@@ -67,7 +67,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
-* Xingqiu isn't necessarily bad with Ningguang (as any Off-field DPS works with a **Geo** Team), but his potential is wasted as Ningguang’s attack sequence generally does not line up well with Xingqiu.
+* Xingqiu isn't necessarily bad with Ningguang (as any Off-Field DPS works with a **Geo** Team), but his potential is wasted as Ningguang’s attack sequence generally does not line up well with Xingqiu.
   * He is better used on teams where his utility and **Hydro** application greatly benefit other Main DPS characters.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)

@@ -12,18 +12,18 @@
 * **Elemental Skill (Hold)** will also summon a **Stone Stele** if the maximum amount of **Stone Steles** has not been reached, and provides a **Jade Shield** based on Zhongli's **Max** **HP**.
 * **A1** allows his **Jade Shield** to fortify, increasing the **Shield Strength** of the fortified on-field character by 5% when it takes damage. This can stack up to 5 times and will last for the duration of **Jade Shield**.
 * **A4** allows Zhongli to gain additional bonus damage on his **Normal Attacks, Charged Attacks, Elemental Skill,** and **Elemental Burst** based on his maximum **HP**.
-* **Elemental Burst** summons a large meteor that deals **AoE** **Geo** damage and petrifies enemies for several seconds.
+* **Elemental Burst** summons a large meteor that deals **AoE** **Geo** damage and Petrifies enemies for several seconds.
 
 ## **Additional Notes**
 
-* Zhongli’s **Jade Shield** debuffs nearby enemy units' **Elemental and Physical Resistance** by 20%.
+* Zhongli’s **Jade Shield** Debuffs nearby enemy units' **** by decreasing their **Elemental and Physical Resistance** by 20%.
 * Zhongli's **Stone Stele** additionally causes all other **Geo Constructs** in the nearby area to pulse, dealing additional **Geo** Damage.
 
 ## **Works Well With**
 
 ****![](../../.gitbook/assets/Element\_Anemo.webp)****![](../../.gitbook/assets/Element\_Cryo.webp)****![](../../.gitbook/assets/Element\_Electro.webp)****![](../../.gitbook/assets/Element\_Hydro.webp)****![](../../.gitbook/assets/Element\_Pyro.webp)****![](../../.gitbook/assets/Element\_Geo.webp)****
 
-* Zhongli can be put into almost any team as a flexible Support. He provides powerful shielding, a universal **Resistance** debuff, and Crowd Control in a large area.
+* Zhongli can be put into almost any team as a flexible Support. He provides powerful shielding, a universal **Resistance** Debuff, and Crowd Control in a large area.
 * Teams containing Zhongli typically do not center around him. He is usually used in an empty slot to enhance other members of the team.
 * Zhongli also generally replaces healers, as his shield provides enough damage negation if sustained (especially with his **A1**).
 
@@ -51,7 +51,7 @@ In all of the teams below, Zhongli universally provides shielding, a **Universal
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
 
-* Zhongli's shielding and **Universal Resistance** debuffing are especially useful in Xiao teams due to Xiao's poor survivability and the lack of convenient abilities that debuff **Anemo Resistance**. He can also provide **Geo Resonance**.
+* Zhongli's shielding and **Universal Resistance** Debuffing are especially useful in Xiao teams due to Xiao's poor survivability and the lack of convenient abilities that debuff **Anemo Resistance**. He can also provide **Geo Resonance**.
 
 [**Geo**](../../teams/geo.md)****
 
@@ -69,7 +69,7 @@ In all of the teams below, Zhongli universally provides shielding, a **Universal
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
 
-* Zhongli's **Jade Shield** allows Eula to **Normal Attack** as much as possible and debuff **Physical Resistance** to fully enhance her **Elemental Burst's** damage**.**
+* Zhongli's **Jade Shield** allows Eula to **Normal Attack** as much as possible and Debuff **Physical Resistance** to fully enhance her **Elemental Burst's** damage**.**
 
 ****[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)****
 
