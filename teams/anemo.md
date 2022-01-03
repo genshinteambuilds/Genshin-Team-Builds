@@ -78,6 +78,6 @@ Teams are very flexible as there are very few requirements and synergies in an *
 
 * Xiao acts as the Main DPS and uses Jean as an Energy Battery to maintain **Elemental Burst** uptime. Jean also functions as a Healer and possible Debuffer (with **C4**). Zhongli provides a Shield and debuffs enemies, while Albedo acts as a Sub DPS and activates **Geo Resonance**.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Since Jean can fill the two roles of Energy Battery and Healer at the same time, 2 Off-Field DPS can be used rather than an additional Healer or Shielder.
+* Kazuha(**C6**) acts as the Main DPS, with his **Anemo** infusion. Jean(**C4**) debuffs enemy **Anemo** resistance. Xingqiu's **Elemental Burst** adds additional damage, as well as keeping an element on the enemy to **Swirl**. Bennett provides healing and an **Attack** buff, as well as allowing Kazuha to absorb **Pyro**.
