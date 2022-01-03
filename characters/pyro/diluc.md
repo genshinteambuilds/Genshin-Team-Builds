@@ -8,7 +8,7 @@
 
 * **Elemental Skill** deals damage and can be used 3 times before going on cooldown.
 * **Elemental Burst** deals damage and knocks back enemies in a wide AoE.
-* **Elemental Burst** infuses Diluc's Normal Attacks with **Pyro**.
+* **Elemental Burst** infuses Diluc's Weapon with **Pyro**.
   * **A4** allows him to reach 100% uptime with the **Pyro** infusion from his **Elemental Burst**.
 
 ## **Additional Notes**
@@ -60,5 +60,5 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * A team where Diluc can **Vaporize** his attacks using the **Hydro** applied to the enemy by Xingqiu's **Elemental Burst**.
-* Zhongli provides **Pyro Resistance** debuff and shielding.
+* Zhongli provides **Pyro Resistance** Debuff and Shielding.
 * Bennett acts as the team's healer while also providing an **Attack** buff from his **Elemental Burst.**

@@ -19,7 +19,7 @@
 ## Additional Notes
 
 * Often paired with another **Pyro** character, as Thoma's low energy generation makes it difficult to use his **Elemental Burst**.&#x20;
-  * **C4** restores 15 energy to Thoma after using his **Elemental Burst**.&#x20;
+  * **C4** restores 15 Energy to Thoma after using his **Elemental Burst**.&#x20;
 * The bonus damage and Shielding from his **Elemental Burst** can only be triggered once every second.
 * **C6** increases **Normal**, **Charged**, and **Plunging Attack** damage by 15% for the party for 6 seconds whenever Thoma creates or refreshes a Shield.
 

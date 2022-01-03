@@ -14,10 +14,10 @@
 
 ## Additional Notes
 
-* Xiangling’s **Elemental Burst** "snapshots" any character buffs Xiangling receives for its entire duration.
+* Xiangling’s **Elemental Burst** "Snapshots" any character buffs Xiangling receives for its entire duration.
 * **Elemental Skill** is not very good at generating **Elemental Particles,** and her **Burst** has a very high cost. As such, using an Energy Battery is typically advised.
 * Xiangling’s kit makes her an exceptional duo for almost any **Cryo** or **Hydro** DPS, enabling consistent **Melts** or **Vaporize** reactions from her constant **Pyro** application.
-* Xiangling herself also deals very considerable Off-Field damage. Xiangling can be the main damage dealer in many team compositions and does not have to act only as an elemental aura support.
+* Xiangling herself also deals very considerable Off-Field damage. Xiangling can be the main damage dealer in many team compositions and does not have to act only as an Elemental aura support.
 * **C1** debuffs **Pyro Resistance** on enemies when they are hit by **Guoba**'s attacks.
 * **C4** increases the duration of her **Elemental Burst**. This greatly increases her total damage output.
 * **C6** buffs the entire team's **Pyro** damage when her **Elemental Burst** is active.
@@ -52,8 +52,6 @@
 
 * These **Pyro** DPS characters typically want to create **Vaporize** and **Melt** Reactions, and while Xiangling can provide some decent buffs for her from Constellations, she will end up stealing a lot of **Vaporize** and **Melt** reactions which can hinder their damage output.
 
-##
-
 ## Teams
 
 {% hint style="info" %}
@@ -64,7 +62,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* This team focuses on enabling Ganyu to deal massive damage through **Melt** reactions provided from Xiangling’s **Pyro** application. It is recommended to build her with Energy Recharge to frequently cast her **Elemental Burst**.
+* This team focuses on enabling Ganyu to deal massive damage through **Melt** reactions provided from Xiangling’s **Pyro** application. It is recommended to build her with **Energy Recharge** to frequently cast her **Elemental Burst**.
 * Kazuha debuffs enemies **Pyro Resistance** with **Viridescent Venerer**, and buffs Xiangling **Pyro** Damage at the same time with his **A4.**
 * Bennett acts as the team's healer while providing an **Attack** buff from his **Elemental Burst** and **Pyro Resonance**.
 

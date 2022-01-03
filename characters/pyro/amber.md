@@ -13,10 +13,10 @@ She is also generally not recommended as a DPS as she is arguably one of the wea
 
 ## Character Breakdown
 
-* **Elemental Skill** summons **Baron Bunny**, who will taunt enemies on the field. After a certain duration, **Baron Bunny** will explode, dealing **Pyro** damage in an area around it.
-* **Elemental Burst** fires off a shower of arrows, dealing **Pyro** damage over time inside of the circle.
+* **Elemental Skill** summons **Baron Bunny**, who will Taunt enemies on the field. After a certain duration, **Baron Bunny** will explode, dealing **Pyro** damage in an area around it.
+* **Elemental Burst** fires off a shower of arrows, dealing **Pyro** Damage over time inside of the circle.
   * **A1** increases her **Elemental Burst** radius by 30% and gets a 10% **Critical Rate** buff.
-* **A4** boosts Amber's **Attack** by 15% for 10 seconds when hitting a weak spot.
+* **A4** boosts Amber's **Attack** by 15% for 10 seconds when hitting a Weak Spot.
 
 ## Additional Notes:
 

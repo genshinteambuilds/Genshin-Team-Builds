@@ -25,7 +25,7 @@
     * Note: `NA → CA` is the result of using a **Charged Attack**. Hu Tao will always start her **Charged Attack** with an initial **Normal Attack**.
     * Animation cancelling the end of the **Charge Attack** is necessary for optimal damage if using `NA → CA`. Can be done with **Dash** or **Jump**.
   * Dash Cancels provide more damage overall in Hu Tao's attack combo but is often not performed at **C0** because of the **Stamina** consumption from both the **Dash** and **Charged Attack.**
-  * There are technically many different Hutao combo strings beyond always performing 1 Normal Attack and then 1 Charged Attack.
+  * There are technically many different Hu Tao combo strings beyond always performing 1 **Normal Attack** and then 1 **Charged Attack**.
 * **Elemental Burst** is mainly used at the end of her attack combo just before her **Elemental Skill** expires or if Hu Tao needs to dodge an attack or heal.
 
 ## **Works Well With**
@@ -76,7 +76,7 @@ Click on the team names below for more details on how the team works and alterna
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Hu Tao can **Vaporize** her attacks using the **Hydro** applied to the enemy by Xingqiu's **Elemental Burst**.
-* Zhongli provides an **Elemental Resistance** debuff with his shield while also protecting from all sources of damage.
+* Zhongli provides an **Elemental Resistance** Debuff with his shield while also protecting from all sources of damage.
 * Albedo provides off-field damage and **Elemental Mastery** buff when using his **Elemental Burst**. &#x20;
 * Using both Albedo and Zhongli gives the team **Geo Resonance**.
 

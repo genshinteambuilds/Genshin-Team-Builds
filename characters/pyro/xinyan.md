@@ -29,7 +29,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett is able to pair with Xinyan nicely to provide healing, shielding, buffs/debuffs and **Pyro Resonance** to any **Physical** Main DPS.
+* Bennett is able to pair with Xinyan nicely to provide Healing, Shielding, Buffs/Debuffs and **Pyro Resonance** to any **Physical** Main DPS.
 
 ## Does Not Work Well With
 
@@ -54,4 +54,4 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* This team is focused on providing Eula with multiple buffs for her **Elemental Burst**. Xinyan provides **Physical** damage related buff and debuffs.
+* This team is focused on providing Eula with multiple buffs for her **Elemental Burst**. Xinyan provides **Physical** damage related Buff and Debuffs.

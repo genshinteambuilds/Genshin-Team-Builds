@@ -19,7 +19,7 @@
 
 ## **Additional Notes:**
 
-* **C1** allows him to buff **Attack** regardless of active character HP. It is worth noting that **C1** does not allow Bennett to continue healing past 70% HP.
+* **C1** allows him to buff **Attack** regardless of active character HP. It is worth noting that **C1** does not allow Bennett to continue healing past 70% **HP**.
 * **C6** allows Bennett's **Elemental Burst** to infuse Sword, Claymore and Polearm-wielding characters' weapons with **Pyro**. This makes it often not worth activating Bennett’s **C6** as it limits his viability in many teams.
 * Bennett's healing will scale based on his **Max HP,** while his **Attack** buff will scale based on his **Base Attack**.
 
@@ -33,7 +33,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
-* On **Freeze** teams Bennett will unfreeze frozen enemies, negating the **Critical Rate** bonus provided by **Cryo Resonance.**
+* On **Freeze** teams Bennett will unfreeze frozen enemies, negating the **Critical Rate** bonus provided by **Cryo Resonance** and the 4 set **Blizzard Strayer**.
   * This is not the case for **Cryo** teams that seek to utilize the **Melt** reaction instead.
 
 ## **Teams**
@@ -50,7 +50,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)****
 
-* Bennett can be used as the Main DPS in this particular team as well as provide healing at the same time. Albedo is added as a source of Off-Field DPS that does not interfere with the Vaporize reaction.
+* Bennett can be used as the Main DPS in this particular team as well as provide Healing at the same time. Albedo is added as a source of Off-Field DPS that does not interfere with the **Vaporize** reaction.
 
 ****[**Electro-Charged (Electro)**](../../teams/electro-charged.md)
 
@@ -83,4 +83,4 @@ Click on the team names below for more details on how the team works and alterna
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * In this team, Bennett plays the role of healer, **Pyro** **Resonance** activator, and support.
-* He can act as an Energy Battery for the Pyro Main DPS by frequently generating **Pyro Energy Particles** through his **Elemental Skill.**
+* He can act as an Energy Battery for the **Pyro** Main DPS by frequently generating **Pyro Energy Particles** through his **Elemental Skill.**

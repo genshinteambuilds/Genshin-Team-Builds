@@ -8,8 +8,8 @@
 ## Character Breakdown
 
 * **Elemental Skill** throws a **Jumpty Dumpty,** which bounces 3 times and explodes into 8 mines. **Jumpty Dumpty** starts with 2 charges.
-* **A1** gives Klee a 50% chance to gain an explosive spark when **Normal attacks** and J**umpty Dumpty** hits enemies. When in possession of a spark, Klee’s next **Charged Attack** will cost no **Stamina** and have 50% increased damage.
-* **Elemental Burst** summons 4 Sparks ‘n’ Splash 5 times over 10 seconds, dealing **AoE** **Pyro** Damage to nearby enemies.
+* **A1** gives Klee a 50% chance to gain an Explosive Spark when **Normal attacks** and J**umpty Dumpty** hits enemies. When in possession of Explosive Spark, Klee’s next **Charged Attack** will cost no **Stamina** and have 50% increased damage.
+* **Elemental Burst** summons 4 **Sparks ‘n’ Splash** 5 times over 10 seconds, dealing **AoE** **Pyro** Damage to nearby enemies.
 * **A4** gives party members 2 energy when Klee’s **Charged Attacks** deals **Critical Damage.**
 
 ## Additional Notes
@@ -46,7 +46,7 @@ In all teams below, Bennett acts as the team's healer while providing an **Attac
 
 * Klee's goal is to deal as much **Pyro** damage as possible through her **Charged Attack**, **Elemental Skill** during her **Elemental Burst**.&#x20;
 * Xiangling and Bennett provide off-field **Pyro** application and team buffing respectively.
-* Kazuha provides **Pyro Resistance** debuff through **Viridescent Venerer** 4-set and buffs **Pyro** damage with his **A4**.
+* Kazuha provides **Pyro Resistance** Debuff through **Viridescent Venerer** 4-set and buffs **Pyro** damage with his **A4**.
 
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)****
 
@@ -54,4 +54,4 @@ In all teams below, Bennett acts as the team's healer while providing an **Attac
 
 * Klee triggers **Vaporize** reactions with her **Charged Attack**, **Elemental Skill** and **Elemental Burst**.
 * Xingqiu applies **Hydro** on enemies with his **Elemental Burst** and provides resistance to interruption.
-* Sucrose debuffs enemies' **Pyro Resistance** with **Viridescent Venerer** while also buffing **Elemental Mastery**.
+* Sucrose Debuffs enemies' **Pyro Resistance** with **Viridescent Venerer** while also buffing **Elemental Mastery**.
