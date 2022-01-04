@@ -46,6 +46,7 @@
   * [Traveler (Electro)](characters/electro/traveler-electro.md)
 * [Geo](characters/geo/README.md)
   * [Albedo](characters/geo/albedo.md)
+  * [Itto](characters/geo/itto.md)
   * [Ningguang](characters/geo/ningguang.md)
   * [Noelle](characters/geo/noelle.md)
   * [Zhongli](characters/geo/zhongli.md)
