@@ -96,3 +96,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * A **Cryo** Off-Field DPS character coupled with Diona can allow Hu Tao to occasionally **Melt** attacks alongside the normal **Vaporizes** from Xingqiu.
 * Diona is particularly useful since she also provides shielding and reduces stamina consumption allowing Hu Tao to execute more **Charged Attacks**.
+
+{% hint style="info" %}
+The occasional **Freeze** provides **Crowd Control** which may make it easier to play against more mobile enemies.
+{% endhint %}
