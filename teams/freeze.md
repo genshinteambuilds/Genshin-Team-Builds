@@ -1,6 +1,6 @@
 # Freeze (Cryo)
 
-The Freeze team and the **Frozen** **Elemental Reaction** require both **Cryo** and **Hydro** to be applied to enemies with the goal of immobilizing them, making them unable to harm the player.
+The **Freeze** team and the **Frozen** **Elemental Reaction** require both **Cryo** and **Hydro** to be applied to enemies with the goal of immobilizing them, making them unable to harm the player.
 
 Freeze teams with **Cryo** Main DPS characters can also typically gain up to 55% **Critical Rate** while the enemies are **Frozen** through making use of the **Blizzard Strayer** 4-set effect and **Cryo Resonance**.
 
@@ -74,12 +74,12 @@ This page contains **Freeze** teams with a **Cryo** Main DPS character. For **Fr
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Also called Morgana, this is the classic **** Freeze team focused around utilizing Ganyu, Mona, and Venti's **Elemental Bursts** together to group **Frozen** enemies and deal large amounts of **AoE** damage due to Ganyu's **Charged Attacks** and Mona's **Omen**.
+* Also called Morgana, this is the classic **Freeze** team focused around utilizing Ganyu, Mona, and Venti's **Elemental Bursts** together to group **Frozen** enemies and deal large amounts of **AoE** damage due to Ganyu's **Charged Attacks** and Mona's **Omen**.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* A possible Ayaka Freeze team using Diona for **Cryo Resonance** and to act as an Energy Battery, Mona for damage amplification and **Hydro** application, and Kazuha for **Viridescent Venerer**'s debuff and Kazuha's **Elemental Damage** buff.
+* A possible Ayaka **Freeze** team using Diona for **Cryo Resonance** and to act as an Energy Battery, Mona for damage amplification and **Hydro** application, and Kazuha for **Viridescent Venerer**'s debuff and Kazuha's **Elemental Damage** buff.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
 
-* An budget friendly Freeze team that allows Kaeya to deal **Cryo** **Normal** and **Charged Attacks** within the field created by Chongyun's **Elemental Skill**.
+* An budget friendly **Freeze** team that allows Kaeya to deal **Cryo** **Normal** and **Charged Attacks** within the field created by Chongyun's **Elemental Skill**.
