@@ -1,6 +1,6 @@
 # Melt (Cryo)
 
-Reverse melt teams rely primarily on Xiangling’s constant **Pyro** application to set up melts.
+Reverse melt teams rely primarily on Xiangling’s constant **Pyro** application to set up melts for **Cryo** carries.
 
 {% hint style="danger" %}
 **Characters are ranked roughly according to how well they perform in this team composition.**
@@ -60,7 +60,7 @@ Reverse melt teams rely primarily on Xiangling’s constant **Pyro** application
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Use Ganyu **charged attacks** during Xiangling burst while near the enemy. Zhongli provides shield to protect Ganyu from getting staggered and take no damage while charging her attacks. Bennett is here to heal and buff your team and get Xiangling energy should you need it.
+* Use Ganyu **Charged Attacks** during Xiangling's **Elemental Burst** while near the enemy. Zhongli provides shield to protect Ganyu from getting staggered and take no damage while charging her attacks. Bennett is here to heal and buff your team and to provide Xiangling energy should you need it.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
