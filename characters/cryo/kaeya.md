@@ -46,11 +46,11 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Freeze (Cryo)**](../../teams/freeze.md)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)
 
 * Kaeya's energy generation in **Freeze**-based teams is massive, able to support other **Cryo** characters with very little Energy Recharge. He also provides **Cryo Resonance.**
 * Kaeya can be used as a Main DPS in Freeze teams, especially in combination with Chongyun. Chongyun's **Cryo Infusion** of **Normal Attacks** allows Kaeya to utilize his high **Normal** and **Charged Attack** damage while still gaining **Elemental Damage** bonuses.
-* The combination of the **Blizzard Strayer** set and **Cryo Resonance** can give Kaeya massive amounts of **Critical Rate** with no further investment.
+* The combination of the **Blizzard Strayer** set and **Cryo Resonance** gives Kaeya massive amounts of **Critical Rate** with no further investment.
 
 [**Melt (Cryo)**](../../teams/reverse-melt.md)
 
