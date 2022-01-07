@@ -70,19 +70,19 @@ This page contains **Electro-Charged** teams with a **Hydro** Main DPS character
 ![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Tartaglia is used to drive Beidou's **Elemental Burst** during his Melee Form and have continuous **Electro-Charged** reactions on any enemy hit.&#x20;
-* Fischl serves as a Battery for Beidou as well as consistent off-field damag.
+* Fischl serves as a Battery for Beidou as well as consistent Off-field damage.
 * Bennett provides healing and a large offensive buff that both Beidou and Fischl can snapshot while Childe is active on the field.
-* Fischl's Oz and Beidou's **Elemental Burst** are activated in Bennett's **Elemental Burst** before Childe activates enters his melee form.
+* Fischl's Oz and Beidou's **Elemental Burst** are activated in Bennett's **Elemental Burst** before Childe enters his melee form to apply as much **Hydro** to as many enemies as possible.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-* Kokomi is used to constantly apply **Hydro** to enemies with **Normal Attacks** while activating Beidou's **Elemental Burst.**&#x20;
-* Raiden helps the team get their **Elemental Bursts** charged.
+* Kokomi is used to constantly apply **Hydro** to enemies with **Normal Attacks** while Beidou's **Elemental Burst** is active.&#x20;
+* Raiden provides buff and charges the team's **Elemental Bursts**.
 * Kazuha provides his damage buff to the party and **Viridescent-Venerer's** debuff to enemies.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
-* Mona is used to constantly apply **Hydro** to enemies with **Normal Attacks** while activating Beidou's **Elemental Burst**.&#x20;
+* Mona is used to constantly apply **Hydro** to enemies with **Normal Attacks** while Beidou's **Elemental Burst** is active.&#x20;
 * Mona's **Elemental Burst** greatly amplifies the damage dealt by the rest of the team for its duration.&#x20;
-* Sara grants the team her **Attack** buff, as well as a **Critical Damage** increase to the team's **Electro** damage (C6). This buff is mostly targeted at Beidou tofr her snapshottable **Elemental Burst**.
+* Sara's **Attack** and **Electro** **Crit Damage** (C6) buff is mainly focused on Beidou's snapshottable **Elemental Burst**.
 * Jean provides healing and applies **Viridescent-Venerer's** debuff to enemies. As Sara's energy generation is not as powerful, this team requires more **Energy Recharge** to function properly.
