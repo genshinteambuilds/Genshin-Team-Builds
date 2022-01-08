@@ -26,6 +26,7 @@ Because **Freeze** teams have high **Crowd Control**, it is possible to play it 
 |                                                                                  |                                                                                      |        <p><img src="../.gitbook/assets/UI_AvatarIcon_Rosaria.png" alt=""></p><p>Rosaria</p>        | <p><img src="../.gitbook/assets/UI_AvatarIcon_Barbara.png" alt=""></p><p>Barbara</p> |
 |                                                                                  |                                                                                      |       <p><img src="../.gitbook/assets/UI_AvatarIcon_Chongyun.png" alt=""></p><p>Chongyun</p>       |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Bennett.png" alt=""></p><p>Bennet</p> |
 |                                                                                  |                                                                                      | <p><img src="../.gitbook/assets/UI_AvatarIcon_Lumine_Anemo.png" alt=""></p><p>Traveler (Anemo)</p> | <p><img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""></p><p>Zhongli</p> |
+|                                                                                  |                                                                                      |                                                                                                    |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Noelle.png" alt=""><br>Noelle</p>   |
 
 ## Main DPS
 
