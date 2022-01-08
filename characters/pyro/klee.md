@@ -55,3 +55,11 @@ In all teams below, Bennett acts as the team's healer while providing an **Attac
 * Klee triggers **Vaporize** reactions with her **Charged Attack**, **Elemental Skill** and **Elemental Burst**.
 * Xingqiu applies **Hydro** on enemies with his **Elemental Burst** and provides resistance to interruption.
 * Sucrose Debuffs enemies' **Pyro Resistance** with **Viridescent Venerer** while also buffing **Elemental Mastery**.
+
+### Character Specific Teams
+
+**Melt (w/ Rosaria)**
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+* Klee applies consistent **Pyro** on enemies, which allows Rosaria creates **Melt** reactions with her **Elemental Burst**.
