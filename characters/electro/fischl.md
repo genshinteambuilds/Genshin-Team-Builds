@@ -60,9 +60,7 @@ In all the teams listed below, Fischl universally provides Off-Field **Electro**
 
 ****[**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
-
-* This team utilizes both **Hydro** and **Electro** characters who provide strong individual damage coupled with high energy generation from **Electro Resonance** and frequent **Electro-Charged** reactions, resulting in high sustained area damage.
+![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
 [**Geo**](https://genshinteambuilds.gitbook.io/teams/teams/geo)****
 

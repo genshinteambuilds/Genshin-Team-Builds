@@ -6,6 +6,14 @@
 [albedo.md](albedo.md)
 {% endcontent-ref %}
 
+{% content-ref url="gorou.md" %}
+[gorou.md](gorou.md)
+{% endcontent-ref %}
+
+{% content-ref url="itto.md" %}
+[itto.md](itto.md)
+{% endcontent-ref %}
+
 {% content-ref url="ningguang.md" %}
 [ningguang.md](ningguang.md)
 {% endcontent-ref %}
