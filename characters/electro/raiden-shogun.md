@@ -10,7 +10,7 @@
 ## **Character Breakdown**
 
 * With the Raiden Shogun in your party, casting **Elemental Bursts** from other party members will grant her Resolve (Max 60 stacks) based on the energy cost of the **Elemental Burst** used. Resolve increases her own **Elemental Burst's** damage.
-* **A1** grants 2 stacks of Resolve when a character collects an **Energy Particle**, can occur once every 3 seconds.
+  * **A1** grants 2 stacks of Resolve when a character collects an **Energy Particle**, can occur once every 3 seconds.
 * **Elemental Skill** deals Electro damage on use and causes a coordinated attack to be launched whenever an active character deals damage to an enemy, dealing **AoE** **Electro** **Damage** (with a short Cooldown of 0.9 seconds).
   * It also raises their **Elemental Burst** damage relative to the total **Energy Cost** of the active character's **Elemental Burst**.
 * **Elemental Burst** consumes all Resolve stacks gained and causes the Raiden Shogun to deal massive **AoE** **Electro** **Damage** in the direction she is facing. Following the initial burst, she then converts her **Normal** and **Charged Attacks** to **Electro** which counts as **Elemental Burst** Damage for 7 seconds.&#x20;
@@ -55,7 +55,7 @@
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)****
 
 * Beidou's **Elemental Burst** cannot be triggered by Raiden Shogun's **Normal Attacks** in her **Elemental Burst**, making Beidou lose her usefulness in providing powerful Off-Field damage.
-  * A Beidou pairing can be utilized somewhat by staggering the **Elemental Burst** rotations such that Raiden uses her **Elemental Burst** before and after Beidou's **Elemental Burst** duration is over.
+  * A Beidou pairing can be utilized somewhat by staggering the **Elemental Burst** rotations such that Raiden uses her **Elemental Burst** before and after Beidou's **Elemental Burst** duration is over although this results in quite a long DPS rotation.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)
 
@@ -69,14 +69,14 @@ Click on the team names below for more details on how the team works and alterna
 
 [**National**](../../teams/national.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * A variation of the popular "National" team composition. This team setup utilizes the powerful off-field high **Energy Cost** **Elemental Bursts** of Xiangling and Xingqui to stack **Resolve** onto Raiden Shogun for high team damage during all active **Elemental Bursts**.
-* Bennett provides healing and and **Attack** buff to Raiden Shogun and Xiangling.
+* Raiden Shogun additionally allows **Energy Recharge** requirements across the team to be lower.
 
 ****[**Oneshot**](../../teams/oneshot.md)****
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
 
 * This team that utilizes the Raiden Shogun as the Main DPS and focuses on buffing her **Elemental Burst** damage while feeding the whole team high amounts of energy. For a detailed look at how this team works, check out the [**Oneshot**](../../teams/oneshot.md) page.
 * Sara provides an **Attack** buff, as well as **Electro Energy Particle** generation for Raiden Shogun. She can also provide a **Critical Damage** Buff with **C6**.

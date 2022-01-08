@@ -10,7 +10,7 @@
 
 * **Elemental Skill** **(Tap)** releases a homing **Electro** orb that deals **Electro** **Damage** and applies 1 stack of the Conductive status (Max 3 stacks).
 * **Elemental Skill** **(Hold)** causes lightning to strike down dealing massive **Electro** damage to all enemies within its **AoE.**
-  * Deals more damage to enemies with higher Conductive stacks which get consumed.
+  * Deals more damage to enemies with higher Conductive stacks which are then consumed.
 * **Elemental Burst** deals continuous **Electro** **Damage** within its **AoE** and knocks back enemies on hit.
   * **A4** reduces enemies' **Defense** by 15% for 10 sec when hit by her **Elemental Burst**.
 
@@ -33,7 +33,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
-* Beidou enables **Electro Resonance** with Lisa, allowing for both to recharge their **Elemental Bursts** much quicker.
+* Beidou enables **Electro Resonance** with Lisa, allowing for both to recharge their **Elemental Bursts** faster.
 
 ## Does Not Work Well With
 
