@@ -11,8 +11,8 @@
 * **Charged Attack** is unique and performs a series of Arataki Kesagiri slashes without consuming Stamina when held. Each Arataki Kesagiri slash consumes 1 stack of Superlative Superstrength. When the final stack is consumed, Itto delivers a powerful final slash. If no stacks of Superlative Superstrength are available, Itto will perform a single Saichimonji Slash.
 * **Elemental Skill** throws Ushi (**Geo Construct**) and deals AoE damage to enemies hit. Itto gains 1 stack of Superlative Strength if enemies are hit.
   * Ushi taunts enemies and gives Itto a stack of Superlative Strength when hit.
-* **A1** grants Itto increased resistance to interruption and **ATK SPD** during consecutive Arataki Slashes.
-* **A4** increases **Arataki Slash DMG** by a percentage of his **DEF**.
+* **A1** grants Itto increased resistance to interruption and **ATK SPD** during consecutive Arataki Kesagiri slashes.
+* **A4** increases Arataki Kesagiri **DMG** by a percentage of his **DEF**.
 * **Elemental Burst** infuses Itto's weapon with **Geo** and provides an **ATK** buff that scales off of his **DEF**. Itto also loses **Elemental** and **Physical Resistance** during this time.
 
 ## **Additional Notes**
@@ -21,7 +21,7 @@
 * Itto plays around building up his Superlative Strength stacks and using them consecutively through **Charged Attacks** during his **Elemental Burst**.
 * **C1** builds up Superlative Strength stacks after casting **Elemental Burst**, reducing the need to pre-stack.
 * **C2** reduces **Elemental Burst** cooldown as well as restores Energy based on the amount of **Geo** characters in the party.
-* **C6** greatly increases Arataki Slash **Crit DMG**. Arataki Slashes have a chance to not consume a Superlative Stack.
+* **C6** greatly increases Arataki Kesagiri slash **Crit DMG**. Arataki Slashes have a chance to not consume a Superlative Strength stack.
 
 ## Works Well With
 
@@ -36,11 +36,11 @@
 
 ![](../../.gitbook/assets/Element\_Geo.webp)
 
-* Almost all Geo characters can work well Itto as long as they are able to provide offensive buffs, energy for Itto, or complete Geo Resonance.
+* Almost all **Geo** characters can work well Itto as long as they are able to provide offensive buffs, energy for Itto, or complete **Geo Resonance**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett provides Itto with a large ATK buff and healing, making him a valuable teammate to slot in as a healer. However, Bennett's flat ATK buff is often better used on other characters as Itto will have higher total ATK than average Main DPS characters due to his DEF to ATK conversion.
+* Bennett provides Itto with a large **ATK** buff and healing, making him a valuable teammate to slot in as a healer. However, Bennett's flat **ATK** buff is often better used on other characters as Itto will have higher total **ATK** than average Main DPS characters due to his **DEF** to **ATK** conversion.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
@@ -77,5 +77,5 @@ Itto only really works in an **Geo** team where Itto works as the Selfish Main D
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* This team plays similarly to the 4 Geo squad but replaces Albedo for Bennett, making Itto a larger focus of the total damage as well as providing a consistent source of healing.
+* This team plays similarly to the 4 **Geo** squad but replaces Albedo for Bennett, making Itto a larger focus of the total damage as well as providing a consistent source of healing.
 
