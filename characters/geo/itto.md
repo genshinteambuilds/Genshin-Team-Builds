@@ -18,8 +18,8 @@
 ## **Additional Notes**
 
 * Itto is often paired with other **Geo** characters to battery him provide **Geo Resonance**.
-* Itto plays around building up his Superlative Stacks and using them consecutively during his **Elemental Burst**.
-* **C1** builds up Superlative Stacks after casting **Elemental Burst**, reducing the need to pre-stack.
+* Itto plays around building up his Superlative Strength stacks and using them consecutively through **Charged Attacks** during his **Elemental Burst**.
+* **C1** builds up Superlative Strength stacks after casting **Elemental Burst**, reducing the need to pre-stack.
 * **C2** reduces **Elemental Burst** cooldown as well as restores Energy based on the amount of **Geo** characters in the party.
 * **C6** greatly increases Arataki Slash **Crit DMG**. Arataki Slashes have a chance to not consume a Superlative Stack.
 
