@@ -49,6 +49,10 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
+{% hint style="warning" %}
+Aloy does not particularly shine in any team composition as other characters often provide additional utility. She can still be used in the following teams but is generally not recommended.
+{% endhint %}
+
 ****[**Freeze (Cryo)**](../../teams/freeze.md)****
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aloy.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
@@ -57,6 +61,6 @@ Click on the team names below for more details on how the team works and alterna
 
 ****[**Melt (Cryo)**](../../teams/reverse-melt.md)****
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Aloy.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Aloy.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
 
 * Aloy can Reverse **Melt** her **Elemental Burst** to deal significant **Burst DPS**.

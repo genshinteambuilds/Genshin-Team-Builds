@@ -41,29 +41,8 @@
 ## Teams
 
 {% hint style="info" %}
-Click on the team names below for more details on how the team works and alternative support options that can work with that team.
+Click on the team names below for more details on how the team works and alternative support options that can work with that team
 {% endhint %}
-
-### Main DPS
-
-[**Freeze (Cryo)**](../../teams/freeze.md)
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
-
-* Kaeya plays the role of the On-field Main DPS in this team dealing damage with **Normal** and **Charged** **Attacks** infused with **Cryo**.
-* Kaeya's **Elemental Skill** and **Elemental Burst** provide ample amounts of **Cryo** application that when coupled with **Hydro**, inflicts the **Frozen** status on enemies.
-* Within the boundaries of Chongyun's **Elemental Skill**, Kaeya's **Normal** and **Charged Attacks** apply **Cryo** damage and Xingqiu's **Elemental Burst** is activated, applying **Hydro**, freezing enemies.
-* Sayu provides healing and **Viridescent Venerer** debuff.
-
-{% hint style="info" %}
-Possible substitutions:
-
-* Xingqiu for Kokomi/mona/Off-field **Hydro** application Support.
-* Jean for an **Anemo** Character with **Viridescent Venerer**.
-* Chongyun for Rosaria/Off-field **Cryo** Support.
-{% endhint %}
-
-### Sub DPS / Support
 
 [**Melt (Cryo)**](../../teams/reverse-melt.md)
 
@@ -80,10 +59,28 @@ Possible substitutions:
 * Kaeya's **Elemental Burst** following the active character allows for consistent **Superconduct** applications.
 * In teams with Eula, Kaeya can be used to provide both **Cryo Resonance** and act as an Energy Battery.
 
-Freeze (Cryo)
+****[**Freeze (Cryo)**](../../teams/freeze.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
 * Kaeya provides **Cryo Resonance** and extra **Cryo** application.
 * As Ayaka is Energy hungry, Kaeya's A4 to generate more **Cryo Energy Particles** is valuable to her.
 * Jean gives healing and **Viridescent Venerer** debuff.
+
+### Character Specific Teams
+
+**Freeze (w/ Chongyun)**
+
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)****
+
+* Kaeya plays the role of the On-field Main DPS in this team dealing damage with **Normal** and **Charged** **Attacks** infused with **Cryo** thanks to Chongyun's **Elemental Skill.**
+* Xingqiu's **Elemental Burst** applies **Hydro** to allow this team to **Freeze** enemies.
+* Sayu provides healing and the **Viridescent Venerer** debuff.
+
+{% hint style="info" %}
+Possible substitutions:
+
+* Xingqiu can be substitued for Kokomi, Mona or any other source of Off-field **Hydro** application.
+* Sayu can be replaced with any Healer or Shielder or another **Anemo** support character if healing is not required.
+{% endhint %}
+

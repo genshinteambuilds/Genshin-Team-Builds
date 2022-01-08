@@ -48,40 +48,13 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-### Main DPS
-
-[**Freeze (Cryo)**](../../teams/freeze.md)****
-
-**Chongyun Variation**
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
-
-* Rosaria performs as an on-field dps in this team, dealing **Cryo** damage with her **Normal** and **Charged Attacks**.
-* Rosaria's **Elemental Skill** and **Elemental Burst** provide ample amounts of **Cryo** application that when coupled with **Hydro**, inflicts the **Frozen** status on enemies.
-* Within the boundaries of Chongyun's **Elemental Skill**, Rosaria's **Normal** and **Charged Attacks** apply **Cryo** damage and Xingqiu's **Elemental Burst** is activated, applying **Hydro**, freezing enemies.
-
-{% hint style="info" %}
-Possible substitutions:
-
-* Xingqiu for Kokomi/mona/Off-field **Hydro** application Support.
-* Jean for an **Anemo** Character with **Viridescent Venerer**.
-{% endhint %}
-
 [**Melt (Cryo)**](../../teams/reverse-melt.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * With consistent **Pyro** application from Xiangling and Bennett, Rosaria's **Elemental Skill** and **Burst** can consistently **Melt** for increased damage.
-* After activating Xiangling and Rosaria's **Elemental Bursts** in Bennett's field, Rosaria does not stay on-field, but rather, the team's skills are cycled through, Sucrose to maintain **Elemental Mastery** buff and Bennett to Battery Xiangling.
-
-****[**Physical (Cryo)**](../../teams/physical-cryo.md)****
-
-![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
-
-* As a **Physical** Main DPS, Rosaria can use her continuous **Cryo** application to trigger **Superconduct.**
-* Her **C1** and **C6** further supplements her **Physical** damage.
-
-### Sub DPS / Support
+* After activating Xiangling and Rosaria's **Elemental Bursts** in Bennett's field, Rosaria generally does not stay on-field, but rather, the team's skills are cycled through.
+* Sucrose's skills are used to maintain an **Elemental Mastery** buff and provide Viridescent Venerer debuffing and Bennett's **Elemental Skill** is used as often as possible to provide energy for Xiangling.
 
 ****[**Freeze (Cryo)**](../../teams/freeze.md)****
 
@@ -98,10 +71,35 @@ Possible substitutions:
 * Rosaria's **Physical Resistance** reduction at **C6** makes her a powerful option for a [**Physical** ](../../teams/physical-cryo.md)team, given how few sources exist to enhance the damage type.
 * Even without **C6**, Rosaria can still provide energy for a **Cryo** character like Eula, Off-Field **Cryo** application to trigger **Superconduct**, and a teamwide buff to **Critical Rate** after casting her **Elemental Burst**.
 
-[**Melt(Cryo)**](../../teams/reverse-melt.md)****
+### Character Specific Teams
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+**Freeze (w/ Chongyun)**
 
-* In this team, Xiangling, Rosaria and Chongyun's **Elemental Bursts** are activated within Bennett's **Elemental Burst**.
-* Auto attacks in Chongyun's field are weaved in between character when funneling **Energy Particles** from their skills to recharge their bursts for another rotation.
-* Enables **Melts** of both **Pyro** and **Cryo** elements.
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****
+
+* Rosaria plays the role of the On-field Main DPS in this team dealing damage with **Normal** and **Charged** **Attacks** infused with **Cryo** thanks to Chongyun's **Elemental Skill.**
+* **Kokomi** provides **Hydro** application with her Elemental Skill allowing this team to **Freeze** enemies. Kokomi also provides healing.
+* Kazuha provides the **Viridescent Venerer** debuff and Crowd Control Grouping.
+
+{% hint style="info" %}
+Possible substitutions:
+
+* Kokomi can be substitued for Xingqiu, Mona or any other source of Off-field **Hydro** application. Note that the team will lose it's source of healing if Kokomi is replaced and another replacement healer may be desired.
+* Kazuha can be replaced with any other **Anemo** support character.
+{% endhint %}
+
+**Physical (Cryo)**
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+
+* Rosaria can be used as a **Physical** Main DPS if you do not have other options.
+* Her **Cryo** abilities can help generate **Superconduct Elemental Reactions.**
+* Her **C1** and **C6** further supplements her **Physical** damage.
+
+**Melt (w/ Klee / Yanfei)**
+
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
+
+* An alternative **Melt** team that allows Rosaria's **Elemental Burst** to **Melt** while Klee or Yanfei applies **Pyro** to the enemies with their **Normal Attacks**, **Charged Attacks** and abilities.
+
+****

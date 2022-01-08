@@ -8,6 +8,7 @@
 ## Character Breakdown
 
 * **Elemental Skill** deals **AoE** **Cryo** damage and creates a field on the ground within which all **Sword**, **Claymore** and **Polearm**-wielding characters' weapons will be infused with **Cryo**.
+  * This can potentially allow any character using these weapon types to act as a Main DPS in a **Freeze** team.
   * **A4** causes a second instance of **AoE Cryo** damage when the field expires and reduces the **Cryo Resistance** of enemies that take damage from this.
 * **Elemental Burst** summons 3 spirit blades that deal large **AoE** **Cryo** damage and knock enemies back.
 
@@ -55,7 +56,8 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-* In **Freeze** teams, Chongyun acts as a Burst DPS and Support. The **Cryo Infusion** from Chongyun's **Elemental Skill** helps keep enemies **Frozen**, and the extra **Critical Rate** gained from **Cryo Resonance** and the **Blizzard Strayer** artifact set let Chongyun utilize a more offensive build.
+* In **Freeze** teams, Chongyun acts as a Burst DPS and Support and can help provide **Cryo Resonance**.
+* The **Cryo Infusion** from Chongyun's **Elemental Skill** can help non-standard Main DPS characters deal **Cryo** damage with their **Normal Attacks** and **Charged Attacks**.
 * Chongyun can also act as an Energy Battery for other **Cryo** characters on the team.
 
 [**National**](../../teams/national.md)
