@@ -55,7 +55,7 @@ Click on the team names below for more details on how the team works and alterna
 Itto only really works in an **Geo** team where Itto works as the Selfish Main DPS. A couple common example teams are shown below. Additional teams and options can be found in the **Geo** team page.
 {% endhint %}
 
-****[**Geo**](./)
+****[**Geo**](../../teams/geo.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
