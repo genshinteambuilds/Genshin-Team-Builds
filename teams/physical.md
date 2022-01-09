@@ -1,8 +1,8 @@
 # Physical (Electro)
 
-This team composition mainly focuses on **Physical damage**. This damage type isn't an **Elemental Reaction** but there are certain characters and **Elemental Reactions** that can increase **Physical damage**, mainly the **Superconduct** reaction.
+This team composition mainly focuses on **Physical damage**. This damage type isn't part of an **Elemental Reaction** but there are certain characters and **Elemental Reactions** that can increase **Physical damage**, mainly the **Superconduct** reaction.
 
-**Superconduct** requires **Cryo** and **Electro** to be applied on an enemy which will then decrease their **Physical Resistance** by 40%. This makes all physical teams require a **Cryo** and an **Electro** unit to take advantage of this reaction.
+**Superconduct** requires **Cryo** and **Electro** to be applied on an enemy which will then decrease their **Physical Resistance** by 40%. This makes all **Physical** teams require a **Cryo** and an **Electro** unit to take advantage of this reaction.
 
 {% hint style="info" %}
 If you have two or more **Cryo** units in your party, you will gain **Cryo Resonance** which grants 15% **Crit Rate** against enemies affected by **Cryo**.\
@@ -84,10 +84,6 @@ Triggering the Keqing's second cast of her **Elemental Skill** infuses her weapo
 {% endhint %}
 
 * Kaeya and Rosaria work in tandem to constantly supply **Cryo** for Keqing to trigger **Superconduct.**
-* Keqing's main mode of damage is her **Charged Attacks** and her **Elemental Skill**.&#x20;
-* Rosaria serves to buff your Keqing's **Crit Rate** with her **Elemental Skill**. **** Together **** with Kaeya, they provide additional superficial **Crit Rate** with **Cryo Resonance**.
+* Keqing's main souce of damage is her **Charged Attacks**.&#x20;
+* Rosaria serves to buff your Keqing's **Crit Rate** with her **Elemental Skill**. **** Together **** with Kaeya, they provide additional effective **Crit Rate** with **Cryo Resonance**.
 * Bennet's **Elemental Burst** provides **Healing** and **Attack** buff to Keqing when inside its AoE. It is recommended to build Bennet with high **Energy Recharge** to maintain good uptime for his **Elemental Burst**.
-
-## Additional notes
-
-It is technically possible to create a **Physical** team using other characters as a main carry. The most notable examples are Kaeya, Rosaria and Zhongli. While they are playable, it is not recommended as there are often better options and better uses for those characters.

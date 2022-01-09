@@ -1,8 +1,8 @@
 # Physical (Cryo)
 
-This team composition mainly focuses on **Physical damage**. This damage type isn't an **Elemental Reaction** but there are certain characters and **Elemental Reactions** that can increase **Physical damage**, mainly the **Superconduct** reaction.
+This team composition mainly focuses on **Physical damage**. This damage type isn't part of an **Elemental Reaction** but there are certain characters and **Elemental Reactions** that can increase **Physical damage**, mainly the **Superconduct** reaction.
 
-**Superconduct** requires **Cryo** and **Electro** to be applied on an enemy which will then decrease their **Physical Resistance** by 40%. This makes all physical teams require a **Cryo** and an **Electro** unit to take advantage of this reaction.
+**Superconduct** requires **Cryo** and **Electro** to be applied on an enemy which will then decrease their **Physical Resistance** by 40%. This makes all **Physical** teams require a **Cryo** and an **Electro** unit to take advantage of this reaction.
 
 {% hint style="info" %}
 If you have two or more **Cryo** units in your party, you will gain **Cryo Resonance** which grants 15% **Crit Rate** against enemies affected by **Cryo**.\
@@ -86,3 +86,7 @@ If you add an extra **Electro** Unit into your Party you will gain **Electro Res
 * Raiden plays a key role in this composition as she is great energy battery **** for Eula. Raiden's **Elemental Skill** also continuously provides particles off-field. When Eula has dealt damage with her **Elemental Burst**, follow with Raiden's **Elemental Burst** to refill energy for the entire party, allowing Eula and her supports to cast their **Elemental** **Bursts** in quick succession.
 * Rosaria serves to buff your Eula's **Crit Rate** with her **Elemental Skill** and funds Eula's **Elemental Burst**.
 * Diona provides shielding and healing as well as being an Energy Battery for Eula.
+
+## Additional notes
+
+It is technically possible to create a **Physical** team using other characters as a main carry. The most notable examples are Kaeya, Rosaria and Zhongli. While they are playable, it is not recommended as there are often better team options and better uses for those characters.
