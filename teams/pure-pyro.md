@@ -63,15 +63,15 @@ Swirl is the only notable **Elemental Reaction** as the **Viridescent Venerer** 
 &#x20;![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Klee is the on-field DPS.
-* Venti's **Elemental Burst** and Klee's **Charged Attacks** gives this team tremendous crowd control.
+* Venti's **Elemental Burst** and Klee's **Charged Attacks** provides the team with crowd control.
 * All of Klee's attacks can hit in Venti's **Elemental Burst** except her **Normal Attack**. Klee's **Charged Attacks** can fling heavy enemies into Venti's **Elemental Burst**.
 * Kazuha decreases enemy's **Pyro Resistance** with 4 set **Viridescent Venerer** set while providing Crowd Control **** for Klee. He can gather Klee's mines and enemies with his **Elemental Skill**.
-* Bennett heals, activates **Pyro resonance**, and buffs **Attack** for Klee and Xiangling to deal more damage.
+* Bennett heals, activates **Pyro resonance**, and buffs **Attack** for Klee to deal more damage.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Yoimiya is the on-field DPS.
-* Kazuha decreases enemy's **Pyro Resistance** with 4 set **Viridescent Venerer** set while providing Crowd Control **** for Yoimiya.
+* Kazuha decreases enemy's **Pyro Resistance** with 4 set **Viridescent Venerer** set while providing some grouping **** for Xiangling.
 * Xiangling is an off-field DPS who provides **Pyro DMG Bonus** at C6.
 * Bennett heals, activates **Pyro resonance**, and buffs **Attack** for Yoimiya and Xiangling to deal more damage.
 
