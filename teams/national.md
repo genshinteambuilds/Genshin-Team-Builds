@@ -1,8 +1,8 @@
 # National
 
-The National Team is as a very consistent **Reverse Vaporize** Team that performs exceptionally well for low investment. The core of the Team is Xiangling, Xingqiu, and Bennett with the last member of the team being somewhat flexible and usually dedicated to a member that can provide the team some level of utility.
+The National Team is as a very consistent **Reverse Vaporize** Team that performs exceptionally well for low investment. The core of the Team is Xiangling, Xingqiu, and Bennett with the last member of the team being somewhat flexible and usually dedicated to a member that can provide the team additional damage.
 
-The team derives the majority of its damage by taking advantage of Bennett's **Elemental Burst** to buff Xiangling's **Elemental Burst**, while also having Xingqiu's **Elemental Burst** active in order to enable vaporizes with Xiangling's Pyronado.&#x20;
+The team derives the majority of its damage by taking advantage of Bennett's **Elemental Burst** to buff Xiangling's **Elemental Burst**, while also having Xingqiu's **Elemental Burst** active in order to enable **Vaporizes** with Xiangling's Pyronado.&#x20;
 
 {% hint style="danger" %}
 **When running this team, make sure that Xiangling is well equipped as her burst is this team's primary source of damage.**
@@ -52,12 +52,11 @@ The team derives the majority of its damage by taking advantage of Bennett's **E
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)
 
-* A combination of Xingqiu burst and Chongyun’s field allows you to keep enemies tagged with **Cryo** while Xiangling’s burst, skill, and Bennett’s skill use the application to **Melt**. Make sure to keep using normal attacks to apply the **Cryo** and **Hydro** hits to keep up the reactions.
-* This team composition is known as the original CN National team or National team.
+* A combination of Xingqiu **Elemental Burst** and Chongyun’s **Elemental Skill** allows you to keep enemies tagged with **Cryo** while Xiangling’s **Elemental Burst**, **Elemental Skill**, and Bennett’s **Elemental Skill** use the application to **Melt**. Make sure to keep using **Normal Attacks** to apply the **Cryo** and **Hydro** hits to keep up the reactions.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
-* Sucrose's role on this team is to provide an **Elemental Mastery** boost to all characters, as well as using the **Viridescent Venerer** set to reduce enemy Elemental Resistance. Sucrose can also hold **Thrilling Tales of Dragon Slayers**t, which at **Refinement** Rank 5, can provide up to 48% Attack bonus. Other **Anemo** supports such as Kazuha or Venti can fill her role by providing either boosts to **Elemental Damage** or powerful **Crowd Control**.
+* Sucrose's role on this team is to provide an **Elemental Mastery** boost to all characters, as well as using the **Viridescent Venerer** set to reduce enemy Elemental Resistance. Sucrose can also hold **Thrilling Tales of Dragon Slayers**, which at **Refinement** Rank 5, can provide up to 48% **Attack** bonus. Other **Anemo** supports such as Kazuha or Venti can fill her role by providing either boosts to **Elemental Damage** or powerful **Crowd Control**.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
 
@@ -65,5 +64,4 @@ The team derives the majority of its damage by taking advantage of Bennett's **E
 
 ### Footnotes
 
-* Xiangling's **Elemental Burst** has the ability to "snapshot" or maintain all the buffs active at the start of the Burst, for the entire duration. This snapshot effect will remain active even if Xiangling steps out of Bennett **Elemental Burst** field.&#x20;
-  * Xiangling's **Elemental Burst** specifically snapshots after the third swing of Pyronado
+* Xiangling's **Elemental Burst** has the ability to "snapshot" or maintain all the buffs active at the third swing of her **Elemental Burst** startup, for the entire duration. This snapshot effect will remain active even if Xiangling steps out of Bennett **Elemental Burst** field.&#x20;
