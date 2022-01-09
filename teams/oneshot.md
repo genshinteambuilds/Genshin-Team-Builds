@@ -1,6 +1,6 @@
 # Oneshot
 
-These team compositions focus on dealing a large amount of burst damage to enemies (ideally ending the encounter immediately) without caring much about repeatability and follow up damage. This is usually accomplished by utilizing characters with very high **Elemental Burst** modifiers that can take full advantage of multiple scaling, Buffs, and/or **Elemental Reactions**. Notable Elemental Reactions are **Melt** and **Vaporize** as they are able to provide an additional final multiplier to Damage. The other character slots are used mainly to "setup" the Oneshot and stack multiple buffs and apply **Elements** in a specific order.
+These team compositions focus on dealing a large amount of burst damage to enemies (ideally ending the encounter immediately) without caring much about repeatability and follow up damage. This is usually accomplished by utilizing characters with very high **Elemental Burst** modifiers that can take full advantage of multiple scaling, Buffs, and/or **Elemental Reactions**. Notable **Elemental Reactions** are **Melt** and **Vaporize** as they are able to provide an additional final multiplier to Damage. The other character slots are used mainly to "setup" the Oneshot and stack multiple buffs and apply **Elements** in a specific order.
 
 **Elemental Skill** and **Burst** usage order and character swapping order is very important in these types of compositions. This playstyle will often have different artifacts and weapon choices than traditional play, and setups vary widely by availability of characters and equipment.
 
@@ -34,12 +34,12 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
 
-* Generally the best choice at Constellation 4+. The **DEF Shred** (Constellation 4+) along with possible use of **Freedom-Sworn** make her the best choice at ultra high investment levels.
+* Generally the best choice at **Constellation 4**+. The **DEF Shred** (**Constellation 4**+) along with possible use of **Freedom-Sworn** make her the best choice at ultra high investment levels.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)
 
-* Able to buff damage on enemies inside her **Elemental Burst** at Constellation 4.
-* Able to carry Elegy for the End and provide more **ATK DMG** and **Elemental Mastery**.
+* Able to buff damage on enemies inside her **Elemental Burst** at **Constellation 4**.
+* Able to carry **Elegy for the End** and provide more **ATK DMG** and **Elemental Mastery**.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
@@ -60,7 +60,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
 * Can be run as a 4 set **Viridescent Venerer** carrier and provides a large damage boost to your team based on his own **Elemental Mastery** and the Element that he **Swirls**.
-* Constellation 2 grants 200 **Elemental Mastery** to everyone on the team.
+* **Constellation 2** grants 200 **Elemental Mastery** to everyone on the team.
 * Can carry **Freedom-Sworn**.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
@@ -77,7 +77,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 ![](../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
 
 * Able to carry **Elegy for the End** and easily activate the passive through her **Elemental Burst**.
-* At Constellation 6, using her **Elemental Burst** gives her team a small **ATK**% Buff.
+* At **Constellation 6**, using her **Elemental Burst** gives her team a small **ATK**% Buff.
 * Used for **Swirling Pyro** for **Viridescent Venerer**'s Debuff with an **Anemo** character.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
@@ -117,7 +117,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../.gitbook/assets/Element\_Pyro.webp)
 
-* Klee and Yanfei helps at applying **Pyro** and using an R5 **Thrilling tales of Dragon Slayers** which buffs your Mona with **48% atk** and if you Klee's have her Constellation 2, her Elemental Skill shreds the enemy's **DEF** by 23%, which helps a lot to deal even more damage. If you don’t have Klee or Yanfei, any **Pyro** works.
+* Klee and Yanfei helps at applying **Pyro** and using an R5 **Thrilling tales of Dragon Slayers** which buffs your Mona with **48% atk** and if you Klee's have her **Constellation 2**, her **Elemental Skil**l shreds the enemy's **DEF** by 23%, which helps a lot to deal even more damage. If you don’t have Klee or Yanfei, any **Pyro** works.
 
 ### Supporting Cast
 
@@ -130,7 +130,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
 * Can be run as a 4 set **Viridescent Venerer** carrier and provides a large damage boost to your team based on his own **Elemental Mastery** and the **Element** that he Swirls.
-* Constellation 2 grants 200 **Elemental Mastery** to everyone on the team.
+* **Constellation 2** g**r**ants 200 **Elemental Mastery** to everyone on the team.
 * Can carry **Freedom-Sworn**.
 
 ### Mona Vaporize Setup
@@ -143,7 +143,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 **Step 4**: Use Bennett's **Elemental Burst** to buff up your Mona while also applying **Pyro** aura to the enemy
 
-**Step 5**: Use Mona's **Elemental Burst** and wait for roughly 2 seconds before swapping (there’s ICD\*/ Internal Cool Down on Mona’s **Elemental Burst**, and you need to wait before swapping so that when you swap to Bennett, Mona will still gain the **ATK** buffs given by Bennett’s burst (it lingers for a while))
+**Step 5**: Use Mona's **Elemental Burst** and wait for roughly 2 seconds before swapping (there’s ICD\*/ Internal Cool Down on Mona’s **Elemental Burst**, and you need to wait before swapping so that when you swap to Bennett, Mona will still gain the **ATK** buffs given by Bennett’s burst (it lingers for one second))
 
 **Step 6**: Use Bennett's **Elemental Skill** or apply any **Pyro** to “pop” the bubble
 
@@ -176,12 +176,12 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett **** provides a massive **ATK** buff and is able to set up by applying Pyro.
+* Bennett **** provides a massive **ATK** buff and is able to set up by applying **Pyro**.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
 
-* Amber provides very quick Pyro application at a range.&#x20;
-* Can activate **Elegy for the End** and further buff with Constellation 6.
+* Amber provides very quick **Pyro** application at a range.&#x20;
+* Can activate **Elegy for the End** and further buff with **Constellation 6**.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
@@ -192,7 +192,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
 * Provides large buffs through her **Elemental Burst** and ability to carry **Thrilling Tales of Dragon Slayer**.
-* Constellation 1 and Constellation 4 improve the party's **Vaporize** damage and **Crit Rate** during the rotation.
+* **Constellation** **1** and **Constellation 4** improve the party's **Vaporize** damage and **Crit Rate** during the rotation.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
@@ -203,7 +203,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
 * Can be run as a 4 set **Viridescent Venerer** carrier and provides a large damage boost to your team based on his own Elemental Mastery and the Element that he Swirls.
-* Constellation 2 grants 200 **Elemental Mastery** to everyone on the team.
+* **Constellation 2** grants 200 **Elemental Mastery** to everyone on the team.
 * Can carry **Freedom-Sworn**.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
@@ -339,7 +339,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 ![](../.gitbook/assets/UI\_AvatarIcon\_Sara.png)
 
 * Provides a large **ATK** buff.
-* C6 further buffs the **Crit Damage** of **Electro damage** on character's that are buffed by Sara.
+* **C6** further buffs the **Crit Damage** of **Electro damage** on character's that are buffed by Sara.
 * Can carry **Elegy of the End**.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
