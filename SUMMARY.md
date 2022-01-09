@@ -52,6 +52,7 @@
   * [Noelle](characters/geo/noelle.md)
   * [Zhongli](characters/geo/zhongli.md)
   * [Traveler (Geo)](characters/geo/traveler-geo.md)
+  * [Yunjin](characters/geo/yunjin.md)
 * [Hydro](characters/hydro/README.md)
   * [Barbara](characters/hydro/barbara.md)
   * [Kokomi](characters/hydro/kokomi.md)
