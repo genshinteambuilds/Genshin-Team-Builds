@@ -3,7 +3,7 @@
 **Overload** occurs when a **Pyro** marked enemy is hit with **Electro** or vice versa, creating a small **AoE** hit of **Pyro damage** and can potentially knock back enemies. **Overload damage** is based off the **Elemental** **Mastery** and level of the character applying the second element. Most **Overload** teams have a **Pyro** Main DPS, however several on-field **Electro** Main DPS characters can work with Xiangling effectively.
 
 {% hint style="danger" %}
-C**haracters are ranked roughly according to how well they perform in this team composition.**
+**Characters are ranked roughly according to how well they perform in this team composition.**
 {% endhint %}
 
 |                                       Main DPS                                      |                                  Core Support / Sub DPS                                  |                                     Flex Support                                     |                                   Healer / Shielder                                  |
@@ -78,3 +78,8 @@ Carries represent on-field application of their respective elements (electro for
 
 * The goal is to alternate between using Xiangling's **Elemental Burst** and a Venti **Elemental Burst** infused with **Pyro** to constantly apply **Pyro** to the enemy.
 * Keqing’s infused **Normal** and **Charged attacks** should be used while Xiangling’s Pyronado is active, and her **Elemental** **Burst** and **Elemental Skill** should be used while Venti’s **Elemental Burst** is active.
+
+![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+* Both Xiangling's **Elemental Burst** and the combination of Bennett and Kazuha's **Elemental Burst** constantly apply **Pyro** to the enemy.
+* Raiden's **Elemental Burst** changes her **Normal Attacks** and **Charged Attacks** to do **Electro** Damage with very high range. This allows you to consistently **Overload** without much worry about knockback.
