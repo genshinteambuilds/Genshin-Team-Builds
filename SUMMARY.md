@@ -77,7 +77,6 @@
 * [Electro-Charged (Electro)](teams/electro-charged.md)
 * [Electro-Charged (Hydro)](teams/electro-charged-hydro.md)
 * [Freeze (Cryo)](teams/freeze.md)
-* [Freeze (Hydro)](teams/freeze-hydro.md)
 * [Geo](teams/geo.md)
 * [Melt (Cryo)](teams/reverse-melt.md)
 * [National](teams/national.md)

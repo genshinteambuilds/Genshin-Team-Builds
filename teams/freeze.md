@@ -6,7 +6,7 @@ Freeze teams with **Cryo** Main DPS characters can also typically gain up to 55%
 
 It is technically possible to use Chongyun's **Elemental Burst** to infuse any **Claymore**, **Sword** or **Polearm** wielding character's **Normal** and **Charged Attacks** with **Cryo** and then use them as a Main DPS in a Freeze team.
 
-This page contains **Freeze** teams with a **Cryo** Main DPS character. For **Freeze** teams with **Hydro** Main DPS characters, see [Freeze (Hydro)](freeze-hydro.md).
+This page contains **Freeze** teams with a **Cryo** Main DPS character.
 
 {% hint style="info" %}
 Because **Freeze** teams have high **Crowd Control**, it is possible to play it without a Healer/Shielder on the team.
