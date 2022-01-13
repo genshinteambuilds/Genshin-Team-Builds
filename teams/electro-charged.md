@@ -68,19 +68,20 @@ This page contains **Electro-Charged** teams with a **Electro** Main DPS charact
 
 ## Sample Team Compositions
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Keqing provides the majority of On-Field damage with her **Electro** infused **Charged Attacks**.
 * Xingqiu's **Elemental Burst** provides Keqing with sufficient **Hydro** application to continuously sustain **Electro-Charged**.
-* Fischl provides additional Off-Field damage, energy, and enables **Electro Resonance**.
+* Kazuha provides buffing to **Electro Damage** after causing **Swirl** and an **Elemental Resistance** debuff **** with the **Viridescent Venerer** 4-set.&#x20;
 * Bennett provides healing and a a large **Attack** buff for the party.
+* Kazuha's **Elemental Skill** and **Burst** should be used before Bennet's in this team to prevent Kazuha's abilities from being infused with **Pyro**.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)
 
 * Keqing provides the majority of On-Field damage with her **Electro** infused **Charged Attacks**.
 * Kokomi acts as both the Core Support and the healer of the party, providing **Hydro** application and allowing for an additional Flex Support to be added.
 * Beidou provides additional Off-Field damage and enables **Electro Resonance**.
-* Kazuha provides buffing to **Electro Damage** after causing **Swirl** and an **Elemental Resistance** debuff **** with the **Viridescent Venerer** 4-set.&#x20;
+* Venti provides an **Elemental Resistance** debuff **** with the **Viridescent Venerer** 4-set as well as Grouping Crowd Control and additional energy when he infuses his **Elemental Burst** with **Electro**.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
