@@ -11,14 +11,10 @@ There are no strong **Vaporize (Hydro)** team compositions, due to the lack of *
 | <p><img src="../.gitbook/assets/UI_AvatarIcon_Tartaglia.png" alt=""></p><p>Tartaglia</p> | <p><img src="../.gitbook/assets/UI_AvatarIcon_Xiangling.png" alt=""></p><p>Xiangling</p> |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Kazuha.png" alt=""></p><p>Kazuha</p>  | <p><img src="../.gitbook/assets/UI_AvatarIcon_Bennett.png" alt=""></p><p>Bennett</p> |
 |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Kokomi.png" alt=""></p><p>Kokomi</p>    |                                                                                          | <p><img src="../.gitbook/assets/UI_AvatarIcon_Sucrose.png" alt=""></p><p>Sucrose</p> |                                                                                      |
 |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Mona.png" alt=""></p><p>Mona</p>      |                                                                                          | <p><img src="../.gitbook/assets/UI_AvatarIcon_Xingqiu.png" alt=""></p><p>Xingqiu</p> |                                                                                      |
-|   <p><img src="../.gitbook/assets/UI_AvatarIcon_Barbara.png" alt=""></p><p>Barbara</p>   |                                                                                          | <p><img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""></p><p>Zhongli</p> |                                                                                      |
+|                                                                                          |                                                                                          | <p><img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""></p><p>Zhongli</p> |                                                                                      |
 |                                                                                          |                                                                                          |   <p><img src="../.gitbook/assets/UI_AvatarIcon_Venti.png" alt=""></p><p>Venti</p>   |                                                                                      |
 
 ## Main DPS
-
-|                                                             Character                                                             | Notes                                                                                                                                                                                             |
-| :-------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><img src="../.gitbook/assets/UI_AvatarIcon_Barbara.png" alt=""></p><p><a href="../characters/hydro/barbara.md">Barbara</a></p> | <ul><li>Relies on Xiangling and Bennett to apply <strong>Pyro</strong> to the enemy as often as possible for Barbara to <strong>Vaporize</strong> her <strong>Charged Attacks</strong>.</li></ul> |
 
 {% hint style="info" %}
 For all of the below **Hydro** Main DPS, **Vaporizing** Xiangling's Off-Field **Pyro** damage is generally prioritized over the **Hydro** character's damage. Xiangling should be geared like a Main DPS **** in these teams.
@@ -56,18 +52,10 @@ For all of the below **Hydro** Main DPS, **Vaporizing** Xiangling's Off-Field **
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* A popular **Vaporize (Hydro)** team that's also known as "Childe International".
 * Tartaglia applies Hydro to enemies and provides some damage. Xiangling **Elemental Burst** and **Elemental Skill** will **Vaporize** Tartaglia's Hydro applications, dealing the bulk of this team's damage.
 * Tartaglia's **Elemental Burst** also does massive damage in this team when used after buffs.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-*   Similar to the Tartaglia team above, Mona is used to apply **Hydro** for Xiangling to **Vaporize** off of.
-
-    ***
-
-![](../.gitbook/assets/UI\_AvatarIcon\_Barbara.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Venti.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
-
-* This team is focused on **Vaporizing** Barbara's **Charged Attacks**.
-* Xiangling and Venti are used to provide enough Off-Field **Pyro** application for Barbara to consistently **Vaporize** her **Charged Attacks**.
-* Note: This team is not recommended, but is avaliable as an option to travelers.
+* Similar to the Tartaglia team above, Mona is used to apply **Hydro** for Xiangling to **Vaporize** off of.
+* Mona's **Elemental Burst** should be used to amplify Xiangling's damage.
