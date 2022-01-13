@@ -84,8 +84,8 @@ If you do not struggle with survivability with Shields from **Crystallization** 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)![](../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)![](../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 {% hint style="info" %}
-This team composition is not advisable to play before your Noelle is Constellation 6. Otherwise, the overall damage output of this team will be significantly lower as Noelle's **Elemental Burst** is the biggest source of damage.
+This team composition is not advisable to play before your Noelle is **Constellation 6**. Otherwise, the overall damage output of this team will be significantly lower as Noelle's **Elemental Burst** is the biggest source of damage.
 {% endhint %}
 
 * Noelle cannot generate **Energy Particles** on her own which is why she is paired with **Geo** Traveler who provides a constant stream of **Geo** **Energy Particles**. The Traveler's **Elemental Burst** also provides a **Crit Rate** buff when Noelle is inside its **AoE**.
-* **Cryo Resonance** from Rosaria and Diona also provides the team with a buff of 15% **Critical Rate**. Rosaria's **A4** can also buff team members **Critical Rate**. Altogether, the **Critical Rate** buffs from Traveler (Geo), Rosaria and Cryo Resonance can add up to 40%.
+* **Cryo Resonance** from Rosaria and Diona also provides the team with a buff of 15% **Critical Rate**. Rosaria's **A4** can also buff team members **Critical Rate**. Altogether, the **Critical Rate** buffs from Traveler (**Geo**), Rosaria and **Cryo** Resonance can add up to 40%.
