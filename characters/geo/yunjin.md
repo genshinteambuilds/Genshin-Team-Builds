@@ -53,18 +53,9 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-#### ****[**Vaporize (Pyro)**](yunjin.md#geo)
+### Character Specific Teams
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+**Pure Pyro (w/ Yoimiya)**
 
-* As Yunjin's **Elmental Burst** provides **Normal Attack** and **Attack Speed** buffs, she synergises well with Yoimiya and Xingqiu to create **Vaporize** reactions.
-* Last slot would be a flex support
-
-****[**Geo**](../../teams/geo.md)****
-
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
-
-* With a **Geo Normal Attack** based character, Yunjin would still work well by boosting the damage due to her **Elemental Burst**.
-* Gorou also would work in this team as he provides **DEF** buffs for Yunjin to capitalise on.
-* Last slot would be a flex support.
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
 
