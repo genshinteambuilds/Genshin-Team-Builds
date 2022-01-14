@@ -82,12 +82,12 @@
 * [National](teams/national.md)
 * [Physical (Cryo)](teams/physical-cryo.md)
 * [Physical (Electro)](teams/physical.md)
-* [Pure Pyro](teams/pure-pyro.md)
 * [Oneshot](teams/oneshot.md)
 * [Overload (Pyro)](teams/overload.md)
 * [Overload (Electro)](teams/overload-electro.md)
 * [Vaporize (Hydro)](teams/vaporize.md)
 * [Vaporize (Pyro)](teams/reverse-vaporize.md)
+* [Pure Pyro](teams/pure-pyro.md)
 
 ## Changelogs
 

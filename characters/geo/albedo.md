@@ -1,6 +1,6 @@
 # Albedo
 
-## y**Roles**
+## **Roles**
 
 * **Off-Field DPS** (Elemental Skill)
 * **Burst DPS**

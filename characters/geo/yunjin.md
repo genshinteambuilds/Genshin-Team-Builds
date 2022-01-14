@@ -15,3 +15,56 @@
 ## Additional Notes
 
 * **C2** further buffs **Normal Attack** damage by 15% for 12s, making it a very useful constellation to aim for.
+* **C4** buffs her own **DEF**, allowing her to buff Normal Attack damage even further.
+* **C6** buffs **Attack Speed** for characters that are affected by her **Elemental Burst**.
+* While her **A4** provides buff from multiple different **Elemental** characters, having 2/3 different ones is sufficient.
+
+
+
+## **Works Well With**
+
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)****
+
+* Characters that are focused on **Normal Attacks** are very effective with Yunjin.
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+
+* Xingqiu synergises well with Yunjin as **Normal Attacks** trigger his **Elemental Burst** sword rain attacks.
+
+![](../../.gitbook/assets/Element\_Geo.webp)
+
+* Most **Geo** characters can work well Yunjin as they are able to provide **DEF** buffs and provide **Geo Resonance**.
+
+## **Does Not Work Well With**
+
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****
+
+* Characters that are focused on **Charge Attacks** are generally ineffective with Yunjin as she only buffs **Normal Attack** damage.
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
+
+* As Raiden's **Elemental Burst** attacks are considered **Burst Attack Damage**, it is not buffed by Yunjin's **Elemental Burst**.
+
+
+
+## **Teams**
+
+{% hint style="info" %}
+Click on the team names below for more details on how the team works and alternative support options that can work with that team.
+{% endhint %}
+
+#### ****[**Vaporize (Pyro)**](yunjin.md#geo)
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+* As Yunjin's **Elmental Burst** provides **Normal Attack** and **Attack Speed** buffs, she synergises well with Yoimiya and Xingqiu to create **Vaporize** reactions.
+* Last slot would be a flex support
+
+****[**Geo**](../../teams/geo.md)****
+
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
+
+* With a **Geo Normal Attack** based character, Yunjin would still work well by boosting the damage due to her **Elemental Burst**.
+* Gorou also would work in this team as he provides **DEF** buffs for Yunjin to capitalise on.
+* Last slot would be a flex support.
+
