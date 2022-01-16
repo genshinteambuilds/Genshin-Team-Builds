@@ -89,6 +89,6 @@ This team composition is not advisable to play before your Noelle is **Constella
 {% endhint %}
 
 * Noelle deals damage through her **Normal** **Attacks** during her **Elemental Burst**. Supports are swapped in during her **Elemental Burst** to provide a constant stream of buffs and **Energy Particles**.
-* As Noelle cannot generate **Energy Particles**, **Geo** Traveler acts as her dedicated **Energy Battery**.&#x20;
+* As Noelle cannot generate **Energy Particles**, **Geo** Traveler acts as her dedicated Energy Battery.&#x20;
 * The Traveler's **Elemental Burst** also provides a **Crit Rate** buff when Noelle is inside its **AoE**.
 * **Cryo Resonance** from Rosaria and Diona also provides the team with a buff of 15% **Critical Rate**. Rosaria's **A4** can also buff team members **Critical Rate**. Altogether, the **Critical Rate** buffs from Traveler (**Geo**), Rosaria and **Cryo** Resonance add up to 40%.
