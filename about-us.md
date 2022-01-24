@@ -8,7 +8,7 @@ This guide is maintained by players that frequent the #help channels on the offi
 | ----------- | -------------- |
 | Rag         | Rag#7161       |
 | Miko        | Miko-chan#0698 |
-| Setz        |                |
+| Setz        | Setz#8893      |
 | Woohoo      |                |
 | ChiliLion   |                |
 | Aidan047    |                |

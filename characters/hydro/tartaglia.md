@@ -87,7 +87,7 @@ Click on the team names below for more details on how the team works and alterna
 * Mona can apply the **Omen** Debuff to increase the damage enemies take.
 * Sucrose buffs Tartaglia's **Elemental Mastery** and debuffs **Hydro Resistance** when equipped with **Viridescent Venerer** 4-set.
 
-#### [Vaporize(Hydro)](../../teams/vaporize.md)
+#### [Vaporize (Hydro)](../../teams/vaporize.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 

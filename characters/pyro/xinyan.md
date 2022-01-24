@@ -17,7 +17,7 @@
 
 ## Additional Notes
 
-* Often used as a **Physical** Support but lacks the ability to trigger **Superconduct**, making her a less desirable choice than **Electro**/**Cryo**-based **Physical** Supports.
+* Often used as a **Physical** Support but lacks the ability to trigger **Superconduct**, making her a less desirable choice than **Electro** / **Cryo**-based **Physical** Supports.
 * Can be used to cleanse the active character with her shield which momentarily applies **Pyro**. Swapping to another character while the shield is active will also cleanse that character as well.
 * **C4** allows Xinyan's **Elemental Skill** to debuff enemy **Physical Resistance** by 15% for 12 seconds.
 
@@ -29,7 +29,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett is able to pair with Xinyan nicely to provide Healing, Shielding, Buffs/Debuffs and **Pyro Resonance** to any **Physical** Main DPS.
+* Bennett is able to pair with Xinyan nicely to provide Healing, Shielding, Buffs / Debuffs and **Pyro Resonance**. This may potentially cause issues in Razor teams specifically though due to constantly causing **Overload Elemental Reactions**.
 
 ## Does Not Work Well With
 
@@ -43,15 +43,14 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
+{% hint style="info" %}
+Xinyan provides buffing and debuffing of **Physical** damage in both the below teams.
+{% endhint %}
+
 ****[**Physical (Electro)**](../../teams/physical.md)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
-
-* A **Physical** team focused on providing large amounts of buffs to Razor and debuffs to the enemy.
-* Requires Bennett to be **C5** or below.
+![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
 
 [**Physical (Cryo)**](../../teams/physical-cryo.md)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
-
-* This team is focused on providing Eula with multiple buffs for her **Elemental Burst**. Xinyan provides **Physical** damage related Buff and Debuffs.
+![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)

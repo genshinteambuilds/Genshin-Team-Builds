@@ -28,7 +28,7 @@
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)
 
 * **Pyro** Main DPS characters who frequently **Normal Attack** can make full use of Thoma's Shields.
-* Thoma's relatively low **Pyro** application does not interfere with **Pyro** Main DPS's **Vaporize** reactions.&#x20;
+* Thoma's relatively low **Pyro** application generally does not interfere with **Pyro** Main DPS's **Vaporize** reactions.&#x20;
 * Thoma can activate **Pyro Resonance** when combined with these Main DPS.
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)
@@ -57,20 +57,21 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tohma.png)
 
-* Thoma is used as a Shielder and **Pyro** applicator in this team, providing additional **Pyro** application during Yoimiya's cooldowns.
+* Thoma's shield and Beidou's **Damage Reduction** are used instead of a dedicated healer here.
+* Thoma's **Pyro** application in this team can help with triggering **Overload Elemental Reactions**.
 * Thoma activates **Pyro Resonance** in this team.
-* **Overload**'s knockback is not an issue in this team, as Yoimiya's range means you don't have to spend time chasing enemies around.
+* **Overload**'s knockback is not as much of an issue in this team, as Yoimiya's range means you don't have to spend time chasing enemies around.
 
 ****[**Pure Pyro**](../../teams/pure-pyro.md)****
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Tohma.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
 
-* Thoma is used as a Shielder and Off-Field DPS in this team, using his **Elemental Burst** to provide additional shielding and damage to the rest of the party.
+* Thoma provides additional shielding for the team but may be replaced for higher damage options if shielding is not required.
 
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)****
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tohma.png)
 
-* Thoma is used in this team as a Shielder and a **Pyro** applicator for an **Anemo** support to trigger **Viridescent Venerer** 4-set to decrease **Pyro Resistance** on enemies.
-* An **Anemo** support such as Kazuha or Venti who can additionally apply **Hydro** is ideal, as Xingqiu's **Hydro** application alone cannot keep up with Hu Tao and Thoma's combined **Pyro** application.
+* Thoma's shield and Xingqiu's **Damage Reduction** are used instead of a dedicated healer here. This also helps with managing Hu Tao's **HP** to maintain buffs below 50% **HP**.
+* Thoma allows **Pyro** application outside of Hu Tao's abilities to be able to **Swirl Pyro** with an **Anemo** support to decrease enemy **Pyro Resistance** using the **Viridescent Venerer** 4-set.
 
