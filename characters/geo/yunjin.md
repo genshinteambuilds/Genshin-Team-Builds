@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Off-Field DPS** (Elemental Burst)
+* **Sub DPS**
 * **Support:** Buffer
 
 ## Character Breakdown
@@ -44,6 +44,8 @@
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
 
 * As Raiden's **Elemental Burst** attacks are considered **Burst Attack Damage**, it is not buffed by Yunjin's **Elemental Burst**.
+
+
 
 ## **Teams**
 

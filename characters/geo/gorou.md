@@ -2,7 +2,8 @@
 
 ## **Roles**
 
-* **Support:** Buffer, Healer (C4)
+* **Support:** Buffer
+* **Support:** Healer (C4, not recommended as primary healer)
 
 ## **Character Breakdown**
 
@@ -14,6 +15,8 @@
   * Casting **Elemental Burst** will destroy any war banner Gorou had up previously.&#x20;
 * **A1** increases party's DEF% after Gorou casts **Elemental Burst**.
 * **A4** increases Gorou's **Elemental Skill** and **Elemental Burst DMG** by a percentage of his **DEF**.
+
+
 
 ## **Additional Notes**
 

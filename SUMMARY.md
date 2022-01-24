@@ -35,6 +35,7 @@
   * [Kaeya](characters/cryo/kaeya.md)
   * [Qiqi](characters/cryo/qiqi.md)
   * [Rosaria](characters/cryo/rosaria.md)
+  * [Shenhe](characters/cryo/shenhe.md)
 * [Electro](characters/electro/README.md)
   * [Beidou](characters/electro/beidou.md)
   * [Fischl](characters/electro/fischl.md)
@@ -80,14 +81,14 @@
 * [Geo](teams/geo.md)
 * [Melt (Cryo)](teams/reverse-melt.md)
 * [National](teams/national.md)
-* [Physical (Cryo)](teams/physical-cryo.md)
-* [Physical (Electro)](teams/physical.md)
 * [Oneshot](teams/oneshot.md)
 * [Overload (Pyro)](teams/overload.md)
 * [Overload (Electro)](teams/overload-electro.md)
+* [Physical (Cryo)](teams/physical-cryo.md)
+* [Physical (Electro)](teams/physical.md)
+* [Pure Pyro](teams/pure-pyro.md)
 * [Vaporize (Hydro)](teams/vaporize.md)
 * [Vaporize (Pyro)](teams/reverse-vaporize.md)
-* [Pure Pyro](teams/pure-pyro.md)
 
 ## Changelogs
 

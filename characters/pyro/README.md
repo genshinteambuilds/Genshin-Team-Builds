@@ -48,10 +48,6 @@ While Xinyan is listed here as a **Pyro** character, she is primarily used as a 
 
 ## Teams
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="../../teams/reverse-melt.md" %}
 [reverse-melt.md](../../teams/reverse-melt.md)
 {% endcontent-ref %}
