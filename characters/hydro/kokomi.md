@@ -68,7 +68,7 @@ This character is a healer. While some teams are provided below where they are p
 
 ****[**Freeze (Cryo)**](../../teams/freeze.md)****
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)****
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)****
 
 * Kokomi's **Hydro** application enables permanent **Freeze** from Off-Field.
 * Using Kokomi as a **Hydro** applicator can free up a slot that would typically be dedicated to a healer.

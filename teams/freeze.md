@@ -86,3 +86,9 @@ Because **Freeze** teams have high **Crowd Control**, it is possible to play it 
 * Diona for **Cryo Resonance** and to act as an Energy Battery for Ayaka.&#x20;
 * Xingqiu applies **Hydro** when Ayaka performs a **Normal Attack**.&#x20;
 * Kazuha for **Viridescent Venerer**'s debuff and Kazuha's **Elemental Damage** buff.
+
+![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)
+
+{% hint style="danger" %}
+Under Construction
+{% endhint %}

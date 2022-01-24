@@ -48,9 +48,15 @@ This character is a healer. While some teams are provided below where they are p
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
+****[**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md)
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
+
+* Barbara is acting as a budget replacement for Kokomi in this team. This is generally not recommended as Barbara's personal damage is quite poor.
+
 ****[**Freeze**](../../teams/freeze.md)****
 
 &#x20;**** ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****
 
-* Barbara can be used as a **Hydro** applicator for a **Freeze** team while also providing healing utility.
+* Barbara can **** somewhat be used as a **Hydro** applicator for a **Freeze** team while also providing healing utility.
 * As Barbara's damage and **Hydro** application potential is limited compared to other characters such as Xingqui and Mona, Barbara should typically only be used if other **Hydro** applicators are being used in other teams or if healing is needed and no other characters can be swapped out.
