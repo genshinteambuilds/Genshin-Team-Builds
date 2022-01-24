@@ -83,3 +83,4 @@ Carries represent on-field application of their respective elements (electro for
 
 * The goal is to alternate between using Xiangling's **Elemental Burst** and a Venti **Elemental Burst** infused with **Pyro** to constantly apply **Pyro** to the enemy.
 * Keqing’s infused **Normal** and **Charged attacks** should be used while Xiangling’s Pyronado is active, and her **Elemental** **Burst** and **Elemental Skill** should be used while Venti’s **Elemental Burst** is active.
+* Venti is almost a requirement in this team due to **Overload** causing knockback on smaller enemies.
