@@ -55,7 +55,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### [National](../../teams/national.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * A popular team based around quickly swapping between characters and cycling their powerful **Elemental Bursts**, Xingqiu is used here primarily to provide **Vaporize** reactions with Xiangling's **Elemental Burst** and can also **Freeze** enemies when used with Chongyun, allowing **Pyro** attacks to **Melt** instead.
 

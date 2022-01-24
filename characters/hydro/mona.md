@@ -50,7 +50,7 @@
 
 ****[**Freeze (Cryo)**](../../teams/freeze.md)****
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * Mona acts as a reliable source of **Hydro** application, allowing for enemies to have **Frozen** applied to them constantly.
 * Her **Elemental Burst** acts as a way to amplify Ayaka's **Elemental Burst's** damage.
