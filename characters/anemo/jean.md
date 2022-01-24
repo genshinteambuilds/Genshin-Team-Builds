@@ -29,7 +29,7 @@
 
 * Jean pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental Resistance** on enemies for 4 of the Elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
 * You should generally avoid pairing Jean with another Healer as Jean's healing is sufficient for most content.
-  * Bennett + Jean is one exception to this rule in situations where this exact pairing can combine **Elemental Bursts** to quickly trigger **Swirl** to destroy enemy shields.&#x20;
+  * Bennett + Jean is one exception to this rule in situations where this exact pairing can combine **Elemental Bursts** to trigger **Swirl** and quickly destroy enemy shields.&#x20;
 
 ## Does Not Work Well With
 
