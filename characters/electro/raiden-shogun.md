@@ -34,7 +34,7 @@
 
 * Eula is naturally a very strong Main DPS to pair with Raiden Shogun due to the fact that Raiden Shogun provides consistent **Superconduct** reaction when Off-Field while also increasing Eula’s **Elemental Burst** damage which she is generally very reliant on. The Raiden Shogun’s energy generation can also assist recharging Eula’s own **Elemental Burst.**
 
-![](../../.gitbook/assets/ui\_avataricon\_aether\_electro.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Electro.png)
 
 * Traveler (Electro) can also fulfill a similar role to Kujou Sara, providing **Electro Energy Particles** with their **Elemental Skill** but can also debuff enemies' **Electro Resistance** for a damage boost.
 

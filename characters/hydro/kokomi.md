@@ -18,7 +18,7 @@
 
 * Kokomi's healing scales off **HP.**&#x20;
 * Kokomi's massive **Critical Rate** reduction from her third passive talent greatly hampers her ability as a traditional Main DPS**.**&#x20;
-  * Kokomi's high **Hydro** application enables her to be a non-conventional Main DPS in teams through frequently triggering reactions.&#x20;
+  * Kokomi's high **Hydro** application enables her to be a non-conventional Main DPS in [Electro-Charged (Hydro)](../../teams/electro-charged-hydro.md) teams through frequently triggering reactions.&#x20;
 
 ## **Works Well With**
 
@@ -59,7 +59,7 @@ Click on the team names below for more details on how the team works and alterna
 This character is a healer. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
 {% endhint %}
 
-****[**Electro-Charged(Hydro)**](../../teams/electro-charged-hydro.md)****
+****[**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md)****
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****
 
@@ -84,5 +84,3 @@ This character is a healer. While some teams are provided below where they are p
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
 
 * Kokomi can provide enough **Hydro** application to keep up with Diluc's damage, allowing other **Hydro** characters such as Xingqiu who are typically paired with him to be used in other teams.
-
-****
