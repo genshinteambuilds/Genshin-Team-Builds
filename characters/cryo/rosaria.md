@@ -10,8 +10,8 @@
 
 * **Elemental Skill** moves Rosaria behind her target and deal 2 instances of **Cryo** damage. Against large enemies, Rosaria simply moves within range of them and not behind them.
 * **Elemental Burst** starts with a wide swing with her weapon that deals **Cryo** damage then triggers continuous blasts of **Cryo** damage in a circle around the Ice Lance summoned in front of her.
-* **A1** increases her **Critical Rate** by 12% for 5 seconds when she uses her **Elemental Skill**.
-* **A4** increases the whole party's **Critical Rate** (except Rosaria) by 15% after using her **Elemental Burst**.
+* **A1** increases her **CRIT Rate** by 12% for 5 seconds when she uses her **Elemental Skill**.
+* **A4** increases the whole party's **CRIT Rate** (except Rosaria) by 15% after using her **Elemental Burst**.
 
 ## Additional Notes
 
@@ -24,7 +24,7 @@
 
 ![](../../.gitbook/assets/Element\_Cryo.webp)
 
-* **Cryo Resonance** is extremely powerful and especially in [**Freeze** ](../../teams/freeze.md)teams where the combination of **Cryo** Resonance and the **Blizzard Strayer** artifact set can give up to 55% **Critical Rate**.
+* **Cryo Resonance** is extremely powerful and especially in [**Freeze** ](../../teams/freeze.md)teams where the combination of **Cryo** Resonance and the **Blizzard Strayer** artifact set can give up to 55% **CRIT Rate**.
 * Rosaria can act as an Energy Battery for other **Cryo** Main DPS, such as Ayaka or Eula.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
@@ -61,7 +61,7 @@ Click on the team names below for more details on how the team works and alterna
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
 * Rosaria's **Elemental Skill** and **Elemental Burst** provide ample amounts of **Cryo** application that together with **Hydro** can inflict the **Frozen** status on enemies.
-* The combination of **Cryo Resonance**, the **Blizzard Strayer** set, and Rosaria's **A1** can give **Cryo** Main DPS characters large amounts of **Critical Rate**.
+* The combination of **Cryo Resonance**, the **Blizzard Strayer** set, and Rosaria's **A1** can give **Cryo** Main DPS characters large amounts of **CRIT Rate**.
 * Rosaria can act as an Energy Battery for other **Cryo** Main DPS characters.
 
 [**Physical (Cryo)**](../../teams/physical.md)
@@ -69,7 +69,7 @@ Click on the team names below for more details on how the team works and alterna
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Rosaria's **Physical Resistance** reduction at **C6** makes her a powerful option for a [**Physical** ](../../teams/physical-cryo.md)team, given how few sources exist to enhance the damage type.
-* Even without **C6**, Rosaria can still provide energy for a **Cryo** character like Eula, Off-Field **Cryo** application to trigger **Superconduct**, and a teamwide buff to **Critical Rate** after casting her **Elemental Burst**.
+* Even without **C6**, Rosaria can still provide energy for a **Cryo** character like Eula, Off-Field **Cryo** application to trigger **Superconduct**, and a teamwide buff to **CRIT Rate** after casting her **Elemental Burst**.
 
 ### Character Specific Teams
 

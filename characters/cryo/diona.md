@@ -17,7 +17,7 @@
 ## **Additional Notes**
 
 * Diona can cleanse using her **Elemental Skill**. **** Using it will apply **Cryo** for a short duration to the active character upon casting it or switching to another character with the shield up.
-* Often paired with another **Cryo** character on **Freeze** teams to act as an Energy Battery and receive Energy in return. This also activates **Cryo Resonance** for additional **Critical Rate** while enemies are affected by **Cryo** or are **Frozen**.
+* Often paired with another **Cryo** character on **Freeze** teams to act as an Energy Battery and receive Energy in return. This also activates **Cryo Resonance** for additional **CRIT Rate** while enemies are affected by **Cryo** or are **Frozen**.
 * **A4** decreases the enemy's Attack by 10% when they are inside the field created by Diona’s **Elemental Burst.**
 * **C6** adds 2 conditional buffs to the field created by Diona's **Elemental Burst** which depending on the active character's current **HP**:
   * If their **HP** is below or equal to 50%, **Incoming Healing Bonus** is increased by 30%
@@ -27,7 +27,7 @@
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****
 
-* Diona can provide **Cryo Resonance** for additional **Critical Rate** and **Energy Particles** for Cryo Main DPS characters.
+* Diona can provide **Cryo Resonance** for additional **CRIT Rate** and **Energy Particles** for Cryo Main DPS characters.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
@@ -64,7 +64,7 @@ This character is a healer. While some teams are provided below where they are p
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****
 
-* Diona activates **Cryo Resonance** for additional **Critical Rate**. She also provides **Cryo Energy Particles** to charge the **Cryo** Main DPS' **Elemental Burst**.
+* Diona activates **Cryo Resonance** for additional **CRIT Rate**. She also provides **Cryo Energy Particles** to charge the **Cryo** Main DPS' **Elemental Burst**.
 
 ****[**Physical (Cryo)**](../../teams/physical.md)****
 

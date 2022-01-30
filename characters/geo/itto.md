@@ -21,13 +21,13 @@
 * Itto plays around building up his Superlative Strength stacks and using them consecutively through **Charged Attacks** during his **Elemental Burst**.
 * **C1** builds up Superlative Strength stacks after casting **Elemental Burst**, reducing the need to pre-stack.
 * **C2** reduces **Elemental Burst** cooldown as well as restores Energy based on the amount of **Geo** characters in the party.
-* **C6** greatly increases Arataki Kesagiri slash **Crit DMG**. Arataki Slashes have a chance to not consume a Superlative Strength stack.
+* **C6** greatly increases Arataki Kesagiri slash **CRIT DMG**. Arataki Slashes have a chance to not consume a Superlative Strength stack.
 
 ## Works Well With
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)
 
-* Gorou is made to support **DEF** scaling characters like Itto. He provides a **DEF** buff as well as multiple other small buffs to the party with no downtime as well as greatly increasing Geo **Crit DMG** at **C6**.
+* Gorou is made to support **DEF** scaling characters like Itto. He provides a **DEF** buff as well as multiple other small buffs to the party with no downtime as well as greatly increasing Geo **CRIT DMG** at **C6**.
 * Can provide chip healing at **C4**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)

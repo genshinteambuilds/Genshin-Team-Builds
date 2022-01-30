@@ -192,7 +192,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
 * Provides large buffs through her **Elemental Burst** and ability to carry **Thrilling Tales of Dragon Slayer**.
-* **Constellation** **1** and **Constellation 4** improve the party's **Vaporize** damage and **Crit Rate** during the rotation.
+* **Constellation** **1** and **Constellation 4** improve the party's **Vaporize** damage and **CRIT RATE** during the rotation.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
@@ -286,7 +286,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 ![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
 
 * Ayaka's **Elemental Burst** has one of the highest multipliers in the game, making her one of the best characters to utilize for Oneshot compositions.&#x20;
-* While most Cryo Oneshot teams would focus on Melting the damage, Ayaka's Elemental Burst damage is spread across many smaller hits making **Melt** less viable than going for traditional **Freeze** to focus on high **Crit Damage** and other buffs/debuffs.&#x20;
+* While most Cryo Oneshot teams would focus on Melting the damage, Ayaka's Elemental Burst damage is spread across many smaller hits making **Melt** less viable than going for traditional **Freeze** to focus on high **CRIT DMG** and other buffs/debuffs.&#x20;
 
 ### Supporting Cast
 
@@ -309,7 +309,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 * Provides damage buff with **Elemental Burst**.
 * Can carry **Elegy of the End**.
-* Completes **Cryo Resonance** for the extra **15% Crit Rate**.
+* Completes **Cryo Resonance** for the extra **15% CRIT RATE**.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
@@ -339,7 +339,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 ![](../.gitbook/assets/UI\_AvatarIcon\_Sara.png)
 
 * Provides a large **ATK** buff.
-* **C6** further buffs the **Crit Damage** of **Electro damage** on character's that are buffed by Sara.
+* **C6** further buffs the **CRIT DMG** of **Electro damage** on character's that are buffed by Sara.
 * Can carry **Elegy of the End**.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)

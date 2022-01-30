@@ -34,7 +34,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
-* On **Freeze** teams, Bennett can **Melt Frozen** enemies, negating the **Critical Rate** bonus provided by **Cryo Resonance** and the **Blizzard Strayer 4-Set**.
+* On **Freeze** teams, Bennett can **Melt Frozen** enemies, negating the **CRIT Rate** bonus provided by **Cryo Resonance** and the **Blizzard Strayer 4-Set**.
   * This is not the case for **Cryo** teams that specifically seek to utilize the **Melt** reaction instead.
 
 ## **Teams**

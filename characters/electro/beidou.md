@@ -45,7 +45,7 @@
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)
 
 * Beidou's ability to snapshot buffs with her **Elemental Burst** allows her to take full advantage of both Bennet and Kujou Sara's **Attack** buffs.
-* The **Electro Critical Damage** increase from Kujou Sara's **C6** can be snapshotted and will last for the entire duration of Beidou's **Elemental Burst**.
+* The **Electro CRIT DMG** increase from Kujou Sara's **C6** can be snapshotted and will last for the entire duration of Beidou's **Elemental Burst**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 

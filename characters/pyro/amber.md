@@ -9,7 +9,7 @@
 
 * **Elemental Skill** summons a Baron Bunny which taunts enemies on the field. After a certain duration, Baron Bunny will explode, dealing **Pyro** damage in an area around it.
 * **Elemental Burst** fires off a shower of arrows, dealing AoE **Pyro** damage over a short period of time.
-  * **A1** increases her **Elemental Burst** radius by 30% and increases it's **Critical Rate** by 10%.
+  * **A1** increases her **Elemental Burst** radius by 30% and increases it's **CRIT Rate** by 10%.
 * **A4** boosts Amber's **Attack** by 15% for 10 seconds when hitting a Weak Spot.
 
 ## Additional Notes:

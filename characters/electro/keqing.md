@@ -13,7 +13,7 @@
   * **A1** infuses Keqing's **Normal** and **Charged Attacks** with **Electro** for 5 seconds after teleporting with her **Elemental Skill**.
 * **Elemental Skill (Hold)** allows her to manually aim the Lightning Stiletto.
 * **Elemental Burst** deals **AoE** **Electro** damage.
-  * **A4** gives Keqing 15% **Critical Rate** and 15% **Energy Recharge** for 8 seconds after her using her **Elemental Burst**.
+  * **A4** gives Keqing 15% **CRIT Rate** and 15% **Energy Recharge** for 8 seconds after her using her **Elemental Burst**.
 
 ## **Additional Notes**
 

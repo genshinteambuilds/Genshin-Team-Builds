@@ -11,7 +11,7 @@
 * **Elemental Burst** effects change depending on whether Tartaglia is in his Ranged or Melee stance.
   * When Ranged, Tartaglia's **Elemental Burst** deals high **AoE** **Hydro** **Damage** and applies Riptide to any enemies hit.
   * When Melee, Tartaglia's **Elemental Burst** deals even higher **AoE** **Hydro Damage** and triggers **** Riptide Blast on any enemies hit that are already affected by Riptide.
-* **A4** allows Tartaglia to mark enemies hit with Riptide whenever he deals **Critical Damage** using his **Normal Attacks** or **Charged Attacks** in his melee stance.
+* **A4** allows Tartaglia to mark enemies hit with Riptide whenever he deals **CRIT DMG** using his **Normal Attacks** or **Charged Attacks** in his melee stance.
 * Tartarglia's **Charged Attacks** while in Ranged stance can also deal **Hydro** **Damage** and apply Riptide to enemies when fully Charged.
   * Ranged Attacks on Tartaglia are typically avoided if possible.
 

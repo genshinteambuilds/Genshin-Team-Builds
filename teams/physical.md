@@ -5,7 +5,7 @@ This team composition mainly focuses on **Physical damage**. This damage type is
 **Superconduct** requires **Cryo** and **Electro** to be applied on an enemy which will then decrease their **Physical Resistance** by 40%. This makes all **Physical** teams require a **Cryo** and an **Electro** unit to take advantage of this reaction.
 
 {% hint style="info" %}
-If you have two or more **Cryo** units in your party, you will gain **Cryo Resonance** which grants 15% **Crit Rate** against enemies affected by **Cryo**.\
+If you have two or more **Cryo** units in your party, you will gain **Cryo Resonance** which grants 15% **CRIT RATE** against enemies affected by **Cryo**.\
 \
 If you add an extra **Electro** Unit into your Party you will gain **Electro Resonance** which generates **Electro** particles when you perform **Electro**-related **Elemental Reactions**. (i.e. **Electro-Charged**, **Overload** and **Superconduct**)
 {% endhint %}
@@ -39,7 +39,7 @@ If you add an extra **Electro** Unit into your Party you will gain **Electro Res
 
 |                                                             Character                                                            | Notes                                                                                                                                                                                                                                                          |
 | :------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><img src="../.gitbook/assets/UI_AvatarIcon_Rosaria.png" alt=""></p><p><a href="../characters/cryo/rosaria.md">Rosaria</a></p> | <ul><li>Off-field <strong>Elemental Burst</strong> applies <strong>Cryo</strong> every 2 seconds to trigger <strong>Superconduct</strong>.</li><li>Increase the whole party's <strong>Crit Rate</strong> (up to 15%) at <strong>A4</strong>.</li></ul>         |
+| <p><img src="../.gitbook/assets/UI_AvatarIcon_Rosaria.png" alt=""></p><p><a href="../characters/cryo/rosaria.md">Rosaria</a></p> | <ul><li>Off-field <strong>Elemental Burst</strong> applies <strong>Cryo</strong> every 2 seconds to trigger <strong>Superconduct</strong>.</li><li>Increase the whole party's <strong>CRIT RATE</strong> (up to 15%) at <strong>A4</strong>.</li></ul>         |
 |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Kaeya.png" alt=""></p><p><a href="../characters/cryo/kaeya.md">Kaeya</a></p>    | <ul><li><strong>Elemental Burst</strong> works off-field to trigger <strong>Superconduct.</strong></li></ul>                                                                                                                                                   |
 |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Ganyu.png" alt=""><br><a href="../characters/cryo/ganyu.md">Ganyu</a></p>     | <ul><li><strong>Elemental</strong> <strong>Burst</strong> maintains high <strong>Cryo</strong> uptime on enemies, allowing for frequent <strong>Superconduct</strong> reactions.</li><li>Provides a taunt with her <strong>Elemental Skill</strong>.</li></ul> |
 
@@ -84,5 +84,5 @@ Triggering the Keqing's second cast of her **Elemental Skill** infuses her weapo
 
 * Kaeya and Rosaria work in tandem to constantly supply **Cryo** for Keqing to trigger **Superconduct.**
 * Keqing's main souce of damage is her **Charged Attacks**.&#x20;
-* Rosaria serves to buff your Keqing's **Crit Rate** with her **Elemental Skill**. **** Together **** with Kaeya, they provide additional effective **Crit Rate** with **Cryo Resonance**.
+* Rosaria serves to buff your Keqing's **CRIT RATE** with her **Elemental Skill**. **** Together **** with Kaeya, they provide additional effective **CRIT RATE** with **Cryo Resonance**.
 * Bennet's **Elemental Burst** provides **Healing** and **Attack** buff to Keqing when inside its AoE. It is recommended to build Bennet with high **Energy Recharge** to maintain good uptime for his **Elemental Burst**.

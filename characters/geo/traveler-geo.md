@@ -13,7 +13,7 @@
     * **Elemental Skill (Hold)** lets you control where to summon the meteorite.
     * **C2** causes meteorites to deal damage when destroyed.
 * **Elemental Burst** creates shockwaves that deal **Geo** damage and erects a barrier at the edge of the shockwaves. The barrier is considered a **Geo** **Construct**.
-  * **C1** increases **Critical Rate** and resistance to interruptions of the characters inside the radius of the barrier.
+  * **C1** increases **CRIT Rate** and resistance to interruptions of the characters inside the radius of the barrier.
   * **C4** causes the Traveler (**Geo**) to recover 5 Energy for every enemy hit by their **Elemental Burst**. A maximum of 25 energy can be recovered.
 
 ## Additional Notes

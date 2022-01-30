@@ -21,7 +21,7 @@
 
 ![](../../.gitbook/assets/Element\_Cryo.webp)
 
-* Qiqi can help to enable **Cryo resonance** for increased **Critical Rate** against enemies affected by **Cryo.**
+* Qiqi can help to enable **Cryo resonance** for increased **CRIT Rate** against enemies affected by **Cryo.**
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)
 

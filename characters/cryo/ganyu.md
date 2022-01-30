@@ -37,7 +37,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
-* A second **Cryo** character is often used in **Freeze** teams to provide **Cryo Resonance,** which increases the team's **Critical Rate** against enemies that are affected by **Cryo** or **Frozen**.
+* A second **Cryo** character is often used in **Freeze** teams to provide **Cryo Resonance,** which increases the team's **CRIT Rate** against enemies that are affected by **Cryo** or **Frozen**.
 * Not all **Cryo** characters are appropriate choices. Typically, **Cryo** characters that fulfill other roles are chosen.
 * One of the most popular options is **Diona** as she can additionally provide healing, shielding, cleansing, and carry the **Noblesse Oblige** set.
 

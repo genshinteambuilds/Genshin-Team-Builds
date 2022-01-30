@@ -10,7 +10,7 @@
 * **Elemental Skill** throws a **Jumpty Dumpty,** which bounces 3 times and explodes into 8 mines. **Jumpty Dumpty** starts with 2 charges.
 * **A1** gives Klee a 50% chance to gain an Explosive Spark when **Normal attacks** and J**umpty Dumpty** hits enemies. When in possession of Explosive Spark, Klee’s next **Charged Attack** will cost no **Stamina** and have 50% increased damage.
 * **Elemental Burst** summons 4 **Sparks ‘n’ Splash** 5 times over 10 seconds, dealing **AoE** **Pyro** Damage to nearby enemies.
-* **A4** gives party members 2 energy when Klee’s **Charged Attacks** deals **Critical Damage.**
+* **A4** gives party members 2 energy when Klee’s **Charged Attacks** deals **CRIT DMG.**
 
 ## Additional Notes
 

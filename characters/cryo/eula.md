@@ -41,7 +41,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
-* Rosaria serves as a **Cryo** Energy Battery **** and **Critical Rate** Buffer while also activating **Cryo Resonance**.
+* Rosaria serves as a **Cryo** Energy Battery **** and **CRIT Rate** Buffer while also activating **Cryo Resonance**.
 * **C6** reduces **Physical Resistance** of enemies hit by Rosaria's **Elemental Burst**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
@@ -92,5 +92,5 @@ Click on the team names below for more details on how the team works and alterna
 
 * This team focuses on giving Eula high sustained damage **** and **Elemental Burst** uptime.
 * Raiden Shogun, Rosaria, and Diona serve as an Energy Battery **** for Eula making this team very consistent with **Elemental Burst** uptime.
-* Rosaria is able to provide team **Critical Rate** buffs and reduce enemy **Physical Resistance**.
+* Rosaria is able to provide team **CRIT Rate** buffs and reduce enemy **Physical Resistance**.
 * Raiden Shogun is able to fill in On-Field **** during the downtime **** when Eula's **Elemental Burst** is still on cooldown.

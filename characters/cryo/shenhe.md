@@ -18,7 +18,7 @@
 ## Additional Notes
 
 * **C1** gives Shenhe an additional charge of her **Elemental Skill**.
-* **C2** increases the duration of her **Elemental Burst** and buffs the **Crit DMG** of any **Cryo Damage** dealt by party members within its field.
+* **C2** increases the duration of her **Elemental Burst** and buffs the **CRIT DMG** of any **Cryo Damage** dealt by party members within its field.
 * **C4** increases the damage of Shenhe's **Elemental Burst** based on how many Icy Quill stacks have been used.
 * **C6** lets **Normal** and **Charged Attacks** not use up Icy Quill stacks.
 

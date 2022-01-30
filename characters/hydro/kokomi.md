@@ -12,12 +12,12 @@
 * **Elemental Burst** deals **Hydro Damage** to nearby enemies and causes her **Elemental Skill** and **Normal** and **Charged Attacks** to gain damage based on her **Max** **HP** for a short duration. Additionally, Kokomi gains resistance to interruption and her **Normal** and **Charged Attacks** heal all party members.
 * **A1** causes the duration of Kokomi's **Elemental Skill** duration to be refreshed when she uses her **Elemental Burst**.
 * **A4** increases the bonus damage gained during Kokomi's **Elemental Burst** by 15% of her **Healing Bonus**.&#x20;
-* Kokomi's 3rd Passive Talent reduces her **Critical Rate** by 100% in exchange for a 25% increase in **Healing Bonus**.&#x20;
+* Kokomi's 3rd Passive Talent reduces her **CRIT RATE** by 100% in exchange for a 25% increase in **Healing Bonus**.&#x20;
 
 ## **Additional Notes**
 
 * Kokomi's healing scales off **HP.**&#x20;
-* Kokomi's massive **Critical Rate** reduction from her third passive talent greatly hampers her ability as a traditional Main DPS**.**&#x20;
+* Kokomi's massive **CRIT RATE** reduction from her third passive talent greatly hampers her ability as a traditional Main DPS**.**&#x20;
   * Kokomi's high **Hydro** application enables her to be a non-conventional Main DPS in [Electro-Charged (Hydro)](../../teams/electro-charged-hydro.md) teams through frequently triggering reactions.&#x20;
 
 ## **Works Well With**
@@ -64,7 +64,7 @@ This character is a healer. While some teams are provided below where they are p
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****
 
 * Kokomi's high **Hydro** application allows her to be used as a Main DPS in this team to repeatedly trigger **Electro-Charged**.
-* Kokomi's massive reduction in **Crit Rate** allows her to build heavily into **Elemental Mastery**, greatly increasing the damage of **Electro-Charged**.
+* Kokomi's massive reduction in **CRIT RATE** allows her to build heavily into **Elemental Mastery**, greatly increasing the damage of **Electro-Charged**.
 
 ****[**Freeze (Cryo)**](../../teams/freeze.md)****
 

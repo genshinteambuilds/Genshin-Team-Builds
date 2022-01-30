@@ -21,7 +21,7 @@
 * **Energy** will only be generated from the explosion after an **** Aimed Shot from Kujou Sara’s **Elemental Skill**. The activation itself will not generate particles.
 * **C2** creates a Crowfeather upon activation, greatly increasing the speed and ease at which she can provide her **Attack** buff.
   * This Crowfeather however will not generate **Energy Particles**, and will still require Kujou Sara to perform an Aimed Shot **** to summon the 2nd Crowfeather **** in order to generate them.
-* **C6** provides a 60% **Critical Damage** Buff on any **Electro Damage** dealt by characters that have their **Attack** buffed by Tengu Juurai.
+* **C6** provides a 60% **CRIT DMG** Buff on any **Electro Damage** dealt by characters that have their **Attack** buffed by Tengu Juurai.
 
 ## **Works Well With**
 
@@ -32,7 +32,7 @@
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
 * Beidou can benefit from Kujou Sara’s utility and buffs in the same way the Raiden Shogun can. She both helps Beidou recharge her **Elemental Burst** and increases Beidou’s **Elemental Burst** damage, as Beidou can snapshot Kujou Sara’s **Attack** buff.
-  * **C6** Kujou Sara's **Critical Damage** Buff cannot be snapshot and will not benefit Beidou’s **Elemental Burst** throughout its entire duration.
+  * **C6** Kujou Sara's **CRIT DMG** Buff cannot be snapshot and will not benefit Beidou’s **Elemental Burst** throughout its entire duration.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
@@ -54,7 +54,7 @@
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
 
-* Sara provides an **Attack** buff, as well as **Electro Particle** generation for Raiden Shogun. She can also provide an **Electro** **Critical Damage** Buff with **C6**
+* Sara provides an **Attack** buff, as well as **Electro Particle** generation for Raiden Shogun. She can also provide an **Electro** **CRIT DMG** Buff with **C6**
 * Kazuha buffs this **Elemental Burst** even further with **Viridescent Venerer** and his built-in **Elemental Damage** Buff.&#x20;
 * Bennett acts as the team's healer while providing additional **Attack** from his **Elemental Burst**.
 * This team is much more effective with Raiden Shogun's **C2.**

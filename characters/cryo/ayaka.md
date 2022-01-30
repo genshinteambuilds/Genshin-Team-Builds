@@ -80,7 +80,7 @@ Click on the team names below for more details on how the team works and alterna
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * Ayaka works as the Main DPS in **Freeze** teams and is the primary source of **Cryo** application.
-* **Cryo Resonance** is often included in **Freeze** teams to boost Ayaka's **Critical Rate**.
+* **Cryo Resonance** is often included in **Freeze** teams to boost Ayaka's **CRIT Rate**.
 
 #### [Oneshot (Standard)](../../teams/oneshot.md)
 

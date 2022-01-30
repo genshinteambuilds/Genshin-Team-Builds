@@ -23,7 +23,7 @@
 * **C6** increases the max stacks of **Scarlet Seal** from 3 to 4.
   * Combined with **C1** this will result in Yanfei's **Charged Attacks** costing no **Stamina** with max stacks of **Scarlet Seal.**
 * Yanfei's **Brilliance** gets cancelled once she leaves the field. This makes her a Selfish DPS as she does significantly more damage with this buff active.
-* **A4** allows Yanfei's to deal an additional instance of **AoE Pyro** damage equal to 80% of her **Attack** when dealing **Critical Damage** with a **Charged Attack**. This counts as **Charged Attack** damage.
+* **A4** allows Yanfei's to deal an additional instance of **AoE Pyro** damage equal to 80% of her **Attack** when dealing **CRIT DMG** with a **Charged Attack**. This counts as **Charged Attack** damage.
 
 ## Works Well With
 

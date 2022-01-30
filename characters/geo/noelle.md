@@ -59,4 +59,4 @@ This character is a healer. While some teams are provided below where they are p
 
 * Noelle serves as the Main DPS in this team. She takes advantage of both **Geo** and **Pyro** **Resonance** to increase her damage.
   * Bennett provides an **Attack** buff with his **Elemental Burst**.
-  * Traveler (Geo) acts as an Energy Battery for Noelle and can buff her **Critical Rate** with his **C1**.
+  * Traveler (Geo) acts as an Energy Battery for Noelle and can buff her **CRIT Rate** with his **C1**.
