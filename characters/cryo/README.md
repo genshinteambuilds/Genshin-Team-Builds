@@ -42,8 +42,8 @@ While Eula is listed here as a **Cryo** character, she is primarily used as a Ma
 [rosaria.md](rosaria.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="shenhe-1.md" %}
+[shenhe-1.md](shenhe-1.md)
 {% endcontent-ref %}
 
 ## Teams

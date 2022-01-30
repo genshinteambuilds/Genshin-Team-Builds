@@ -6,12 +6,12 @@
 
 ## **Character Breakdown**
 
-* **Elemental Skill** causes Gorou to slam a war banner on the ground that deals AoE **Geo DMG** and provides a number of buffs to the whole team depending on the amount of **Geo** characters in the party.
+* **Elemental Skill** causes Gorou sets up a war banner that deals AoE **Geo DMG** and provides a number of buffs to the whole team depending on the amount of **Geo** characters in the party.
   * 1 **Geo** character: Adds "Standing Firm" - **DEF** Bonus.
   * 2 **Geo** characters: Adds "Impregnable" - Increased resistance to interruption.
   * 3 **Geo** characters: Adds "Crunch" - **Geo DMG Bonus**.
 * **Elemental Burst** deals AoE **Geo DMG** and creates a field around the active character and periodically deals **Geo DMG** and pulls in a **Crystallize** shard toward the active character. This field provides the same buffs that Gorou's **Elemental Skill** provides.
-  * Casting **Elemental Burst** will destroy any war banner Gorou had up previously.&#x20;
+  * Casting **Elemental Burst** will destroy any active war banners.&#x20;
 * **A1** increases party's DEF% after Gorou casts **Elemental Burst**.
 * **A4** increases Gorou's **Elemental Skill** and **Elemental Burst DMG** by a percentage of his **DEF**.
 
@@ -36,7 +36,7 @@
 
 ![](../../.gitbook/assets/Element\_Geo.webp)
 
-* Gorou is a specialized support unit that is able to benefit almost any Geo team.
+* Gorou is a specialized support unit that is able to benefit most Geo main DPS.
 
 ## **Does Not Work Well With**
 
@@ -49,7 +49,7 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-Itto only really works in an **Geo** team where Itto works as the Selfish Main DPS. A couple common example teams are shown below. Additional teams and options can be found in the **Geo** team page.
+Itto only works in a **Geo** team where he performs as a Selfish Main DPS. A couple common example teams are shown below. Additional teams and options can be found in the **Geo** team page.
 {% endhint %}
 
 ****[**Geo**](../../teams/geo.md)****
