@@ -28,7 +28,7 @@
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)
 
 * Gorou is made to support **DEF** scaling characters like Itto. He provides a **DEF** buff as well as multiple other small buffs to the party with no downtime as well as greatly increasing Geo **Crit DMG** at **C6**.
-* Can provide small healing at **C4**.
+* Can provide chip healing at **C4**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
@@ -77,5 +77,8 @@ Itto only really works in an **Geo** team where Itto works as the Selfish Main D
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* This team plays similarly to the 4 **Geo** squad but replaces Albedo for Bennett, making Itto a larger focus of the total damage as well as providing a consistent source of healing.
+* Gorou is Itto's primary offensive buffer, providing **DEF** as well as various other offensive and defensive buffs.&#x20;
+* Zhongli provides the shield for **Geo Resonance** and survivability.
+* This full Geo team is able to take advantage of multiple **Geo** constructs providing energy for Itto, making his **Energy Recharge** requirement lower.
+* Bennett boosts Itto's damage as well as provides a consistent source of healing.
 
