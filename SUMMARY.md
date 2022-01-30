@@ -36,6 +36,7 @@
   * [Qiqi](characters/cryo/qiqi.md)
   * [Rosaria](characters/cryo/rosaria.md)
   * [Shenhe](characters/cryo/shenhe.md)
+  * [Shenhe](characters/cryo/shenhe-1.md)
 * [Electro](characters/electro/README.md)
   * [Beidou](characters/electro/beidou.md)
   * [Fischl](characters/electro/fischl.md)
