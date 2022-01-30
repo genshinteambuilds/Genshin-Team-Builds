@@ -6,11 +6,12 @@
 
 ## Character Breakdown
 
-* **Elemental Skill (Tap)** makes **** Shenhe dash forward, dealing **Cryo Damage** to enemies in her path, and grants party members 5 **Icy Quill** stacks.
-  * Whenever a party member with at least 1 **Icy Quill** stack deals **Cryo Damage** to an opponent, the **Icy Quill** will be consumed and increase that attack’s damage. The amount of damage added scales off of Shenhe’s **ATK**.&#x20;
-  * At **A4**, buffs the damage **Elemental Burst** and **Elemental Skill** damage of party members.
-* **Elemental Skill (Hold)** deals AoE **Cryo Damage** and grants party members 7 **Icy Quill** stacks.
-  * At **A4**, buffs **Normal, Charged,** and **Plunging Attack** damage.
+* **Elemental Skill** provides different effects if it is either held down or tapped.&#x20;
+  * **Elemental Skill (Tap)** causes Shenhe to dash forward, dealing **Cryo Damage** to enemies hit and grants the party the Icy Quill buff.
+  * **Elemental Skill (Hold)** deals **AoE Cryo Damage** and grants the party the Icy Quill buff.
+  * Icy Quill increases **Cryo Damage** dealt by other party members by a percentage of Shenhe's **ATK**. This buff lasts either until the duration expires or it is triggered a certain amount of times.
+  * **Elemental Skill (Hold)** provides Icy Quill with a longer duration and more potential triggers.&#x20;
+  * **A4** provides an additional damage bonus to either **Elemental Skill** and **Elemental Burst** damage with **Elemental Skill (Tap)** or **Normal, Charged,** and **Plunging Attack** damage with **Elemental Skill (Hold)**.
 * **Elemental Burst** deals AoE **Cryo Damage** and creates a field.
   * Shenhe’s **Elemental Burst** will continue to periodically deal **Cryo Damage** to enemies in this field, and enemies within this field will have their **Physical** and **Cryo Resistances** debuffed.&#x20;
   * **A1** buffs the **Cryo Damage** of party members within this field.
