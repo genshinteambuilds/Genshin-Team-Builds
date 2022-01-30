@@ -7,10 +7,9 @@
 ## Character Breakdown
 
 * **Elemental Skill** provides different effects if it is either held down or tapped.&#x20;
-  * **Elemental Skill (Tap)** causes Shenhe to dash forward, dealing **Cryo Damage** to enemies hit and grants the party the Icy Quill buff.
-  * **Elemental Skill (Hold)** deals **AoE Cryo Damage** and grants the party the Icy Quill buff.
-  * Icy Quill increases **Cryo Damage** dealt by other party members by a percentage of Shenhe's **ATK**. This buff lasts either until the duration expires or it is triggered a certain amount of times.
-  * **Elemental Skill (Hold)** provides Icy Quill with a longer duration and more potential triggers.&#x20;
+  * **Elemental Skill (Tap)** causes Shenhe to dash forward, dealing **Cryo Damage** to enemies hit and grants the party 5 stacks of the Icy Quill buff.
+  * **Elemental Skill (Hold)** deals **AoE Cryo Damage** and grants the party 7 stacks of the Icy Quill buff.
+  * Icy Quill increases **Cryo Damage** dealt by other party members by a percentage of Shenhe's **ATK**. This buff lasts either until the duration expires or it is triggered a certain amount of times. Each party member has their own set of stacks.
   * **A4** provides an additional damage bonus to either **Elemental Skill** and **Elemental Burst** damage with **Elemental Skill (Tap)** or **Normal, Charged,** and **Plunging Attack** damage with **Elemental Skill (Hold)**.
 * **Elemental Burst** deals AoE **Cryo Damage** and creates a field.
   * Shenhe’s **Elemental Burst** will continue to periodically deal **Cryo Damage** to enemies in this field, and enemies within this field will have their **Physical** and **Cryo Resistances** debuffed.&#x20;
@@ -20,18 +19,18 @@
 
 * **C1** gives Shenhe an additional charge of her **Elemental Skill**.
 * **C2** increases the duration of her **Elemental Burst** and buffs the **Crit DMG** of any **Cryo Damage** dealt by party members within its field.
-* **C4** increases the damage of Shenhe's **Elemental Burst** based on how many **Icy Quill** stacks have been used.
-* **C6** lets **Normal** and **Charged Attacks** not use up **Icy Quill** stacks.
+* **C4** increases the damage of Shenhe's **Elemental Burst** based on how many Icy Quill stacks have been used.
+* **C6** lets **Normal** and **Charged Attacks** not use up Icy Quill stacks.
 
 ## Works Well With
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
-* **Cryo** DPS in particular will benefit greatly from Shenhe's **Icy Quill** buffs.
+* **Cryo** DPS in particular will benefit greatly from Shenhe's Icy Quill buffs.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Depending on the team composition, Bennett's ability to buff **ATK** synergizes well with Shenhe's **Icy Quill,** as it is based on **ATK**.&#x20;
+* Depending on the team composition, Bennett's ability to buff **ATK** synergizes well with Shenhe's Icy Quill**,** as it is based on **ATK**.&#x20;
 * Note that Bennett should not be utilized in **Freeze** teams as his abilities may cause **Melt** reactions and interfere with keeping enemies **Frozen**.
 
 ![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
