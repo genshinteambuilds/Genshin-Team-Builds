@@ -36,7 +36,7 @@
 ![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
 
 * Shenhe is incapable of providing any buffs to **Electro** or **Geo** characters. The buffs and debuffs she can provide to **Physical** team compositions are also not very strong.&#x20;
-* Most **Anemo**, **Pyro**, and **Hydro** characters do not directly synergize with Shenhe but instead provide their utility to the Cryo DPS in their respective teams.
+* Most **Anemo**, **Pyro**, and **Hydro** characters do not directly synergize with Shenhe but instead provide their utility to the **Cryo** DPS in their respective teams.
 
 ## Teams
 
@@ -45,7 +45,7 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-In all of the teams below, Shenhe universally provides a buff to the Cryo Damage of all characters and acts as an Energy Battery for the Cryo Main DPS.
+In all of the teams below, Shenhe universally provides a buff to the **Cryo Damage** of all characters and acts as an Energy Battery for the **Cryo** Main DPS.
 {% endhint %}
 
 ****[**Freeze**](../../teams/freeze.md)****
