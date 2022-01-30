@@ -24,7 +24,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 ### **Main Carry**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****
+![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)
 
 * Hu Tao is a complex character in terms of damage scaling, due to her constellations and **HP** scaling on her **Elemental Burst** as well as **Staff of Homa**, her signature weapon, giving even more **HP** scaling.
 * Testing **Elemental Mastery** and **HP** Sands to see which gives the most damage with your current setup is a must.
@@ -52,7 +52,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 ### **Supporting cast**
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)&#x20;
+![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Bennett provides a large **ATK** Buff from his **Elemental Burst** and can be used for Swirling **Pyro** as Hu Tao has no way to apply Pyro without using her **Elemental Skill** or **Elemental Burst**.
 * Hu Tao should be very low in health before switching to her so that she does not heal past the 50% threshold for her passive. If needed, Bennett can be equipped with a non-upgraded flower to lower his Healing.
@@ -86,13 +86,13 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 ### Sample Hu Tao Teams
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* `Bennett Q →  Ayaka Dash (if 4pc`` `**`Instructor`**`) →  Kazuha Q → Ayaka Q` → `Hu Tao E → Hu Tao Q`&#x20;
+* ` Bennett Q → Ayaka Dash (if 4pc`` `` `**`Instructor`**`) → Kazuha Q → Ayaka Q` → `Hu Tao E → Hu Tao Q`
 
 {% embed url="https://drive.google.com/file/d/16SaV0cIho61AZ-Qf-MMPzQMuM3-tuCRY/view?usp=sharing" %}
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * `Bennett Q -> Sucrose E -> Kaeya E -> Kaeya Q -> Hu Tao E -> Hu Tao Q`
 
@@ -106,16 +106,16 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
-* Mona has a very high multiplier on her **Elemental Burst** that benefits from the Omen damage bonus that it provides. A **Vaporized** Mona' **Elemental Burst** has one of the highest damage ceilings in the game.&#x20;
+* Mona has a very high multiplier on her **Elemental Burst** that benefits from the Omen damage bonus that it provides. A **Vaporized** Mona' **Elemental Burst** has one of the highest damage ceilings in the game.
 * Mona's **Elemental Burst** has an interesting mechanic where the initial cast applies Hydro and the damage only occurs after another instance of damage triggers her "bubble" to pop. Due to how Internal Cooldown of elemental application works, there needs to be at least 2.5 seconds between the initial **Hydro** application on cast and when the bubble breaks so that it is able to apply **Hydro** and **Vaporize**.
 
 ### **Primary Enablers**
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)&#x20;
+![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Bennett applies **Pyro** and his **Elemental Burst** buffs Mona’s **ATK** based on his base **ATK** (Weapon **ATK** + Character **ATK**). There’s too much value in Bennett to not utilize him.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../.gitbook/assets/Element\_Pyro.webp)
+![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png) ![](../.gitbook/assets/Element\_Pyro.webp)
 
 * Klee and Yanfei helps at applying **Pyro** and using an R5 **Thrilling tales of Dragon Slayers** which buffs your Mona with **48% atk** and if you Klee's have her **Constellation 2**, her **Elemental Skil**l shreds the enemy's **DEF** by 23%, which helps a lot to deal even more damage. If you don’t have Klee or Yanfei, any **Pyro** works.
 
@@ -155,9 +155,9 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ### Sample Mona Teams
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* `Mona N →  Sucrose E → Bennett E →  Bennett Q →  Klee E (if C2) if not N is fine →  Mona Q →  wait 2 seconds for ICD before swapping →  Bennett E`
+* `Mona N → Sucrose E → Bennett E → Bennett Q → Klee E (if C2) if not N is fine → Mona Q → wait 2 seconds for ICD before swapping → Bennett E`
 
 ## **Main Carry:** Tartaglia / Childe
 
@@ -167,25 +167,25 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ### **Main Carry**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)****
+![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)
 
-* Tartaglia has two ways to use his **Elemental Burst**, based on which form he is in. **Ranged stance** (rQ) does less damage but occurs much faster since it returns 20 energy back to Tartaglia, while **Melee stance** (mQ) **** requires the transformation and does much more damage.&#x20;
+* Tartaglia has two ways to use his **Elemental Burst**, based on which form he is in. **Ranged stance** (rQ) does less damage but occurs much faster since it returns 20 energy back to Tartaglia, while **Melee stance** (mQ) \*\*\*\* requires the transformation and does much more damage.
 * Tartaglia Oneshot teams will focus on **Vaporizing** the **Melee Stance Elemental Burst**.
 
 ### Primary Enablers
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett **** provides a massive **ATK** buff and is able to set up by applying **Pyro**.
+* Bennett \*\*\*\* provides a massive **ATK** buff and is able to set up by applying **Pyro**.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
 
-* Amber provides very quick **Pyro** application at a range.&#x20;
+* Amber provides very quick **Pyro** application at a range.
 * Can activate **Elegy for the End** and further buff with **Constellation 6**.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
-* Xiangling is a solid choice for certain setups. She provides much needed off-field **pyro** application, as well as quite a lot of personal damage.&#x20;
+* Xiangling is a solid choice for certain setups. She provides much needed off-field **pyro** application, as well as quite a lot of personal damage.
 
 ### Supporting Cast
 
@@ -212,19 +212,19 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ### Sample Childe Teams
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* `Tartaglia E (apply`` `**`Hydro`**` ``on enemy) →  Bennett Q (does not clear the Hydro application) →  Kazuha Q (inside Bennett Q) →  Mona Q→  Tartaglia E (to change from ranged stance to melee stance)→  Tartaglia mQ`
+* ` Tartaglia E (apply`` `` `**`Hydro`**` `` ``on enemy) → Bennett Q (does not clear the Hydro application) → Kazuha Q (inside Bennett Q) → Mona Q→ Tartaglia E (to change from ranged stance to melee stance)→ Tartaglia mQ `
 
 {% embed url="https://drive.google.com/file/d/1ayFszYOJv3Ut-XPdhTpv9RnnCNPiNY-N/view?usp=sharing" %}
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* `Tartaglia E (apply`` `**`Hydro`**` ``on enemy) →  Bennett Q (does not clear the Hydro application) →  Kazuha Q(inside Bennett Elemental Burst) →  Xiangling Q → Tartaglia E → Tartaglia mQ`
+* ` Tartaglia E (apply`` `` `**`Hydro`**` `` ``on enemy) → Bennett Q (does not clear the Hydro application) → Kazuha Q(inside Bennett Elemental Burst) → Xiangling Q → Tartaglia E → Tartaglia mQ `
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* `Zhongli hold E → Tartaglia E (apply`` `**`Hydro`**` ``on enemy) →  Sucrose E →  Bennett Q →  Tartaglia E (don't hit enemy with activation damage) →  Tartaglia mQ`
+* ` Zhongli hold E → Tartaglia E (apply`` `` `**`Hydro`**` `` ``on enemy) → Sucrose E → Bennett Q → Tartaglia E (don't hit enemy with activation damage) → Tartaglia mQ `
 
 ## **Main Carry: Eula**
 
@@ -236,14 +236,14 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
-* Eula’s **Elemental Burst** is the centerpiece to this team. It does a fair amount of damage on cast, but Eula Oneshot teams will be focused on the explosion at the end as well as maximizing stack count.&#x20;
-* The final explosion does **Physical Damage** and switching characters will cause Eula's Ele**mental Burst** to detonate shortly after, leaving some options for last second buffs/debuffs to apply.&#x20;
+* Eula’s **Elemental Burst** is the centerpiece to this team. It does a fair amount of damage on cast, but Eula Oneshot teams will be focused on the explosion at the end as well as maximizing stack count.
+* The final explosion does **Physical Damage** and switching characters will cause Eula's Ele**mental Burst** to detonate shortly after, leaving some options for last second buffs/debuffs to apply.
 
 ### Primary Enablers
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)
 
-* Lisa is the the best choice as an Enabler for Eula.&#x20;
+* Lisa is the the best choice as an Enabler for Eula.
 * Provides **Superconduct** and **DEF shred** through her **Elemental Burst**.
 * Can carry **Thrilling Tales of Dragon Slayer**.
 
@@ -268,11 +268,11 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ### Sample Eula Teams
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Lisa.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* `Eula E -> Bennett Q →  Lisa Q → Eula Q  →  Eula N x 4→ Eula hold E → Eula N x 4 → Xinyan E`
-* Utilizes **Pyro Resonance** and Lisa's **DEF shred** to provide high amounts of buffs and debuffs for Eula.&#x20;
-* Xinyan can increase Eula's damage significantly if she is able to proc **Wolf's Gravestone's** passive with her **Elemental Skill**.&#x20;
+* `Eula E -> Bennett Q → Lisa Q → Eula Q → Eula N x 4→ Eula hold E → Eula N x 4 → Xinyan E`
+* Utilizes **Pyro Resonance** and Lisa's **DEF shred** to provide high amounts of buffs and debuffs for Eula.
+* Xinyan can increase Eula's damage significantly if she is able to proc **Wolf's Gravestone's** passive with her **Elemental Skill**.
 * Note: Bennett's **Elemental Burst** will barely last long enough for this rotation. Make sure to utilize the quick **Elemental Burst** commands (ALT + #) when using this rotation.
 
 {% embed url="https://drive.google.com/file/d/1cV_-0brEn9qaQz2HX6wmO3LwgnnfGjV4/view?usp=sharing" %}
@@ -285,8 +285,8 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
 
-* Ayaka's **Elemental Burst** has one of the highest multipliers in the game, making her one of the best characters to utilize for Oneshot compositions.&#x20;
-* While most Cryo Oneshot teams would focus on Melting the damage, Ayaka's Elemental Burst damage is spread across many smaller hits making **Melt** less viable than going for traditional **Freeze** to focus on high **CRIT DMG** and other buffs/debuffs.&#x20;
+* Ayaka's **Elemental Burst** has one of the highest multipliers in the game, making her one of the best characters to utilize for Oneshot compositions.
+* While most Cryo Oneshot teams would focus on Melting the damage, Ayaka's Elemental Burst damage is spread across many smaller hits making **Melt** less viable than going for traditional **Freeze** to focus on high **CRIT DMG** and other buffs/debuffs.
 
 ### Supporting Cast
 
@@ -317,9 +317,9 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ### Sample Ayaka Teams
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* `Ayaka`` `**`Dash`**` ``(apply`` `**`Cryo`**` ``on enemy) → Kazuha Q (infuse Cryo) → Bennett Q → Mona E → Mona Q → Ayaka Q`
+* ` Ayaka`` `` `**`Dash`**` ``(apply`` `**`Cryo`**` `` ``on enemy) → Kazuha Q (infuse Cryo) → Bennett Q → Mona E → Mona Q → Ayaka Q `
 
 {% embed url="https://drive.google.com/file/d/1CQ5yy74_hY5Dugzq_p-EOJiSj7MMX11k/view?usp=sharing" %}
 
@@ -332,7 +332,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 ![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
 
 * Raiden Shogun has the highest **Electro** single damage instance multiplier in the game currently with her **Elemental Burst**'s initial slash. This doesn't even count the damage from attacks that comes after.
-* Raiden Oneshot teams focus mostly on the **Elemental Burst**'s initial slash damage to oneshot the enemy or the wave instantly.&#x20;
+* Raiden Oneshot teams focus mostly on the **Elemental Burst**'s initial slash damage to oneshot the enemy or the wave instantly.
 
 ### Supporting Cast
 
@@ -362,7 +362,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ### Sample Raiden Teams
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sara.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * `Raiden Shogun E → Kazuha Q → Bennett Q → Sara Q → Raiden Q`
 
