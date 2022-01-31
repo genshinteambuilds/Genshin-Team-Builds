@@ -14,7 +14,7 @@
 * **A4** reduces the cooldown of her **Elemental Skill** by 1 second for every 4 **Normal** or **Charged Attacks** that hit enemies. Hitting multiple enemies with one attack will only count as one hit.
 * **Elemental Burst** deals **Geo** damage in a wide area. Noelle gains the following effects:
   * Attack range greatly increased.
-  * Converts Noelle's **Normal** and **Charged Attack** damage into into **Geo** which cannot be overridden.
+  * Converts Noelle's **Normal Attack** and **Charged Attack** damage into into **Geo** which cannot be overridden.
   * Gains an **ATK** buff that scales off of her **Defense**.
 
 ## **Additional Notes**

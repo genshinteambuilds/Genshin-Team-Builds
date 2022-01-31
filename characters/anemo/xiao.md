@@ -20,22 +20,22 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Xiao works particularly well with Zhongli as he provides one of the few debuffs that work for **Anemo** **Damage**. His shielding also helps Xiao from taking additional damage during his **Elemental Burst**.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
 * Sucrose, Venti, and Jean are able to generate **Anemo** **Particles** to help Xiao regain energy for his **Elemental Burst**. This is particularly notable since Xiao's damage relies heavily on having his **Elemental Burst** active as frequently as possible.
 
-![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * Unlike other Anemo characters which are often used in a supporting role, Xiao has limited synergy with other elements such as **Cryo**, **Electro** or **Hydro** as their reactions cannot be used to boost Xiao's damage.
 * **Geo** and **Pyro Resonance** can be used to boost Xiao's damage directly.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
 
 * As a Selfish Main DPS, Xiao does not work well with other characters that must stay on the field in order to do damage.
 * **Physical** **Damage** characters usually cannot buff Xiao or support him in any way.

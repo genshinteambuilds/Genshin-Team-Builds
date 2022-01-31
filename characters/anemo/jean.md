@@ -7,7 +7,7 @@
 
 ## Character Breakdown
 
-* **A1** gives **Normal Attacks** and **Charged Attacks** a 50% chance to heal the party for 15% of Jean's **Attack**.
+* **A1** gives **Normal Attacks** and **Charged Attacks** a 50% chance to heal the party for 15% of Jean's **ATK**.
 * **Elemental Skill** **(Tap)** deals damage and can knock back enemies.
 * **Elemental Skill** **(Hold)** can gather smaller enemies when held. Releasing the skill throws enemies in the direction Jean is facing which can cause them to take fall damage when they collide with walls or are flung sufficiently high into the air.
 * **Elemental Burst** deals a large amount of damage and heals a large amount when used.
@@ -20,20 +20,20 @@
 
 * Often paired with another **Anemo** character to act as an Energy Battery for them and also to regenerate energy for herself, as her **Elemental Burst** has a high energy requirement.
 * **C4** reduces the **Anemo Elemental Resistance** of enemies standing within the field created by her **Elemental Burst** by 40%.
-* Jean's healing scales off **Attack.**
+* Jean's healing scales off **ATK**.
 * **Charged Attacks** can cause smaller enemies to float in the air for a short period of time after doing damage.
 
 ## Works Well With
 
-![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * Jean pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental Resistance** on enemies for 4 of the Elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
 * You should generally avoid pairing Jean with another Healer as Jean's healing is sufficient for most content.
-  * Bennett + Jean is one exception to this rule in situations where this exact pairing can combine **Elemental Bursts** to trigger **Swirl** and quickly destroy enemy shields.&#x20;
+  * Bennett + Jean is one exception to this rule in situations where this exact pairing can combine **Elemental Bursts** to trigger **Swirl** and quickly destroy enemy shields.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
+#### ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
 * **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo** and **Physical Damage** characters.
   * Jean can still be used with these characters if your team requires healing but will provide little other value.
@@ -70,7 +70,7 @@ In the following teams, Jean provides debuffing utility using the **Viridescent 
 In the following teams, Jean allows Kazuha or Venti to take the role of being a Debuffer with the **Viridescent Venerer** 4-set and instead provides the team with a **Noblesse Oblige** 4-set buff alongside her healing. She also acts as an Energy Battery for Kazuha or Venti.
 {% endhint %}
 
-#### [Overload (Pyro)](../../teams/overload.md)&#x20;
+#### [Overload (Pyro)](../../teams/overload.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 

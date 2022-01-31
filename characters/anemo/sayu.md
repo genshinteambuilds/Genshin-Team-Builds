@@ -18,7 +18,7 @@
 
 * **C1** removes **HP** restrictions on Sayu's **Elemental Burst** and allows the summoned Daruma to heal and deal damage at the same time.
 * **C4** allows Sayu to recover energy whenever she triggers a **Swirl** reaction.
-* **C6** allows her to use **Elemental Mastery** to give an **Attack%** bonus as well as **HP%** bonus to the Daruma during the **Elemental Burst.**
+* **C6** allows her to use **Elemental Mastery** to give an **ATK** bonus to the Daruma as well as increase the **HP** restored by the Daruma during the **Elemental Burst.**
 
 ## Works Well With
 
@@ -28,7 +28,7 @@
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
+#### ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
 * **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo** and **Physical Damage** characters.
   * Sayu can still be used with these characters if your team requires healing but will provide little other value.
@@ -49,25 +49,25 @@ In the following teams, Sayu provides debuffing utility using the **Viridescent 
 
 [**Electro-Charged (Electro)**](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
 [**Freeze (Cryo)**](../../teams/freeze.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
-****[**Melt (Cryo)**](../../teams/reverse-melt.md)
+[**Melt (Cryo)**](../../teams/reverse-melt.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
 [**Vaporize (Pryo)**](../../teams/reverse-vaporize.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
 {% hint style="info" %}
 In the following teams, Sayu allows Kazuha or Venti to take the role of being a Debuffer with the **Viridescent Venerer** 4-set and instead provides the team with a **Noblesse Oblige** 4-set buff alongside her healing.
 {% endhint %}
 
-#### [Overload (Pyro)](../../teams/overload.md)&#x20;
+#### [Overload (Pyro)](../../teams/overload.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 

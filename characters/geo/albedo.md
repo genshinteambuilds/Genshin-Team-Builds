@@ -9,7 +9,7 @@
 ## **Character Breakdown**
 
 * **Elemental Skill** creates a **Geo** construct that deals **Geo** **Damage** in an area upon skill activation and creates a field.
-  * While inside this field, whenever an enemy takes damage, an additional instance of **Geo** **Damage** will also be dealt, with a short cooldown.&#x20;
+  * While inside this field, whenever an enemy takes damage, an additional instance of **Geo** **Damage** will also be dealt, with a short cooldown.
     * **A1** allows his **Elemental Skill** to deal increased damage to enemies under 50% **HP**.
   * The **Geo** Construct itself acts as an Elevator that lifts up Characters within the flower **Geo** Construct.
 * **Elemental Burst** deals **Geo** damage in a frontal area.
@@ -25,7 +25,7 @@
 
 ## **Works Well With**
 
-****![](../../.gitbook/assets/Element\_Anemo.webp)****![](../../.gitbook/assets/Element\_Cryo.webp)****![](../../.gitbook/assets/Element\_Electro.webp)****![](../../.gitbook/assets/Element\_Hydro.webp)****![](../../.gitbook/assets/Element\_Pyro.webp)****![](../../.gitbook/assets/Element\_Geo.webp)****
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
 
 * Albedo works well with most of the characters in the game. His **Elemental Skill** is very easy to activate and does considerable amounts of damage over its duration.
 * The **Elemental Mastery** buff from Albedo's **A4** passive allows him to be run in teams that are focused around **Elemental Reactions**.
@@ -33,7 +33,7 @@
 
 ## **Does Not Work Well With**
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)****
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
 * Since Albedo does **Geo** **Damage** with his whole kit, he triggers the **Shatter** reaction against **Frozen** enemies. This makes him not an ideal option for [**Freeze** ](../../teams/freeze.md)teams.
 
@@ -49,26 +49,26 @@ In all the teams listed below, Albedo universally provides additional Off-Field 
 
 [**Anemo**](../../teams/anemo.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)​​
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)​​
 
 * Xiao’s **Plunge Attack** damage is increased by Albedo’s **C4**.
 
-****[**Electro-Charged (Electro)**](../../teams/electro-charged.md)****
+[**Electro-Charged (Electro)**](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-****[**Geo**](../../teams/geo.md)****
+[**Geo**](../../teams/geo.md)
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Albedo can act as an Energy Battery for other **Geo** characters in the party.
 
 [**Physical (Cryo)**](../../teams/physical-cryo.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-****[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)****
+[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Albedo's **Elemental Mastery** buff enhances **Vaporize** reaction damage.

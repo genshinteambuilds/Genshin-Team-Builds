@@ -30,7 +30,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett's **Elemental Burst** provides healing and a massive **Attack** buff, making him a recommended character in most teams.
+* Bennett's **Elemental Burst** provides healing and a massive **ATK** buff, making him a recommended character in most teams.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
@@ -64,4 +64,4 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Focuses on raw **Pyro** damage with Klee. Traveler (Geo) and Zhongli provide **Geo Resonance** along with Off-Field damage from Zhongli’s **Stone Seele** and its pulses with the **Geo** constructs the two characters create.
-* Bennett acts as a healer and buffer and activates **Pyro Resonance** with Klee for extra **Attack**.
+* Bennett acts as a healer and buffer and activates **Pyro Resonance** with Klee for extra **ATK**.

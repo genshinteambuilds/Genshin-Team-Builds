@@ -15,7 +15,7 @@
 
 ## Additional Notes
 
-* **C1** provides Rosaria with an **Attack Speed** and damage buff on her **Normal** **Attacks** after triggering a **Critical Hit**.
+* **C1** provides Rosaria with an **ATK SPD** and damage buff on her **Normal** **Attacks** after triggering a **Critical Hit**.
 * **C2** increases the duration of her **Elemental Burst** by 4 seconds, making her **Elemental Burst** trigger 2 more blasts of **Cryo** damage.
 * **C4** greatly improves Rosaria's self energy regeneration, allowing her to use her **Elemental Burst** more easily.
 * **C6** causes her **Elemental Burst** to reduce enemy **Physical Resistance** by 20% for 10 seconds, allowing her to act as a debuffer for **Physical** teams.

@@ -11,7 +11,7 @@
 * **Elemental Skill (Hold)** makes Razor deal **Electro** damage in an **AoE** and converts all of his **Electro** Sigils into energy.
 * **Elemental Burst** deals an instance of **Electro** damage in an **AoE** and consumes all his **Electro** Sigils, which then grant him energy. He gains the following effects:
   * Each attack deals additional **Electro** **Damage**.
-  * **Attack Speed** increased
+  * **ATK SPD** increased
   * **Charge Attack** disabled
   * Increased **Resistance** to interruption
   * Cannot take damage from the **Electro-Charged** status and has increased **Electro** Resistance
@@ -27,42 +27,42 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/Element\_Cryo.webp)
+#### ![](../../.gitbook/assets/Element\_Cryo.webp)
 
 * **Superconduct** is Razor’s core reaction, as it debuffs enemy **Physical** Resistance. Thus, most **Cryo** characters are generally very effective with Razor.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
 
 * Off-Field **Hydro** characters work well with Razor as they can provide useful utility effects such as healing, and extra damage through **Electro-Charged** Reactions.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
 * Beidou’s **Elemental Burst** deals high amounts of Off-Field **Electro** damage and gives Razor damage reduction and resistance to interruption. Note that Beidou requires investment into **Energy Recharge**.
 * Fischl provides energy for Razor and deals Off-Field **Electro** damage.
 * Both characters provide **Electro** **Resonance**, which can help with Razor's **Elemental Burst** uptime.
 
-![](../../.gitbook/assets/Element\_Anemo.webp)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)
 
 * Most **Anemo** characters can Crowd Control and group enemies, allowing for Razor to hit multiple enemies more easily.
 * They also reduce enemy **Electro Resistance** via **Viridescent Venerer** 4-set effect, increasing Razor's **Electro** **Damage**.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
 
 * Zhongli's shield allows Razor to negate incoming damage that might otherwise interrupt his attacks. Additionally, the shield also reduces enemy **Physical Resistance**. Zhongli's **Elemental Burst** locks enemies in place, preventing them from being knocked back by Razor's attacks.
 * Albedo provides Off-Field damage and can generate shields through the **Crystallize** reaction.
 
 ## **Does Not Work Well With**
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)****
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)
 
 * Razor's kit innately favors **Physical** **Damage**. Chongyun's **Elemental Skill** infusing Razor's **Normal Attacks** to deal **Cryo Damage**, which negates his build's **Physical** damage bonuses.
 
-![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * **Overload** reactions will knock smaller enemies away from Razor. However, **Pyro** can be used on larger enemies for additional damage.
 
 {% hint style="warning" %}
-Bennett is sometimes run in his team despite this for his healing and **Attack** buff from his **Elemental Burst.** However, this will constantly cause **Overload** reactions around Razor when both **Elemental Bursts** are used simultaneously, knocking away lighter enemies.
+Bennett is sometimes run in his team despite this for his healing and **ATK** buff from his **Elemental Burst.** However, this will constantly cause **Overload** reactions around Razor when both **Elemental Bursts** are used simultaneously, knocking away lighter enemies.
 {% endhint %}
 
 ## **Teams**
@@ -71,18 +71,16 @@ Bennett is sometimes run in his team despite this for his healing and **Attack**
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-****[**Physical (Electro)**](../../teams/physical.md)****
+[**Physical (Electro)**](../../teams/physical.md)
 
 **Superconduct**
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * A team that runs Razor as Main DPS and a **Cryo** support to cause **Superconduct**.
 * Xingqui provides Off-Field damage and stagger **Resistance**.
 * Fischl acts as an Energy Battery and provides Off-Field damage.
-* Diona provides **Cryo** for **Superconduct** and also shields and heals.&#x20;
-
-
+* Diona provides **Cryo** for **Superconduct** and also shields and heals.
 
 {% hint style="warning" %}
 Non-Superconduct is generally not recommended, as the Superconduct reaction greatly benefits teams focusing on Physical Damage.
@@ -90,7 +88,7 @@ Non-Superconduct is generally not recommended, as the Superconduct reaction grea
 
 **Non-Superconduct**
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * This team supplements Razor's **Physical** and **Electro** **Damage** with the **Electro-Charged** reaction, providing additional damage and Crowd Control.
 * Strong Sub-DPS and/or **Geo** or **Pyro Resonance** can be used to provide utility and buffs to the team's damage.

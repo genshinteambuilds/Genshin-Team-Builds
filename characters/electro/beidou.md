@@ -9,7 +9,7 @@
 
 * **Elemental Skill** provides a brief shield based off of her total **HP**. Attacks taken by this shield while Beidou holds up her **Elemental Skill** determine the damage of the counterattack performed when the **Elemental Skill** is released. 2 attacks are required to reach the maximum damage.
   * **A1** allows Beidou to immediately perform the maximum damage of her counterattack if the **Elemental Skill** is used at the precise moment when the character is hit. This lets Beidou tap the **Elemental Skill** to "Perfect Counter" enemy attacks rather than taking multiple attacks over a period of time.
-  * **A4** increases Beidou's **Attack Speed** and **Damage** of her **Normal** and **Charged Attacks** by 15% and greatly reduces the delay before unleashing **Charged Attacks** for 10 seconds after using her **Elemental Skill** at its maximum damage.
+  * **A4** increases Beidou's **ATK SPD**, **Normal Attack DMG** and **Charged Attack DMG** by 15% and greatly reduces the delay before unleashing **Charged Attacks** for 10 seconds after using her **Elemental Skill** at its maximum damage.
 * **Elemental Burst** creates a lightning discharge which jumps between enemies when your active character deals damage with their **Normal** or **Charged Attacks**. While the **Elemental Burst** is active, **Resistance** to interruption is increased and damage taken is reduced.
 
 ## Additional Notes
@@ -44,7 +44,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)
 
-* Beidou's ability to snapshot buffs with her **Elemental Burst** allows her to take full advantage of both Bennet and Kujou Sara's **Attack** buffs.
+* Beidou's ability to snapshot buffs with her **Elemental Burst** allows her to take full advantage of both Bennet and Kujou Sara's **ATK** buffs.
 * The **Electro CRIT DMG** increase from Kujou Sara's **C6** can be snapshotted and will last for the entire duration of Beidou's **Elemental Burst**.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)

@@ -13,15 +13,15 @@
   * At **Charge level 2**, Bennett strikes 3 times and triggers an explosion at the end that launches both himself and the enemy.
 * **Elemental Burst** deals **AoE** **Pyro** damage and creates a field on the ground. Allies within this field gain the following effects:
   * If the active character is below 70% **HP**, they regain **HP** until the character is at or above 70% **HP**.
-  * If the active character is above 70% **HP**, they gain a flat **Attack** buff.
+  * If the active character is above 70% **HP**, they gain a flat **ATK** buff.
   * Periodically applies **Pyro** to the active character.
 * **A4** prevents Bennett from being launched by the explosion at the end of his charge level two **Elemental Skill** and reduces the cooldown of his **Elemental Skill** by 50% when cast inside the field created by his **Elemental Burst**.
 
 ## **Additional Notes:**
 
-* **C1** allows him to buff **Attack** regardless of active character **HP**. **C1** does _**NOT**_ allow Bennett to continue healing past 70% **HP**.
+* **C1** allows him to buff **ATK** regardless of active character **HP**. **C1** does _**NOT**_ allow Bennett to continue healing past 70% **HP**.
 * **C6** allows Bennett's **Elemental Burst** to infuse **Sword**, **Claymore** and **Polearm**-wielding characters' attacks with **Pyro**. Many players choose _**NOT**_ to unlock Bennett's **C6** as it can limit his viability in several teams.
-* Bennett's healing will scale based on his **Max HP,** while his **Attack** buff will scale based on his **Base Attack**.
+* Bennett's healing will scale based on his **Max HP,** while his **ATK** buff will scale based on his **Base ATK**.
 
 ## Works Well With
 
@@ -71,7 +71,7 @@ In the following teams, Bennett provides healing and buffing through his **Eleme
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett is almost always used in Oneshot teams due to providing one of the largest **Attack** buffs in the game.
+* Bennett is almost always used in Oneshot teams due to providing one of the largest **ATK** buffs in the game.
 
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 

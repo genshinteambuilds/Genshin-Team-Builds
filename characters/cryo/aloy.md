@@ -12,7 +12,7 @@
   * At **A1**, gaining stacks of Coil will buff the **ATK** of both Aloy and team members.
 * After reaching 4 stacks of Coil, Aloy enters the Rushing Ice state and:
   * **Normal Attacks** deal **Cryo Damage.**
-  * **Normal Attack** damage is increased.
+  * **Normal Attack DMG** is increased.
   * Coil stacks are reset and cannot be gained until Rushing Ice ends.
   * At **A4**, entering the Rushing Ice state will give Aloy a stacking **Cryo** Damage buff every second.
 * **Elemental Burst** deals a large amount of **AoE Cryo** damage.

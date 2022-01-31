@@ -26,7 +26,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett's **Elemental Burst** provides healing and a massive **Attack** buff, making him a recommended character in most teams.
+* Bennett's **Elemental Burst** provides healing and a massive **ATK** buff, making him a recommended character in most teams.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 

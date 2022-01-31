@@ -37,7 +37,7 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-In all teams below, Bennett acts as the team's healer while providing an **Attack** buff from his **Elemental Burst** and **Pyro Resonance**
+In all teams below, Bennett acts as the team's healer while providing an **ATK** buff from his **Elemental Burst** and **Pyro Resonance**
 {% endhint %}
 
 [**Pure Pyro**](../../teams/pure-pyro.md)

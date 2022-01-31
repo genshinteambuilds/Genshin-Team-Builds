@@ -51,7 +51,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett provides a high **Attack** buff that lasts the full duration of Eula's **Elemental Burst** and is a **Healer**.
+* Bennett provides a high **ATK** buff that lasts the full duration of Eula's **Elemental Burst** and is a **Healer**.
 * **C6** will infuse Eula's **Normal**/**Charged**/**Plunging Attacks** with **Pyro**, negating all of the **Physical** Damage bonuses she receives. Do not use C6 Bennett with Eula unless you are going for an **Elemental Burst** Oneshot.
 * Note that since Eula's **Elemental Burst** does not snapshot, Eula's **Elemental Burst** must finish within the duration of Bennett's **Elemental Burst** or a large amount of damage is lost.
 

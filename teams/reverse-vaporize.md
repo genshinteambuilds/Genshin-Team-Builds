@@ -77,7 +77,7 @@ This comp focuses on using the **Vaporize Elemental Reaction** with a **Main Pyr
 
 * A team composition that focuses on Diluc **Vaporizing** his **Normal Attacks** and **Elemental Skill** strikes.
 * Zhongli's shield helps mitigate damage as well as lower enemy resistances.
-* Bennett provides an **Attack** buff from his **Elemental Burst** to further increase Diluc's damage.
+* Bennett provides an **ATK** buff from his **Elemental Burst** to further increase Diluc's damage.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 

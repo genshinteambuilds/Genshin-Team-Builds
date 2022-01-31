@@ -8,15 +8,15 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** deals **Cryo Damage** in a cone in front of Kaeya, also healing him slightly based on Kaeya's **Attack**.
+* **Elemental Skill** deals **Cryo Damage** in a cone in front of Kaeya, also healing him slightly based on Kaeya's **ATK**.
   * **A4** allows his **Elemental Skill** to generate additional **Cryo** energy particles whenever enemies are **Frozen** by it.
 * **Elemental Burst** summons **3 icicles** that revolve around the character on field for 15 seconds, dealing **Cryo** Damage to any targets they hit.
 
 ## Additional Notes
 
-* Kaeya's **Utility Passive** decreases sprinting **Stamina** consumption by 20%, allowing for slightly more dodging ability **** especially with **Stamina** intensive **Charged Attack** Characters.
+* Kaeya's **Utility Passive** decreases sprinting **Stamina** consumption by 20%, allowing for slightly more dodging ability especially with **Stamina** intensive **Charged Attack** Characters.
 * Combination of decent **Energy Particle** generation and **Energy Recharge** as an ascension stat allows Kaeya to be able to build heavily into damage and still be able to support his own **Elemental Burst**, especially in **Freeze** team compositions.
-* **C2** increases the duration of his **Elemental Burst**.&#x20;
+* **C2** increases the duration of his **Elemental Burst**.
 * **C6** adds an additional icicle to the **Elemental Burst** and refunds a portion of the energy cost.
 
 ## Works Well With
@@ -50,7 +50,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * This team is based around frequently applying **Pyro** to enemies and then using Off-Field **Cryo** DPS to cause **Melt** reactions.
 * Given frequent enough **Pyro** application, both Kaeya and Rosaria's damage can trigger **Melt.**
-* ****[**Melt (Cryo)**](../../teams/reverse-melt.md) **** teams may lack team flexibility, as they rely on the Elemental applications of multiple characters.
+* [**Melt (Cryo)**](../../teams/reverse-melt.md) teams may lack team flexibility, as they rely on the Elemental applications of multiple characters.
 
 [**Physical (Electro)**](../../teams/physical.md)
 
@@ -59,7 +59,7 @@ Click on the team names below for more details on how the team works and alterna
 * Kaeya's **Elemental Burst** following the active character allows for consistent **Superconduct** applications.
 * In teams with Eula, Kaeya can be used to provide both **Cryo Resonance** and act as an Energy Battery.
 
-****[**Freeze (Cryo)**](../../teams/freeze.md)****
+[**Freeze (Cryo)**](../../teams/freeze.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
@@ -71,9 +71,9 @@ Click on the team names below for more details on how the team works and alterna
 
 **Freeze (w/ Chongyun)**
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)****
+![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
-* Kaeya plays the role of the On-field Main DPS in this team dealing damage with **Normal** and **Charged** **Attacks** infused with **Cryo** thanks to Chongyun's **Elemental Skill.**
+* Kaeya plays the role of the On-field Main DPS in this team dealing damage with **Normal Attacks** and **Charged Attacks** infused with **Cryo** thanks to Chongyun's **Elemental Skill.**
 * Xingqiu's **Elemental Burst** applies **Hydro** to allow this team to **Freeze** enemies.
 * Sayu provides healing and the **Viridescent Venerer** debuff.
 

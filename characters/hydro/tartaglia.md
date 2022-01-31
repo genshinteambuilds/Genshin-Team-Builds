@@ -34,7 +34,7 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett's **Elemental Burst** provides healing and a massive **Attack** buff, making him a recommended character in most teams.
+* Bennett's **Elemental Burst** provides healing and a massive **ATK** buff, making him a recommended character in most teams.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
@@ -43,7 +43,7 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
 * Both Beidou and Fischl are often used with Tartaglia in [**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md) teams**.**
-* Beidou’s **Elemental Burst** can deal large amounts of **Electro** **Damage** while Beidou is Off-Field. Tartaglia’s fast **Attack Speed** during his melee stance can also cause Beidou's **Elemental Burst** to trigger more often.
+* Beidou’s **Elemental Burst** can deal large amounts of **Electro** **Damage** while Beidou is Off-Field. Tartaglia’s fast attacks during his melee stance can also cause Beidou's **Elemental Burst** to trigger more often.
 * Fischl is often paired with Beidou due to Beidou's **Elemental Burst** high energy cost. Fischl generates **Energy Particles** for Beidou, provides more Off-Field damage and also activates **Electro Resonance**. It is also possible to use Fischl by herself for **Electro-Charged** reactions if you do not have Beidou.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
@@ -83,7 +83,7 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Tartaglia's main focus is to Oneshot enemies with his **Elemental Burst**. For a detailed look at how this team works, check out the [**Oneshot**](../../teams/oneshot.md) page.
-* Bennett provides an **Attack** Buff and applies **Pyro** on enemies for the **Vaporize** reaction.
+* Bennett provides an **ATK** Buff and applies **Pyro** on enemies for the **Vaporize** reaction.
 * Mona can apply the **Omen** Debuff to increase the damage enemies take.
 * Sucrose buffs Tartaglia's **Elemental Mastery** and debuffs **Hydro Resistance** when equipped with **Viridescent Venerer** 4-set.
 

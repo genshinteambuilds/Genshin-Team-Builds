@@ -18,7 +18,7 @@
 
 * Diona can cleanse using her **Elemental Skill**. Using it will apply **Cryo** for a short duration to the active character upon casting it or switching to another character with the shield up.
 * Often paired with another **Cryo** character on **Freeze** teams to act as an Energy Battery and receive Energy in return. This also activates **Cryo Resonance** for additional **CRIT Rate** while enemies are affected by **Cryo** or are **Frozen**.
-* **A4** decreases the enemy's Attack by 10% when they are inside the field created by Diona’s **Elemental Burst.**
+* **A4** decreases the enemy's ATK by 10% when they are inside the field created by Diona’s **Elemental Burst.**
 * **C6** adds 2 conditional buffs to the field created by Diona's **Elemental Burst** which depending on the active character's current **HP**:
   * If their **HP** is below or equal to 50%, **Incoming Healing Bonus** is increased by 30%
   * If their **HP** is above 50%, **Elemental Mastery** is increased by 200.
