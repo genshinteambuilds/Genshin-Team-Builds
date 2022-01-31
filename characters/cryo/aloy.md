@@ -12,7 +12,7 @@
   * At **A1**, gaining stacks of Coil will buff the **ATK** of both Aloy and team members.
 * After reaching 4 stacks of Coil, Aloy enters the Rushing Ice state and:
   * **Normal Attacks** deal **Cryo Damage.**
-  * **Normal Attack** damage is increased.&#x20;
+  * **Normal Attack** damage is increased.
   * Coil stacks are reset and cannot be gained until Rushing Ice ends.
   * At **A4**, entering the Rushing Ice state will give Aloy a stacking **Cryo** Damage buff every second.
 * **Elemental Burst** deals a large amount of **AoE Cryo** damage.
@@ -24,11 +24,11 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
+&#x20;![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
 
 * Aloy can provide **Cryo Resonance** for additional **CRIT Rate** and **Energy Particles** for Cryo Main DPS characters.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+&#x20;![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Could potentially be used as a Burst DPS when paired with Bennett in order to Melt her **Elemental Burst**.
 
@@ -38,9 +38,9 @@
 
 * **Electro's Superconduct** reaction with **Cryo** does not improve Aloy's core team compositions.
 
-****![](../../.gitbook/assets/Element\_Geo.webp)****
+![](../../.gitbook/assets/Element\_Geo.webp)
 
-* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in [**Freeze** ](../../teams/freeze.md)teams.&#x20;
+* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in [**Freeze** ](../../teams/freeze.md)teams.
 * **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.
 
 ## Teams
@@ -53,14 +53,14 @@ Click on the team names below for more details on how the team works and alterna
 Aloy does not particularly shine in any team composition as other characters often provide additional utility. She can still be used in the following teams but is generally not recommended.
 {% endhint %}
 
-****[**Freeze (Cryo)**](../../teams/freeze.md)****
+[**Freeze (Cryo)**](../../teams/freeze.md)
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aloy.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
+&#x20;![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aloy.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
 * Aloy activates **Cryo Resonance** for additional **CRIT Rate** and serves as an Energy Battery for the **Main DPS**.
 
-****[**Melt (Cryo)**](../../teams/reverse-melt.md)****
+[**Melt (Cryo)**](../../teams/reverse-melt.md)
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Aloy.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
+&#x20;![](../../.gitbook/assets/UI\_AvatarIcon\_Aloy.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Aloy can Reverse **Melt** her **Elemental Burst** to deal significant **Burst DPS**.
