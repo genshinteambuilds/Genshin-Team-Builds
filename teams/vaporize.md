@@ -17,7 +17,7 @@ There are no strong **Vaporize (Hydro)** team compositions, due to the lack of *
 ## Main DPS
 
 {% hint style="info" %}
-For all of the below **Hydro** Main DPS, **Vaporizing** Xiangling's Off-Field **Pyro Damage** is generally prioritized over the **Hydro** character's damage. Xiangling should be geared like a Main DPS **** in these teams.
+For all of the below **Hydro** Main DPS, **Vaporizing** Xiangling's Off-Field **Pyro Damage** is generally prioritized over the **Hydro** character's damage. Xiangling should be geared like a Main DPS in these teams.
 {% endhint %}
 
 |                                                                Character                                                                | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -52,10 +52,10 @@ For all of the below **Hydro** Main DPS, **Vaporizing** Xiangling's Off-Field **
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Tartaglia is used in this team to deal **Hydro Damage** with his **Normal** and **Charged Attacks** while his **Elemental Skill** is active.&#x20;
+* Tartaglia is used in this team to deal **Hydro Damage** with his **Normal** and **Charged Attacks** while his **Elemental Skill** is active.
 * Tartaglia's **Elemental Burst** can also be vaporized for a massive burst of damage.
 * Xiangling's **Elemental Burst** and **Elemental Skill** are used to **Vaporize** Tartaglia's **Hydro** applications, dealing the bulk of this team's damage.
-* Sucrose provides Grouping Crowd Control, buffing, and debuffing with the **Viridescent Venerer** 4-set.&#x20;
+* Sucrose provides Grouping Crowd Control, buffing, and debuffing with the **Viridescent Venerer** 4-set.
 * Bennet provides **Pyro Resonance,** healing, an **ATK** buff with his **Elemental Burst,** and acts as an Energy Battery for Xiangling.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
@@ -63,14 +63,14 @@ For all of the below **Hydro** Main DPS, **Vaporizing** Xiangling's Off-Field **
 * Mona is used in this team to apply **Hydro** with her **Normal** and **Charged Attacks** and to amplify Xiangling's damage with her **Elemental Burst**.
 * Mona's **Elemental Burst** can also be **Vaporized** for a large amount of damage, but it requires a specific setup. More info on this can be found on the [Oneshot](oneshot.md) team page.
 * Xiangling's **Elemental Burst** and **Elemental Skill** are used to **Vaporize** Mona's **Hydro** applications, dealing the bulk of this team's damage.
-* Kazuha provides Grouping Crowd Control, buffing, and debuffing with the **Viridescent Venerer** 4-set.&#x20;
+* Kazuha provides Grouping Crowd Control, buffing, and debuffing with the **Viridescent Venerer** 4-set.
 * Bennet provides **Pyro Resonance,** healing, an **ATK** buff with his **Elemental Burst,** and acts as an Energy Battery for Xiangling.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Kokomi is used in this team to apply **Hydro** with her **Normal** and **Charged Attacks** and **Elemental Skill**. She also provides healing, reducing the need for Bennet to provide it.
 * Xiangling's **Elemental Burst** and **Elemental Skill** are used to **Vaporize** Kokomi's **Hydro** applications, dealing the majority of this team's damage.
-* Kazuha provides powerful Grouping Crowd Control and debuffing with the **Viridescent Venerer** 4-set.&#x20;
+* Kazuha provides powerful Grouping Crowd Control and debuffing with the **Viridescent Venerer** 4-set.
 * Bennet provides **Pyro Resonance,** healing, an **ATK** buff with his **Elemental Burst,** and acts as an Energy Battery for Xiangling.
 * As Kokomi lacks the large bursts of damage the Mona and Tartaglia can provide from their **Elemental Bursts** and also falls behind in terms of standard On-Field damage, this team relies on Xiangling even harder than other variants. However, Kokomi's healing makes this version of the team significantly more resilient.
 

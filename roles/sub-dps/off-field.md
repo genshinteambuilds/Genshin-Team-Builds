@@ -1,8 +1,8 @@
 # Off-Field
 
-Off-Field DPS characters can deal damage while not active on the field.&#x20;
+Off-Field DPS characters can deal damage while not active on the field.
 
-They are often quickly swapped to in order to use their **Elemental Skill** and/or **Elemental Burst** and then immediately swapped off. The effects of their **Elemental Skill** and/or **Elemental Burst** remain active even after having swapped off the character.&#x20;
+They are often quickly swapped to in order to use their **Elemental Skill** and/or **Elemental Burst** and then immediately swapped off. The effects of their **Elemental Skill** and/or **Elemental Burst** remain active even after having swapped off the character.
 
 Ideally, Off-Field DPS characters also synergize with the team by providing elemental applications for the purposes of setting up **Elemental Reactions** and amplifying the team's damage.
 

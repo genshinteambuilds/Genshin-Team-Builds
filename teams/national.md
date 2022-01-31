@@ -2,7 +2,7 @@
 
 The National Team is as a very consistent **Reverse Vaporize** Team that performs exceptionally well for low investment. The core of the Team is Xiangling, Xingqiu, and Bennett with the last member of the team being somewhat flexible and usually dedicated to a member that can provide the team additional damage.
 
-The team derives the majority of its damage by taking advantage of Bennett's **Elemental Burst** to buff Xiangling's **Elemental Burst**, while also having Xingqiu's **Elemental Burst** active in order to enable **Vaporizes** with Xiangling's Pyronado.&#x20;
+The team derives the majority of its damage by taking advantage of Bennett's **Elemental Burst** to buff Xiangling's **Elemental Burst**, while also having Xingqiu's **Elemental Burst** active in order to enable **Vaporizes** with Xiangling's Pyronado.
 
 {% hint style="danger" %}
 **When running this team, make sure that Xiangling is well equipped as her burst is this team's primary source of damage.**

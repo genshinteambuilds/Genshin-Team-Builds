@@ -11,7 +11,7 @@
   * 2 **Geo** characters: Adds "Impregnable" - Increased resistance to interruption.
   * 3 **Geo** characters: Adds "Crunch" - **Geo DMG Bonus**.
 * **Elemental Burst** deals AoE **Geo DMG** and creates a field around the active character and periodically deals **Geo DMG** and pulls in a **Crystallize** shard toward the active character. This field provides the same buffs that Gorou's **Elemental Skill** provides.
-  * Casting **Elemental Burst** will destroy any active war banners.&#x20;
+  * Casting **Elemental Burst** will destroy any active war banners.
 * **A1** increases party's DEF% after Gorou casts **Elemental Burst**.
 * **A4** increases Gorou's **Elemental Skill** and **Elemental Burst DMG** by a percentage of his **DEF**.
 
@@ -26,19 +26,21 @@
 
 ## **Works Well With**
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)****
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)
 
 * Itto and Noelle are both DEF scaling Main DPS units and benefit greatly from all of Gorou's party buffs. They are the best units to pair with Gorou.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
 
 * Albedo also benefits greatly from Gorou's buffs and is an off-field unit that can normally fill the 3rd Geo character requirement to unlock the last level of Gorou's buffs.
 
-![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/Element\_Geo.webp)
 
 * Gorou is a specialized support unit that is able to benefit most Geo main DPS.
 
 ## **Does Not Work Well With**
+
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * Gorou unfortunately does not work well with units outside of **Geo**. No other Main DPS scales with DEF and if they don't deal **Geo DMG,** they do not benefit from a number of Gorou's buffs.
 
@@ -52,13 +54,13 @@ Click on the team names below for more details on how the team works and alterna
 Itto only works in a **Geo** team where he performs as a Selfish Main DPS. A couple common example teams are shown below. Additional teams and options can be found in the **Geo** team page.
 {% endhint %}
 
-****[**Geo**](../../teams/geo.md)****
+[**Geo**](../../teams/geo.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * A strong team composition that takes full advantage of Gorou's party buffs to DEF and Geo DMG. Having 4 Geo characters lowers the energy recharge requirements across the whole team.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Another example of a full Geo team composition. Not recommended unless Noelle is C6.
 
