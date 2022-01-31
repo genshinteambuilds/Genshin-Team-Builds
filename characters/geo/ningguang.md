@@ -45,11 +45,11 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett's **Elemental Burst** provides healing and a massive **Attack** buff, making him a recommended character in most teams.
+* Bennett's **Elemental Burst** provides healing and a massive **ATK** buff, making him a recommended character in most teams.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
-* Xiangling enables **Pyro Resonance,** provides an **Attack** buff with her **A4,** and can deal high amounts of damage with her **Elemental Burst**.
+* Xiangling enables **Pyro Resonance,** provides an **ATK** buff with her **A4,** and can deal high amounts of damage with her **Elemental Burst**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
@@ -61,7 +61,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
-* Mona provides taunt utility, an **Attack** buff (through the **Thrilling Tales of Dragon Slayers** catalyst), and **** her signature **Omen** debuff.
+* Mona provides taunt utility, an **ATK** buff (through the **Thrilling Tales of Dragon Slayers** catalyst), and **** her signature **Omen** debuff.
 
 ## Does not work well with
 
@@ -89,5 +89,5 @@ Click on the team names below for more details on how the team works and alterna
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)&#x20;
 
 * Ningguang’s teams generally consist of 2 **Geo** characters to activate **Geo Resonance**, which is recommended because of **Geo**'s lack of damaging reactions**.**&#x20;
-* **Pyro Resonance** is used to buff **Attack**.
+* **Pyro Resonance** is used to buff **ATK**.
 * Ningguang's attacks are ineffective against shields. As such, shield-breaking utility should be prioritized (if applicable) to maximize Ningguang's damage.

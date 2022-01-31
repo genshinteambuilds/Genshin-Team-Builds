@@ -23,13 +23,13 @@
 * **C6** increases the max stacks of **Scarlet Seal** from 3 to 4.
   * Combined with **C1** this will result in Yanfei's **Charged Attacks** costing no **Stamina** with max stacks of **Scarlet Seal.**
 * Yanfei's **Brilliance** gets cancelled once she leaves the field. This makes her a Selfish DPS as she does significantly more damage with this buff active.
-* **A4** allows Yanfei's to deal an additional instance of **AoE Pyro** damage equal to 80% of her **Attack** when dealing **CRIT DMG** with a **Charged Attack**. This counts as **Charged Attack** damage.
+* **A4** allows Yanfei's to deal an additional instance of **AoE Pyro** damage equal to 80% of her **ATK** when dealing **CRIT DMG** with a **Charged Attack**. This counts as **Charged Attack** damage.
 
 ## Works Well With
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett's **Elemental Burst** provides healing and a massive **Attack** buff, making him a recommended character in most teams. He can also activate **Pyro Resonance** which also buffs **Attack**.
+* Bennett's **Elemental Burst** provides healing and a massive **ATK** buff, making him a recommended character in most teams. He can also activate **Pyro Resonance** which also buffs **ATK**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 

@@ -38,7 +38,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett's **Elemental Burst** provides healing and a massive **Attack** buff, making him a recommended character in most teams. He can also provide **Pyro Resonance** which buffs attack.
+* Bennett's **Elemental Burst** provides healing and a massive **ATK** buff, making him a recommended character in most teams. He can also provide **Pyro Resonance** which buffs ATK.
 * He can act as an **Energy Battery** for Yoimiya, recharging her **Elemental Burst** faster.
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)

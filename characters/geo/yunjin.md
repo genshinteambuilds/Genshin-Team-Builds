@@ -16,7 +16,7 @@
 
 * **C2** further buffs **Normal Attack** damage by 15% for 12s, making it a very useful constellation to aim for.
 * **C4** buffs her own **DEF**, allowing her to buff Normal Attack damage even further.
-* **C6** buffs **Attack Speed** for characters that are affected by her **Elemental Burst**.
+* **C6** buffs **ATK SPD** for characters that are affected by her **Elemental Burst**.
 * While her **A4** provides buff from multiple different **Elemental** characters, having 2/3 different ones is sufficient.
 * Yunjin's **Elemental Burst** cannot snapshot. Hence, it cannot retain Gorou's **DEF** buff.
 

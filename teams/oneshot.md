@@ -39,7 +39,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 ![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)
 
 * Able to buff damage on enemies inside her **Elemental Burst** at **Constellation 4**.
-* Able to carry **Elegy for the End** and provide more **ATK DMG** and **Elemental Mastery**.
+* Able to carry **Elegy for the End** and provide more **ATK** and **Elemental Mastery**.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
@@ -117,7 +117,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png) ![](../.gitbook/assets/Element\_Pyro.webp)
 
-* Klee and Yanfei helps at applying **Pyro** and using an R5 **Thrilling tales of Dragon Slayers** which buffs your Mona with **48% atk** and if you Klee's have her **Constellation 2**, her **Elemental Skil**l shreds the enemy's **DEF** by 23%, which helps a lot to deal even more damage. If you don’t have Klee or Yanfei, any **Pyro** works.
+* Klee and Yanfei help at applying **Pyro** and using an R5 **Thrilling tales of Dragon Slayers** which buffs your Mona's **ATK** by 48%. If you Klee's **C2**, her **Elemental Skill** shreds the enemy's **DEF** by 23%, which helps a lot to deal even more damage. If you don’t have Klee or Yanfei, any **Pyro** works.
 
 ### Supporting Cast
 

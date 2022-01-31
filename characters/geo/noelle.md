@@ -15,7 +15,7 @@
 * **Elemental Burst** deals **Geo** damage in a wide area. Noelle gains the following effects:
   * Attack range greatly increased.
   * Converts Noelle's **Normal** and **Charged Attack** damage into into **Geo** which cannot be overridden.
-  * Gains an **Attack** buff that scales off of her **Defense**.
+  * Gains an **ATK** buff that scales off of her **Defense**.
 
 ## **Additional Notes**
 
@@ -23,7 +23,7 @@
 * A Main DPS Noelle should be played with **Geo Resonance** for a damage buff when Shielded, and a **Geo Resistance** debuff against enemies. She also requires a **Geo** Energy Battery in order to reach 100% uptime on her **Elemental Burst**. It is not recommended to use her as a Main DPS before **C6**.
   * Noelle's inability to heal Off-Field weakens her functionality as a Support, especially when compared to other Supports. As such, she should generally be used as the Main DPS in most teams she is run on.
 * **C4** allows Noelle's shield to deal **AoE** **Geo** Damage when it expires or gets destroyed.
-* **C6** Increases the **Attack** buff she receives when casting her **Elemental Burst**.
+* **C6** Increases the **ATK** buff she receives when casting her **Elemental Burst**.
 * Noelle’s **Geo** infusion from her **Elemental Burst** persists when she is swapped out, allowing players to rotate through the rest of the team during its duration.
 
 ## **Works Well With**
@@ -34,7 +34,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett's **Elemental Burst** provides healing and a massive **Attack** buff, making him a recommended character in most teams.
+* Bennett's **Elemental Burst** provides healing and a massive **ATK** buff, making him a recommended character in most teams.
   * His **C6** cannot override Noelle's **Geo** infusion during her **Elemental Burst**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
@@ -58,5 +58,5 @@ This character is a healer. While some teams are provided below where they are p
 [![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)](noelle.md) ![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Noelle serves as the Main DPS in this team. She takes advantage of both **Geo** and **Pyro** **Resonance** to increase her damage.
-  * Bennett provides an **Attack** buff with his **Elemental Burst**.
+  * Bennett provides an **ATK** buff with his **Elemental Burst**.
   * Traveler (Geo) acts as an Energy Battery for Noelle and can buff her **CRIT Rate** with his **C1**.
