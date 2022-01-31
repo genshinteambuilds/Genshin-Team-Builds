@@ -10,57 +10,57 @@
 
 * Ganyu's **Charged Attack** has two Charge levels:
   * Charge Level 1: Fires a single arrow that deals **Cryo Damage**
-  * Charge Level 2: Fires a Frostflake Arrow that deals **Cryo Damage**. The **** Frostflake Arrow blooms after hitting it's target, dealing additional **AoE Cryo Damage**.
-* **Elemental Skill** deals **AoE Cryo Damage** and leaves an Ice Lotus **** on the ground that taunts surrounding enemies. The Ice Lotus deals **AoE Cryo Damage** if destroyed or when it's duration ends.
-* **Elemental Burst** creates a field which continually rains shards of ice **** on enemies inflicting **Cryo Damage**.
+  * Charge Level 2: Fires a Frostflake Arrow that deals **Cryo Damage**. The Frostflake Arrow blooms after hitting it's target, dealing additional **AoE Cryo Damage**.
+* **Elemental Skill** deals **AoE Cryo Damage** and leaves an Ice Lotus on the ground that taunts surrounding enemies. The Ice Lotus deals **AoE Cryo Damage** if destroyed or when it's duration ends.
+* **Elemental Burst** creates a field which continually rains shards of ice on enemies inflicting **Cryo Damage**.
 * Ganyu's primary source of damage when used as a Main DPS character is her **Charged Attack**.
 
 ## **Additional Notes**
 
-* Ganyu’s Frostflake Arrow Bloom from her fully **Charged Attack** has a separate internal cooldown **** for reactions from the initial attack which allows Ganyu to trigger reactions **** with both components of her **Charged Attack**. This is incredibly powerful with Ganyu's **Melt** teams as both parts of the attack can **Melt**.
+* Ganyu’s Frostflake Arrow Bloom from her fully **Charged Attack** has a separate internal cooldown for reactions from the initial attack which allows Ganyu to trigger reactions with both components of her **Charged Attack**. This is incredibly powerful with Ganyu's **Melt** teams as both parts of the attack can **Melt**.
 * Ganyu's **Elemental Burst** is typically not used much in **Melt** teams as the application of **Cryo** on enemies from her **Elemental Burst** can interfere with the **Melt** reactions coming from her **Charged Attacks**.
-* When used as an Off-Field **** DPS or Support, Ganyu's **Elemental Burst** can apply **Cryo** to enemies but this is not fast enough to enable **Melt** teams by herself.
-* While Ganyu can be used to apply **Cryo** for **Freeze** teams or **Physical** teams in an Off-Field DPS **** and Support **** role as well, Ganyu deals so much damage with her **Charged Attacks** that this often performs worse than simply just using Ganyu as the Main DPS character.
+* When used as an Off-Field DPS or Support, Ganyu's **Elemental Burst** can apply **Cryo** to enemies but this is not fast enough to enable **Melt** teams by herself.
+* While Ganyu can be used to apply **Cryo** for **Freeze** teams or **Physical** teams in an Off-Field DPS and Support role as well, Ganyu deals so much damage with her **Charged Attacks** that this often performs worse than simply just using Ganyu as the Main DPS character.
 
 ## Works Well With
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
 * **Anemo** Support characters can debuff the **Cryo Resistance** of enemies with the **Viridescent Venerer** set.
-* Many can also create persistent fields that can absorb elements **** to help enable **Melt** or **Frozen Elemental Reactions** to take place.
+* Many can also create persistent fields that can absorb elements to help enable **Melt** or **Frozen Elemental Reactions** to take place.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
 * Mona is currently the premier Support for **Freeze** Ganyu teams.
-* When using Mona's **Elemental Burst**, **Omen** and **Hydro** are applied to the enemy, amplifying damage **** and also inflicting the **Frozen** status on them.
-* Omen's **** duration is also extended **** while enemies are **Frozen** allowing Ganyu to continue attacking enemies affected by Omen for longer.
+* When using Mona's **Elemental Burst**, **Omen** and **Hydro** are applied to the enemy, amplifying damage and also inflicting the **Frozen** status on them.
+* Omen's duration is also extended while enemies are **Frozen** allowing Ganyu to continue attacking enemies affected by Omen for longer.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
 * A second **Cryo** character is often used in **Freeze** teams to provide **Cryo Resonance,** which increases the team's **CRIT Rate** against enemies that are affected by **Cryo** or **Frozen**.
 * Not all **Cryo** characters are appropriate choices. Typically, **Cryo** characters that fulfill other roles are chosen.
 * One of the most popular options is **Diona** as she can additionally provide healing, shielding, cleansing, and carry the **Noblesse Oblige** set.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli provides a universal debuff **** to **Elemental Resistances** for all elements **** while also providing the strongest shielding **** in the game.
+* Zhongli provides a universal debuff to **Elemental Resistances** for all elements while also providing the strongest shielding in the game.
 * Shielding is particularly useful for Ganyu as her **Charged Attacks** take time to charge fully and can be interrupted if not shielded.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
 * The two primary **Pyro** character options for a **Melt** teams using Ganyu.
 * Xiangling's **Elemental Burst** in particular can apply **Pyro** to enemies consistently, allowing Ganyu to **Melt** every **Charged Attack** however this requires sticking quite close to the enemy to stay within range of her **Elemental Burst**.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
+#### ![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
 * Ganyu’s primary source of damage is not **Physical** resulting in other **Physical** characters and **Electro** characters not working well with her when Ganyu is used as a Main DPS.
-* While Ganyu can be used as an Off-Field **** DPS in those teams instead to provide **Cryo** for **Superconduct**, this is often seen as a waste since other **Cryo** characters can work equally well in that role.
+* While Ganyu can be used as an Off-Field DPS in those teams instead to provide **Cryo** for **Superconduct**, this is often seen as a waste since other **Cryo** characters can work equally well in that role.
 
-![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/Element\_Geo.webp)
 
-* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in [**Freeze** ](../../teams/freeze.md)teams.&#x20;
+* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in [**Freeze** ](../../teams/freeze.md)teams.
 * Zhongli is also not used in Ganyu **Freeze** teams for this reason.
 * **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.
 

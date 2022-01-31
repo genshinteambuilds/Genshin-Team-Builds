@@ -14,8 +14,6 @@ If you add an extra **Electro** Unit into your Party you will gain **Electro Res
 **Characters are ranked roughly according to how well they perform in this team composition.**
 {% endhint %}
 
-
-
 |                                    Main DPS                                    |                                         Core Support / Sub DPS                                         |                                     Flex Support                                     |                                   Healer / Shielder                                  |
 | :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/UI_AvatarIcon_Eula.png" alt=""></p><p>Eula</p> |       <p><img src="../.gitbook/assets/UI_AvatarIcon_Shougun.png" alt=""></p><p>Raiden Shogun</p>       | <p><img src="../.gitbook/assets/UI_AvatarIcon_Rosaria.png" alt=""></p><p>Rosaria</p> |   <p> <img src="../.gitbook/assets/UI_AvatarIcon_Diona.png" alt=""></p><p>Diona</p>  |
@@ -30,15 +28,11 @@ If you add an extra **Electro** Unit into your Party you will gain **Electro Res
 
 ## Main DPS
 
-
-
 |                                                        Character                                                        | Notes                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | :---------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p><img src="../.gitbook/assets/UI_AvatarIcon_Eula.png" alt=""></p><p><a href="../characters/cryo/eula.md">Eula</a></p> | <ul><li>Her main mode of dealing damage is her <strong>Elemental Burst</strong>. </li><li>Pairs well with Raiden as she provides Eula with Energy <strong></strong> for her <strong>Elemental Burst</strong> and also constantly triggers <strong>Superconduct</strong> even while off-field.</li><li>Eula can also reduce the <strong>Physical Resistance</strong> of enemies with her <strong>Elemental Skill</strong>.</li></ul> |
 
 ## Core Support/Sub DPS
-
-
 
 |                                                                            Character                                                                           | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -51,8 +45,6 @@ If you add an extra **Electro** Unit into your Party you will gain **Electro Res
 
 ## Flex Support
 
-
-
 |                                                              Character                                                             | Notes                                                                                                                                                                                                                                                                                      |
 | :--------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Rosaria.png" alt=""></p><p><a href="../characters/cryo/rosaria.md">Rosaria</a></p>  | <ul><li>Can increase the whole party's <strong>CRIT RATE</strong> (up to 15%) at <strong>A4</strong>.</li><li>Energy Battery for Eula.</li><li>Activates <strong>Cryo Resonance</strong>.</li></ul>                                                                                        |
@@ -64,8 +56,6 @@ If you add an extra **Electro** Unit into your Party you will gain **Electro Res
 |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Xinyan.png" alt=""></p><p><a href="../characters/pyro/xinyan.md">Xinyan</a></p>   | <ul><li>Her <strong>Elemental Skill</strong> provides a decent shield that increases <strong>Physical Damage</strong> by 15% with her <strong>A4</strong> talent.</li></ul>                                                                                                                |
 
 ## Healer/Shielder
-
-
 
 |                                                             Character                                                             | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | :-------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -81,9 +71,9 @@ If you add an extra **Electro** Unit into your Party you will gain **Electro Res
 
 ## Sample Team Compositions
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * This Team Composition mainly relies on Eula's **Elemental Burst** to deal massive **Physical Damage**. **Superconduct** is constantly applied to enemies with Raiden and Eula's **Elemental Skills**.
-* Raiden plays a key role in this composition as she is great energy battery **** for Eula. Raiden's **Elemental Skill** also continuously provides particles off-field. When Eula has dealt damage with her **Elemental Burst**, follow with Raiden's **Elemental Burst** to refill energy for the entire party, allowing Eula and her supports to cast their **Elemental** **Bursts** in quick succession.
+* Raiden plays a key role in this composition as she is great energy battery for Eula. Raiden's **Elemental Skill** also continuously provides particles off-field. When Eula has dealt damage with her **Elemental Burst**, follow with Raiden's **Elemental Burst** to refill energy for the entire party, allowing Eula and her supports to cast their **Elemental** **Bursts** in quick succession.
 * Rosaria serves to buff your Eula's **CRIT RATE** with her **Elemental Skill** and funds Eula's **Elemental Burst**.
 * Diona provides shielding and healing as well as being an Energy Battery for Eula.

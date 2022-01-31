@@ -73,13 +73,13 @@ Carries represent on-field application of their respective elements (electro for
 
 ## Sample Team Compositions
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * This team aims to activate all Off-field DPS under the influence of Bennett's **Elemental Burst** and Raiden's **Elemental Skill**, before activating Raiden's **Elemental Burst.**
 * Raiden's **Elemental Burst** applies **Electro**, allowing Xiangling to **Overload**.
 * Raiden's **Elemental Burst** restores energy to party members.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * The goal is to alternate between using Xiangling's **Elemental Burst** and a Venti **Elemental Burst** infused with **Pyro** to constantly apply **Pyro** to the enemy.
 * Keqing’s infused **Normal** and **Charged attacks** should be used while Xiangling’s Pyronado is active, and her **Elemental** **Burst** and **Elemental Skill** should be used while Venti’s **Elemental Burst** is active.

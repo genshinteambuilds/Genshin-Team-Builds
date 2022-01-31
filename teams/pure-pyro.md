@@ -1,8 +1,8 @@
 # Pure Pyro
 
-This composition is based around certain **Pyro** Characters, such as Klee, who cannot consistently perform **Vaporize** reactions **** even when partnered with Xingqiu. We instead focus on dealing raw **Pyro** damage and use **Pyro**, **Geo**, and **Anemo** supports in order to amplify that damage or provide Off-Field **** DPS. The **Lavawalker** 4-set is often equipped on DPS characters within this team.
+This composition is based around certain **Pyro** Characters, such as Klee, who cannot consistently perform **Vaporize** reactions even when partnered with Xingqiu. We instead focus on dealing raw **Pyro** damage and use **Pyro**, **Geo**, and **Anemo** supports in order to amplify that damage or provide Off-Field DPS. The **Lavawalker** 4-set is often equipped on DPS characters within this team.
 
-Swirl is the only notable **Elemental Reaction** as the **Viridescent Venerer** 4-set can reduce enemies' **Pyro Resistance**.&#x20;
+Swirl is the only notable **Elemental Reaction** as the **Viridescent Venerer** 4-set can reduce enemies' **Pyro Resistance**.
 
 2 Flex Supports are used in this team, One of which is typically an **Anemo** character to provide the **Viridescent Venerer** debuff.
 
@@ -60,18 +60,18 @@ Swirl is the only notable **Elemental Reaction** as the **Viridescent Venerer** 
 
 ## Sample Team Compositions
 
-&#x20;![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Klee is the On-Field DPS.
 * Venti's **Elemental Burst** provides the team with crowd control.
 * All of Klee's attacks can hit in Venti's **Elemental Burst** except her **Normal Attack**. Klee's **Charged Attacks** can fling heavy enemies into Venti's **Elemental Burst**.
-* Kazuha decreases the enemy **Pyro Resistance** with the **Viridescent Venerer** 4-pc set while providing Crowd Control **** for Klee. He can gather Klee's mines and enemies with his **Elemental Skill**.
+* Kazuha decreases the enemy **Pyro Resistance** with the **Viridescent Venerer** 4-pc set while providing Crowd Control for Klee. He can gather Klee's mines and enemies with his **Elemental Skill**.
 * Bennett heals, activates **Pyro Resonance**, and buffs **Attack** for Klee to deal more damage.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Yoimiya is the On-Field DPS.
-* Kazuha decreases enemy **Pyro Resistance** with **Viridescent Venerer** 4-pc set while providing some grouping **** for Xiangling.
+* Kazuha decreases enemy **Pyro Resistance** with **Viridescent Venerer** 4-pc set while providing some grouping for Xiangling.
 * Xiangling is an Off-Field DPS who provides **Pyro Damage Bonus** at C6.
 * Bennett heals, activates **Pyro Resonance**, and buffs **ATK** for Yoimiya and Xiangling to deal more damage.
 

@@ -1,6 +1,6 @@
 # Overload (Pyro)
 
-**Overload** occurs when a **Pyro** and **Electro** are applied to an enemy. It creates an instance of AoE **Pyro Damage** and can potentially knock back enemies. As such, team compositions that focus on **Overload** can **** utilize **Anemo** Supports to keep opponents grouped and/or a ranged Main DPS that does not have to remain close to enemies . However, **Overload** compositions are generally best in situations where enemies are immune to its knockback. This page covers **Overload** team compositions with a **Pyro** Main DPS.
+**Overload** occurs when a **Pyro** and **Electro** are applied to an enemy. It creates an instance of AoE **Pyro Damage** and can potentially knock back enemies. As such, team compositions that focus on **Overload** can utilize **Anemo** Supports to keep opponents grouped and/or a ranged Main DPS that does not have to remain close to enemies . However, **Overload** compositions are generally best in situations where enemies are immune to its knockback. This page covers **Overload** team compositions with a **Pyro** Main DPS.
 
 {% hint style="danger" %}
 **Characters are ranked roughly according to how well they perform in this team composition.**
@@ -64,23 +64,23 @@
 
 ## Sample Team Compositions
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Yanfei provides consistent On-Field **Pyro Damage** through her **Normal** and **Charged Attacks**.
 * Fischl provides Off-Field **Electro** application through her **Elemental Skill.**
-* Venti's **Elemental Burst** can be infused with either **Pyro** or **Electro** to provide additional **Elemental** application and provides constant Grouping Crowd Control, preventing **Overload's** knockback. He also provides an **Elemental Resistance** debuff **** with the **Viridescent Venerer** 4-set.&#x20;
+* Venti's **Elemental Burst** can be infused with either **Pyro** or **Electro** to provide additional **Elemental** application and provides constant Grouping Crowd Control, preventing **Overload's** knockback. He also provides an **Elemental Resistance** debuff with the **Viridescent Venerer** 4-set.
 * Bennet provides healing, an **Attack** buff from his **Elemental Burst**, **Pyro Resonance**, and can act as an Energy Battery for Yanfei.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Yoimiya rapidly deals ranged **Pyro Damage** while her **Elemental Skill** is active. Her **Elemental Burst** provides additional AoE **Pyro Damage.**&#x20;
-* Beidou provides Off-Field AoE **Electro Damage** through her **Elemental Burst**. Beidou's **Elemental Burst** also provides **Damage Reduction** and knockback resistance, allowing Yoimiya to freely use her **Normal Attacks** without getting interrupted.&#x20;
-* Sucrose provides a buff to the team's **Elemental Mastery** as well as an **Elemental Resistance** debuff **** with the **Viridescent Venerer** 4-set. Her Grouping Crowd Control can also help reducing the impact of **Overload's** knockback.
+* Yoimiya rapidly deals ranged **Pyro Damage** while her **Elemental Skill** is active. Her **Elemental Burst** provides additional AoE **Pyro Damage.**
+* Beidou provides Off-Field AoE **Electro Damage** through her **Elemental Burst**. Beidou's **Elemental Burst** also provides **Damage Reduction** and knockback resistance, allowing Yoimiya to freely use her **Normal Attacks** without getting interrupted.
+* Sucrose provides a buff to the team's **Elemental Mastery** as well as an **Elemental Resistance** debuff with the **Viridescent Venerer** 4-set. Her Grouping Crowd Control can also help reducing the impact of **Overload's** knockback.
 * Bennet provides healing, an **Attack** buff from his **Elemental Burst**, **Pyro Resonance**, and can act as an Energy Battery for Yoimiya.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Klee rapidly deals AoE ranged **Pyro Damage** with her **Normal** and **Charged Attacks** and **Elemental Skill** and **Burst**.
 * Raiden provides Off-Field **Electro Damage** with her **Elemental Skill** and can act as an Energy Battery for the team with her **Elemental Burst**.
 * Albedo provides additional Off-Field **Geo Damage** through his **Elemental Skill**, **Elemental Mastery** with his **Elemental Burst** at **A4**, and enables **Geo Resonance** when paired with Zhongli.
-* Zhongli provides a powerful shield and reduces enemies **Elemental Resistance** with his **Elemental Skill** as well as providing **Geo Resonance** when paired with Albedo.&#x20;
+* Zhongli provides a powerful shield and reduces enemies **Elemental Resistance** with his **Elemental Skill** as well as providing **Geo Resonance** when paired with Albedo.

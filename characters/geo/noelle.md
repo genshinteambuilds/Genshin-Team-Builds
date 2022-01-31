@@ -28,24 +28,24 @@
 
 ## **Works Well With**
 
-****![](../../.gitbook/assets/Element\_Geo.webp)****
+#### ![](../../.gitbook/assets/Element\_Geo.webp)
 
 * All current **Geo** characters are solid choices to add to a Noelle team, both for **Geo Resonance** and for their individual supporting or damaging capabilities.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Bennett's **Elemental Burst** provides healing and a massive **ATK** buff, making him a recommended character in most teams.
   * His **C6** cannot override Noelle's **Geo** infusion during her **Elemental Burst**.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
 * Characters with strong Off-Field damage can be easily utilized in **Geo** focused teams. Noelle doesn't need **Elemental Reactions** to deal damage as a **Geo** character.
 
 ## **Does Not Work Well With**
 
-****![](../../.gitbook/assets/Element\_Anemo.webp)****
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)
 
-* **Geo** cannot take advantage of **Viridescent Venerer** 4-set effect.. **Anemo** does not provide anything for Noelle **** aside from Crowd Control.
+* **Geo** cannot take advantage of **Viridescent Venerer** 4-set effect.. **Anemo** does not provide anything for Noelle aside from Crowd Control.
 
 ## **Teams**
 
@@ -53,9 +53,9 @@
 This character is a healer. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
 {% endhint %}
 
-[**Geo**](../../teams/geo.md)****
+[**Geo**](../../teams/geo.md)
 
-[![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)](noelle.md) ![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Noelle serves as the Main DPS in this team. She takes advantage of both **Geo** and **Pyro** **Resonance** to increase her damage.
   * Bennett provides an **ATK** buff with his **Elemental Burst**.

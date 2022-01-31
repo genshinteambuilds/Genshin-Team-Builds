@@ -6,13 +6,13 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** provides different effects if it is either held down or tapped.&#x20;
+* **Elemental Skill** provides different effects if it is either held down or tapped.
   * **Elemental Skill (Tap)** causes Shenhe to dash forward, dealing **Cryo Damage** to enemies hit and grants the party 5 stacks of the Icy Quill buff.
   * **Elemental Skill (Hold)** deals **AoE Cryo Damage** and grants the party 7 stacks of the Icy Quill buff.
   * Icy Quill increases **Cryo Damage** dealt by other party members by a percentage of Shenhe's **ATK**. This buff lasts either until the duration expires or it is triggered a certain amount of times. Each party member has their own set of stacks.
   * **A4** provides an additional damage bonus to either **Elemental Skill** and **Elemental Burst** damage with **Elemental Skill (Tap)** or **Normal, Charged,** and **Plunging Attack** damage with **Elemental Skill (Hold)**.
 * **Elemental Burst** deals AoE **Cryo Damage** and creates a field.
-  * Shenhe’s **Elemental Burst** will continue to periodically deal **Cryo Damage** to enemies in this field, and enemies within this field will have their **Physical** and **Cryo Resistances** debuffed.&#x20;
+  * Shenhe’s **Elemental Burst** will continue to periodically deal **Cryo Damage** to enemies in this field, and enemies within this field will have their **Physical** and **Cryo Resistances** debuffed.
   * **A1** buffs the **Cryo Damage** of party members within this field.
 
 ## Additional Notes
@@ -24,18 +24,18 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
 * **Cryo** DPS in particular will benefit greatly from Shenhe's Icy Quill buffs.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Depending on the team composition, Bennett's ability to buff **ATK** synergizes well with Shenhe's Icy Quill**,** as it is based on **ATK**.&#x20;
+* Depending on the team composition, Bennett's ability to buff **ATK** synergizes well with Shenhe's Icy Quill**,** as it is based on **ATK**.
 * Note that Bennett should not be utilized in **Freeze** teams as his abilities may cause **Melt** reactions and interfere with keeping enemies **Frozen**.
 
-![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
 
-* Shenhe is incapable of providing any buffs to **Electro** or **Geo** characters. The buffs and debuffs she can provide to **Physical** team compositions are also not very strong.&#x20;
+* Shenhe is incapable of providing any buffs to **Electro** or **Geo** characters. The buffs and debuffs she can provide to **Physical** team compositions are also not very strong.
 * Most **Anemo**, **Pyro**, and **Hydro** characters do not directly synergize with Shenhe but instead provide their utility to the **Cryo** DPS in their respective teams.
 
 ## Teams
@@ -48,11 +48,11 @@ Click on the team names below for more details on how the team works and alterna
 In all of the teams below, Shenhe universally provides a buff to the **Cryo Damage** of all characters and acts as an Energy Battery for the **Cryo** Main DPS.
 {% endhint %}
 
-****[**Freeze**](../../teams/freeze.md)****
+[**Freeze**](../../teams/freeze.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-****[**Melt (Cryo)**](../../teams/reverse-melt.md)****
+[**Melt (Cryo)**](../../teams/reverse-melt.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 

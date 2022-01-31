@@ -23,29 +23,29 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/Element\_Geo.webp)
 
 * Traveler (**Geo**) is almost always paired with a 2nd **Geo** character to activate **Geo Resonance** to further increase the **Geo** Damage dealt to enemies.
 * Zhongli allows **Geo** constructs to resonate with the **Stone Stele** summoned by Zhongli’s **Elemental Skill** to additional damage. Traveler (**Geo**) also acts as an Energy Battery for Zhongli since they can consistently produce **Geo Energy Particles** with their **Elemental Skill**.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Bennett's **Elemental Burst** provides healing and a massive **Attack** buff, making him a recommended character in most teams.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
 * Characters with strong Off-Field damage can be easily utilized in **Geo**-focused teams, which Traveler (**Geo**) typically appear in.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/Element\_Cryo.webp)
+#### ![](../../.gitbook/assets/Element\_Cryo.webp)
 
 * **Geo** damage triggers the **Shatter** reaction stopping enemies from being **Frozen**, which results in disrupting **Freeze**-based teams.
 * Many **Cryo** characters would prefer to utilize the powerful reactions they have access to rather than the pure damage that many **Geo** teams tend to focus towards.
 
-![](../../.gitbook/assets/Element\_Anemo.webp)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)
 
-* **Geo** cannot take advantage of **Viridescent Venerer** 4-set effect. **Anemo** does not provide anything for Traveler (**Geo**) **** aside from Crowd Control.
+* **Geo** cannot take advantage of **Viridescent Venerer** 4-set effect. **Anemo** does not provide anything for Traveler (**Geo**) aside from Crowd Control.
 
 ## Teams
 
@@ -55,13 +55,13 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Geo**](../../teams/geo.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * A team that uses Ningguang as the Main DPS with Traveler (**Geo**) acting as another source of **Energy Particles** and activates **Geo Resonance**. Traveler (**Geo**) is used in quick windows, deploying their **Elemental Skill** for **Energy Particle** generation and their **Elemental Burst** to provide buffs to other party members.
 
-****[**Pure Pyro**](../../teams/pure-pyro.md)****
+[**Pure Pyro**](../../teams/pure-pyro.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Focuses on raw **Pyro** damage with Klee. Traveler (Geo) and Zhongli provide **Geo Resonance** along with Off-Field damage from Zhongli’s **Stone Seele** and its pulses with the **Geo** constructs the two characters create.
 * Bennett acts as a healer and buffer and activates **Pyro Resonance** with Klee for extra **Attack**.

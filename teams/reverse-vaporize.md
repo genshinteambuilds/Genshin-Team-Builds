@@ -67,19 +67,19 @@ This comp focuses on using the **Vaporize Elemental Reaction** with a **Main Pyr
 
 ## Sample Team Compositions
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * A reliable team set up that allows Hu Tao to consistently **Vaporize** her **Charged Attacks**.
 * Xingqui provides the Off-Field **Hydro** application for Hu Tao and also provides **Damage Reduction**.
-* Albedo provides Off-Field damage and, when combined with Zhongli's shield, provides **Geo Resonance** for Hu Tao while also safely allowing her to be below 50% HP.&#x20;
+* Albedo provides Off-Field damage and, when combined with Zhongli's shield, provides **Geo Resonance** for Hu Tao while also safely allowing her to be below 50% HP.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * A team composition that focuses on Diluc **Vaporizing** his **Normal Attacks** and **Elemental Skill** strikes.
 * Zhongli's shield helps mitigate damage as well as lower enemy resistances.
 * Bennett provides an **Attack** buff from his **Elemental Burst** to further increase Diluc's damage.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * A team composition that focuses on **Vaporizing** Yoimiya's **Normal Attacks**.
 * Sucrose is used to debuff **Elemental Resistance** through the **Viridescent Venerer** 4-set**.**

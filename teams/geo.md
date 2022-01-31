@@ -72,7 +72,7 @@ If you do not struggle with survivability with Shields from **Crystallization** 
 
 ## Sample Team Compositions
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Itto.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Gorou.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Albedo.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Itto.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Gorou.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Albedo.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * This mono **Geo** team composition synergizes greatly to provide Itto with offensive and defensive buffs and the ability to deal damage uninterrupted during his main mode of damage; his **Elemental Burst**.
 * Gorou is able to buff both Itto and Albedo damage due to buffing their Defense.
@@ -80,14 +80,14 @@ If you do not struggle with survivability with Shields from **Crystallization** 
 * Zhongli's strong shield provides survival and **Interruption Resistance**.
 * Lower **Energy Recharge** is required across the board due to the constant **Geo** **Energy Particle** generation from the entire team.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Zhongli's shield coupled with **Geo Resonance** reduces the **Geo** Resistance of Enemies by -40%.
 * Ningguang generates a substantial amount of energy particles allowing both her and Zhongli to cast their **Elemental Burs**t frequently.
 * When **Elemental Bursts** are not ready to be cast, Ningguang deals sustained damage with her **Normal** and **Charged Attacks**.
 * Xiangling deals off-field **AoE** damage and Bennett acts as Xiangling's Energy Battery and overall team buffer and healer.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Noelle.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Noelle.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 {% hint style="info" %}
 This team composition is not advisable to play before your Noelle is **Constellation 6**. Otherwise, the overall damage output of this team will be significantly lower as Noelle's **Elemental Burst** is the largest source of damage in this team.

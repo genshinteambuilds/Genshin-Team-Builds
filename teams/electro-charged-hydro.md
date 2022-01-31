@@ -66,20 +66,20 @@ This page contains **Electro-Charged** teams with a **Hydro** Main DPS character
 
 ## Sample Team Compositions
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Tartaglia is used to drive Beidou's **Elemental Burst** during his Melee Form and have continuous **Electro-Charged** reactions on any enemy hit.
 * Fischl serves as a Battery for Beidou as well as consistent Off-field damage.
 * Bennett provides healing and a large offensive buff that both Beidou and Fischl can snapshot while Childe is active on the field.
 * Fischl's Oz and Beidou's **Elemental Burst** are activated in Bennett's **Elemental Burst** before Childe enters his melee form to apply as much **Hydro** to as many enemies as possible.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
 * Kokomi is used to constantly apply **Hydro** to enemies with **Normal Attacks** while Beidou's **Elemental Burst** is active.
 * Raiden provides buff and charges the team's **Elemental Bursts**.
 * Kazuha provides his damage buff to the party and **Viridescent-Venerer's** debuff to enemies.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sara.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sara.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
 * Mona is used to constantly apply **Hydro** to enemies with **Normal Attacks** while Beidou's **Elemental Burst** is active.
 * Mona's **Elemental Burst** greatly amplifies the damage dealt by the rest of the team for its duration.

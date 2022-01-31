@@ -7,7 +7,7 @@
 
 ## **Character Breakdown:**
 
-* **Elemental Skill (Tap)** deals an instance of **Pyro** damage.&#x20;
+* **Elemental Skill (Tap)** deals an instance of **Pyro** damage.
 * **Elemental Skill (Hold)** charges this ability to deal additional instances of damage and effects based on the charged level.
   * At **Charge level 1**, Bennett strikes 2 times and launches small enemies.
   * At **Charge level 2**, Bennett strikes 3 times and triggers an explosion at the end that launches both himself and the enemy.
@@ -25,14 +25,14 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
 
 * Bennett’s utility allows him to be placed in almost every single team. However, there are a few exceptions.
   * E.g. Bennett is often not used with Hu Tao as this can complicate Hu Tao's **HP** management where maintaining her below 50% **HP** gives Hu Tao a buff.
 
 ## **Does Not Work Well With**
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
 * On **Freeze** teams, Bennett can **Melt Frozen** enemies, negating the **CRIT Rate** bonus provided by **Cryo Resonance** and the **Blizzard Strayer 4-Set**.
   * This is not the case for **Cryo** teams that specifically seek to utilize the **Melt** reaction instead.
@@ -51,36 +51,36 @@ Click on the team names below for more details on how the team works and alterna
 In the following teams, Bennett provides healing and buffing through his **Elemental Burst**.
 {% endhint %}
 
-****[**Electro-Charged (Electro)**](../../teams/electro-charged.md)
+[**Electro-Charged (Electro)**](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-****[**Geo**](../../teams/geo.md)****
+[**Geo**](../../teams/geo.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Bennett additionally provides **Pyro** **Resonance** alongside Xiangling here, and also acts as an Energy Battery for Xiangling to recharge her **Elemental Burst**.
 
 **​**[**National**](https://genshinteambuilds.gitbook.io/teams/teams/other)​
 
-​ ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Bennett additionally provides **Pyro** **Resonance** alongside Xiangling here, and also acts as an Energy Battery for Xiangling to recharge her **Elemental Burst**.
 
-****[**Oneshot**](../../teams/oneshot.md)****
+[**Oneshot**](../../teams/oneshot.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Bennett is almost always used in Oneshot teams due to providing one of the largest **Attack** buffs in the game.
 
-****[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
+[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Bennett provides **Pyro Resonance** when paired with the **Pyro** Main DPS character in [Vaporize (Pyro)](../../teams/reverse-vaporize.md) teams.
 
-****[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
+[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)****
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
 
 * Bennett can also be used as a Main DPS in this particular team as well as providing Healing at the same time.

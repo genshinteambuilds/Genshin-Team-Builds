@@ -30,31 +30,31 @@
 
 ## **Works Well With**
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
 * Xingqiu provides strong **Hydro** application enabling Hu Tao to **Vaporize** her attacks for 1.5x more damage. Check the [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md) team page for team compositions and notes.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
 
 * Can be used in [**Oneshot**](../../teams/oneshot.md) Melt team compositions to quickly dispatch an enemy although this is fairly niche.
 
 ## **Does Not Work Well With**
 
-****![](../../.gitbook/assets/Element\_Cryo.webp)****
+#### ![](../../.gitbook/assets/Element\_Cryo.webp)
 
 * **Melt** team compositions using Hu Tao typically do not work well due to the inability to apply **Cryo** Aura fast enough that Hu Tao will sometimes enable the **Cryo** characters instead.
   * It is possible to combine Xingqiu with **Cryo** characters to avoid this problem. See [Character Specific Teams](hu-tao.md#character-specific-teams).
   * Ayaka is an exception when used in [Oneshot](../../teams/oneshot.md) teams.
 
-![](../../.gitbook/assets/Element\_Electro.webp)
+#### ![](../../.gitbook/assets/Element\_Electro.webp)
 
 * **Electro** supports generally do not work well with Hu Tao as the **Overload** reaction causes enemies to be knocked back out of Hu Tao's melee range. This can be mitigated through Crowd Control abilities such as Kazuha's **Elemental Skill** but is generally not worth building.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
 * Interferes with Hu Tao's **Vaporize** reactions which will results in a Damage loss.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Although Bennett provides an **ATK** buff and **Pyro** **Resonance**. Bennett can heal Hu Tao over 50% **HP** which is detrimental to Hu Tao in most cases.
 * It is still technically possible to manage this but is generally avoided.
@@ -65,26 +65,26 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-****[**Oneshot**](../../teams/oneshot.md)****
+[**Oneshot**](../../teams/oneshot.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* A team where Hu Tao and Mona typically cast their **Elemental Bursts** and the fight ends before any actual use of **Normal Attacks** or **Charged Attacks** needs to take place.&#x20;
+* A team where Hu Tao and Mona typically cast their **Elemental Bursts** and the fight ends before any actual use of **Normal Attacks** or **Charged Attacks** needs to take place.
 
-****[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)****
+[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Hu Tao can **Vaporize** her attacks using the **Hydro** applied to the enemy by Xingqiu's **Elemental Burst**.
 * Zhongli provides an **Elemental Resistance** Debuff with his shield while also protecting from all sources of damage.
-* Albedo provides off-field damage and **Elemental Mastery** buff when using his **Elemental Burst**. &#x20;
+* Albedo provides off-field damage and **Elemental Mastery** buff when using his **Elemental Burst**.
 * Using both Albedo and Zhongli gives the team **Geo Resonance**.
 
 ### Character Specific Teams
 
 **Vaporize (Optimized)**
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
 
 * This is theoretically Hu Tao's highest damage team although does not have a dedicated healer and is therefore not recommended for newer players.
 * Amber can apply **Pyro** with her **Elemental Burst** which can then be swirled by an **Anemo** character. Amber also provides **Pyro Resonance**.
@@ -92,7 +92,7 @@ Click on the team names below for more details on how the team works and alterna
 
 **Vaporize (+Melt)**
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * A **Cryo** Off-Field DPS character coupled with Diona can allow Hu Tao to occasionally **Melt** attacks alongside the normal **Vaporizes** from Xingqiu.
 * Diona is particularly useful since she also provides shielding and reduces stamina consumption allowing Hu Tao to execute more **Charged Attacks**.

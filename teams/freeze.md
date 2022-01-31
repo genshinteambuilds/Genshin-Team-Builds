@@ -74,21 +74,21 @@ Because **Freeze** teams have high **Crowd Control**, it is possible to play it 
 
 ## Sample Team Compositions
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * Also called Morgana, this is the classic **Freeze** team focused around utilizing Ganyu, Mona, and Venti's **Elemental Bursts.**
 * Mona's **Omen** causes enemies to take more damage.
 * Venti's **Elemental Burst**, when infused with **Cryo**, guarantees that Mona's **Illusiory Bubble** is frozen, extending its duration.
 * Against enemies that can be lifted, Venti's **Elemental Burst** gathers enemies, allowing Ganyu's **Elemental Burst's** Ice Shards to deal significant damage.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * Ayaka **Freezes** enemies with her **Elemental Burst, Normal** and **Charged Attacks** until Xingqiu's **Elemental Burst** expires; at which case, the supports are rotated through.
-* Diona for **Cryo Resonance** and to act as an Energy Battery for Ayaka.&#x20;
-* Xingqiu applies **Hydro** when Ayaka performs a **Normal Attack**.&#x20;
+* Diona for **Cryo Resonance** and to act as an Energy Battery for Ayaka.
+* Xingqiu applies **Hydro** when Ayaka performs a **Normal Attack**.
 * Kazuha for **Viridescent Venerer**'s debuff and Kazuha's **Elemental Damage** buff.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)
 
 * Ayaka **Freezes** enemies with her **Elemental Burst, Normal** and **Charged Attacks,** utilizing the **Hydro** application from Kokomi's **Elemental Skill**.
 * Kokomi both applies **Hydro** and acts as a **Healer** in this composition, freeing up a slot for another Support.

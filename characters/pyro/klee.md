@@ -19,14 +19,14 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
 
 * In the main DPS role, Klee’s rapid **Pyro** application allows her to be used in **Pure** **Pyro**, **Melt (Cryo)** or **Vaporize** teams.
 * In Klee’s **Vaporize** teams, her **Elemental Burst** can apply **Pyro** too fast and causes **Vaporize** reactions to be inconsistent.
 
 ## Doesn’t Work Well With
 
-![](../../.gitbook/assets/Element\_Electro.webp)
+#### ![](../../.gitbook/assets/Element\_Electro.webp)
 
 * **Overload** is generally not advised with Klee as overload may push smaller enemies out of Klee’s reach.
 
@@ -40,17 +40,17 @@ Click on the team names below for more details on how the team works and alterna
 In all teams below, Bennett acts as the team's healer while providing an **Attack** buff from his **Elemental Burst** and **Pyro Resonance**
 {% endhint %}
 
-****[**Pure Pyro**](../../teams/pure-pyro.md)****
+[**Pure Pyro**](../../teams/pure-pyro.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Klee's goal is to deal as much **Pyro** damage as possible through her **Charged Attack**, **Elemental Skill** during her **Elemental Burst**.&#x20;
+* Klee's goal is to deal as much **Pyro** damage as possible through her **Charged Attack**, **Elemental Skill** during her **Elemental Burst**.
 * Xiangling and Bennett provide off-field **Pyro** application and team buffing respectively.
 * Kazuha provides **Pyro Resistance** Debuff through **Viridescent Venerer** 4-set and buffs **Pyro** damage with his **A4**.
 
-[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)****
+[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Klee triggers **Vaporize** reactions with her **Charged Attack**, **Elemental Skill** and **Elemental Burst**.
 * Xingqiu applies **Hydro** on enemies with his **Elemental Burst** and provides resistance to interruption.
@@ -60,6 +60,6 @@ In all teams below, Bennett acts as the team's healer while providing an **Attac
 
 **Melt (w/ Rosaria)**
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Klee applies consistent **Pyro** on enemies, which allows Rosaria creates **Melt** reactions with her **Elemental Burst**.

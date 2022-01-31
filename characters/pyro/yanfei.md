@@ -27,29 +27,29 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Bennett's **Elemental Burst** provides healing and a massive **ATK** buff, making him a recommended character in most teams. He can also activate **Pyro Resonance** which also buffs **ATK**.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
-* Yanfei is almost always paired with Xingqiu in order to allow her to **Vaporize** her attacks for 1.5x more damage. Check [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md) **** for more details.
+* Yanfei is almost always paired with Xingqiu in order to allow her to **Vaporize** her attacks for 1.5x more damage. Check [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md) for more details.
 
-![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * As with all **Elemental Damage** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
 * Beidou and Fischl are used with Yanfei to create multiple **Elemental Reactions** (**Electro-Charged**, **Vaporize** and **Overload**). Even if **Overload** knocks back enemies, with Yanfei's long attack range, it's not an inconvenience. Both Fischl and Beidou provide Off-field **Electro** damage and **Electro Resonance** which creates additional **Energy Particles** from **Elemental Reactions**.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/Element\_Electro.webp)
+#### ![](../../.gitbook/assets/Element\_Electro.webp)
 
 * While Beidou and Fischl can work with Yanfei, **Overload** is still an Elemental Reaction to be avoided as it makes **Vaporize** reactions less consistent.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)
 
 * Yanfei is better to be used as the only **Pyro** Main DPS in the team as they can steal **Elemental Reactions** from her.
 
@@ -59,9 +59,9 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)****
+[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * This team allows Yanfei to **Vaporize** her **Charged Attacks** using the **Hydro** applied to the enemy by Xingqiu's **Elemental Burst**.
 
@@ -69,6 +69,6 @@ Click on the team names below for more details on how the team works and alterna
 
 **Melt (w/ Rosaria)**
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Yanfei applies consistent **Pyro** on enemies, which allows Rosaria creates **Melt** reactions with her **Elemental Burst**.

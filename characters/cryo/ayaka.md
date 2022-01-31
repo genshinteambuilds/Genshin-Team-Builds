@@ -48,7 +48,7 @@
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)
 
 * These characters can be paired with Ayaka in a [Oneshot ](ayaka.md#oneshot)**Melt** team composition where Ayaka is used as Burst DPS and very short duration Off-Field DPS during her **Elemental Burst**.
-* **Melt** teams using Ayaka are almost always [Oneshot ](../../teams/oneshot.md)team setups since Ayaka's **Elemental Burst** lasts only 5 seconds and can only be reasonably applied to large enemies in this composition.&#x20;
+* **Melt** teams using Ayaka are almost always [Oneshot ](../../teams/oneshot.md)team setups since Ayaka's **Elemental Burst** lasts only 5 seconds and can only be reasonably applied to large enemies in this composition.
 * **Melt** teams using Ayaka can struggle at putting out sustained DPS after Ayaka's **Elemental Burst** is entirely finished and on cooldown.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
@@ -64,7 +64,7 @@
 
 #### ![](../../.gitbook/assets/Element\_Geo.webp)
 
-* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in **Freeze** teams.&#x20;
+* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in **Freeze** teams.
 * **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.
 
 ## Teams

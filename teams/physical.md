@@ -68,13 +68,13 @@ If you add an extra **Electro** Unit into your Party you will gain **Electro Res
 
 ## Sample Team Compositions
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Razor.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Razor.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * Razor synergizes well with Xingqiu's **Elemental** **Burst** as his main source of damage is his **Normal Attacks**. This triggers frequent **Electro-Charged** reactions.
 * Fischl serves as an energy battery for Razor and provides consistent Off-Field damage.
 * Diona is used to trigger **Superconduct** as well as provide both healing and shielding for Razor.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Keqing.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Keqing.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 {% hint style="info" %}
 Triggering the Keqing's second cast of her **Elemental Skill** infuses her weapon with **Electro**, rendering her unable to deal **Physical Damage**. Do not trigger.

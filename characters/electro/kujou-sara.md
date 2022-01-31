@@ -7,7 +7,7 @@
 
 ## **Character Breakdown**
 
-* **Elemental Skill** causes Kujou Sara to dash backward and gain a buff to her next **** Aimed Shot.&#x20;
+* **Elemental Skill** causes Kujou Sara to dash backward and gain a buff to her next Aimed Shot.
   * This Aimed shot will leave a Crowfeather on the floor for a brief period before detonating, dealing **Electro** **Damage** in an area and triggering Tengu Juurai, buffing the **ATK** of any active party member within the explosion based on Kujou Sara’s own Base **ATK**.
 * **Elemental Burst** will summon a lightning strike to deal a massive amount of initial **Electro** **Damage** before spreading out into smaller lightning strikes for additional **Electro Damage**.
   * The lightning strikes can also trigger **Tengu Juurai** and provide the **ATK** boost from Kujou Sara’s **Elemental Skill** for active party members.
@@ -18,43 +18,43 @@
 
 * Kujou Sara focuses on buffing the **ATK** of other characters but is also capable of dealing a large amount of **Elemental Burst** damage herself.
 * Kujou Sara’s **ATK** Buff will only benefit the active character and has a very short duration of 6 seconds
-* **Energy** will only be generated from the explosion after an **** Aimed Shot from Kujou Sara’s **Elemental Skill**. The activation itself will not generate particles.
+* **Energy** will only be generated from the explosion after an Aimed Shot from Kujou Sara’s **Elemental Skill**. The activation itself will not generate particles.
 * **C2** creates a Crowfeather upon activation, greatly increasing the speed and ease at which she can provide her **ATK** buff.
-  * This Crowfeather however will not generate **Energy Particles**, and will still require Kujou Sara to perform an Aimed Shot **** to summon the 2nd Crowfeather **** in order to generate them.
+  * This Crowfeather however will not generate **Energy Particles**, and will still require Kujou Sara to perform an Aimed Shot to summon the 2nd Crowfeather in order to generate them.
 * **C6** provides a 60% **CRIT DMG** Buff on any **Electro Damage** dealt by characters that have their **ATK** buffed by Tengu Juurai.
 
 ## **Works Well With**
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)****
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
 
-* Raiden Shogun is great when paired with Kujou Sara, they can feed each other high amounts of Energy **** to help offset their high **Elemental Burst** costs while Sara functions as a powerful damage buffer for the Raiden Shogun.
+* Raiden Shogun is great when paired with Kujou Sara, they can feed each other high amounts of Energy to help offset their high **Elemental Burst** costs while Sara functions as a powerful damage buffer for the Raiden Shogun.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
 * Beidou can benefit from Kujou Sara’s utility and buffs in the same way the Raiden Shogun can. She both helps Beidou recharge her **Elemental Burst** and increases Beidou’s **Elemental Burst** damage, as Beidou can snapshot Kujou Sara’s **ATK** buff.
   * **C6** Kujou Sara's **CRIT DMG** Buff cannot be snapshot and will not benefit Beidou’s **Elemental Burst** throughout its entire duration.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
 * Kujou Sara can provide **Superconduct** and **ATK** Buff to a **Physical** Main DPS that is **Cryo**, though there are often better alternatives for this role.
 
 ## **Does Not Work Well With**
 
-* Kujou Sara is relatively straightforward and her abilities do not have lengthy lingering effects that could cause her to mess up other **Elemental Reactions**. She is a solid option as an offensive Support for most teams. &#x20;
+* Kujou Sara is relatively straightforward and her abilities do not have lengthy lingering effects that could cause her to mess up other **Elemental Reactions**. She is a solid option as an offensive Support for most teams.
 
 ## **Teams**
 
-****[**Electro-Charged (Electro)**](../../teams/electro-charged.md)****
+[**Electro-Charged (Electro)**](../../teams/electro-charged.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * This team has a strong Energy economy and mainly focuses on increasing Beidou's **Elemental Burst** damage with powerful **ATK** Buffs provided by Bennett and Kujou Sara along with consistent **Electro-Charged** reactions for strong sustained DPS.
 
-****[**Oneshot**](../../teams/oneshot.md)****
+[**Oneshot**](../../teams/oneshot.md)
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Sara provides an **ATK** buff, as well as **Electro Particle** generation for Raiden Shogun. She can also provide an **Electro** **CRIT DMG** Buff with **C6**
-* Kazuha buffs this **Elemental Burst** even further with **Viridescent Venerer** and his built-in **Elemental Damage** Buff.&#x20;
+* Kazuha buffs this **Elemental Burst** even further with **Viridescent Venerer** and his built-in **Elemental Damage** Buff.
 * Bennett acts as the team's healer while providing additional **ATK** from his **Elemental Burst**.
 * This team is much more effective with Raiden Shogun's **C2.**

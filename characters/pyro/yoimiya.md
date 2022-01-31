@@ -24,51 +24,51 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)
 
 * Ganyu’s **Elemental Burst** can trigger **Melt** reactions with Yoimiya’s **Elemental Skill** and **Burst**.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
 * Xingqiu’s **Elemental Skill** and **Burst** help to protect Yoimiya with damage reduction and resistance to interruption, as well enable **Vaporize** reactions with his **Elemental Burst**. It also triggers her **Elemental Burst** damage on enemies marked with **Aurous Blaze** while being off-field.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
 * Beidou’s **Elemental Burst** synergizes well with Yoimiya's **Normal Attacks**, causing **Overload** that helps Yoimiya with **AoE** damage as her kit is mainly single target focused.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Bennett's **Elemental Burst** provides healing and a massive **ATK** buff, making him a recommended character in most teams. He can also provide **Pyro Resonance** which buffs ATK.
 * He can act as an **Energy Battery** for Yoimiya, recharging her **Elemental Burst** faster.
 
-![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
 
 * As with all **Elemental Damage** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 * Albedo provides **Elemental Mastery** buff when using his **Elemental Burst** and further enhances Yoimiya's **Elemental Reaction** damage.
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
 * Mona’s **Omen** debuff from her Elemental lasts for only a few seconds, as her bubble pops immediately upon taking damage.
 * Mona cannot apply **Hydro** as often as Xingqiu which will result in Yoimiya to trigger **Vaporize** less consistently.
 
-![](../../.gitbook/assets/Element\_Cryo.webp)
+#### ![](../../.gitbook/assets/Element\_Cryo.webp)
 
 * Other **Cryo** characters cannot apply off-field **Cryo** as often as Ganyu which will result in Yoimiya being unable to **Melt** as consistently.
 * Diona and Rosaria could work, but should only be used if Ganyu isn't available.
 
 ## Teams
 
-****[**Overload (Pyro)**](../../teams/overload.md)****
+[**Overload (Pyro)**](../../teams/overload.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* With other **Electro** characters applying **Electro** to enemies, Yoimiya can use her **Elemental Skill** and then her **Normal Attacks** to create **Overload** reactions.&#x20;
+* With other **Electro** characters applying **Electro** to enemies, Yoimiya can use her **Elemental Skill** and then her **Normal Attacks** to create **Overload** reactions.
 * Beidou's **Elemental Burst** in particular helps with dealing **AoE** damage to enemies which makes up for Yoimiya's damage primarily being single target. A second **Electro** character like Fischl is often also used to provide **Electro Resonance** and recharge Beidou's **Elemental Burst** faster.
 
-[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)****
+[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Xingqiu’s **Elemental Burst** applies **Hydro** on enemies whenever Yoimiya performs a **Normal Attack**, which allows for **Vaporize** reactions if Yoimiya's **Elemental Skill** is active. It additionally triggers Yoimiya's **Aurous Blaze** on marked enemies.
