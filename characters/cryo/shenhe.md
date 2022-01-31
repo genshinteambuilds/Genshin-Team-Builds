@@ -12,8 +12,8 @@
   * Icy Quill increases **Cryo Damage** dealt by other party members by a percentage of Shenhe's **ATK**. This buff lasts either until the duration expires or it is triggered a certain amount of times. Each party member has their own set of stacks.
   * **A4** provides an additional damage bonus to either **Elemental Skill** and **Elemental Burst** damage with **Elemental Skill (Tap)** or **Normal, Charged,** and **Plunging Attack** damage with **Elemental Skill (Hold)**.
 * **Elemental Burst** deals AoE **Cryo Damage** and creates a field.
-  * Shenhe’s **Elemental Burst** will continue to periodically deal **Cryo Damage** to enemies in this field, and enemies within this field will have their **Physical** and **Cryo Resistances** debuffed.
-  * **A1** buffs the **Cryo Damage** of party members within this field.
+  * Shenhe’s **Elemental Burst** will continue to periodically deal **Cryo Damage** to enemies in this field, and enemies within this field will have their **Physical** and **Cryo RES** debuffed.
+  * **A1** buffs the **Cryo DMG** of party members within this field.
 
 ## Additional Notes
 
@@ -26,17 +26,19 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
-* **Cryo** DPS in particular will benefit greatly from Shenhe's Icy Quill buffs.
+* **Cryo** DPS can use Shenhe's Icy Quill buff to increase their **Cryo Damage**.&#x20;
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Depending on the team composition, Bennett's ability to buff **ATK** synergizes well with Shenhe's Icy Quill**,** as it is based on **ATK**.
+* Depending on the team composition, Bennett's ability to buff **ATK** synergizes well with Shenhe's Icy Quill, as it is based on Shenhe's **ATK**.
 * Note that Bennett should not be utilized in **Freeze** teams as his abilities may cause **Melt** reactions and interfere with keeping enemies **Frozen**.
+
+## Does Not Work Well With
 
 #### ![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
 
-* Shenhe is incapable of providing any buffs to **Electro** or **Geo** characters. The buffs and debuffs she can provide to **Physical** team compositions are also not very strong.
-* Most **Anemo**, **Pyro**, and **Hydro** characters do not directly synergize with Shenhe but instead provide their utility to the **Cryo** DPS in their respective teams.
+* Shenhe is incapable of providing any buffs to **Electro** or **Geo** characters. The debuff she can provide to **Physical** team compositions is also not very strong.
+* Most **Anemo**, **Pyro**, and **Hydro** characters do not directly synergize with Shenhe but instead provide utility to the On-Field DPS in many teams Shenhe is in.
 
 ## Teams
 
@@ -52,7 +54,12 @@ In all of the teams below, Shenhe universally provides a buff to the **Cryo Dama
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
+* Shenhe provides buffing with her **Elemental Skill** and buffing and debuffing with her **Elemental Burst** for a **Cryo** On-Field DPS.
+* Shenhe should use her **Elemental Skill (Tap)** in this team to provide an **Elemental Burst** damage increase for Ayaka.&#x20;
+
 [**Melt (Cryo)**](../../teams/reverse-melt.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
+* Shenhe provides buffing for Rosaria with her **Elemental Skill** and buffing and debuffing with her **Elemental Burst.**
+* Shenhe also functions as an Off-Field DPS in this team, using her **Elemental Burst** to apply **Cryo** and frequently trigger **Melt** reactions.
