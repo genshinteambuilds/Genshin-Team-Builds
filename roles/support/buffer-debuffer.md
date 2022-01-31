@@ -32,7 +32,7 @@ Some weapons have the ability to buff the team. For example, **Freedom-Sworn** c
 {% endhint %}
 
 {% hint style="info" %}
-The **Superconduct** **Elemental Reaction** (**Cryo** + **Electro**) is the only reaction that innately debuffs enemies. **Superconduct** reduces an enemy's **Physical Resistance** by 40% for 12 seconds, making it a necessity for any team using a **Physical** Main DPS**.**
+The **Superconduct** **Elemental Reaction** (**Cryo** + **Electro**) is the only reaction that innately debuffs enemies. **Superconduct** reduces an enemy's **Physical Resistance** by 40% for 12 seconds, making it a necessity for any team using a **Physical** Main DPS.
 {% endhint %}
 
 ## Characters that can Buff / Debuff <a href="#list-of-burst-sub-dps-characters" id="list-of-burst-sub-dps-characters"></a>

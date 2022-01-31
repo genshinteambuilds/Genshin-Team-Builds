@@ -82,5 +82,5 @@ This comp focuses on using the **Vaporize Elemental Reaction** with a **Main Pyr
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * A team composition that focuses on **Vaporizing** Yoimiya's **Normal Attacks**.
-* Sucrose is used to debuff **Elemental Resistance** through the **Viridescent Venerer** 4-set**.**
+* Sucrose is used to debuff **Elemental Resistance** through the **Viridescent Venerer** 4-set.
 

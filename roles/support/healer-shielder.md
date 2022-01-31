@@ -2,7 +2,7 @@
 
 In general, all teams will usually require either one of these. These supports focus on keeping your entire team alive by providing healing or by preventing damage with their shields.
 
-Healing characters are self-explanatory. These characters have the ability to regenerate the health of other characters in the party. **Sustained Healing** refers to healing your characters over a period of time **** while **Burst Healing** heals a large amount of health in a single instance. Some healing abilities only heal the active character that is on the field while others can heal the entire party.
+Healing characters are self-explanatory. These characters have the ability to regenerate the health of other characters in the party. **Sustained Healing** refers to healing your characters over a period of time while **Burst Healing** heals a large amount of health in a single instance. Some healing abilities only heal the active character that is on the field while others can heal the entire party.
 
 Shielding characters are those that have the ability to create a shield to absorb damage from enemy attacks. Shields can be created from **Elemental Skills** or **Elemental Bursts** as well as **Crystallize Elemental Reactions**. The amount of damage a shield can prevent is dependent on the stats and talent level of the skill that creates it. Some of the shields that are created by certain characters can have other effects such as Debuffing or Dealing Damage when close to enemies. Characters protected by shields also cannot be staggered or knocked back from enemy attacks.
 

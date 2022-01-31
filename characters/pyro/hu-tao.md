@@ -8,7 +8,7 @@
 ## **Character Breakdown**
 
 * **Elemental Skill** infuses Hu Tao’s **Normal Attack** and **Charged Attacks** with **Pyro** and increases Hu Tao’s **ATK** based on her **Max HP.**
-  * **Elemental Skill** consumes 30% of Hu Tao's current **HP** when cast**.**
+  * **Elemental Skill** consumes 30% of Hu Tao's current **HP** when cast.
   * **Elemental Skill** knocks back enemies near Hu Tao on activation and increases her resistance to interruption.
   * Using **Charged Attacks** while the **Elemental Skill** is active applies Blood Blossom to the enemies hit. Enemies affected by Blood Blossom will take **Pyro** **Damage** periodically.
 * **Elemental Burst** deals a large amount of **AoE Pyro** damage and heals Hu Tao based on the number of enemies hit.

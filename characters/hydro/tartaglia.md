@@ -42,7 +42,7 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
-* Both Beidou and Fischl are often used with Tartaglia in [**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md) teams**.**
+* Both Beidou and Fischl are often used with Tartaglia in [**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md) teams.
 * Beidou’s **Elemental Burst** can deal large amounts of **Electro** **Damage** while Beidou is Off-Field. Tartaglia’s fast attacks during his melee stance can also cause Beidou's **Elemental Burst** to trigger more often.
 * Fischl is often paired with Beidou due to Beidou's **Elemental Burst** high energy cost. Fischl generates **Energy Particles** for Beidou, provides more Off-Field damage and also activates **Electro Resonance**. It is also possible to use Fischl by herself for **Electro-Charged** reactions if you do not have Beidou.
 

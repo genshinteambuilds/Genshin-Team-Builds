@@ -41,7 +41,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)
 
-* Traveler (Geo) provides **Geo Energy Particles,** **Geo Resonance**, and a **CRIT Rate** buff**.** He also has cooldowns that line up with Ningguang's. However, he lacks Off-Field damage, forcing frequent character swaps.
+* Traveler (Geo) provides **Geo Energy Particles,** **Geo Resonance**, and a **CRIT Rate** buff. He also has cooldowns that line up with Ningguang's. However, he lacks Off-Field damage, forcing frequent character swaps.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 

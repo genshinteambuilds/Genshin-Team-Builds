@@ -44,7 +44,7 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-In all of the teams below, Zhongli universally provides shielding, a **Universal** **Resistance** debuff on his **Jade Shield,** and Crowd Control via his **Elemental Burst**.
+In all of the teams below, Zhongli universally provides shielding, a **Universal** **Resistance** debuff on his **Jade Shield**, and Crowd Control via his **Elemental Burst**.
 {% endhint %}
 
 [**Anemo**](../anemo/)
@@ -69,7 +69,7 @@ In all of the teams below, Zhongli universally provides shielding, a **Universal
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's **Jade Shield** allows Eula to **Normal Attack** as much as possible and Debuff **Physical Resistance** to fully enhance her **Elemental Burst's** damage**.**
+* Zhongli's **Jade Shield** allows Eula to **Normal Attack** as much as possible and Debuff **Physical Resistance** to fully enhance her **Elemental Burst's** damage.
 
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 

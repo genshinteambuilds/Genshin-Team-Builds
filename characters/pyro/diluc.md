@@ -19,7 +19,7 @@
     * where: `NA` = **Normal Attack** and `E` = **Elemental Skill**
 * Diluc can be paired with Chongyun early in the game to create a **Melt** team with Diluc using 2 **Normal Attacks** per **Elemental Skill** usage while standing within Chongyun's Cryo field.
   * This does not work correctly once Diluc's **Normal Attacks** are infused with **Pyro** from his **Elemental Burst**. This team composition is typically abandoned once you reach a later stage in the game for this reason.
-* Diluc cannot **Melt** enemies that are **Frozen** as his **Claymore** weapon type causes **Shatter** instead**.**
+* Diluc cannot **Melt** enemies that are **Frozen** as his **Claymore** weapon type causes **Shatter** instead.
 
 ## Works Well With
 
