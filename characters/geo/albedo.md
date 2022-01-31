@@ -19,7 +19,6 @@
 
 ## **Additional Notes**
 
-* His Passive Talent has a 10% chance to double the product when Albedo crafts Weapon Ascension Materials.
 * **C4** buffs **Plunging Attack** damage when the active character is standing within the field created by Albedo's **Elemental Skill**.
 * **C6** buffs the damage of the active character by 17% when protected by a shield created by the **Crystallize** reaction and is inside of the field created by his **Elemental Skill**.
 
@@ -51,7 +50,7 @@ In all the teams listed below, Albedo universally provides additional Off-Field 
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)​​
 
-* Xiao’s **Plunge Attack** damage is increased by Albedo’s **C4**.
+* Xiao’s **Plunging Attack** damage is increased by Albedo’s **C4**.
 
 [**Electro-Charged (Electro)**](../../teams/electro-charged.md)
 

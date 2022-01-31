@@ -43,7 +43,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)
 
-* Characters that are focused on **Charge Attacks** are generally ineffective with Yunjin as she only buffs **Normal Attack** damage.
+* Characters that are focused on **Charged Attacks** are generally ineffective with Yunjin as she only buffs **Normal Attack** damage.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
 

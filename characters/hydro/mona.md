@@ -38,7 +38,7 @@
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)
 
 * Hu Tao provides an **Elemental Burst** with that deals a high amount of **Pyro** **Damage**, which can be greatly amplified by Mona's **Elemental Burst**.
-* Mona’s **Elemental Skill** can also serve as a decent **Hydro** applier for Hu Tao’s **Charge Attacks** albeit with a short duration.
+* Mona’s **Elemental Skill** can also serve as a decent **Hydro** applier for Hu Tao’s **Charged Attacks** albeit with a short duration.
 
 ## **Does Not Work Well With**
 

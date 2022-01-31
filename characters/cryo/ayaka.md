@@ -20,7 +20,7 @@
 
 * **Charged Attack** has an increased range over Ayaka's **Normal Attacks**.
 * **C2** summons 2 additional smaller snowstorms that deal 20% of the original snowstorm's damage.
-* **C4** reduces the **Defense** of enemies hit by her **Elemental Burst** by 30% for 6s.
+* **C4** reduces the **DEF** of enemies hit by her **Elemental Burst** by 30% for 6s.
 * Ayaka can technically be used in **Melt** teams as both a Burst DPS role whilst providing Off-Field **Cryo** application to the enemy for 5 seconds with her **Elemental Burst**.
   * This is typically only done with very powerful teams and [Oneshot ](../../teams/oneshot.md)setups since her Off-Field capabilities outside of those 5 seconds is nonexistent.
 

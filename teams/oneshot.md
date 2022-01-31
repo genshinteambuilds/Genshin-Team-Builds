@@ -34,11 +34,11 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
 
-* Generally the best choice at **Constellation 4**+. The **DEF Shred** (**Constellation 4**+) along with possible use of **Freedom-Sworn** make her the best choice at ultra high investment levels.
+* Generally the best choice at **C4**+. The **DEF Shred** (**C4**+) along with possible use of **Freedom-Sworn** make her the best choice at ultra high investment levels.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)
 
-* Able to buff damage on enemies inside her **Elemental Burst** at **Constellation 4**.
+* Able to buff damage on enemies inside her **Elemental Burst** at **C4**.
 * Able to carry **Elegy for the End** and provide more **ATK** and **Elemental Mastery**.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
@@ -60,7 +60,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
 * Can be run as a 4 set **Viridescent Venerer** carrier and provides a large damage boost to your team based on his own **Elemental Mastery** and the Element that he **Swirls**.
-* **Constellation 2** grants 200 **Elemental Mastery** to everyone on the team.
+* **C2** grants 200 **Elemental Mastery** to everyone on the team.
 * Can carry **Freedom-Sworn**.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
@@ -77,7 +77,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
 
 * Able to carry **Elegy for the End** and easily activate the passive through her **Elemental Burst**.
-* At **Constellation 6**, using her **Elemental Burst** gives her team a small **ATK**% Buff.
+* At **C6**, using her **Elemental Burst** gives her team a small **ATK**% Buff.
 * Used for **Swirling Pyro** for **Viridescent Venerer**'s Debuff with an **Anemo** character.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
@@ -130,7 +130,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
 * Can be run as a 4 set **Viridescent Venerer** carrier and provides a large damage boost to your team based on his own **Elemental Mastery** and the **Element** that he Swirls.
-* **Constellation 2** g**r**ants 200 **Elemental Mastery** to everyone on the team.
+* **C2** grants 200 **Elemental Mastery** to everyone on the team.
 * Can carry **Freedom-Sworn**.
 
 ### Mona Vaporize Setup
@@ -181,7 +181,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
 
 * Amber provides very quick **Pyro** application at a range.
-* Can activate **Elegy for the End** and further buff with **Constellation 6**.
+* Can activate **Elegy for the End** and further buff with **C6**.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
@@ -192,7 +192,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
 * Provides large buffs through her **Elemental Burst** and ability to carry **Thrilling Tales of Dragon Slayer**.
-* **Constellation** **1** and **Constellation 4** improve the party's **Vaporize** damage and **CRIT RATE** during the rotation.
+* **C1** and **C4** improve the party's **Vaporize** damage and **CRIT RATE** during the rotation.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
@@ -203,7 +203,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
 * Can be run as a 4 set **Viridescent Venerer** carrier and provides a large damage boost to your team based on his own Elemental Mastery and the Element that he Swirls.
-* **Constellation 2** grants 200 **Elemental Mastery** to everyone on the team.
+* **C2** grants 200 **Elemental Mastery** to everyone on the team.
 * Can carry **Freedom-Sworn**.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
@@ -263,7 +263,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* Provides **Physical Damage** buffs/debuffs through Ascension 4 and Constellation 4.
+* Provides **Physical Damage** buffs/debuffs through **A4** and **C4**.
 * Can carry **Wolf's Gravestone**.
 
 ### Sample Eula Teams

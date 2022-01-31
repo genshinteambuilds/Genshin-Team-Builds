@@ -10,7 +10,7 @@
 * Eula relies on her **Elemental Burst, Skill** and **Normal Attacks** to deal **Physical** damage.
 * **Elemental Skill** changes based on whether it is tapped or held.
   * **Elemental Skill (Tap)** deals **Cryo** damage and gains Eula a stack of Grimheart.
-    * Grimheart increases Eula's **Defense** and Resistance to interruption. A maximum of two stacks can be held.
+    * Grimheart increases Eula's **DEF** and Resistance to interruption. A maximum of two stacks can be held.
   * **Elemental Skill (Hold)** consumes all Grimheart stacks, deals **Cryo** damage, and activates the following effects:
     * Each stack of Grimheart consumed creates an instance of **AoE** **Cryo** damage.
     * If any Grimheart stacks are consumed, surrounding enemies will have their **Physical** and **Cryo Resistance** debuffed.
@@ -57,7 +57,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)
 
-* Lisa works well to support a Eula focused on her **Elemental Burst** damage. She can apply **Superconduct**, debuff **Defense**, hold the **Thrilling Tales of Dragonslayer’s Catalyst**, and use the **Noblesse Oblige** set.
+* Lisa works well to support a Eula focused on her **Elemental Burst** damage. She can apply **Superconduct**, debuff **DEF**, hold the **Thrilling Tales of Dragonslayer’s Catalyst**, and use the **Noblesse Oblige** set.
 * Her high energy cost **Elemental Burst** and high **Energy Recharge** requirements make her more suitable for one rotation team compositions rather than consistent continuous rotation team compositions unless also paired with Raiden.
 
 ## **Does Not Work Well With**

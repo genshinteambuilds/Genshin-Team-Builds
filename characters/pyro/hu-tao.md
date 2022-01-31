@@ -23,7 +23,7 @@
   * `NA → CA → DC → NA → CA → DC` at **C1**
     * `NA` = **Normal Attack** `CA` = **Charged Attack** `JC` = **Jump Cancel** `DC` = **Dash Cancel**
     * Note: `NA → CA` is the result of using a **Charged Attack**. Hu Tao will always start her **Charged Attack** with an initial **Normal Attack**.
-    * Animation cancelling the end of the **Charge Attack** is necessary for optimal damage if using `NA → CA`. Can be done with **Dash** or **Jump**.
+    * Animation cancelling the end of the **Charged Attack** is necessary for optimal damage if using `NA → CA`. Can be done with **Dash** or **Jump**.
   * Dash Cancels provide more damage overall in Hu Tao's attack combo but is often not performed at **C0** because of the **Stamina** consumption from both the **Dash** and **Charged Attack.**
   * There are technically many different Hu Tao combo strings beyond always performing 1 **Normal Attack** and then 1 **Charged Attack**.
 * **Elemental Burst** is mainly used at the end of her attack combo just before her **Elemental Skill** expires or if Hu Tao needs to dodge an attack or heal.

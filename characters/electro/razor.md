@@ -12,7 +12,7 @@
 * **Elemental Burst** deals an instance of **Electro** damage in an **AoE** and consumes all his **Electro** Sigils, which then grant him energy. He gains the following effects:
   * Each attack deals additional **Electro** **Damage**.
   * **ATK SPD** increased
-  * **Charge Attack** disabled
+  * **Charged Attack** disabled
   * Increased **Resistance** to interruption
   * Cannot take damage from the **Electro-Charged** status and has increased **Electro** Resistance
 * **A1** reduces the Cooldown on Razor's **Elemental Skill**, and activating his **Elemental Burst** instantly resets the Cooldown of his **Elemental Skill.**

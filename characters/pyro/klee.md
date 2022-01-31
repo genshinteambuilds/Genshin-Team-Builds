@@ -14,7 +14,7 @@
 
 ## Additional Notes
 
-* **C2** allows Klee to be used as support by throwing out her 2 **Jumpty Dumpty** and switching out, as the mines reduces enemies' **Defense** by 23% for 10 seconds.
+* **C2** allows Klee to be used as support by throwing out her 2 **Jumpty Dumpty** and switching out, as the mines reduces enemies' **DEF** by 23% for 10 seconds.
 * At **C6**, Klee provides 3 energy to the party every 3 seconds while her **Elemental Burst** is active. Klee also buffs all party members **Pyro** damage by 10% for 25 seconds after casting her **Elemental Burst.**
 
 ## Works Well With
