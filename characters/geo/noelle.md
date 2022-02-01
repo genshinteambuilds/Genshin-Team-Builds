@@ -41,6 +41,10 @@
 
 * Characters with strong Off-Field damage can be easily utilized in **Geo** focused teams. Noelle doesn't need **Elemental Reactions** to deal damage as a **Geo** character.
 
+![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)
+
+* Boosts Noelle's **Normal Attack** damage.
+
 ## **Does Not Work Well With**
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)

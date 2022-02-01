@@ -22,7 +22,7 @@
 
 ## **Works Well With**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)
 
 * Characters that are focused on **Normal Attacks** are very effective with Yunjin.
 
@@ -80,4 +80,3 @@ Click on the team names below for more details on how the team works and alterna
 
 * Yunjin activates **Geo Resonance**.
 * Yunjin buffs Hutao's **Normal Attacks** that happen before her **Charged Attack** in the sequence N2C (2 **Normal Attack** 1 **Charged Attack**).
-

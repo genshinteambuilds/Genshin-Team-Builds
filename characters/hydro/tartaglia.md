@@ -54,6 +54,12 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
 * Typically only used with Tartaglia in [**Oneshot**](../../teams/oneshot.md) teams. Mona provides the **Omen** Debuff to enemies which increases damage taken for a certain period of time.
 
+![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)
+
+* Yunjin boosts Childe's **Normal Attacks**.
+* Although the bulk of Childe's damage is from his riptide and Off-Field DPS, Childe's **Normal Attacks** do a considerable amount of damage.
+* Is not better than running a buffer like Sucrose or Kazuha to boost Off-Field DPS' damage.
+
 ## **Does Not Work Well With**
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)

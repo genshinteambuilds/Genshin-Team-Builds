@@ -51,6 +51,10 @@
 * Zhongli's shield allows Razor to negate incoming damage that might otherwise interrupt his attacks. Additionally, the shield also reduces enemy **Physical Resistance**. Zhongli's **Elemental Burst** locks enemies in place, preventing them from being knocked back by Razor's attacks.
 * Albedo provides Off-Field damage and can generate shields through the **Crystallize** reaction.
 
+![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)
+
+* Yunjin boosts Razor's **Normal Attacks**, allowing it to deal more damage.
+
 ## **Does Not Work Well With**
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)

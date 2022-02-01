@@ -46,6 +46,10 @@
 * As with all **Elemental Damage** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 * Albedo provides **Elemental Mastery** buff when using his **Elemental Burst** and further enhances Yoimiya's **Elemental Reaction** damage.
 
+![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)
+
+* Buffs Yoimiya's **Normal Attacks** to deal more damage.
+
 ## Does Not Work Well With
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
