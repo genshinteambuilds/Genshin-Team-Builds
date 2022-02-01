@@ -53,7 +53,7 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)
 
-* Yunjin boosts Razor's **Normal Attacks**, allowing it to deal more damage.
+* Yunjin boosts Razor's **Normal Attack** damage.
 
 ## **Does Not Work Well With**
 
