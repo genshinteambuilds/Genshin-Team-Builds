@@ -7,7 +7,7 @@
 ## **Character Breakdown**
 
 * 2nd and 4th consecutive **Normal Attack** that hit opponents grant Itto 1 or 2 stacks of Superlative Superstrength, respectively.
-  * **Superlative Strength:** Max 5 stacks. Each new stack refreshes the current duration of any existing stacks.
+  * Superlative Strength: Max 5 stacks. Each new stack refreshes the current duration of any existing stacks.
 * **Charged Attack** is unique and performs a series of Arataki Kesagiri slashes without consuming Stamina when held. Each Arataki Kesagiri slash consumes 1 stack of Superlative Superstrength. When the final stack is consumed, Itto delivers a powerful final slash. If no stacks of Superlative Superstrength are available, Itto will perform a single Saichimonji Slash.
 * **Elemental Skill** throws Ushi (Geo Construct) and deals AoE damage to enemies hit. Itto gains 1 stack of Superlative Strength if enemies are hit.
   * Ushi taunts enemies and gives Itto a stack of Superlative Strength when hit.
@@ -50,7 +50,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)
 
-* Noelle is a unit that wants to be on-field and Itto will take majority of the field time in any team he is on. She doesn't provide a strong enough shield and it has high downtime, making her a poor Geo character to pair with Itto.
+* Noelle is a unit that wants to be on-field and Itto will take majority of the field time in any team he is on. She doesn't provide a strong enough shield and it has high downtime, making her a poor **Geo** character to pair with Itto.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
@@ -63,7 +63,7 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-Itto only really works in an **Geo** team where Itto works as the Selfish Main DPS. A couple common example teams are shown below. Additional teams and options can be found in the **Geo** team page.
+Itto only works in an **Geo** team where Itto plays the role of the Selfish Main DPS. A couple common example teams are shown below. Additional teams and options can be found in the **Geo** team page.
 {% endhint %}
 
 [**Geo**](../../teams/geo.md)
@@ -79,6 +79,5 @@ Itto only really works in an **Geo** team where Itto works as the Selfish Main D
 
 * Gorou is Itto's primary offensive buffer, providing **DEF** as well as various other offensive and defensive buffs.
 * Zhongli provides the shield for **Geo Resonance** and survivability.
-* This full Geo team is able to take advantage of multiple **Geo** constructs providing energy for Itto, making his **Energy Recharge** requirement lower.
+* This full **Geo** team is able to take advantage of multiple **Geo** constructs providing energy for Itto, making his **Energy Recharge** requirement lower.
 * Bennett boosts Itto's damage as well as provides a consistent source of healing.
-

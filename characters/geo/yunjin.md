@@ -2,12 +2,12 @@
 
 ## Roles
 
-* **Off-Field DPS** (Elemental Burst)
+* **Off-Field DPS** (**Elemental Burst**)
 * **Support:** Buffer
 
 ## Character Breakdown
 
-* **Elemental Skill** provides a brief shield based off of her total **HP**, which lasts until her **Elemental Skill** is released. Based on the time spent charging her **Elemental Skill**, it would release the attack at either **Charge Level** **1** or **2**, which scales off her **DEF**.
+* **Elemental Skill** provides a brief shield based off of her total **HP**, which lasts until her **Elemental Skill** is released. Based on the time spent charging her **Elemental Skill**, it would release the attack at either Charge Level 1 or 2, which scales off her **DEF**.
   * **A1** allows her **Elemental Skill** to immediately jump to **Charge Level 2** if it is pressed the moment she is attacked.
 * **Elemental Burst** deals **AoE Geo Damage** around her and buffs party members in the team. When the active character deals **Normal Attack** damage to enemies, bonus damage will be dealt based on Yunjin's current **DEF**, which lasts for 12s or until the buff has been triggered 30 times.
   * **A4** increases the **Normal Attack** damage buff based on the number of different **Elemental** characters in the party.
@@ -15,7 +15,7 @@
 ## Additional Notes
 
 * **C2** further buffs **Normal Attack** damage by 15% for 12s, making it a very useful constellation to aim for.
-* **C4** buffs her own **DEF**, allowing her to buff Normal Attack damage even further.
+* **C4** buffs her own **DEF**, allowing her to buff **Normal Attack** damage even further.
 * **C6** buffs **ATK SPD** for characters that are affected by her **Elemental Burst**.
 * While her **A4** provides buff from multiple different **Elemental** characters, having 2/3 different ones is sufficient.
 * Yunjin's **Elemental Burst** cannot snapshot. Hence, it cannot retain Gorou's **DEF** buff.
@@ -47,7 +47,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
 
-* As Raiden's **Elemental Burst** attacks are considered **Burst Attack Damage**, it is not buffed by Yunjin's **Elemental Burst**.
+* As Raiden's **Elemental Burst** attacks are considered **Elemental Burst DMG**, it is not buffed by Yunjin's **Elemental Burst**.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
