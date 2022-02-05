@@ -25,9 +25,9 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)
 
-* Beidou primarily acts as a Sub DPS for Keqing, providing extra Off-Field damage with her **Elemental Burst**.
+* Beidou primarily acts as a Sub DPS for Keqing, providing extra Off-Field **Electro DMG** with her **Elemental Burst**.
 * Beidou can also debuff the the **Electro** **Resistance** of enemies with her **C6** active.
-* Keqing's main source of damage being her **Normal** or **Charged Attacks** allows Beidou's **Elemental Burst** to constantly deal **Electro** **Damage**.
+* Keqing's main source of damage being her **Normal** or **Charged Attacks** allows Beidou's **Elemental Burst** to constantly deal **Electro** **DMG**.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
@@ -36,11 +36,11 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
-* Beidou applies **Electro** for **Superconduct** and her high **Electro** **Damage** can assist Eula against enemies with high **Physical Resistance.**
+* Beidou applies **Electro** for **Superconduct** and her high **Electro** **DMG** can assist Eula against enemies with high **Physical Resistance.**
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)
 
-* **Anemo** characters pair well with Beidou as they can provide **Elemental Resistance** debuffs with the **Viridescent Venerer** 4-set or other **Elemental Damage** buffs when triggering a **Swirl** reaction.
+* **Anemo** characters pair well with Beidou as they can provide **Elemental Resistance** debuffs with the **Viridescent Venerer** 4-set or other **Elemental DMG** buffs when triggering a **Swirl** reaction.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)
 
@@ -49,14 +49,14 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
-* Provides additional Off-Field Damage to compliment Beidou and helps generate **Electro Energy Particles** to recharge her **Elemental Burst**.
+* Provides additional Off-Field **Electro DMG** to compliment Beidou and helps generate **Electro Energy Particles** to recharge her **Elemental Burst**.
 
 ## Does Not Work Well With
 
 #### ![](../../.gitbook/assets/Element\_Cryo.webp)
 
-* Pairing Beidou with most **Cryo** Main DPS will largely lead to triggering **Superconduct**, a reaction which does not increase **Cryo** or **Electro** **Damage**, and will also stop enemies from being **Frozen.**
-  * **Physical** Main DPS that use **Cryo** abilities are an exception and can be used with her in order to provide additional Off-Field Damage alongside providing **Superconduct**.
+* Pairing Beidou with most **Cryo** Main DPS will largely lead to triggering **Superconduct**, a reaction which does not increase **Cryo** or **Electro** **DMG**, and will also stop enemies from being **Frozen.**
+  * **Physical** Main DPS that use **Cryo** abilities are an exception and can be used with her in order to provide additional Off-Field **Electro DMG** alongside providing **Superconduct**.
 
 #### ![](../../.gitbook/assets/Element\_Pyro.webp)
 
@@ -88,5 +88,5 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Beidou provides Off-Field **Electro** damage for Eula to trigger **Superconduct,** debuffing enemy **Physical Resistance**.
+* Beidou provides Off-Field **Electro** **DMG** for Eula to trigger **Superconduct,** debuffing enemy **Physical Resistance**.
 * A second **Electro** character is recommended to help recharge Beidou's **Elemental Burst**.

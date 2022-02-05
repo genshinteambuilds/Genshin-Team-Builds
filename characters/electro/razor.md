@@ -6,15 +6,15 @@
 
 ## Character Breakdown
 
-* **Normal Attacks** are the most important part of Razor's kit, as they are his primary source of Damage.
-* **Elemental Skill (Tap)** makes Razor deal **Electro** damage and gains an **Electro** Sigil (of which he can hold a maximum of 3). Each Sigil increases his **Energy Recharge**.
-* **Elemental Skill (Hold)** makes Razor deal **Electro** damage in an **AoE** and converts all of his **Electro** Sigils into energy.
-* **Elemental Burst** deals an instance of **Electro** damage in an **AoE** and consumes all his **Electro** Sigils, which then grant him energy. He gains the following effects:
-  * Each attack deals additional **Electro** **Damage**.
-  * **ATK SPD** increased
-  * **Charged Attack** disabled
-  * Increased **Resistance** to interruption
-  * Cannot take damage from the **Electro-Charged** status and has increased **Electro** Resistance
+* **Normal Attacks** are the most important part of Razor's kit, as they are his primary source of damage.
+* **Elemental Skill (Tap)** makes Razor deal **Electro** **DMG** and gains an **Electro** Sigil (of which he can hold a maximum of 3). Each Sigil increases his **Energy Recharge**.
+* **Elemental Skill (Hold)** makes Razor deal **Electro** **DMG** in an **AoE** and converts all of his **Electro** Sigils into energy.
+* **Elemental Burst** deals an instance of **Electro** **DMG** in an **AoE** and consumes all his **Electro** Sigils, which then grant him energy. He gains the following effects for the skill's duration:
+  * Each attack deals additional **Electro** **DMG**.
+  * **ATK SPD** increased.
+  * **Charged Attack** disabled.
+  * Increased **Resistance** to interruption.
+  * Cannot take damage from the **Electro-Charged** status and has increased **Electro** Resistance.
 * **A1** reduces the Cooldown on Razor's **Elemental Skill**, and activating his **Elemental Burst** instantly resets the Cooldown of his **Elemental Skill.**
 * **A4** provides Razor extra **Energy Recharge** when he has less than half of the energy needed for his **Elemental Burst**.
 
@@ -37,14 +37,14 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
-* Beidou’s **Elemental Burst** deals high amounts of Off-Field **Electro** damage and gives Razor damage reduction and resistance to interruption. Note that Beidou requires investment into **Energy Recharge**.
-* Fischl provides energy for Razor and deals Off-Field **Electro** damage.
+* Beidou’s **Elemental Burst** deals high amounts of Off-Field **Electro** **DMG** and gives Razor damage reduction and resistance to interruption. Note that Beidou requires investment into **Energy Recharge**.
+* Fischl provides energy for Razor and deals Off-Field **Electro** **DMG**.
 * Both characters provide **Electro** **Resonance**, which can help with Razor's **Elemental Burst** uptime.
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)
 
 * Most **Anemo** characters can Crowd Control and group enemies, allowing for Razor to hit multiple enemies more easily.
-* They also reduce enemy **Electro Resistance** via **Viridescent Venerer** 4-set effect, increasing Razor's **Electro** **Damage**.
+* They also reduce enemy **Electro Resistance** via **Viridescent Venerer** 4-set effect, increasing Razor's **Electro** **DMG**.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
 

@@ -1,6 +1,6 @@
 # Overload (Electro)
 
-**Overload** occurs when a **Pyro** marked enemy is hit with **Electro** or vice versa, creating a small **AoE** hit of **Pyro damage** which can potentially knock back enemies. **Overload damage** is based off the **Elemental** **Mastery** and level of the character applying the second element.&#x20;
+**Overload** occurs when a **Pyro** marked enemy is hit with **Electro** or vice versa, creating a small **AoE** instance of **Pyro damage** which can potentially knock back enemies. **Overload damage** is based off the **Elemental** **Mastery** and level of the character applying the second element.&#x20;
 
 Team compositions that focus on **Overload** can utilize **Anemo** characters to keep opponents grouped and/or a ranged Main DPS that does not have to remain close to enemies. However, **Overload** compositions are generally best in situations where enemies are immune to its knockback.&#x20;
 

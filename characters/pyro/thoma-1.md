@@ -7,11 +7,12 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** deals **AoE** **Pyro** damage, applies **Pyro** to Thoma, and creates a Shield.
-  * The Shield's Damage Absorption scales with Thoma's **Max HP**.
-* **Elemental Burst** deals **AoE** **Pyro** damage and causes the active character's **Normal Attacks** to deal additional **Pyro** damage and create a small Shield.
-  * The Shield's Damage Absorption scales with Thoma's **Max HP**.
-* **A4** causes the bonus damage dealt when **Normal Attacks** to be increased by 2.2% of Thoma's **Max HP**.
+* **Elemental Skill** deals **AoE** **Pyro** **DMG**, applies **Pyro** to Thoma, and creates a Shield.
+  * The Shield's damage absorption scales with Thoma's **Max HP**.
+* **Elemental Burst** deals **AoE** **Pyro** **DMG** and causes the active character's **Normal Attacks** to deal additional **Pyro** **DMG** and create a small Shield.
+  * The additional **Pyro DMG** from Normal Attacks can only be triggered every 1s.
+  * The Shield's damage absorption scales with Thoma's **Max HP**.
+* **A4** causes the additional **Pyro DMG** dealt from **Normal Attacks** while Thoma's **Elemental Burst** is active to be increased by 2.2% of Thoma's **Max HP**.
 * All of Thoma's shields can stack on top of each other, refreshing the duration and combining their shield **HP.**
   * Thoma's combined shield **HP** cannot exceed a certain amount.
 * **A2** increases the active characters **Shield Strength** by 5% for 6 seconds every time one of Thoma's Shields is created or refreshed, up to a 25% increase.
@@ -20,8 +21,7 @@
 
 * Often paired with another **Pyro** character, as Thoma's low energy generation makes it difficult to use his **Elemental Burst**.
   * **C4** restores 15 Energy to Thoma after using his **Elemental Burst**.
-* The bonus damage and Shielding from his **Elemental Burst** can only be triggered once every second.
-* **C6** increases **Normal**, **Charged**, and **Plunging Attack** damage by 15% for the party for 6 seconds whenever Thoma creates or refreshes a Shield.
+* **C6** increases **Normal**, **Charged**, and **Plunging Attack** **DMG** by 15% for the party for 6 seconds whenever Thoma creates or refreshes a Shield.
 
 ## Works Well With
 
@@ -33,7 +33,7 @@
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)
 
-* As with all **Elemental Damage** DPS characters, **Anemo** supports works well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
+* As with all **Elemental DMG** DPS characters, **Anemo** supports works well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 
 ## Does Not Work Well With
 

@@ -8,19 +8,19 @@
 
 ## **Character Breakdown**
 
-* **Elemental Skill** creates a **Geo** construct that deals **Geo** **Damage** in an area upon skill activation and creates a field.
-  * While inside this field, whenever an enemy takes damage, an additional instance of **Geo** **Damage** will also be dealt, with a short cooldown.
-    * **A1** allows his **Elemental Skill** to deal increased damage to enemies under 50% **HP**.
+* **Elemental Skill** creates a **Geo** construct that deals **Geo** **DMG** in an area upon skill activation and creates a field.
+  * While inside this field, whenever an enemy takes any **DMG**, an additional instance of **Geo** **DMG** will also be dealt, with a short cooldown.
+    * **A1** allows his **Elemental Skill** to deal increased **Geo DMG** to enemies under 50% **HP**.
   * The **Geo** Construct itself acts as an Elevator that lifts up Characters within the flower **Geo** Construct.
-* **Elemental Burst** deals **Geo** damage in a frontal area.
-  * If Albedo's **Elemental Burst** is cast within the field created by his **Elemental Skill**, it will do 7 more instances of **Geo** damage towards enemies in the field.
+* **Elemental Burst** deals **Geo** **DMG** in a frontal area.
+  * If Albedo's **Elemental Burst** is cast within the field created by his **Elemental Skill**, it will do 7 more instances of **Geo** **DMG** towards enemies in the field.
     * Damage dealt this way will not activate his **Elemental Skill**'s effects.
 * **A4** buffs all members of the party's **Elemental Mastery** after activating his **Elemental Burst**.
 
 ## **Additional Notes**
 
-* **C4** buffs **Plunging Attack** damage when the active character is standing within the field created by Albedo's **Elemental Skill**.
-* **C6** buffs the damage of the active character by 17% when protected by a shield created by the **Crystallize** reaction and is inside of the field created by his **Elemental Skill**.
+* **C4** buffs **Plunging Attack** **DMG** when the active character is standing within the field created by Albedo's **Elemental Skill**.
+* **C6** buffs the **DMG** of the active character by 17% when that character is protected by a shield created by the **Crystallize** reaction and is inside of the field created by Albedo's **Elemental Skill**.
 
 ## **Works Well With**
 
@@ -34,7 +34,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
-* Since Albedo does **Geo** **Damage** with his whole kit, he triggers the **Shatter** reaction against **Frozen** enemies. This makes him not an ideal option for [**Freeze** ](../../teams/freeze.md)teams.
+* Since Albedo does **Geo** **DMG** with his whole kit, he triggers the **Shatter** reaction against **Frozen** enemies. This makes him not an ideal option for [**Freeze** ](../../teams/freeze.md)teams.
 
 ## **Teams**
 
@@ -43,14 +43,14 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-In all the teams listed below, Albedo universally provides additional Off-Field damage and can also activate **Geo Resonance.**
+In all the teams listed below, Albedo universally provides additional Off-Field **Geo DMG** and can also activate **Geo Resonance.**
 {% endhint %}
 
 [**Anemo**](../../teams/anemo.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)​​
 
-* Xiao’s **Plunging Attack** damage is increased by Albedo’s **C4**.
+* Xiao’s **Plunging Attack** **DMG** is increased by Albedo’s **C4**.
 
 [**Electro-Charged (Electro)**](../../teams/electro-charged.md)
 
@@ -70,4 +70,4 @@ In all the teams listed below, Albedo universally provides additional Off-Field 
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Albedo's **Elemental Mastery** buff enhances **Vaporize** reaction damage.
+* Albedo's **Elemental Mastery** buff enhances **Elemental Reaction** **DMG**.

@@ -9,21 +9,21 @@
 
 * When Yanfei performs a **Normal Attack** she gains 1 stack of **Scarlet Seals** (Max of 3 stacks). They give the following effects:
   * Decreases the **Stamina** cost of her **Charged Attacks** by 15%.
-  * Increases the damage of her **Charged Attacks**.
-* **Elemental Skill** deals **AoE** **Pyro** damage and grants the max stack of **Scarlet Seals**.
-* **Elemental Burst** initially deals high amount of **AoE** **Pyro** damage in an area around her, gaining max stacks of **Scarlet Seals** and applying **Brilliance** to her.
-  * **Brilliance** is a buff that Yanfei applies to herself which, increases her **Charged Attack** damage and grants **Scarlet Seals** over the period of her **Elemental Burst** is active.
+  * Increases the **DMG** of her **Charged Attacks**.
+* **Elemental Skill** deals **AoE** **Pyro** **DMG** and grants the max stack of **Scarlet Seals**.
+* **Elemental Burst** initially deals high amount of **AoE** **Pyro** **DMG** in an area around her, gaining max stacks of **Scarlet Seals** and applying **Brilliance** to her.
+  * **Brilliance** is a buff that Yanfei applies to herself which, increases her **Charged Attack** **DMG** and grants **Scarlet Seals** over the period of her **Elemental Burst** is active.
 
 ## Additional Notes
 
-* Her best combo is usually 3 **Normal Attacks** to fully stack her **Scarlet Seals** then followed by 1 **Charged Attack** to consume the **Scarlet Seals** and deal additional damage.
+* Her best combo is usually 3 **Normal Attacks** to fully stack her **Scarlet Seals** then followed by 1 **Charged Attack** to consume the **Scarlet Seals** and deal additional **DMG**.
 * **C1** allows Yanfei's **Scarlet Seal** to decrease the **Stamina** cost of Yanfei's **Charged Attacks** by a further 10%, and increases resistance to interruption when performing a **Charged Attack**.
   * This can decrease Yanfei's **Charged Attack** cost by up to 75% at Max Stacks.
 * **C4** creates a shield when Yanfei casts her **Elemental Burst**. This shield absorbs up to 45% of Yanfei's **Max HP** and lasts 15 seconds.
 * **C6** increases the max stacks of **Scarlet Seal** from 3 to 4.
   * Combined with **C1** this will result in Yanfei's **Charged Attacks** costing no **Stamina** with max stacks of **Scarlet Seal.**
 * Yanfei's **Brilliance** gets cancelled once she leaves the field. This makes her a Selfish DPS as she does significantly more damage with this buff active.
-* **A4** allows Yanfei's to deal an additional instance of **AoE Pyro** damage equal to 80% of her **ATK** when dealing **CRIT DMG** with a **Charged Attack**. This counts as **Charged Attack** damage.
+* **A4** allows Yanfei's to deal an additional instance of **AoE Pyro** **DMG** equal to 80% of her **ATK** when dealing **CRIT DMG** with a **Charged Attack**. This counts as **Charged Attack** **DMG**.
 
 ## Works Well With
 
@@ -37,11 +37,11 @@
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* As with all **Elemental Damage** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
+* As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
-* Beidou and Fischl are used with Yanfei to create multiple **Elemental Reactions** (**Electro-Charged**, **Vaporize** and **Overload**). Even if **Overload** knocks back enemies, with Yanfei's long attack range, it's not an inconvenience. Both Fischl and Beidou provide Off-field **Electro** damage and **Electro Resonance** which creates additional **Energy Particles** from **Elemental Reactions**.
+* Beidou and Fischl are used with Yanfei to create multiple **Elemental Reactions** (**Electro-Charged**, **Vaporize** and **Overload**). Even if **Overload** knocks back enemies, with Yanfei's long attack range, it's not an inconvenience. Both Fischl and Beidou provide Off-field **Electro** **DMG** and **Electro Resonance** which creates additional **Energy Particles** from **Elemental Reactions**.
 
 ## Does Not Work Well With
 

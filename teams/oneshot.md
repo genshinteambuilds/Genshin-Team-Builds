@@ -1,6 +1,6 @@
 # Oneshot
 
-These team compositions focus on dealing a large amount of burst damage to enemies (ideally ending the encounter immediately) without caring much about repeatability and follow up damage. This is usually accomplished by utilizing characters with very high **Elemental Burst** modifiers that can take full advantage of multiple scaling, Buffs, and/or **Elemental Reactions**. Notable **Elemental Reactions** are **Melt** and **Vaporize** as they are able to provide an additional final multiplier to Damage. The other character slots are used mainly to "setup" the Oneshot and stack multiple buffs and apply **Elements** in a specific order.
+These team compositions focus on dealing a large amount of burst damage to enemies (ideally ending the encounter immediately) without caring much about repeatability and follow up damage. This is usually accomplished by utilizing characters with very high **Elemental Burst** modifiers that can take full advantage of multiple scaling, Buffs, and/or **Elemental Reactions**. Notable **Elemental Reactions** are **Melt** and **Vaporize** as they are able to provide an additional final multiplier to damage. The other character slots are used mainly to "setup" the Oneshot and stack multiple buffs and apply **Elements** in a specific order.
 
 **Elemental Skill** and **Burst** usage order and character swapping order is very important in these types of compositions. This playstyle will often have different artifacts and weapon choices than traditional play, and setups vary widely by availability of characters and equipment.
 
@@ -38,7 +38,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)
 
-* Able to buff damage on enemies inside her **Elemental Burst** at **C4**.
+* Able to buff **DMG** dealt to enemies inside her **Elemental Burst** at **C4**.
 * Able to carry **Elegy for the End** and provide more **ATK** and **Elemental Mastery**.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
@@ -59,7 +59,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-* Can be run as a 4 set **Viridescent Venerer** carrier and provides a large damage boost to your team based on his own **Elemental Mastery** and the Element that he **Swirls**.
+* Can be run as a 4 set **Viridescent Venerer** carrier and provides a large **Elemental** **DMG** buff to your team based on his own **Elemental Mastery** and the Element that he **Swirls**.
 * **C2** grants 200 **Elemental Mastery** to everyone on the team.
 * Can carry **Freedom-Sworn**.
 
@@ -71,7 +71,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
-* Mona can also function as a damage amplifier alongside a **Cryo** enabler, as her Omen is a 5 second Debuff that grants the increased damage during that duration.
+* Mona can also function as a damage amplifier alongside a **Cryo** enabler, as her Omen is a 5 second debuff that provides a **DMG Bonus** to all attacks during that duration.
 * Can carry **Thrilling Tales of Dragon Slayer**.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
@@ -106,8 +106,8 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
-* Mona has a very high multiplier on her **Elemental Burst** that benefits from the Omen damage bonus that it provides. A **Vaporized** Mona' **Elemental Burst** has one of the highest damage ceilings in the game.
-* Mona's **Elemental Burst** has an interesting mechanic where the initial cast applies Hydro and the damage only occurs after another instance of damage triggers her "bubble" to pop. Due to how Internal Cooldown of elemental application works, there needs to be at least 2.5 seconds between the initial **Hydro** application on cast and when the bubble breaks so that it is able to apply **Hydro** and **Vaporize**.
+* Mona has a very high multiplier on her **Elemental Burst** that benefits from the Omen **DMG Bonus** that it provides. A **Vaporized** Mona' **Elemental Burst** has one of the highest damage ceilings in the game.
+* Mona's **Elemental Burst** has an interesting mechanic where the initial cast applies **Hydro** and the damage only occurs after another instance of damage triggers her "bubble" to pop. Due to how Internal Cooldown of elemental application works, there needs to be at least 2.5 seconds between the initial **Hydro** application on cast and when the bubble breaks so that it is able to apply **Hydro** and **Vaporize**.
 
 ### **Primary Enablers**
 
@@ -129,7 +129,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-* Can be run as a 4 set **Viridescent Venerer** carrier and provides a large damage boost to your team based on his own **Elemental Mastery** and the **Element** that he Swirls.
+* Can be run as a 4 set **Viridescent Venerer** carrier and provides a large **DMG** boost to your team based on his own **Elemental Mastery** and the **Element** that he Swirls.
 * **C2** grants 200 **Elemental Mastery** to everyone on the team.
 * Can carry **Freedom-Sworn**.
 
@@ -169,14 +169,14 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)
 
-* Tartaglia has two ways to use his **Elemental Burst**, based on which form he is in. **Ranged stance** (rQ) does less damage but occurs much faster since it returns 20 energy back to Tartaglia, while **Melee stance** (mQ) \*\*\*\* requires the transformation and does much more damage.
+* Tartaglia has two ways to use his **Elemental Burst**, based on which form he is in. **Ranged stance** (rQ) does less damage but occurs much faster since it returns 20 energy back to Tartaglia, while **Melee stance** (mQ) requires the transformation and does much more damage.
 * Tartaglia Oneshot teams will focus on **Vaporizing** the **Melee Stance Elemental Burst**.
 
 ### Primary Enablers
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett \*\*\*\* provides a massive **ATK** buff and is able to set up by applying **Pyro**.
+* Bennett provides a massive **ATK** buff and is able to set up by applying **Pyro**.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
 
@@ -202,7 +202,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-* Can be run as a 4 set **Viridescent Venerer** carrier and provides a large damage boost to your team based on his own Elemental Mastery and the Element that he Swirls.
+* Can be run as a 4 set **Viridescent Venerer** carrier and provides a large **DMG Bonus** to your team based on his own Elemental Mastery and the Element that he Swirls.
 * **C2** grants 200 **Elemental Mastery** to everyone on the team.
 * Can carry **Freedom-Sworn**.
 
@@ -237,7 +237,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
 * Eula’s **Elemental Burst** is the centerpiece to this team. It does a fair amount of damage on cast, but Eula Oneshot teams will be focused on the explosion at the end as well as maximizing stack count.
-* The final explosion does **Physical Damage** and switching characters will cause Eula's Ele**mental Burst** to detonate shortly after, leaving some options for last second buffs/debuffs to apply.
+* The final explosion does **Physical DMG** and switching characters will cause Eula's **Elemental Burst** to detonate shortly after, leaving some options for last second buffs/debuffs to apply.
 
 ### Primary Enablers
 
@@ -249,7 +249,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
 
-* Provides **Superconduct** and **Elemental Burst** damage buff.
+* Provides **Superconduct** and **Elemental Burst** **DMG** buff.
 
 ### Supporting Cast
 
@@ -263,7 +263,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* Provides **Physical Damage** buffs/debuffs through **A4** and **C4**.
+* Provides **Physical DMG** buffs/debuffs through **A4** and **C4**.
 * Can carry **Wolf's Gravestone**.
 
 ### Sample Eula Teams
@@ -286,7 +286,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
 
 * Ayaka's **Elemental Burst** has one of the highest multipliers in the game, making her one of the best characters to utilize for Oneshot compositions.
-* While most Cryo Oneshot teams would focus on Melting the damage, Ayaka's Elemental Burst damage is spread across many smaller hits making **Melt** less viable than going for traditional **Freeze** to focus on high **CRIT DMG** and other buffs/debuffs.
+* While most **Cryo** Oneshot teams would focus on **Melting** the damage, Ayaka's **Elemental Burst DMG** is spread across many smaller hits making **Melt** less viable than going for traditional **Freeze** to focus on high **CRIT DMG** and other buffs/debuffs.
 
 ### Supporting Cast
 
@@ -297,7 +297,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-* Can be run as a 4 set **Viridescent Venerer** carrier and provides a large damage boost to your team based on his own **Elemental Mastery** and the **Element** that he **Swirls**.
+* Can be run as a 4 set **Viridescent Venerer** carrier and provides a large **DMG Bonus** to your team based on his own **Elemental Mastery** and the **Element** that he **Swirls**.
 * Can carry **Freedom-Sworn**.
 * Can be swapped out for other **Anemo** characters like Sucrose or Venti.
 
@@ -307,7 +307,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)
 
-* Provides damage buff with **Elemental Burst**.
+* Provides **DMG Bonus** with **Elemental Burst** at **A4**.
 * Can carry **Elegy of the End**.
 * Completes **Cryo Resonance** for the extra **15% CRIT RATE**.
 
@@ -339,12 +339,12 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Sara.png)
 
 * Provides a large **ATK** buff.
-* **C6** further buffs the **CRIT DMG** of **Electro damage** on character's that are buffed by Sara.
+* **C6** further buffs the **CRIT DMG** of **Electro DMG** on character's that are buffed by Sara.
 * Can carry **Elegy of the End**.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-* Can be run as a 4 set **Viridescent Venerer** carrier and provides a large damage boost to your team based on his own **Elemental Mastery** and the **Element** that he **Swirls**.
+* Can be run as a 4 set **Viridescent Venerer** carrier and provides a large **DMG Bonus** to your team based on his own **Elemental Mastery** and the **Element** that he **Swirls**.
 * Can carry **Freedom-Sworn**.
 * Can be swapped out for other **Anemo** characters like Venti or Sucrose.
 

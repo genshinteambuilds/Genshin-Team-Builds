@@ -8,10 +8,10 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** **(Tap)** releases a homing **Electro** orb that deals **Electro** **Damage** and applies 1 stack of the Conductive status (Max 3 stacks).
-* **Elemental Skill** **(Hold)** causes lightning to strike down dealing massive **Electro** damage to all enemies within its **AoE.**
-  * Deals more damage to enemies with higher Conductive stacks which are then consumed.
-* **Elemental Burst** deals continuous **Electro** **Damage** within its **AoE** and knocks back enemies on hit.
+* **Elemental Skill** **(Tap)** releases a homing **Electro** orb that deals **Electro** **DMG** and applies 1 stack of the Conductive status (Max 3 stacks).
+* **Elemental Skill** **(Hold)** causes lightning to strike down dealing massive **Electro** **DMG** to all enemies within its **AoE.**
+  * Deals more **DMG** to enemies with higher Conductive stacks which are then consumed.
+* **Elemental Burst** deals continuous **Electro** **DMG** within its **AoE** and knocks back enemies on hit.
   * **A4** reduces enemies' **DEF** by 15% for 10 sec when hit by her **Elemental Burst**.
 
 ## Additional Notes
@@ -52,11 +52,11 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * A team that focuses on sustained damage while having the option to deal burst damage with Childe **Vaporizing** his **Elemental Burst** with Bennett, as well as Lisa’s **Elemental Skill (Hold)**.
-* Lisa’s **Elemental Burst** reduces enemy **DEF** while also dealing damage even when she’s not On-Field.
+* Lisa’s **Elemental Burst** reduces enemy **DEF** while also dealing **Electro DMG** even when she’s not On-Field.
 
 [**Physical (Cryo)**](../../teams/physical-cryo.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Lisa helps in applying **Electro** for **Superconduct** reactions that decreases enemies' **Physical Resistance**. When creating **Superconduct** reactions, she also marks enemies with  her  Conductive status and can use her **Elemental Skill (Hold)** to deal a large amount of damage.
-* Lisa’s **Elemental Burst** reduces enemy **DEF** while also dealing damage even when she’s not On-Field.
+* Lisa helps in applying **Electro** for **Superconduct** reactions that decreases enemies' **Physical Resistance**. When creating **Superconduct** reactions, she also marks enemies with her Conductive status and can use her **Elemental Skill (Hold)** to deal a large amount of **Electro DMG**.
+* Lisa’s **Elemental Burst** reduces enemy **DEF** while also dealing **Electro DMG** even when she’s not On-Field.

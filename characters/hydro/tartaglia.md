@@ -7,22 +7,22 @@
 
 ## **Character Breakdown**
 
-* **Elemental Skill** deals hydro damage in an **AoE** around him and switches Tartarglia into a Melee stance with dual wielding hydro blades.
+* **Elemental Skill** deals **Hydro DMG** in an **AoE** around him and switches Tartarglia into a Melee stance with dual wielding hydro blades.
 * **Elemental Burst** effects change depending on whether Tartaglia is in his Ranged or Melee stance.
-  * When Ranged, Tartaglia's **Elemental Burst** deals high **AoE** **Hydro** **Damage** and applies Riptide to any enemies hit.
-  * When Melee, Tartaglia's **Elemental Burst** deals even higher **AoE** **Hydro Damage** and triggers Riptide Blast on any enemies hit that are already affected by Riptide.
+  * When Ranged, Tartaglia's **Elemental Burst** deals high **AoE** **Hydro** **DMG** and applies Riptide to any enemies hit.
+  * When Melee, Tartaglia's **Elemental Burst** deals even higher **AoE** **Hydro DMG** and triggers Riptide Blast on any enemies hit that are already affected by Riptide.
 * **A4** allows Tartaglia to mark enemies hit with Riptide whenever he deals **CRIT DMG** using his **Normal Attacks** or **Charged Attacks** in his melee stance.
-* Tartarglia's **Charged Attacks** while in Ranged stance can also deal **Hydro** **Damage** and apply Riptide to enemies when fully Charged.
+* Tartarglia's **Charged Attacks** while in Ranged stance can also deal **Hydro** **DMG** and apply Riptide to enemies when fully Charged.
   * Ranged Attacks on Tartaglia are typically avoided if possible.
 
 ### Riptide
 
 Enemies affected by Riptide can take additional damage in multiple ways.
 
-* **Riptide Flash**: Using Ranged stance Aimed Shot **Charged Attacks** on enemies affected by Riptide will deal consecutive bouts of **AoE** **Hydro Damage**.
+* **Riptide Flash**: Using Ranged stance Aimed Shot **Charged Attacks** on enemies affected by Riptide will deal consecutive bouts of **AoE** **Hydro DMG**.
 * **Riptide Burst**: Defeating an enemy affected by Riptide will create an **AoE** **Hydro** burst that inflicts the Riptide status on nearby opponents hit.
-* **Riptide Slash**: When Tartaglia hits an enemy affected by Riptide with **Normal Attacks** or **Charged Attacks** while in his Melee stance, he triggers Riptide Slash that deals **AoE** **Hydro** **Damage**.
-* **Riptide Blast**: Enemies hit by Tartaglia's **Elemental Burst** while he is in his Melee stance will be cleared of their Riptide status and take **AoE** **Hydro Damage**.
+* **Riptide Slash**: When Tartaglia hits an enemy affected by Riptide with **Normal Attacks** or **Charged Attacks** while in his Melee stance, he triggers Riptide Slash that deals **AoE** **Hydro** **DMG**.
+* **Riptide Blast**: Enemies hit by Tartaglia's **Elemental Burst** while he is in his Melee stance will be cleared of their Riptide status and take **AoE** **Hydro DMG**.
 
 ## Additional Notes
 
@@ -43,22 +43,22 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
 * Both Beidou and Fischl are often used with Tartaglia in [**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md) teams.
-* Beidou’s **Elemental Burst** can deal large amounts of **Electro** **Damage** while Beidou is Off-Field. Tartaglia’s fast attacks during his melee stance can also cause Beidou's **Elemental Burst** to trigger more often.
-* Fischl is often paired with Beidou due to Beidou's **Elemental Burst** high energy cost. Fischl generates **Energy Particles** for Beidou, provides more Off-Field damage and also activates **Electro Resonance**. It is also possible to use Fischl by herself for **Electro-Charged** reactions if you do not have Beidou.
+* Beidou’s **Elemental Burst** can deal large amounts of **Electro** **DMG** while Beidou is Off-Field. Tartaglia’s fast attacks during his melee stance can also cause Beidou's **Elemental Burst** to trigger more often.
+* Fischl is often paired with Beidou due to Beidou's **Elemental Burst** high energy cost. Fischl generates **Energy Particles** for Beidou, provides more Off-Field **Electro DMG** and also activates **Electro Resonance**. It is also possible to use Fischl by herself for **Electro-Charged** reactions if you do not have Beidou.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* As with all **Elemental Damage** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other Buffs.
+* As with all **Elemental DMG** Main DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other Buffs.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
-* Typically only used with Tartaglia in [**Oneshot**](../../teams/oneshot.md) teams. Mona provides the **Omen** Debuff to enemies which increases damage taken for a certain period of time.
+* Typically only used with Tartaglia in [**Oneshot**](../../teams/oneshot.md) teams. Mona debuffs enemies with **Omen** from her **Elemental Burst** which can be used to amplify Tartaglia's damage.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)
 
-* Yunjin boosts Childe's **Normal Attacks**.
-* Although the bulk of Childe teams' damage is from his Off-Field DPS, Childe's **Normal Attacks** do a considerable amount of damage.
-* Is not better than running a buffer like Sucrose or Kazuha to boost Off-Field DPS' damage.
+* Yunjin can boost Childe's **Normal Attacks**.
+* Although a large amount of of Childe teams' damage is from his Off-Field DPS, Childe's **Normal Attacks** do a considerable amount of damage.
+* Using Yunjin is generally not preferable to running a buffer like Sucrose or Kazuha to boost the damage of your Off-Field DPS characters.
 
 ## **Does Not Work Well With**
 
@@ -69,7 +69,7 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* **Physical** damage based characters do not synergize well with Tartaglia's **Hydro** **Damage**.
+* **Physical** **DMG** based characters do not synergize well with Tartaglia's **Hydro** **DMG**.
 
 ## **Teams**
 
@@ -89,8 +89,8 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Tartaglia's main focus is to Oneshot enemies with his **Elemental Burst**. For a detailed look at how this team works, check out the [**Oneshot**](../../teams/oneshot.md) page.
-* Bennett provides an **ATK** Buff and applies **Pyro** on enemies for the **Vaporize** reaction.
-* Mona can apply the **Omen** Debuff to increase the damage enemies take.
+* Bennett provides an **ATK** buff and applies **Pyro** on enemies for the **Vaporize** reaction.
+* Mona can apply the **Omen** debuff to increase the damage enemies take.
 * Sucrose buffs Tartaglia's **Elemental Mastery** and debuffs **Hydro Resistance** when equipped with **Viridescent Venerer** 4-set.
 
 #### [Vaporize (Hydro)](../../teams/vaporize.md)
@@ -98,4 +98,4 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Xiangling's **Elemental Burst** and **Elemental Skill** can work Off-Field allowing you to attack enemies in Tartaglia's Melee stance, inflicting the enemy with **Hydro** and allowing Xiangling's abilities to **Vaporize** for additional damage.
-* Tartaglia can also use his **Elemental Burst** and deal very high amounts of **AoE Vaporize** damage as enemies can be easily inflicted with **Pyro** with Xiangling, Bennett or Anemo characters that create **Swirl** reactions with **Pyro**.
+* Tartaglia can also **Vaporize** his **Elemental Burst** and deal very high amounts of AoE damage as enemies can be easily inflicted with **Pyro** with Xiangling, Bennett or Anemo characters that create **Swirl** reactions with **Pyro**.

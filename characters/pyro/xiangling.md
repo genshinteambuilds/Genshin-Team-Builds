@@ -8,9 +8,9 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** summons Gouba, an NPC that deals four instances of **Pyro** damage over a few seconds and will remain on the field even without Xiangling.
+* **Elemental Skill** summons Gouba, an NPC that deals four instances of **Pyro** **DMG** over a few seconds and will remain on the field even without Xiangling.
   * **A4** causes Gouba to drop to a chili upon disappearing. The chili buffs the **ATK** of any character that collects it by 10%.
-* **Elemental Burst** creates a **Pyro** whirlwind that circles around your character, dealing **Pyro** damage whenever it comes in contact with an enemy. Like her **Elemental Skill**, it persists even when Xiangling is not on the field.
+* **Elemental Burst** creates a **Pyro** whirlwind that circles around your character, dealing **Pyro** **DMG** whenever it comes in contact with an enemy. Like her **Elemental Skill**, it persists even when Xiangling is not on the field.
 
 ## Additional Notes
 
@@ -19,7 +19,7 @@
 * Xiangling’s kit makes her an exceptional duo with almost any **Cryo** or **Hydro** characters, enabling consistent **Melts** or **Vaporize** reactions from her constant **Pyro** application.
 * **C1** debuffs **Pyro Resistance** on enemies when they are hit by **Guoba**'s attacks.
 * **C4** increases the duration of her **Elemental Burst**. This greatly increases her total damage output.
-* **C6** buffs the entire team's **Pyro** damage when her **Elemental Burst** is active.
+* **C6** buffs the entire team's **Pyro** **DMG** when her **Elemental Burst** is active.
   * The buff does not apply to Xiangling as her **Elemental Burst** snapshots and only activates after it's been cast.
 
 ## Works Well With
@@ -35,17 +35,17 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett acts as both an Energy Battery and as a damage buffer for Xiangling, giving her a large **ATK** both buff from his **Elemental Burst** and from **Pyro Resonance** which will snapshot into Xiangling’s **Elemental Burst.**
+* Bennett acts as both an Energy Battery and as a buffer for Xiangling, giving her a large **ATK** both buff from his **Elemental Burst** and from **Pyro Resonance** which will snapshot into Xiangling’s **Elemental Burst.**
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* As with all **Elemental Damage** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
+* As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 
 ## Does Not Work Well With
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
-* Xiangling is generally not useful in teams that focus on **Physical** damage as she does not help with providing **Superconduct**.
+* Xiangling is generally not useful in teams that focus on **Physical** **DMG** as she does not help with providing **Superconduct**.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)
 

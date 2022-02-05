@@ -7,26 +7,26 @@
 ## Character Breakdown
 
 * **Elemental Skill** provides different effects if it is either held down or tapped.
-  * **Elemental Skill (Tap)** causes Shenhe to dash forward, dealing **Cryo Damage** to enemies hit and grants the party 5 stacks of the Icy Quill buff.
-  * **Elemental Skill (Hold)** deals **AoE Cryo Damage** and grants the party 7 stacks of the Icy Quill buff.
-  * Icy Quill increases **Cryo Damage** dealt by other party members by a percentage of Shenhe's **ATK**. This buff lasts either until the duration expires or it is triggered a certain amount of times. Each party member has their own set of stacks.
-  * **A4** provides an additional damage bonus to either **Elemental Skill** and **Elemental Burst** damage with **Elemental Skill (Tap)** or **Normal, Charged,** and **Plunging Attack** damage with **Elemental Skill (Hold)**.
-* **Elemental Burst** deals AoE **Cryo Damage** and creates a field.
-  * Shenhe’s **Elemental Burst** will continue to periodically deal **Cryo Damage** to enemies in this field, and enemies within this field will have their **Physical** and **Cryo RES** debuffed.
+  * **Elemental Skill (Tap)** causes Shenhe to dash forward, dealing **Cryo DMG** to enemies hit and grants the party 5 stacks of the Icy Quill buff.
+  * **Elemental Skill (Hold)** deals **AoE Cryo DMG** and grants the party 7 stacks of the Icy Quill buff.
+  * Icy Quill increases **Cryo DMG** dealt by other party members by a percentage of Shenhe's **ATK**. This buff lasts either until the duration expires or it is triggered a certain amount of times. Each party member has their own set of stacks.
+  * **A4** provides an additional **DMG Bonus** to either **Elemental Skill** and **Elemental Burst** **DMG** with **Elemental Skill (Tap)** or **Normal, Charged,** and **Plunging Attack** **DMG** with **Elemental Skill (Hold)**.
+* **Elemental Burst** deals AoE **Cryo DMG** and creates a field.
+  * Shenhe’s **Elemental Burst** will continue to periodically deal **Cryo DMG** to enemies in this field, and enemies within this field will have their **Physical** and **Cryo RES** debuffed.
   * **A1** buffs the **Cryo DMG** of party members within this field.
 
 ## Additional Notes
 
 * **C1** gives Shenhe an additional charge of her **Elemental Skill**.
-* **C2** increases the duration of her **Elemental Burst** and buffs the **CRIT DMG** of any **Cryo Damage** dealt by party members within its field.
-* **C4** increases the damage of Shenhe's **Elemental Burst** based on how many Icy Quill stacks have been used.
+* **C2** increases the duration of her **Elemental Burst** and buffs the **CRIT DMG** of any **Cryo DMG** dealt by party members within its field.
+* **C4** increases the **DMG** of Shenhe's **Elemental Burst** based on how many Icy Quill stacks have been used.
 * **C6** lets **Normal** and **Charged Attacks** not use up Icy Quill stacks.
 
 ## Works Well With
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
-* **Cryo** DPS can use Shenhe's Icy Quill buff to increase their **Cryo Damage**.&#x20;
+* **Cryo** DPS can use Shenhe's Icy Quill buff to increase their **Cryo DMG**.&#x20;
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
@@ -47,7 +47,7 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-In all of the teams below, Shenhe universally provides a buff to the **Cryo Damage** of all characters and acts as an Energy Battery for the **Cryo** Main DPS.
+In all of the teams below, Shenhe universally provides a buff to the **Cryo DMG** of all characters and acts as an Energy Battery for the **Cryo** Main DPS.
 {% endhint %}
 
 [**Freeze**](../../teams/freeze.md)
@@ -55,7 +55,7 @@ In all of the teams below, Shenhe universally provides a buff to the **Cryo Dama
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * Shenhe provides buffing with her **Elemental Skill** and buffing and debuffing with her **Elemental Burst** for a **Cryo** On-Field DPS.
-* Shenhe should use her **Elemental Skill (Tap)** in this team to provide an **Elemental Burst** damage increase for Ayaka.&#x20;
+* Shenhe should use her **Elemental Skill (Tap)** in this team to provide an **Elemental Burst DMG** increase for Ayaka.&#x20;
 
 [**Melt (Cryo)**](../../teams/reverse-melt.md)
 
