@@ -192,7 +192,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
 * Provides large buffs through her **Elemental Burst** and ability to carry **Thrilling Tales of Dragon Slayer**.
-* **C1** and **C4** improve the party's **Vaporize** damage and **CRIT RATE** during the rotation.
+* **C1** and **C4** improve the party's **Vaporize** damage and **CRIT Rate** during the rotation.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
@@ -309,7 +309,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 * Provides **DMG Bonus** with **Elemental Burst** at **A4**.
 * Can carry **Elegy of the End**.
-* Completes **Cryo Resonance** for the extra **15% CRIT RATE**.
+* Completes **Cryo Resonance** for the extra **15% CRIT Rate**.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
