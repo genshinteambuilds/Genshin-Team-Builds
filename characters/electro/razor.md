@@ -20,7 +20,7 @@
 
 ## Additional Notes
 
-* **Elemental Burst** can change Razor's optimal attack combo depending if it's active or not. Razor deals more damage per second with a three-hit combo followed by a dash cancel to omit the final attack if his **Elemental Burst** it's not active; however, if Razor's **Elemental Burst** is active he will deal more damage with a full four-hit combo and dash cancelling after the fourth hit instead.
+* **Elemental Burst** can change Razor's optimal attack combo depending if it's active or not. Razor deals more damage per second with a three-hit combo followed by a dash cancel to omit the final attack if his **Elemental Burst** is not active. However, if Razor's **Elemental Burst** is active he will deal more damage with a full four-hit combo and dash cancelling after the fourth hit instead.
 * **Elemental Burst** will be cancelled when swapping to another character while it's active. This why Razor is referred as a Selfish Main DPS and it is generally recommended to keep him on the field for as long as possible.
   * An exception to this is when all enemies have be defeated. Cancelling his **Elemental Burst** will return a small amount of energy to Razor.
 * Razor's Passive Talent reduces the **Stamina** consumption of sprinting by 20% for the entire team, and is non-stackable with other similar Passive Talents. This makes Razor a good world exploration character, as his claymore can also mine ores.
