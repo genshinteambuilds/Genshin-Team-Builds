@@ -29,7 +29,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
-* Xingqiu’s **Elemental Skill** and **Burst** help to protect Yoimiya with damage reduction and resistance to interruption, as well enable **Vaporize** reactions with his **Elemental Burst**. It also triggers her **Elemental Burst DMG** on enemies marked with **Aurous Blaze** while being off-field.
+* Xingqiu’s **Elemental Skill** and **Burst** help to protect Yoimiya with **Damage Reduction** and resistance to interruption, as well enable **Vaporize** reactions with his **Elemental Burst**. It also triggers her **Elemental Burst DMG** on enemies marked with **Aurous Blaze** while being off-field.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
@@ -42,7 +42,7 @@
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
 
-* As with all **Elemental DMG** Main DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
+* As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 * Albedo provides **Elemental Mastery** buff when using his **Elemental Burst**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)

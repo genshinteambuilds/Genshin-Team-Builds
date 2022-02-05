@@ -66,7 +66,7 @@
   * [Diluc](characters/pyro/diluc.md)
   * [Hu Tao](characters/pyro/hu-tao.md)
   * [Klee](characters/pyro/klee.md)
-  * [Thoma](characters/pyro/thoma-1.md)
+  * [Thoma](characters/pyro/thoma.md)
   * [Xiangling](characters/pyro/xiangling.md)
   * [Xinyan](characters/pyro/xinyan.md)
   * [Yanfei](characters/pyro/yanfei.md)

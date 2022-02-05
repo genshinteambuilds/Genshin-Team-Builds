@@ -13,7 +13,7 @@
   * Each attack deals additional **Electro** **DMG**.
   * **ATK SPD** increased.
   * **Charged Attack** disabled.
-  * Increased **Resistance** to interruption.
+  * Increased resistance to interruption.
   * Cannot take damage from the **Electro-Charged** status and has increased **Electro** Resistance.
 * **A1** reduces the Cooldown on Razor's **Elemental Skill**, and activating his **Elemental Burst** instantly resets the Cooldown of his **Elemental Skill.**
 * **A4** provides Razor extra **Energy Recharge** when he has less than half of the energy needed for his **Elemental Burst**.
@@ -37,7 +37,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
-* Beidou’s **Elemental Burst** deals high amounts of Off-Field **Electro** **DMG** and gives Razor damage reduction and resistance to interruption. Note that Beidou requires investment into **Energy Recharge**.
+* Beidou’s **Elemental Burst** deals high amounts of Off-Field **Electro** **DMG** and gives Razor **Damage Reduction** and resistance to interruption. Note that Beidou requires investment into **Energy Recharge**.
 * Fischl provides energy for Razor and deals Off-Field **Electro** **DMG**.
 * Both characters provide **Electro** **Resonance**, which can help with Razor's **Elemental Burst** uptime.
 

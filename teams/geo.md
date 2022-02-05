@@ -77,7 +77,7 @@ If you do not struggle with survivability with Shields from **Crystallization** 
 * This mono **Geo** team composition synergizes greatly to provide Itto with offensive and defensive buffs and the ability to deal damage uninterrupted during his main mode of damage; his **Elemental Burst**.
 * Gorou is able to buff both Itto and Albedo damage due to buffing their DEF.
 * Albedo provides off-field damage.
-* Zhongli's strong shield provides survival and **Interruption Resistance**.
+* Zhongli's strong shield provides survival utility.
 * Lower **Energy Recharge** is required across the board due to the constant **Geo** **Energy Particle** generation from the entire team.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)

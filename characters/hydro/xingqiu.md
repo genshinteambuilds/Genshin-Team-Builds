@@ -7,7 +7,7 @@
 
 ## **Character Breakdown**
 
-* Elemental Skill deals **Hydro Damage** and applies **Hydro** to Xingqiu momentarily. Xingqiu's **Elemental Skill** also surrounds the active character with 3 (4 if **C1**) **Rain Swords** which reduce incoming damage and improves the active character's interruption **Resistance**.
+* Elemental Skill deals **Hydro Damage** and applies **Hydro** to Xingqiu momentarily. Xingqiu's **Elemental Skill** also surrounds the active character with 3 (4 if **C1**) **Rain Swords** which reduce incoming damage and improves the active character's interruption resistance.
 * **Elemental Burst** is identical to **Elemental Skill** in applying the **Hydro** to Xingqiu momentarily and surrounding the active character with rain swords. These **Rain swords** will summon **Hydro** sword rain attacks that attack any enemies when a character performs a **Normal Attack**.
 * **A1** allows Xingqiu's **Rain Swords** from his **Elemental Skill** and **Burst** to heal the active character based on Xingqiu's **Max** **HP** when it expires or breaks.
 
@@ -63,7 +63,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)​​
 
-* While Xingqiu does not contribute to the **Superconduct** reaction required for **Physical** teams at all, he is in general just an incredibly useful support; incidentally **Freezing** enemies, dealing large amounts of damage by himself, reducing damage, and increasing interruption **Resistance**.
+* While Xingqiu does not contribute to the **Superconduct** reaction required for **Physical** teams at all, he is in general just an incredibly useful support; incidentally **Freezing** enemies, dealing large amounts of damage by himself, reducing damage, and increasing interruption resistance.
 
 #### [Vaporize (Pyro)](../../teams/reverse-vaporize.md)
 

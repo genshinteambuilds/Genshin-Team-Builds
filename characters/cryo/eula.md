@@ -10,7 +10,7 @@
 * Eula relies on her **Elemental Burst, Skill** and **Normal Attacks** to deal **Physical DMG**.
 * **Elemental Skill** changes based on whether it is tapped or held.
   * **Elemental Skill (Tap)** deals **Cryo DMG** and gains Eula a stack of Grimheart.
-    * Grimheart increases Eula's **DEF** and Resistance to interruption. A maximum of two stacks can be held.
+    * Grimheart increases Eula's **DEF** and resistance to interruption. A maximum of two stacks can be held.
   * **Elemental Skill (Hold)** consumes all Grimheart stacks, deals **Cryo DMG**, and activates the following effects:
     * Each stack of Grimheart consumed creates an instance of **AoE** **Cryo** **DMG**.
     * If any Grimheart stacks are consumed, surrounding enemies will have their **Physical** and **Cryo Resistance** debuffed.

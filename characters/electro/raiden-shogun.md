@@ -48,7 +48,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
-* Xingqiu's **Elemental Burst** can be triggered by Raiden Shogun's **Normal Attacks** in her **Elemental Burst**. Along with the damage reduction, small amounts of healing, and an **Elemental Burst** costing 80 energy which grants Raiden Shogun with more Resolve stacks, Xingqiu is able to provide a strong mix of offensive damage and defensive utility while also benefiting from the energy Raiden Shogun can generate.
+* Xingqiu's **Elemental Burst** can be triggered by Raiden Shogun's **Normal Attacks** in her **Elemental Burst**. Along with the **Damage Reduction**, small amounts of healing, and an **Elemental Burst** costing 80 energy which grants Raiden Shogun with more Resolve stacks, Xingqiu is able to provide a strong mix of offensive damage and defensive utility while also benefiting from the energy Raiden Shogun can generate.
 
 ## **Does Not Work Well With**
 
