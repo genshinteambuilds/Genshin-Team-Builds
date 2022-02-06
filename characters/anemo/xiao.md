@@ -30,14 +30,14 @@
 
 #### ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Unlike other Anemo characters which are often used in a supporting role, Xiao has limited synergy with other elements such as **Cryo**, **Electro** or **Hydro** as their reactions cannot be used to boost Xiao's damage.
-* **Geo** and **Pyro Resonance** can be used to boost Xiao's damage directly.
+* Unlike other Anemo characters which are often used in a supporting role, Xiao has limited synergy with other elements such as **Cryo**, **Electro** or **Hydro** as **Elemental Reactions** cannot be used to boost Xiao's damage.
+* **Geo** and **Pyro Resonance** can be used to buff Xiao directly.
 
 ## Does Not Work Well With
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
 
-* As a Selfish Main DPS, Xiao does not work well with other characters that must stay on the field in order to do damage.
+* As a Selfish Main DPS character, Xiao does not work well with other characters that must stay on the field in order to do damage.
 * **Physical** **DMG** characters usually cannot buff Xiao or support him in any way.
 
 ## Teams
@@ -55,6 +55,6 @@ Xiao only really works in an **Anemo** team where Xiao works as the Selfish Main
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
 * **Geo Resonance** is an effective way to boost Xiao's damage.
-* Albedo provides Off-Field damage with his **Elemental Skill.**
+* Albedo provides Off-Field **Geo DMG** with his **Elemental Skill.**
 * Zhongli provides Shielding and decreases the enemy's **Elemental Resistance** with his **Elemental Skill.**
 * Jean provides Healing as well as acts as an energy battery for Xiao.
