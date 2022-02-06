@@ -14,15 +14,13 @@
   * **ATK SPD** increased.
   * **Charged Attack** disabled.
   * Increased resistance to interruption.
-  * Razor becomes immune to the **Electro-Charged** **Elemental Reaction** and has increased **Electro** Resistance.
+  * Cannot take damage from the **Electro-Charged** status and has increased **Electro** Resistance.
 * **A1** reduces the Cooldown on Razor's **Elemental Skill**, and activating his **Elemental Burst** instantly resets the Cooldown of his **Elemental Skill.**
 * **A4** provides Razor extra **Energy Recharge** when he has less than half of the energy needed for his **Elemental Burst**.
 
 ## Additional Notes
 
-* **Elemental Burst** can change Razor's optimal attack combo depending if it's active or not.&#x20;
-  * If Razor's **Elemental Burst** is not active, Razor deals more DPS with a three-hit combo followed by a dash cancel.
-  * If Razor's **Elemental Burst** is active, Razor deals more DPS with a full four-hit combo followed by a dash cancel.
+* **Elemental Burst** can change Razor's optimal attack combo depending if it's active or not. Razor deals more damage per second with a three-hit combo followed by a dash cancel to omit the final attack if his **Elemental Burst** is not active. However, if Razor's **Elemental Burst** is active he will deal more damage with a full four-hit combo and dash cancelling after the fourth hit instead.
 * **Elemental Burst** will be cancelled when swapping to another character while it's active. This why Razor is referred as a Selfish Main DPS and it is generally recommended to keep him on the field for as long as possible.
   * An exception to this is when all enemies have be defeated. Cancelling his **Elemental Burst** will return a small amount of energy to Razor.
 * Razor's Passive Talent reduces the **Stamina** consumption of sprinting by 20% for the entire team, and is non-stackable with other similar Passive Talents. This makes Razor a good world exploration character, as his claymore can also mine ores.
@@ -35,7 +33,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
 
-* Off-Field **Hydro** characters work well with Razor as they can provide useful utility effects such as healing, and can create **Electro-Charged** **Elemental Reactions**.
+* Off-Field **Hydro** characters work well with Razor as they can provide useful utility effects such as healing, and extra damage through **Electro-Charged** Reactions.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
@@ -51,24 +49,24 @@
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
 
 * Zhongli's shield allows Razor to negate incoming damage that might otherwise interrupt his attacks. Additionally, the shield also reduces enemy **Physical Resistance**. Zhongli's **Elemental Burst** locks enemies in place, preventing them from being knocked back by Razor's attacks.
-* Albedo provides Off-Field **Geo DMG** and can generate shields through the **Crystallize** reaction.
+* Albedo provides Off-Field damage and can generate shields through the **Crystallize** reaction.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)
 
-* Yunjin boosts Razor's **Normal Attack DMG**.
+* Yunjin boosts Razor's **Normal Attack** damage.
 
 ## **Does Not Work Well With**
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)
 
-* Razor's kit innately favors **Physical** **DMG**. Chongyun's **Elemental Skill** infusing Razor's **Normal Attacks** to deal **Cryo DMG**, which negates his build's **Physical** **DMG** bonuses.
+* Razor's kit innately favors **Physical** **Damage**. Chongyun's **Elemental Skill** infusing Razor's **Normal Attacks** to deal **Cryo Damage**, which negates his build's **Physical** damage bonuses.
 
 #### ![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* **Overload** reactions will knock smaller enemies away from Razor. This may not be an issue with larger enemies or bosses.
+* **Overload** reactions will knock smaller enemies away from Razor. However, **Pyro** can be used on larger enemies for additional damage.
 
 {% hint style="warning" %}
-Bennett is sometimes run in his team despite this for his healing and **ATK** buff from his **Elemental Burst.** However, this will constantly cause **Overload** reactions around Razor when both **Elemental Bursts** are used simultaneously, knocking away smaller enemies.
+Bennett is sometimes run in his team despite this for his healing and **ATK** buff from his **Elemental Burst.** However, this will constantly cause **Overload** reactions around Razor when both **Elemental Bursts** are used simultaneously, knocking away lighter enemies.
 {% endhint %}
 
 ## **Teams**
@@ -84,17 +82,17 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * A team that runs Razor as Main DPS and a **Cryo** support to cause **Superconduct**.
-* Xingqui provides Off-Field **Hydro DMG** nd resistance to interruption.
-* Fischl acts as an Energy Battery and provides Off-Field **Electro DMG**.
+* Xingqui provides Off-Field damage and stagger **Resistance**.
+* Fischl acts as an Energy Battery and provides Off-Field damage.
 * Diona provides **Cryo** for **Superconduct** and also shields and heals.
 
 {% hint style="warning" %}
-Non-Superconduct is generally not recommended, as the Superconduct reaction greatly benefits teams focusing on **Physical DMG**.
+Non-Superconduct is generally not recommended, as the Superconduct reaction greatly benefits teams focusing on Physical Damage.
 {% endhint %}
 
 **Non-Superconduct**
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* This team supplements Razor's **Physical DMG** and **Electro DMG** with the **Electro-Charged** **Elemental Reaction**.
-* Strong Off-Field DPS characters and/or **Geo** or **Pyro Resonance** can be used to provide utility and buffs to the team's damage.
+* This team supplements Razor's **Physical** and **Electro** **Damage** with the **Electro-Charged** reaction, providing additional damage and Crowd Control.
+* Strong Sub-DPS and/or **Geo** or **Pyro Resonance** can be used to provide utility and buffs to the team's damage.
