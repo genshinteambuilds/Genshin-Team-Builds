@@ -15,7 +15,7 @@ Immobilization restricts enemy movement leaving them immobile and normally compl
 {% hint style="info" %}
 The **Frozen Elemental Reaction** (**Cryo** + **Hydro**) is one form of Immobilization Crowd Control. Any teams with both a **Cryo** and a **Hydro** character will have the ability to freeze enemies. This can affect every enemy except bosses meaning enemies that would normally be a threat will be harmless and immobile so long as they are **Frozen**.\
 \
-Any other **Elemental Reactions** from other elements besides **Hydro**, **Cryo** and **Anemo**, as well as Heavy Attacks (**Claymore** / **Plunging Attacks** / **Explosions** / **Geo Damage**) will break the **Frozen** status. With certain teams compositions, you can keep an enemy permanently **Frozen** in place.
+Any other **Elemental Reactions** from other elements besides **Hydro**, **Cryo** and **Anemo**, as well as Heavy Attacks (**Claymore** / **Plunging Attacks** / **Explosions** / **Geo DMG**) will break the **Frozen** status. With certain teams compositions, you can keep an enemy permanently **Frozen** in place.
 {% endhint %}
 
 ## Taunting <a href="#taunt" id="taunt"></a>
