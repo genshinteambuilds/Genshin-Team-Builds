@@ -10,10 +10,10 @@
 * **Elemental Skill** infuses Hu Tao’s **Normal Attack** and **Charged Attacks** with **Pyro** and increases Hu Tao’s **ATK** based on her **Max HP.**
   * **Elemental Skill** consumes 30% of Hu Tao's current **HP** when cast.
   * **Elemental Skill** knocks back enemies near Hu Tao on activation and increases her resistance to interruption.
-  * Using **Charged Attacks** while the **Elemental Skill** is active applies Blood Blossom to the enemies hit. Enemies affected by Blood Blossom will take **Pyro** **Damage** periodically.
-* **Elemental Burst** deals a large amount of **AoE Pyro** damage and heals Hu Tao based on the number of enemies hit.
-  * **Elemental Burst** damage and healing are increased if Hu Tao’s **HP** is equal to or less than 50%.
-* **A4** increases Hu Tao's **Pyro Damage** by 33% if her **HP** is equal to or less than 50%
+  * Using **Charged Attacks** while the **Elemental Skill** is active applies Blood Blossom to the enemies hit. Enemies affected by Blood Blossom will take **Pyro** **DMG** periodically.
+* **Elemental Burst** deals a large amount of **AoE Pyro** **DMG** and heals Hu Tao based on the number of enemies hit.
+  * **Elemental Burst** **DMG** and healing are increased if Hu Tao’s **HP** is equal to or less than 50%.
+* **A4** increases Hu Tao's **Pyro DMG** by 33% if her **HP** is equal to or less than 50%
 
 ## **Additional Notes**
 
@@ -52,7 +52,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
-* Interferes with Hu Tao's **Vaporize** reactions which will results in a Damage loss.
+* Interferes with Hu Tao's **Vaporize** reactions which will result in a damage loss.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
@@ -76,8 +76,8 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Hu Tao can **Vaporize** her attacks using the **Hydro** applied to the enemy by Xingqiu's **Elemental Burst**.
-* Zhongli provides an **Elemental Resistance** Debuff with his shield while also protecting from all sources of damage.
-* Albedo provides off-field damage and **Elemental Mastery** buff when using his **Elemental Burst**.
+* Zhongli provides an **Elemental Resistance** debuff with his shield while also protecting the team.
+* Albedo provides Off-Field **Geo DMG** and an **Elemental Mastery** buff when using his **Elemental Burst**.
 * Using both Albedo and Zhongli gives the team **Geo Resonance**.
 
 ### Character Specific Teams
