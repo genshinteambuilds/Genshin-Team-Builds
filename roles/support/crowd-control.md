@@ -10,7 +10,7 @@ This type of Crowd Control is is common among **Anemo** Support characters. It s
 
 ## Immobilization
 
-Immobilization restricts enemy movement leaving them immobile and normally completed exposed to any form of damage. Damage may free the enemy from the Crowd Control depending on the exact ability used to immobilize them in the first place and the damage types or weapon type being used.
+Immobilization restricts enemy movement leaving them immobile and normally completely exposed to any form of damage. Dealing damage to the immobilized enemy may free the enemy from the Crowd Control depending on the exact ability used to immobilize them in the first place and the damage type or weapon type being used.
 
 {% hint style="info" %}
 The **Frozen Elemental Reaction** (**Cryo** + **Hydro**) is one form of Immobilization Crowd Control. Any teams with both a **Cryo** and a **Hydro** character will have the ability to freeze enemies. This can affect every enemy except bosses meaning enemies that would normally be a threat will be harmless and immobile so long as they are **Frozen**.\
