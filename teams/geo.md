@@ -88,6 +88,11 @@ If you do not struggle with survivability with Shields from **Crystallization** 
 * When **Elemental Bursts** are not ready to be cast, Ningguang deals sustained damage with her **Normal** and **Charged Attacks**.
 * Xiangling deals Off-Field **AoE** **Pyro DMG** and Bennett acts as Xiangling's Energy Battery and overall team buffer and healer.
 
+![](../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+
+* Since Zhongli satisfies both shielding and **Geo Resonance** requirements, Beidou and Fischl are used here for **Electro Resonance** and to provide Off-Field **Electro DMG**.
+* Fischl also helps with recharging Beidou's Elemental Burst.
+
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Noelle.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 {% hint style="info" %}
