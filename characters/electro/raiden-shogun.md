@@ -4,7 +4,7 @@
 
 * **Burst DPS**
 * **Off-Field DPS** (Elemental Skill)
-* **Support:** Energy Battery, Buffer (C4)
+* **Support:** Energy Battery, Buffer
 * **Main DPS**
 
 ## **Character Breakdown**
@@ -12,7 +12,7 @@
 * With the Raiden Shogun in your party, casting **Elemental Bursts** from other party members will grant her Resolve (Max 60 stacks) based on the energy cost of the **Elemental Burst** used. Resolve increases her own **Elemental Burst DMG**.
   * **A1** grants 2 stacks of Resolve when a character collects an **Energy Particle**, can occur once every 3 seconds.
 * **Elemental Skill** deals **Electro DMG** on use and causes a coordinated attack to be launched whenever an active character deals damage to an enemy, dealing **AoE** **Electro** **DMG** (with a short Cooldown of 0.9 seconds).
-  * It also raises their **Elemental Burst** **DMG** relative to the total **Energy Cost** of the active character's **Elemental Burst**.
+  * It also buffs their **Elemental Burst** **DMG** relative to the total **Energy Cost** of the active character's **Elemental Burst**.
 * **Elemental Burst** consumes all Resolve stacks gained and causes the Raiden Shogun to deal massive **AoE** **Electro** **DMG** in the direction she is facing. Following the initial burst, she then converts her **Normal** and **Charged Attacks** to **Electro** which counts as **Elemental Burst** **DMG** for 7 seconds.
   * The Raiden Shogun’s attacks during her **Elemental Burst** generate energy for the rest of the party.
 * **A4** causes **Energy Recharge** to increase the Raiden Shogun’s **Electro** **DMG** by 0.4% as well as increase the **Energy Recharge** for the party from her **Elemental Burst** by 0.6% for every 1% above 100% **Energy Recharge.**
