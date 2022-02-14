@@ -73,13 +73,13 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
 
-* Kaeya plays the role of the On-field Main DPS in this team with his **Normal Attacks** and **Charged Attacks** infused with **Cryo** thanks to Chongyun's **Elemental Skill.**
+* Kaeya plays the role of the On-Field Main DPS in this team with his **Normal Attacks** and **Charged Attacks** infused with **Cryo** thanks to Chongyun's **Elemental Skill.**
 * Xingqiu's **Elemental Burst** applies **Hydro** to allow this team to **Freeze** enemies.
 * Sayu provides healing and the **Viridescent Venerer** debuff.
 
 {% hint style="info" %}
 Possible substitutions:
 
-* Xingqiu can be substitued for Kokomi, Mona or any other source of Off-field **Hydro** application.
+* Xingqiu can be substitued for Kokomi, Mona or any other source of Off-Field **Hydro** application.
 * Sayu can be replaced with any Healer or Shielder or another **Anemo** support character if healing is not required.
 {% endhint %}
