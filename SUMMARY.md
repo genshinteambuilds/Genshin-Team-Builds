@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Glossary](glossary.md)
 
 ## Roles
 
@@ -101,5 +102,4 @@
 
 ***
 
-* [Glossary](glossary.md)
 * [About Us](about-us.md)
