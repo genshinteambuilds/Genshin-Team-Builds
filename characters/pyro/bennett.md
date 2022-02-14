@@ -7,11 +7,11 @@
 
 ## **Character Breakdown:**
 
-* **Elemental Skill (Tap)** deals an instance of **Pyro** damage.
-* **Elemental Skill (Hold)** charges this ability to deal additional instances of damage and effects based on the charged level.
+* **Elemental Skill (Tap)** deals an instance of **Pyro DMG**.
+* **Elemental Skill (Hold)** charges this ability to deal additional instances of **Pyro DMG** and effects based on the charged level.
   * At **Charge level 1**, Bennett strikes 2 times and launches small enemies.
   * At **Charge level 2**, Bennett strikes 3 times and triggers an explosion at the end that launches both himself and the enemy.
-* **Elemental Burst** deals **AoE** **Pyro** damage and creates a field on the ground. Allies within this field gain the following effects:
+* **Elemental Burst** deals **AoE** **Pyro DMG** and creates a field on the ground. Allies within this field gain the following effects:
   * If the active character is below 70% **HP**, they regain **HP** until the character is at or above 70% **HP**.
   * If the active character is above 70% **HP**, they gain a flat **ATK** buff.
   * Periodically applies **Pyro** to the active character.

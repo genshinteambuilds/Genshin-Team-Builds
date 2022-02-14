@@ -41,7 +41,6 @@
 #### ![](../../.gitbook/assets/Element\_Cryo.webp)
 
 * **Geo** **DMG** triggers the **Shatter** reaction stopping enemies from being **Frozen**, which results in disrupting **Freeze**-based teams.
-* Many **Cryo** characters would prefer to utilize the powerful reactions they have access to rather than the raw damage that many **Geo** teams tend to focus on.
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)
 

@@ -8,10 +8,10 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** summons a Bake-Kurage, which periodically heals allies, damages enemies in an area, and applies **Hydro**. Applies **Hydro** to Kokomi, which can cleanse some debuffs.
-* **Elemental Burst** deals **Hydro Damage** to nearby enemies and causes her **Elemental Skill** and **Normal** and **Charged Attacks** to gain damage based on her **Max** **HP** for a short duration. Additionally, Kokomi gains resistance to interruption and her **Normal** and **Charged Attacks** heal all party members.
+* **Elemental Skill** summons a Bake-Kurage, which periodically heals allies, damages enemies in an area, and applies **Hydro**. Also applies **Hydro** to Kokomi, which can cleanse some debuffs.
+* **Elemental Burst** deals **Hydro DMG** to nearby enemies and causes her **Elemental Skill** and **Normal** and **Charged Attacks** to gain a **DMG Bonus** based on her **Max** **HP** for a short duration. Additionally, Kokomi gains resistance to interruption and her **Normal** and **Charged Attacks** heal all party members.
 * **A1** causes the duration of Kokomi's **Elemental Skill** duration to be refreshed when she uses her **Elemental Burst**.
-* **A4** increases the bonus damage gained during Kokomi's **Elemental Burst** by 15% of her **Healing Bonus**.
+* **A4** increases the **DMG Bonus** gained during Kokomi's **Elemental Burst** by 15% of her **Healing Bonus**.
 * Kokomi's 3rd Passive Talent reduces her **CRIT Rate** by 100% in exchange for a 25% increase in **Healing Bonus**.
 
 ## **Additional Notes**
@@ -32,7 +32,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
-* Kokomi's **Hydro** application from her **Normal** and **Charged Attacks** can be used to **Vaporize** damage from Xiangling's **Elemental Skill** and **Burst.**
+* Kokomi's **Hydro** application from her **Normal** and **Charged Attacks** can be used to **Vaporize** Xiangling's **Elemental Skill** and **Burst.**
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
@@ -64,7 +64,7 @@ This character is a healer. While some teams are provided below where they are p
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
 * Kokomi's high **Hydro** application allows her to be used as a Main DPS in this team to repeatedly trigger **Electro-Charged**.
-* Kokomi's massive reduction in **CRIT Rate** allows her to build heavily into **Elemental Mastery**, greatly increasing the damage of **Electro-Charged**.
+* Kokomi's massive reduction in **CRIT Rate** allows her to build heavily into **Elemental Mastery**, greatly increasing the output of **Electro-Charged Elemental Reactions**.&#x20;
 
 [**Freeze (Cryo)**](../../teams/freeze.md)
 
@@ -77,10 +77,10 @@ This character is a healer. While some teams are provided below where they are p
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
-* Kokomi can be used as a **Hydro** applicator to **Vaporize** the damage from a **Pyro** Off-Field DPS such as Xiangling.
+* Kokomi can be used to apply **Hydro** to **Vaporize** the damage from a **Pyro** Off-Field DPS such as Xiangling.
 
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Kokomi can provide enough **Hydro** application to keep up with Diluc's damage, allowing other **Hydro** characters such as Xingqiu who are typically paired with him to be used in other teams.
+* Kokomi can provide enough **Hydro** application to **Vaporize** Diluc's **Pyro DMG**, allowing other **Hydro** characters such as Xingqiu who are typically paired with him to be used in other teams.

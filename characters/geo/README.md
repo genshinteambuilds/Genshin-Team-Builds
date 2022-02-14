@@ -37,7 +37,7 @@
 ## Teams
 
 {% hint style="info" %}
-We have not included every single team here as some **Geo** characters can be used on virtually all team compositions. Zhongli in particular is often used in every team if possible due to his incredibly strong Shielding, Debuffing and Burst Damage capabilities.\
+We have not included every single team here as some **Geo** characters can be used on virtually all team compositions. Zhongli in particular is often used in every team if possible due to his incredibly strong Shielding, Debuffing and Burst DPS capabilities.\
 \
 **Geo** characters do not contribute to any **Elemental Reactions** required for team compositions.
 {% endhint %}

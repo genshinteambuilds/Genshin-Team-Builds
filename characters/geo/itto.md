@@ -9,7 +9,7 @@
 * 2nd and 4th consecutive **Normal Attack** that hit opponents grant Itto 1 or 2 stacks of Superlative Superstrength, respectively.
   * Superlative Strength: Max 5 stacks. Each new stack refreshes the current duration of any existing stacks.
 * **Charged Attack** is unique and performs a series of Arataki Kesagiri slashes without consuming Stamina when held. Each Arataki Kesagiri slash consumes 1 stack of Superlative Superstrength. When the final stack is consumed, Itto delivers a powerful final slash. If no stacks of Superlative Superstrength are available, Itto will perform a single Saichimonji Slash.
-* **Elemental Skill** throws Ushi (Geo Construct) and deals AoE damage to enemies hit. Itto gains 1 stack of Superlative Strength if enemies are hit.
+* **Elemental Skill** throws Ushi (**Geo Construct**) and deals **AoE Geo DMG** to enemies hit. Itto gains 1 stack of Superlative Strength if enemies are hit.
   * Ushi taunts enemies and gives Itto a stack of Superlative Strength when hit.
 * **A1** grants Itto increased resistance to interruption and **ATK SPD** during consecutive Arataki Kesagiri slashes.
 * **A4** increases Arataki Kesagiri **DMG** by a percentage of his **DEF**.
@@ -32,7 +32,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's shield gives Itto the the safety to focus on dealing damage uninterrupted.
+* Zhongli's shield gives Itto the the safety to focus on attacking enemies uninterrupted.
 
 #### ![](../../.gitbook/assets/Element\_Geo.webp)
 
@@ -44,7 +44,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Albedo and Fischl provide strong off-field damage and are able to battery the team. Diona can provide both a shield and healing. Both Fischl and Diona can provide an element for **Crystallize** to occur.
+* Albedo and Fischl are strong Off-Field DPS and are able to battery the team. Diona can provide both a shield and healing. Both Fischl and Diona can provide an element for **Crystallize** to occur.
 
 ## Does Not Work Well With
 
@@ -54,7 +54,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
-* As a Selfish Main DPS, Itto does not work well with other characters that must stay on the field in order to do damage.
+* As a Selfish Main DPS, Itto does not work well with other characters that must stay on the field.
 
 ## **Teams**
 
@@ -71,7 +71,7 @@ Itto only works in an **Geo** team where Itto plays the role of the Selfish Main
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Gorou is Itto's primary offensive buffer, providing **DEF** as well as various other offensive and defensive buffs.
-* Albedo benefits greatly from Gorou as well and is able to provide strong off-field damage.
+* Albedo benefits greatly from Gorou as well and is able to provide strong Off-Field **Geo DMG**.
 * Zhongli provides the shield for **Geo Resonance** and survivability.
 * This full Geo team is able to take advantage of multiple **Geo** constructs providing energy for Itto, making his **Energy Recharge** requirement lower.
 
@@ -80,4 +80,4 @@ Itto only works in an **Geo** team where Itto plays the role of the Selfish Main
 * Gorou is Itto's primary offensive buffer, providing **DEF** as well as various other offensive and defensive buffs.
 * Zhongli provides the shield for **Geo Resonance** and survivability.
 * This full **Geo** team is able to take advantage of multiple **Geo** constructs providing energy for Itto, making his **Energy Recharge** requirement lower.
-* Bennett boosts Itto's damage as well as provides a consistent source of healing.
+* Bennett boosts Itto's **ATK** as well as provides a consistent source of healing.

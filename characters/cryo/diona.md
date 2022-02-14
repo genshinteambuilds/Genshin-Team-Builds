@@ -7,12 +7,12 @@
 ## **Character Breakdown**
 
 * **Elemental Skill** changes based on whether it is tapped or held.
-  * **Elemental Skill (Tap)** fires two homing projectiles that deal **Cryo** damage and creates a Shield.
-  * **Elemental Skill (Hold)** fires five homing projectiles that deal **Cryo** damage and creates a more powerful Shield.
+  * **Elemental Skill (Tap)** fires two homing projectiles that deal **Cryo DMG** and creates a Shield.
+  * **Elemental Skill (Hold)** fires five homing projectiles that deal **Cryo DMG** and creates a more powerful Shield.
   * **A1** increases movement speed and decreases **Stamina** consumption of characters shielded by Diona's **Elemental Skill.**
-  * The Shield's Damage Absorption scales with Diona's **Max HP**.
+  * The Shield's damage absorption scales with Diona's **Max HP**.
   * Diona's **Elemental Skill's** shield duration is affected by the number of projectiles that hit enemies.
-* **Elemental Burst** creates a field that deals continuous **Cryo** damage in an **AoE** and continuously heals characters that stand in it.
+* **Elemental Burst** creates a field that deals continuous **Cryo DMG** in an **AoE** and continuously heals characters that stand in it.
 
 ## **Additional Notes**
 
@@ -36,7 +36,7 @@
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * Diona works well with almost every team in the game by universally functioning as a **Healer** and a **Shielder**.
-* Diona's **C6** **Elemental Mastery** buff helps in teams that focus on **Elemental Reaction** damage.
+* Diona's **C6** **Elemental Mastery** buff helps in teams that focus on **Elemental Reactions**.
 
 ## **Does Not Work Well With**
 

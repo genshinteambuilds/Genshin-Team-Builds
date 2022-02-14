@@ -66,7 +66,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tohma.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Thoma provides additional shielding for the team but may be replaced for higher damage options if shielding is not required.
+* Thoma provides additional shielding for the team but may be replaced for other options if shielding is not required.
 
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 

@@ -7,15 +7,15 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** throws a **Jumpty Dumpty,** which bounces 3 times and explodes into 8 mines. **Jumpty Dumpty** starts with 2 charges.
-* **A1** gives Klee a 50% chance to gain an Explosive Spark when **Normal attacks** and J**umpty Dumpty** hits enemies. When in possession of Explosive Spark, Klee’s next **Charged Attack** will cost no **Stamina** and have 50% increased damage.
-* **Elemental Burst** summons 4 **Sparks ‘n’ Splash** 5 times over 10 seconds, dealing **AoE** **Pyro** Damage to nearby enemies.
+* **Elemental Skill** throws a Jumpty Dumpty, which bounces 3 times and explodes into 8 mines. Jumpty Dumpty starts with 2 charges.
+* **A1** gives Klee a 50% chance to gain an Explosive Spark when **Normal attacks** and Jumpty Dumpty hits enemies. When in possession of Explosive Spark, Klee’s next **Charged Attack** will cost no **Stamina** and have a 50% **DMG Bonus**.
+* **Elemental Burst** summons 4 **Sparks ‘n’ Splash** 5 times over 10 seconds, dealing **AoE** **Pyro DMG** to nearby enemies.
 * **A4** gives party members 2 energy when Klee’s **Charged Attacks** deals **CRIT DMG.**
 
 ## Additional Notes
 
-* **C2** allows Klee to be used as support by throwing out her 2 **Jumpty Dumpty** and switching out, as the mines reduces enemies' **DEF** by 23% for 10 seconds.
-* At **C6**, Klee provides 3 energy to the party every 3 seconds while her **Elemental Burst** is active. Klee also buffs all party members **Pyro** damage by 10% for 25 seconds after casting her **Elemental Burst.**
+* **C2** allows Klee to be used as support by throwing out her 2 Jumpty Dumpty and switching out, as the mines reduces enemies' **DEF** by 23% for 10 seconds.
+* At **C6**, Klee provides 3 energy to the party every 3 seconds while her **Elemental Burst** is active. Klee also buffs all party members **Pyro DMG** by 10% for 25 seconds after casting her **Elemental Burst.**
 
 ## Works Well With
 
@@ -44,9 +44,9 @@ In all teams below, Bennett acts as the team's healer while providing an **ATK**
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Klee's goal is to deal as much **Pyro** damage as possible through her **Charged Attack**, **Elemental Skill** during her **Elemental Burst**.
+* Klee's goal is to deal as much **Pyro DMG** as possible through her **Charged Attack**, **Elemental Skill** during her **Elemental Burst**.
 * Xiangling and Bennett provide off-field **Pyro** application and team buffing respectively.
-* Kazuha provides **Pyro Resistance** Debuff through **Viridescent Venerer** 4-set and buffs **Pyro** damage with his **A4**.
+* Kazuha provides **Pyro Resistance** Debuff through **Viridescent Venerer** 4-set and buffs **Pyro DMG** with his **A4**.
 
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 

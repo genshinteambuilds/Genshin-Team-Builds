@@ -7,9 +7,9 @@
 
 ## Character Breakdown
 
-* **Elemental Skill (Tap)** deals **AoE** **Anemo** **Damage** in front of Venti and launches enemies hit into the air.
-* **Elemental Skill (Hold)** deals increased **AoE** **Anemo** **Damage** around Venti and launches him into the air.
-* **Elemental Burst** creates a massive **Stormeye** that sucks in opponents and continuously deals **Anemo** **Damage**. The Stormeye can absorb **Cryo**, **Electro**, **Hydro** or **Pyro** and will continuously deal additional damage of that elemental type.
+* **Elemental Skill (Tap)** deals **AoE** **Anemo** **DMG** in front of Venti and launches enemies hit into the air.
+* **Elemental Skill (Hold)** deals increased **AoE** **Anemo** **DMG** around Venti and launches him into the air.
+* **Elemental Burst** creates a massive **Stormeye** that sucks in opponents and continuously deals **Anemo** **DMG**. The Stormeye can absorb **Cryo**, **Electro**, **Hydro** or **Pyro** and will continuously deal additional **DMG** of that elemental type.
 * **Anemo** characters need to be within 20 levels of enemies to be able to Crowd Control them most effectively.
 
 ## **Additional Notes**
@@ -29,7 +29,7 @@
 
 #### ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo** and **Physical Damage** characters.
+* **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo** and **Physical DMG** characters.
   * Venti can still provide the team with Crowd Control utility
 
 ## Teams
@@ -66,4 +66,4 @@ In the following teams, Venti provides debuffing utility using the **Viridescent
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Venti in this team is the primary source of Crowd Control for the whole team.
-* Venti can also act as an Energy Battery for Klee with his **A4** talent allowing Klee to cast her  **Elemental Burst** sooner.
+* Venti can also act as an Energy Battery for Klee with his **A4** talent allowing Klee to cast her **Elemental Burst** sooner.

@@ -7,14 +7,14 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** summons Oz, who deals a large burst of **AoE** **Electro** damage upon summon and periodically deals **Electro** damage to a single enemy for a set duration.
+* **Elemental Skill** summons Oz, who deals a large burst of **AoE** **Electro DMG** and then periodically deals **Electro DMG** to a single enemy for a set duration.
   * Oz remains even when Fischl is not on the field.
 * Reactivating Fischl’s **Elemental Skill** while it’s already active will re-summon Oz at her current location.
-* **Elemental Burst** will cause Fischl to damage all enemies she comes into contact with during its duration and summons Oz at the end of it's use.
+* **Elemental Burst** will cause Fischl to deal **Electro DMG** all enemies she comes into contact with during its duration and summons Oz at the end of it's use.
 
 ## Additional Notes
 
-* Oz is primarily used to deal sustained **Electro** damage from Off-Field.
+* Oz is primarily used to deal sustained **Electro DMG** from Off-Field.
 * Fischl’s **Elemental Burst** is currently the only **Elemental Burst** that does not provide Invincibility Frames. Her movement can also be manually controlled during its animation.
 * **Elemental Burst** can be cancelled early by swapping to another character.
 * **C6** benefits characters who attack frequently, as it applies a small secondary **Electro** hit on each attack.
@@ -23,11 +23,11 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
-* Eula can benefit from frequent **Superconduct** reactions which debuffs **Physical Resistance,** and the extra **Electro** damage provided by Fischl.
+* Eula can benefit from frequent **Superconduct** reactions which debuff **Physical Resistance**.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
-* Tartaglia and Xingqiu provide a high rate of **Hydro** application and combined with Fischl's Oz,  can constantly create **Electro-Charged** reactions.
+* Tartaglia and Xingqiu provide a high rate of **Hydro** application and combined with Fischl's Oz, can constantly create **Electro-Charged** reactions.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
@@ -74,4 +74,4 @@ In all the teams listed below, Fischl universally provides Off-Field **Electro**
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Fischl pairs well with **Physical** Main DPS because of frequent **Superconduct** reactions, which debuffs **Physical Resistance**. She also helps provide extra damage without requiring much field time.
+* Fischl pairs well with **Physical** Main DPS because of frequent **Superconduct** reactions, which debuff **Physical Resistance**. She also helps provide extra Off-Field **Electro DMG** without requiring much time spent on her character.

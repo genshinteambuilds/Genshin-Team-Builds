@@ -40,7 +40,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
-* Xiangling is a character who's damage is mainly focused on her **Elemental Burst** and struggles with energy generation. The Raiden Shogun can deal damage with her **Elemental Burst** alongside Xiangling's **Elemental Burst** while also recharging it at the same time.
+* Xiangling is a character who's damage is mainly focused on her **Elemental Burst** and struggles with energy generation. The Raiden Shogun can use her **Elemental Burst** alongside Xiangling's **Elemental Burst** while also recharging it at the same time.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
@@ -54,12 +54,12 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
-* Beidou's **Elemental Burst** cannot be triggered by Raiden Shogun's **Normal Attacks** in her **Elemental Burst**, making Beidou lose her usefulness in providing powerful Off-Field damage.
+* Beidou's **Elemental Burst** cannot be triggered by Raiden Shogun's **Normal Attacks** in her **Elemental Burst**, making Beidou lose her usefulness in providing powerful Off-Field **Electro DMG**.
   * A Beidou pairing can be utilized somewhat by staggering the **Elemental Burst** rotations such that Raiden uses her **Elemental Burst** before and after Beidou's **Elemental Burst** duration is over although this results in quite a long DPS rotation.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)
 
-* Diluc and Hu Tao's damage is mainly focused on their **Normal** and **Charged Attacks** and generally doesn’t need much extra energy generation thanks to their low-cost **Elemental Bursts**, in addition to this, Raiden Shogun will cause their attacks to **Overload** and ruin stronger **Elemental Reactions** such as **Melt** and **Vaporize**.
+* Diluc and Hu Tao's primarily use their **Normal** and **Charged Attacks** and generally do not need much extra energy generation thanks to their low-cost **Elemental Bursts**, in addition to this, Raiden Shogun will cause their attacks to **Overload** and ruin stronger **Elemental Reactions** such as **Melt** and **Vaporize**.
 
 ## **Teams**
 

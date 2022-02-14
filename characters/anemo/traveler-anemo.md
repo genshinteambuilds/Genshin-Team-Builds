@@ -7,9 +7,9 @@
 
 ## Character Breakdown
 
-* **Elemental Skill (Tap)** deals damage and can knock back enemies.
-* **Elemental Skill (Hold)** can gather smaller enemies in front of Traveler (Anemo) and continuously deals **Anemo** damage to them.
-* **Elemental Burst** summons a tornado that moves forward and continuously pulls enemies toward its center, dealing **Anemo** damage.
+* **Elemental Skill (Tap)** deals **Anemo DMG** and can knock back enemies.
+* **Elemental Skill (Hold)** can gather smaller enemies in front of Traveler (Anemo) and continuously deals **Anemo DMG** to them.
+* **Elemental Burst** summons a tornado that moves forward and continuously pulls enemies toward its center, dealing **Anemo DMG**.
 * Can act as a Debuffer with **Viridescent Venerer** 4-set.
 * **Anemo** characters need to be within 20 levels of enemies to be able to Crowd Control them most effectively.
 
@@ -28,7 +28,7 @@
 
 #### ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
-* **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo** and **Physical** damage characters.
+* **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo** and **Physical DMG** characters.
 
 ## Teams
 

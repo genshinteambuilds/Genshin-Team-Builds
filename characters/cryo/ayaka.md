@@ -10,9 +10,9 @@
 ## Character Breakdown
 
 * **Dashing** infuses her **Normal** and **Charged Attacks** with **Cryo** and applies **Cryo** to surrounding enemies when Ayaka reappears after finishing her dash.
-  * **A4** allows Ayaka to regain **Stamina** and receive a buff to her **Cryo** Damage if an enemy is hit by this effect.
-* **Elemental Skill** deals **AoE Cryo** damage.
-* **Elemental Burst** creates a snowstorm that deals a huge amount of **Cryo** damage over 5 seconds and slowly moves away from the character.
+  * **A4** allows Ayaka to regain **Stamina** and receive a buff to her **Cryo DMG** if an enemy is hit by this effect.
+* **Elemental Skill** deals **AoE Cryo DMG**.
+* **Elemental Burst** creates a snowstorm that deals a huge amount of **Cryo DMG** over 5 seconds and slowly moves away from the character.
   * The snowstorm will stop moving upon encountering large or **Frozen** enemies, resulting in that enemy potentially taking up to 20 hits from this ability.
 * Ayaka's primary source of damage is her **Elemental Burst.**
 
@@ -64,7 +64,7 @@
 
 #### ![](../../.gitbook/assets/Element\_Geo.webp)
 
-* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in **Freeze** teams.
+* **Geo DMG** shatters **Frozen** enemies making these characters not ideal in **Freeze** teams.
 * **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.
 
 ## Teams
@@ -84,7 +84,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* A team constructed purely to amplify Ayaka's **Elemental Burst** damage for the purposes of killing bosses or other enemies incredibly fast.
+* A team constructed purely to amplify Ayaka's **Elemental Burst DMG** for the purposes of killing bosses or other enemies incredibly fast.
 
 #### [Oneshot (Melt)](ayaka.md#oneshot)
 

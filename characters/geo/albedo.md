@@ -13,8 +13,8 @@
     * **A1** allows his **Elemental Skill** to deal increased **Geo DMG** to enemies under 50% **HP**.
   * The **Geo** Construct itself acts as an Elevator that lifts up Characters within the flower **Geo** Construct.
 * **Elemental Burst** deals **Geo** **DMG** in a frontal area.
-  * If Albedo's **Elemental Burst** is cast within the field created by his **Elemental Skill**, it will do 7 more instances of **Geo** **DMG** towards enemies in the field.
-    * Damage dealt this way will not activate his **Elemental Skill**'s effects.
+  * If Albedo's **Elemental Burst** is cast within the field created by his **Elemental Skill**, it will do 7 more instances of **Geo** **DMG** to enemies in the field.
+    * This will not activate his **Elemental Skill**.
 * **A4** buffs all members of the party's **Elemental Mastery** after activating his **Elemental Burst**.
 
 ## **Additional Notes**
@@ -26,7 +26,7 @@
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
 
-* Albedo works well with most of the characters in the game. His **Elemental Skill** is very easy to activate and does considerable amounts of damage over its duration.
+* Albedo works well with most of the characters in the game. His **Elemental Skill** is very easy to activate and does considerable amounts of **Geo DMG** over its duration.
 * The **Elemental Mastery** buff from Albedo's **A4** passive allows him to be run in teams that are focused around **Elemental Reactions**.
 * Can be paired with a 2nd **Geo** character to activate **Geo Resonance**.
 

@@ -52,13 +52,13 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
-* Typically only used with Tartaglia in [**Oneshot**](../../teams/oneshot.md) teams. Mona debuffs enemies with **Omen** from her **Elemental Burst** which can be used to amplify Tartaglia's damage.
+* Typically only used with Tartaglia in [**Oneshot**](../../teams/oneshot.md) teams. Mona debuffs enemies with **Omen** from her **Elemental Burst** which can be used to amplify Tartaglia's **Hydro DMG**.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)
 
 * Yunjin can boost Childe's **Normal Attacks**.
-* Although a large amount of of Childe teams' damage is from his Off-Field DPS, Childe's **Normal Attacks** do a considerable amount of damage.
-* Using Yunjin is generally not preferable to running a buffer like Sucrose or Kazuha to boost the damage of your Off-Field DPS characters.
+* Although a large amount of of Childe teams' damage is from his Off-Field DPS, Childe's **Normal Attacks** do a considerable amount of **Hydro DMG**.
+* Using Yunjin is generally not preferable to running a buffer like Sucrose or Kazuha to boost the **Elemental DMG** of your Off-Field DPS characters.
 
 ## **Does Not Work Well With**
 
@@ -90,7 +90,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * Tartaglia's main focus is to Oneshot enemies with his **Elemental Burst**. For a detailed look at how this team works, check out the [**Oneshot**](../../teams/oneshot.md) page.
 * Bennett provides an **ATK** buff and applies **Pyro** on enemies for the **Vaporize** reaction.
-* Mona can apply the **Omen** debuff to increase the damage enemies take.
+* Mona can apply the **Omen** debuff to provide a **DMG Bonus**.
 * Sucrose buffs Tartaglia's **Elemental Mastery** and debuffs **Hydro Resistance** when equipped with **Viridescent Venerer** 4-set.
 
 #### [Vaporize (Hydro)](../../teams/vaporize.md)
@@ -98,4 +98,4 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Xiangling's **Elemental Burst** and **Elemental Skill** can work Off-Field allowing you to attack enemies in Tartaglia's Melee stance, inflicting the enemy with **Hydro** and allowing Xiangling's abilities to **Vaporize** for additional damage.
-* Tartaglia can also **Vaporize** his **Elemental Burst** and deal very high amounts of AoE damage as enemies can be easily inflicted with **Pyro** with Xiangling, Bennett or Anemo characters that create **Swirl** reactions with **Pyro**.
+* Tartaglia can also **Vaporize** his **Elemental Burst** and deal very high amounts of **AoE Hydro DMG** as enemies can be easily inflicted with **Pyro** with Xiangling, Bennett or Anemo characters that create **Swirl** reactions with **Pyro**.

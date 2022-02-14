@@ -6,16 +6,16 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** throws a Freeze Bomb toward an enemy which deals **Cryo** damage and detonates on impact, spawning multiple Chillwater Bomblets.
+* **Elemental Skill** throws a Freeze Bomb toward an enemy which deals **Cryo DMG** and detonates on impact, spawning multiple Chillwater Bomblets.
   * Aloy gains a stacking buff called "Coil" whenever an enemy is hit by the **Elemental Skill** or Chillwater Bomblets.
-  * Coil stacks increase the damage of Aloy’s **Normal Attacks**.
+  * Coil stacks increase Aloy’s **Normal Attack DMG**.
   * At **A1**, gaining stacks of Coil will buff the **ATK** of both Aloy and team members.
 * After reaching 4 stacks of Coil, Aloy enters the Rushing Ice state and:
-  * **Normal Attacks** deal **Cryo Damage.**
+  * **Normal Attacks** deal **Cryo DMG.**
   * **Normal Attack DMG** is increased.
   * Coil stacks are reset and cannot be gained until Rushing Ice ends.
-  * At **A4**, entering the Rushing Ice state will give Aloy a stacking **Cryo** Damage buff every second.
-* **Elemental Burst** deals a large amount of **AoE Cryo** damage.
+  * At **A4**, entering the Rushing Ice state will give Aloy a stacking **Cryo DMG** buff every second.
+* **Elemental Burst** deals a large amount of **AoE Cryo DMG**.
 
 ## Additional Notes
 
@@ -40,7 +40,7 @@
 
 #### ![](../../.gitbook/assets/Element\_Geo.webp)
 
-* **Geo** Damage shatters **Frozen** enemies making these characters not ideal in [**Freeze** ](../../teams/freeze.md)teams.
+* **Geo DMG** shatters **Frozen** enemies making these characters not ideal in [**Freeze** ](../../teams/freeze.md)teams.
 * **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.
 
 ## Teams

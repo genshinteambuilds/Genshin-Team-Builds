@@ -48,13 +48,13 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* This team has a strong Energy economy and mainly focuses on increasing Beidou's **Elemental Burst** damage with powerful **ATK** Buffs provided by Bennett and Kujou Sara along with consistent **Electro-Charged** reactions for strong sustained DPS.
+* This team mainly focuses on increasing Beidou's **Elemental Burst DMG** with powerful **ATK** buffs provided by Bennett and Kujou Sara along with consistent **Electro-Charged** reactions for strong sustained DPS.
 
 [**Oneshot**](../../teams/oneshot.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Sara provides an **ATK** buff, as well as **Electro Particle** generation for Raiden Shogun. She can also provide an **Electro** **CRIT DMG** Buff with **C6**
-* Kazuha buffs this **Elemental Burst** even further with **Viridescent Venerer** and his built-in **Elemental Damage** Buff.
+* Kazuha buffs this **Elemental Burst** even further with **Viridescent Venerer** and his built-in **Elemental DMG** buff.
 * Bennett acts as the team's healer while providing additional **ATK** from his **Elemental Burst**.
 * This team is much more effective with Raiden Shogun's **C2.**

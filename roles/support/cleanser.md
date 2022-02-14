@@ -12,7 +12,7 @@ A Ley Line disorder can be specified on entry to a Domain or Floor in Spiral Aby
 
 ![](<../../.gitbook/assets/cleanse\_disorder copy.png>)
 
-Here is an example of the Ley Line Disorder in action, afflicting our characters with **Cryo** and increasing our stamina consumption. No **Cryo** damage is taken when the status is inflicted.
+Here is an example of the Ley Line Disorder in action, afflicting our characters with **Cryo** and increasing our stamina consumption. No **Cryo DMG** is taken when the status is inflicted.
 
 ![3 seconds after starting the challenge at Domain of Mastery: Frosted Altar IV.](../../.gitbook/assets/cleanse\_cryo\_leyline\_disorder.gif)
 

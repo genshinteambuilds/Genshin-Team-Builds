@@ -7,15 +7,15 @@
 
 ## **Character Breakdown**
 
-* Elemental Skill deals **Hydro Damage** and applies **Hydro** to Xingqiu momentarily. Xingqiu's **Elemental Skill** also surrounds the active character with 3 (4 if **C1**) **Rain Swords** which reduce incoming damage and improves the active character's interruption resistance.
-* **Elemental Burst** is identical to **Elemental Skill** in applying the **Hydro** to Xingqiu momentarily and surrounding the active character with rain swords. These **Rain swords** will summon **Hydro** sword rain attacks that attack any enemies when a character performs a **Normal Attack**.
-* **A1** allows Xingqiu's **Rain Swords** from his **Elemental Skill** and **Burst** to heal the active character based on Xingqiu's **Max** **HP** when it expires or breaks.
+* Elemental Skill deals **Hydro DMG** and applies **Hydro** to Xingqiu momentarily. Xingqiu's **Elemental Skill** also surrounds the active character with Rain Swords which reduce incoming damage and improves the active character's interruption resistance.
+* **Elemental Burst** is identical to **Elemental Skill** in applying the **Hydro** to Xingqiu momentarily and surrounding the active character with Rain Swords. These Rain swords will summon **Hydro** sword rain attacks that attack any enemies when a character performs a **Normal Attack**.
+* **A1** allows Xingqiu's Rain Swords from his **Elemental Skill** and **Burst** to heal the active character based on Xingqiu's **Max** **HP** when it expires or breaks.
 
 ## **Additional Notes**
 
-* The **Rain Swords** summoned by Xingqiu's **Elemental Skill** and **Elemental Burst** can apply **Hydro** to enemies just by touching the enemy similar to Barbara's **Elemental Skill**.
+* The Rain Swords summoned by Xingqiu's **Elemental Skill** and **Elemental Burst** can apply **Hydro** to enemies just by touching the enemy similar to Barbara's **Elemental Skill**.
 * **C2** extends the duration of Xingqiu’s **Elemental Burst** by 3 seconds and decreases the **Hydro** **Resistance** of enemies hit by his sword rain attacks by 15% for 4 seconds.
-* **C4** provides a massive increase in his **Elemental Skill** damage if cast while his **Elemental Burst** is active.
+* **C4** provides a massive increase in his **Elemental Skill DMG** if cast while his **Elemental Burst** is active.
 * Xingqiu's **Elemental Skill** and **Elemental Burst** apply **Hydro** momentarily to himself, allowing him to cleanse Debuffs on himself but not other members of the team. This can also cause Xingqiu to become momentarily **Frozen** if Xingqiu is affected by **Cryo** before using his **Elemental Skill** or **Elemental Burst**.
 
 ## **Works Well With**
@@ -63,10 +63,10 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)​​
 
-* While Xingqiu does not contribute to the **Superconduct** reaction required for **Physical** teams at all, he is in general just an incredibly useful support; incidentally **Freezing** enemies, dealing large amounts of damage by himself, reducing damage, and increasing interruption resistance.
+* While Xingqiu does not contribute to the **Superconduct** reaction required for **Physical** teams at all, he is in general just an incredibly useful support; incidentally **Freezing** enemies, dealing large amounts of damage by himself, providing Damage Reduction, and increasing resistance to interruption.
 
 #### [Vaporize (Pyro)](../../teams/reverse-vaporize.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Xingqiu is the Core Support / Sub DPS required to make **Vaporize** teams work. His **Elemental Burst** deals a large amount of damage and applies **Hydro** to enemies to allow the **Pyro** Main DPS character to consistently trigger **Vaporize** reactions.
+* Xingqiu is the Core Support / Sub DPS required to make **Vaporize** teams work. His **Elemental Burst** deals a large amount of **Hydro DMG** and consistently applies **Hydro** to enemies to allow the **Pyro** Main DPS character to consistently trigger **Vaporize** reactions.
