@@ -82,7 +82,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's Shield decreases all **Elemental Resistance** along with **Stagger Resistance**.
+* Zhongli's Shield decreases all enemy **Elemental Resistances**.
 
 ### Sample Hu Tao Teams
 
