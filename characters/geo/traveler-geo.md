@@ -8,8 +8,8 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** **(Tap)** summons a meteorite from the ground that deals **Geo** **DMG**. The meteorite is a **Geo** construct.
-  * A maximum of 3 **Geo** constructs can exist at the same time before the earliest summon is destroyed.
+* **Elemental Skill** **(Tap)** summons a meteorite from the ground that deals **Geo** **DMG**. The meteorite is a **Geo Construct**.
+  * A maximum of 3 **Geo Constructs** can exist at the same time before the earliest summon is destroyed.
     * **Elemental Skill (Hold)** lets you control where to summon the meteorite.
     * **C2** causes meteorites to deal **Geo DMG** when destroyed.
 * **Elemental Burst** creates shockwaves that deal **Geo** **DMG** and erects a barrier at the edge of the shockwaves. The barrier is considered a **Geo** **Construct**.
@@ -26,7 +26,7 @@
 #### ![](../../.gitbook/assets/Element\_Geo.webp)
 
 * Traveler (Geo) is almost always paired with a 2nd **Geo** character to activate **Geo Resonance** to further increase the **Geo** **DMG** dealt to enemies.
-* Zhongli allows **Geo** constructs to resonate with the Stone Stele summoned by Zhongli’s **Elemental Skill** to additional Off-Field Geo **DMG**. Traveler (Geo) also acts as an Energy Battery for Zhongli since they can consistently produce **Geo Energy Particles** with their **Elemental Skill**.
+* Zhongli allows **Geo Constructs** to resonate with the Stone Stele summoned by Zhongli’s **Elemental Skill** to additional Off-Field Geo **DMG**. Traveler (Geo) also acts as an Energy Battery for Zhongli since they can consistently produce **Geo Energy Particles** with their **Elemental Skill**.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 

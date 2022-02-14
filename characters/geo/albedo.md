@@ -8,10 +8,10 @@
 
 ## **Character Breakdown**
 
-* **Elemental Skill** creates a **Geo** construct that deals **Geo** **DMG** in an area upon skill activation and creates a field.
+* **Elemental Skill** creates a **Geo Construct** that deals **Geo** **DMG** in an area upon skill activation and creates a field.
   * While inside this field, whenever an enemy takes any **DMG**, an additional instance of **Geo** **DMG** will also be dealt, with a short cooldown.
     * **A1** allows his **Elemental Skill** to deal increased **Geo DMG** to enemies under 50% **HP**.
-  * The **Geo** Construct itself acts as an Elevator that lifts up Characters within the flower **Geo** Construct.
+  * The **Geo Construct** itself acts as an Elevator that lifts up Characters standing on it.
 * **Elemental Burst** deals **Geo** **DMG** in a frontal area.
   * If Albedo's **Elemental Burst** is cast within the field created by his **Elemental Skill**, it will do 7 more instances of **Geo** **DMG** to enemies in the field.
     * This will not activate his **Elemental Skill**.

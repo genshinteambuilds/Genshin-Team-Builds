@@ -48,7 +48,7 @@
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Zhongli's **Jade Shield** is typically much stronger than Diona's shield and usually removes the need for healing altogether.
-* Zhongli’s **Geo** construct also **Shatters Frozen** enemies.
+* Zhongli’s **Geo Construct** also **Shatters Frozen** enemies.
 
 ## Teams
 

@@ -7,7 +7,7 @@
 
 ## **Character Breakdown**
 
-* **Elemental Skill (Tap)** has a short base cooldown and summons a **Stone Stele** which counts as a **Geo** construct
+* **Elemental Skill (Tap)** has a short base cooldown and summons a **Stone Stele** which counts as a **Geo Construct**.
   * The **Stone Stele** pulses in short intervals dealing **Geo DMG**.
 * **Elemental Skill (Hold)** will also summon a **Stone Stele** if the maximum amount of **Stone Steles** has not been reached, and provides a Jade Shield based on Zhongli's **Max** **HP**.
 * **A1** allows his Jade Shield to fortify, increasing the **Shield Strength** of the fortified on-field character by 5% when it takes damage. This can stack up to 5 times and will last for the duration of Jade Shield.
