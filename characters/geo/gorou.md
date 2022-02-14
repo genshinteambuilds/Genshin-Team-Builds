@@ -32,7 +32,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
 
-* Albedo also benefits greatly from Gorou's buffs and is an off-field unit that can normally fill the 3rd **Geo** character requirement to unlock the last level of Gorou's buffs.
+* Albedo also benefits greatly from Gorou's buffs and is an Off-Field unit that can normally fill the 3rd **Geo** character requirement to unlock the last level of Gorou's buffs.
 
 #### ![](../../.gitbook/assets/Element\_Geo.webp)
 

@@ -41,7 +41,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
-* Beidou and Fischl are used with Yanfei to create multiple **Elemental Reactions** (**Electro-Charged**, **Vaporize** and **Overload**). Even if **Overload** knocks back enemies, with Yanfei's long attack range, it's not an inconvenience. Both Fischl and Beidou provide Off-field **Electro** **DMG** and **Electro Resonance** which creates additional **Energy Particles** from **Elemental Reactions**.
+* Beidou and Fischl are used with Yanfei to create multiple **Elemental Reactions** (**Electro-Charged**, **Vaporize** and **Overload**). Even if **Overload** knocks back enemies, with Yanfei's long attack range, it's not an inconvenience. Both Fischl and Beidou provide Off-Field **Electro** **DMG** and **Electro Resonance** which creates additional **Energy Particles** from **Elemental Reactions**.
 
 ## Does Not Work Well With
 

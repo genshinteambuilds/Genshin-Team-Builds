@@ -45,7 +45,7 @@ In all teams below, Bennett acts as the team's healer while providing an **ATK**
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Klee's goal is to deal as much **Pyro DMG** as possible through her **Charged Attack**, **Elemental Skill** during her **Elemental Burst**.
-* Xiangling and Bennett provide off-field **Pyro** application and team buffing respectively.
+* Xiangling and Bennett provide Off-Field **Pyro** application and team buffing respectively.
 * Kazuha provides **Pyro Resistance** Debuff through **Viridescent Venerer** 4-set and buffs **Pyro DMG** with his **A4**.
 
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)

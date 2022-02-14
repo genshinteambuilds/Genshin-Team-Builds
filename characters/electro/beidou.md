@@ -74,7 +74,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Beidou is typically used as an Off-Field DPS in these teams with an On-field character such as Keqing or Childe to trigger her **Elemental Burst's** lightning discharges.
+* Beidou is typically used as an Off-Field DPS in these teams with an On-Field character such as Keqing or Childe to trigger her **Elemental Burst's** lightning discharges.
 * A second **Electro** character is recommended to help recharge Beidou's **Elemental Burst**.
 
 [**Overload (Pyro)**](../../teams/overload.md)

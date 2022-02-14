@@ -32,8 +32,8 @@
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
 * Often paired with Eula to form a [**Physical** ](../../teams/physical-cryo.md)team.
-* Raiden Shogun provides **Superconduct**, buffs **Elemental Burst** **DMG**, serves as an Energy Battery and is able to be used on-field after Eula uses her **Elemental Burst**.
-* Fischl provides off-field **Electro DMG**, constant **Superconduct**, and serves as an **Electro** Battery.
+* Raiden Shogun provides **Superconduct**, buffs **Elemental Burst** **DMG**, serves as an Energy Battery and is able to be used On-Field after Eula uses her **Elemental Burst**.
+* Fischl provides Off-Field **Electro DMG**, constant **Superconduct**, and serves as an **Electro** Battery.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 

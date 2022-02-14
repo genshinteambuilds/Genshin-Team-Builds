@@ -49,7 +49,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
-* Fischl and Beidou provide extra Off-field **DMG** and generate **Energy Particles** to recharge Ninnguang's **Elemental Burst** faster.
+* Fischl and Beidou provide extra Off-Field **DMG** and generate **Energy Particles** to recharge Ninnguang's **Elemental Burst** faster.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)
 

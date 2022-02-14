@@ -50,7 +50,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)
 
-* Noelle is a unit that wants to be on-field and Itto will take majority of the field time in any team he is on. She doesn't provide a strong enough shield and it has high downtime, making her a poor **Geo** character to pair with Itto.
+* Noelle is a unit that wants to be On-Field and Itto will take majority of the field time in any team he is on. She doesn't provide a strong enough shield and it has high downtime, making her a poor **Geo** character to pair with Itto.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 

@@ -10,7 +10,7 @@
 
 * **Elemental Skill** deals **Cryo DMG** in a cone in front of Kaeya, also healing him slightly based on Kaeya's **ATK**.
   * **A4** allows his **Elemental Skill** to generate additional **Cryo** energy particles whenever enemies are **Frozen** by it.
-* **Elemental Burst** summons **3 icicles** that revolve around the character on field for 15 seconds, dealing **Cryo DMG** to any targets they hit.
+* **Elemental Burst** summons **3 icicles** that revolve around the active character for 15 seconds, dealing **Cryo DMG** to any targets they hit.
 
 ## Additional Notes
 

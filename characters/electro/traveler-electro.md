@@ -10,7 +10,7 @@
 
 * **Elemental Skill** launches 3 thunder shadows in a cone, dealing **Electro DMG** and creating up to 3 Abundance Amulets when hitting enemies.
   * Abundance Amulets are absorbed when a character walks close to them, granting that character energy and increased **Energy Recharge** for a short duration.
-* **Elemental Burst** deals **Electro DMG** upon activation and then calls down lightning when the character on-field uses **Normal** or **Charged Attacks**.
+* **Elemental Burst** deals **Electro DMG** upon activation and then calls down lightning when the character On-Field uses **Normal** or **Charged Attacks**.
   * The character who triggers the lightning gains a small amount of energy.
 
 ## Additional Notes
@@ -32,7 +32,7 @@
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
 
 * Traveler (Electro) provides Razor with a consistent source of energy generation, allowing him to use his **Elemental Burst** much more frequently.
-* Razor's tendency to spend large amounts of time on field doesn't interrupt Traveler, as they require very little time on field to activate their abilities.
+* Razor's tendency to spend large amounts of time On-Field doesn't interrupt Traveler, as they require very little time to activate their abilities.
 
 ## Does Not Work Well With
 

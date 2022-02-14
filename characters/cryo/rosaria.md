@@ -53,7 +53,7 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * With consistent **Pyro** application from Xiangling and Bennett, Rosaria's **Elemental Skill** and **Burst** can consistently **Melt**.
-* After activating Xiangling and Rosaria's **Elemental Bursts** in Bennett's field, Rosaria generally does not stay on-field, but rather, the team's skills are cycled through.
+* After activating Xiangling and Rosaria's **Elemental Bursts** in Bennett's field, Rosaria generally does not stay On-Field, but rather, the team's skills are cycled through.
 * Sucrose's skills are used to maintain an **Elemental Mastery** buff and provide Viridescent Venerer debuffing and Bennett's **Elemental Skill** is used as often as possible to provide energy for Xiangling.
 
 [**Freeze (Cryo)**](../../teams/freeze.md)
@@ -77,14 +77,14 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-* Rosaria plays the role of the On-field Main DPS in this team using **Normal** and **Charged** **Attacks** infused with **Cryo** thanks to Chongyun's **Elemental Skill.**
+* Rosaria plays the role of the On-Field Main DPS in this team using **Normal** and **Charged** **Attacks** infused with **Cryo** thanks to Chongyun's **Elemental Skill.**
 * **Kokomi** provides **Hydro** application with her Elemental Skill allowing this team to **Freeze** enemies. Kokomi also provides healing.
 * Kazuha provides the **Viridescent Venerer** debuff and Crowd Control Grouping.
 
 {% hint style="info" %}
 Possible substitutions:
 
-* Kokomi can be substitued for Xingqiu, Mona or any other source of Off-field **Hydro** application. Note that the team will lose it's source of healing if Kokomi is replaced and another replacement healer may be desired.
+* Kokomi can be substitued for Xingqiu, Mona or any other source of Off-Field **Hydro** application. Note that the team will lose it's source of healing if Kokomi is replaced and another replacement healer may be desired.
 * Kazuha can be replaced with any other **Anemo** support character.
 {% endhint %}
 

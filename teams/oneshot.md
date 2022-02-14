@@ -185,7 +185,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
-* Xiangling is a solid choice for certain setups. She provides much needed off-field **pyro** application, as well as quite a lot of personal damage.
+* Xiangling is a solid choice for certain setups. She provides much needed Off-Field **Pyro** application, as well as quite a lot of personal damage.
 
 ### Supporting Cast
 

@@ -29,7 +29,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
-* Xingqiu’s **Elemental Skill** and **Burst** help to protect Yoimiya with **Damage Reduction** and resistance to interruption, as well enable **Vaporize** reactions with his **Elemental Burst**. It also triggers her **Elemental Burst DMG** on enemies marked with **Aurous Blaze** while being off-field.
+* Xingqiu’s **Elemental Skill** and **Burst** help to protect Yoimiya with **Damage Reduction** and resistance to interruption, as well enable **Vaporize** reactions with his **Elemental Burst**. It also triggers her **Elemental Burst DMG** on enemies marked with **Aurous Blaze** while being Off-Field.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
@@ -58,7 +58,7 @@
 
 #### ![](../../.gitbook/assets/Element\_Cryo.webp)
 
-* Other **Cryo** characters cannot apply off-field **Cryo** as often as Ganyu which will result in Yoimiya being unable to **Melt** as consistently.
+* Other **Cryo** characters cannot apply Off-Field **Cryo** as often as Ganyu which will result in Yoimiya being unable to **Melt** as consistently.
 * Diona and Rosaria could work, but should only be used if Ganyu isn't available.
 
 ## Teams
