@@ -44,14 +44,14 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-* Xingqiu is often used as the premier **Hydro** Sub DPS character in **Electro-Charged** teams to apply **Hydro** on enemies.
+* Xingqiu is often used as the premier **Hydro** Off-Field DPS character in **Electro-Charged** teams to apply **Hydro** on enemies.
 * Xingqui's **Hydro** application is based on **Normal Attacks**, so an On-Field character who uses them is necessary to constantly trigger the reaction.
 
 #### [Freeze](../../teams/freeze.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Xingqiu is often used as the **Hydro** Sub DPS character in **Freeze** teams and apply **Hydro** to enemies and keep them permanently **Frozen**.
+* Xingqiu is often used as the **Hydro** Off-Field DPS character in **Freeze** teams and apply **Hydro** to enemies and keep them permanently **Frozen**.
 
 #### [National](../../teams/national.md)
 
@@ -69,4 +69,4 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Xingqiu is the Core Support / Sub DPS required to make **Vaporize** teams work. His **Elemental Burst** deals a large amount of **Hydro DMG** and consistently applies **Hydro** to enemies to allow the **Pyro** Main DPS character to consistently trigger **Vaporize** reactions.
+* Xingqiu is the Core Support / Off-Field DPS required to make **Vaporize** teams work. His **Elemental Burst** deals a large amount of **Hydro DMG** and consistently applies **Hydro** to enemies to allow the **Pyro** Main DPS character to consistently trigger **Vaporize** reactions.

@@ -16,7 +16,7 @@
 
 ## **Additional Notes**
 
-* Mona most often is used to boost her team's **DMG** via her **Omen** debuff, but can also be used as a Burst Sub DPS.
+* Mona most often is used to boost her team's **DMG** via her **Omen** debuff, but can also be used as a Burst DPS.
 * Mona’s **Elemental Burst** **DMG** is affected by **Omen**.
 * Mona’s **Elemental Burst** will suspend smaller targets, effectively stunning them in place throughout its duration but will not suspend larger targets at all.
 * **C1** gives **Omen** an extra effect.
@@ -28,7 +28,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett both allows Mona's **Elemental Burst** to be **Vaporized** and provides an **ATK** buff for Mona, letting her become a Burst Sub DPS.
+* Bennett both allows Mona's **Elemental Burst** to be **Vaporized** and provides an **ATK** buff for Mona, letting her become a Burst DPS.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)
 

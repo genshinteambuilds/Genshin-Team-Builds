@@ -51,7 +51,7 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-In all the teams listed below, Fischl universally provides Off-Field **Electro** application and Sub-DPS utility.
+In all the teams listed below, Fischl universally provides Off-Field **Electro** application and Off-Field DPS utility.
 {% endhint %}
 
 [**Anemo**](https://genshinteambuilds.gitbook.io/teams/teams/anemo)

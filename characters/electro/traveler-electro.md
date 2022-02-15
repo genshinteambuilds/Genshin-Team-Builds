@@ -4,7 +4,7 @@
 
 * **Off-Field DPS** (Elemental Burst)
 * **Support**: Energy Battery
-* **Sub DPS** (C6)
+* **Off-Field DPS** (C6)
 
 ## Character Breakdown
 
