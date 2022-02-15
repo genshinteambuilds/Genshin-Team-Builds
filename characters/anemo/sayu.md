@@ -22,7 +22,7 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/Element\_Anemo.webp) ![](../../.gitbook/assets/Element\_Cryo.webp) ![](../../.gitbook/assets/Element\_Electro.webp) ![](../../.gitbook/assets/Element\_Hydro.webp) ![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * Sayu pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental Resistance** on enemies for 4 of the elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
 
