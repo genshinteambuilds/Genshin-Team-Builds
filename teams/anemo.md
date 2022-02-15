@@ -76,18 +76,18 @@ Teams are very flexible as there are very few requirements and synergies in an *
 
 * Xiao acts as the Main DPS; with his main mode of damage being **Plunging Attacks** during his **Elemental Burst**.
 * Sucrose as an Energy Battery to maintain **Elemental Burst** uptime.
-* Xiangling acts as an Off-Field Sub DPS and activates **Pyro Resonance** with Bennett, who both provides healing and buffs Xiao's **ATK**.
+* Xiangling acts as an Off-Field DPS and activates **Pyro Resonance** with Bennett, who both provides healing and buffs Xiao's **ATK**.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Xiao acts as the Main DPS and uses Jean as an Energy Battery to maintain **Elemental Burst** uptime.
 * Jean also functions as a Healer and possible Debuffer at **C4**.
-* Zhongli provides a shield and debuffs enemies, while Albedo acts as a Off-Field Sub DPS and activates **Geo Resonance**.
+* Zhongli provides a shield and debuffs enemies, while Albedo acts as a Off-Field DPS and activates **Geo Resonance**.
 * Zhongli provides one of the only ways to reduce enemies **Anemo Resistance** with his **Elemental Skill's** shield.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * **C6** Kazuha acts as the Main DPS, providing consistent **Anemo** **DMG** with his **Anemo Infusion**.
-* Jean acts as an Energy Battery, Sub DPS, and Healer and can reduce enemies **Anemo Resistance** at **C4**.
+* Jean acts as an Energy Battery, Burst DPS, and Healer and can reduce enemies **Anemo Resistance** at **C4**.
 * Xingqiu's provides additional Off-Field **Hydro DMG** with his **Elemental Burst** as well as applying **Hydro** for the **Anemo** characters to **Swirl**.
 * Bennett provides healing and an **ATK** buff, as well as providing **Pyro** application for Kazuha to **Infuse**.
