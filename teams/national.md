@@ -8,6 +8,8 @@ The team derives the majority of its damage by taking advantage of Bennett's **E
 **When running this team, make sure that Xiangling is well equipped as her burst is this team's primary source of damage.**
 {% endhint %}
 
+## Characters
+
 {% hint style="danger" %}
 **Characters are ranked roughly according to how well they perform in this team composition.**
 {% endhint %}
@@ -20,19 +22,19 @@ The team derives the majority of its damage by taking advantage of Bennett's **E
 |                                                                                          |                                                                                      |                                                                            <p><img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""></p><p>Zhongli</p>                                                                           |                                                                                      |
 |                                                                                          |                                                                                      | <p>​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MgIuSiDFSNyVZCB3uMq%2Fuploads%2Fgit-blob-4be83ca2d0fa2ace4c346eb8d8ad7795c4bd9c42%2FUI_AvatarIcon_Chongyun.png?alt=media" alt="">​</p><p>Chongyun</p> |                                                                                      |
 
-## Core Damage
+### Core Damage
 
 |                                                                Character                                                               | Notes                                                                                                                                                                                                                                                                                                                                                                                    |
 | :------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p><img src="../.gitbook/assets/UI_AvatarIcon_Xiangling.png" alt=""></p><p><a href="../characters/pyro/xiangling.md">Xiangling</a></p> | <ul><li>Xiangling's <strong>Elemental Burst</strong> can snapshot buffs such as Bennett's <strong>Elemental Burst</strong>.</li><li>As she has heavy energy requirements, she is often run with Bennett so that he can act as an Energy Battery for her.</li><li>The goal is to <strong>Vaporize</strong> the majority of her <strong>Elemental Burst</strong> and Guoba hits.</li></ul> |
 
-## Core Support / Sub DPS
+### Core Support / Sub DPS
 
 |                                                             Character                                                             | Notes                                                                                                                                                                                                                                                   |
 | :-------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p><img src="../.gitbook/assets/UI_AvatarIcon_Xingqiu.png" alt=""></p><p><a href="../characters/hydro/xingqiu.md">Xingqiu</a></p> | <ul><li>Irreplaceable as a primary <strong>Hydro</strong> applicator due to his strong and consistent application.</li><li>Used to set up for <strong>Vaporize</strong>, as well as cleanse <strong>Pyro</strong> application off of enemies.</li></ul> |
 
-## Flex Support
+### Flex Support
 
 |                                                                                                                                                      Character                                                                                                                                                     | Notes                                                                                                                                                                                                                                                                                                                |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -42,7 +44,7 @@ The team derives the majority of its damage by taking advantage of Bennett's **E
 |                                                                                           <p><img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""></p><p><a href="../characters/geo/zhongli.md">Zhongli</a></p>                                                                                          | <ul><li><strong>Elemental Skill</strong> debuffs enemy <strong>Elemental Resistance.</strong></li><li>Provides interruption resistance.</li></ul>                                                                                                                                                                    |
 | ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MgIuSiDFSNyVZCB3uMq%2Fuploads%2Fgit-blob-4be83ca2d0fa2ace4c346eb8d8ad7795c4bd9c42%2FUI\_AvatarIcon\_Chongyun.png?alt=media)​​[Chongyun](https://app.gitbook.com/s/-MgIuSiDFSNyVZCB3uMq/c/Lzk1ZrDdJRlJpkPYIe32/characters/cryo/chongyun) | <ul><li><strong>Elemental Skill</strong> can set up <strong>Melt</strong>, and <strong>Freeze</strong> reactions by infusing <strong>Normal</strong> and <strong>Charged Attacks</strong> with <strong>Cryo</strong>.</li><li>Can easily <strong>Melt Elemental Burst</strong> while Pyronado is active.</li></ul>   |
 
-## Core Healer
+### Core Healer
 
 |                                                             Character                                                            | Notes                                                                                                                                                                                                                                                                                                                                                                    |
 | :------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

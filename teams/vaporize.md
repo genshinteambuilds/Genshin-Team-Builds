@@ -2,6 +2,8 @@
 
 There are no strong **Vaporize (Hydro)** team compositions, due to the lack of **Hydro** characters that can consistently use the reaction well. The closest two would be Childe and Mona’s [**Oneshot**](oneshot.md) team compositions. This page will cover teams that utilize the **Vaporize** reaction with a **Hydro Main DPS**.
 
+## Characters
+
 {% hint style="danger" %}
 **Characters are ranked roughly according to how well they perform in this team composition.**
 {% endhint %}
@@ -14,7 +16,7 @@ There are no strong **Vaporize (Hydro)** team compositions, due to the lack of *
 |                                                                                          |                                                                                          | <p><img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""></p><p>Zhongli</p> |                                                                                      |
 |                                                                                          |                                                                                          |   <p><img src="../.gitbook/assets/UI_AvatarIcon_Venti.png" alt=""></p><p>Venti</p>   |                                                                                      |
 
-## Main DPS
+### Main DPS
 
 {% hint style="info" %}
 For all of the below **Hydro** Main DPS, **Vaporizing** Xiangling's Off-Field **Pyro DMG** is generally prioritized over the **Hydro** character's damage. Xiangling should be geared like a Main DPS in these teams.
@@ -26,13 +28,13 @@ For all of the below **Hydro** Main DPS, **Vaporizing** Xiangling's Off-Field **
 |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Kokomi.png" alt=""></p><p><a href="../characters/hydro/kokomi.md">Kokomi</a></p>     | <ul><li>Applies <strong>Hydro</strong> with her <strong>Normal</strong> and <strong>Charged Attacks</strong> and with her <strong>Elemental Skill</strong>.</li><li>Provides healing through her <strong>Elemental Skill</strong> and <strong>Burst</strong>.</li></ul>                                                                                                                                                                          |
 |         <p><img src="../.gitbook/assets/UI_AvatarIcon_Mona.png" alt=""></p><p><a href="../characters/hydro/mona.md">Mona</a></p>        | <ul><li>Applies <strong>Hydro</strong> with her <strong>Normal</strong> and <strong>Charged Attacks</strong> and with her <strong>Elemental Skill</strong>.</li><li>Mona's <strong>Elemental Burst</strong> does lots of damage but has a specific setup to <strong>Vaporize</strong> (check the <a href="oneshot.md">Oneshot</a> page for more info). It also provides a <strong>DMG Bonus</strong> which Xiangling can benefit from.</li></ul> |
 
-## Core Support / Sub DPS
+### Core Support / Sub DPS
 
 |                                                                Character                                                               | Notes                                                                                                                                                             |
 | :------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p><img src="../.gitbook/assets/UI_AvatarIcon_Xiangling.png" alt=""></p><p><a href="../characters/pyro/xiangling.md">Xiangling</a></p> | <ul><li>Xiangling is mandatory as the primary source of damage of <strong>Vaporize (Hydro)</strong> teams through her <strong>Elemental Burst</strong>.</li></ul> |
 
-## Flex Support
+### Flex Support
 
 |                                                             Character                                                             | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | :-------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -42,7 +44,7 @@ For all of the below **Hydro** Main DPS, **Vaporizing** Xiangling's Off-Field **
 |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""></p><p><a href="../characters/geo/zhongli.md">Zhongli</a></p>  | <ul><li>Provides a strong shield and debuffs <strong>Elemental Resistance</strong>.</li><li>Can buff the <strong>ATK</strong> of party members when equipped with the <strong>Tenacity of Millelith</strong> 4-set.</li></ul>                                                                                                                                                                                                                                        |
 |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Venti.png" alt=""></p><p><a href="../characters/anemo/venti.md">Venti</a></p>    | <ul><li><strong>Elemental Burst</strong> provides the strongest Grouping Crowd Control effect in the game.</li><li>As an <strong>Anemo</strong> Support, he can be run with the <strong>Viridescent Venerer</strong> 4-set to decrease <strong>Pyro</strong> and <strong>Hydro Resistances</strong>.</li></ul>                                                                                                                                                       |
 
-## Healer / Shielder
+### Healer / Shielder
 
 |                                                             Character                                                            | Notes                                                                                                                                                                                                                                                                                                 |
 | :------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

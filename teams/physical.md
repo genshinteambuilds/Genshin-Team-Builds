@@ -6,6 +6,8 @@ The **Superconduct Elemental Reaction** can buff **Physical DMG** significantly 
 
 **Superconduct** requires **Cryo** and **Electro** to be applied on an enemy which will then decrease their **Physical Resistance** by 40%.
 
+## Characters
+
 {% hint style="danger" %}
 **Characters are ranked roughly according to how well they perform in this team composition.**
 {% endhint %}
@@ -22,14 +24,14 @@ The **Superconduct Elemental Reaction** can buff **Physical DMG** significantly 
 |                                                                                    |                                                                                      |                                                                                      |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Sayu.png" alt=""><br>Sayu</p>     |
 |                                                                                    |                                                                                      |                                                                                      |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Noelle.png" alt=""><br>Noelle</p>   |
 
-## Main DPS
+### Main DPS
 
 |                                                             Character                                                            | Notes                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | :------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   <p><img src="../.gitbook/assets/UI_AvatarIcon_Razor.png" alt=""></p><p><a href="../characters/electro/razor.md">Razor</a></p>  | <ul><li>Razor's primary source of damage is his <strong>Normal Attacks</strong> performed while his <strong>Elemental Burst</strong> is active.</li><li>When casting his <strong>Elemental Burst</strong>, his <strong>ATK SPD</strong> is increased and he deals both <strong>Physical DMG</strong> and <strong>Electro DMG</strong> at the same time, allowing him to constantly trigger <strong>Superconduct</strong>.</li></ul> |
 | <p><img src="../.gitbook/assets/UI_AvatarIcon_Keqing.png" alt=""></p><p><a href="../characters/electro/keqing.md">Keqing</a></p> | <ul><li>Do not use the second cast of her <strong>Elemental Skill</strong> as it infuses her weapon with <strong>Electro</strong>, causing you to deal <strong>Electro DMG</strong> instead of <strong>Physical DMG</strong>.</li><li>Keqing's primary source of damage is her <strong>Charged Attacks</strong>.</li></ul>                                                                                                          |
 
-## Core Support / Sub DPS
+### Core Support / Sub DPS
 
 |                                                             Character                                                            | Notes                                                                                                                                                                                                                                                          |
 | :------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,7 +39,7 @@ The **Superconduct Elemental Reaction** can buff **Physical DMG** significantly 
 |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Kaeya.png" alt=""></p><p><a href="../characters/cryo/kaeya.md">Kaeya</a></p>    | <ul><li><strong>Elemental Burst</strong> works Off-Field to trigger <strong>Superconduct.</strong></li></ul>                                                                                                                                                   |
 |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Ganyu.png" alt=""><br><a href="../characters/cryo/ganyu.md">Ganyu</a></p>     | <ul><li><strong>Elemental</strong> <strong>Burst</strong> maintains high <strong>Cryo</strong> uptime on enemies, allowing for frequent <strong>Superconduct</strong> reactions.</li><li>Provides a taunt with her <strong>Elemental Skill</strong>.</li></ul> |
 
-## Flex Support
+### Flex Support
 
 |                                                              Character                                                             | Notes                                                                                                                                                                                                                                                                                                                                               |
 | :--------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -48,7 +50,7 @@ The **Superconduct Elemental Reaction** can buff **Physical DMG** significantly 
 |   <p>​<img src="../.gitbook/assets/UI_AvatarIcon_Albedo.png" alt="">​</p><p><a href="../characters/geo/albedo.md">Albedo</a></p>   | <ul><li>Mainly paired with Zhongli for <strong>Geo Resonance</strong>.</li><li><strong>Elemental Skill</strong> creates a <strong>Geo Construct</strong> that deals Off-Field <strong>Geo DMG</strong> and can generate energy particles.</li></ul>                                                                                                 |
 |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Xinyan.png" alt=""></p><p><a href="../characters/pyro/xinyan.md">Xinyan</a></p>   | <ul><li><strong>Elemental skill</strong> provides a decent shield that increases <strong>Physical DMG</strong> by 15% at <strong>A4</strong>.</li><li><strong>Elemental Skill</strong> and <strong>Burst</strong> will trigger <strong>Overload</strong> and <strong>Melt</strong> which may interfere with <strong>Superconduct</strong></li></ul> |
 
-## Healer / Shielder
+### Healer / Shielder
 
 |                                                             Character                                                             | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | :-------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

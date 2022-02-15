@@ -6,6 +6,8 @@ Typically, another **Anemo** character is added to the team to help provide **En
 
 Besides the Healer, the final character on the team is often one that deals consistent Off-Field DPS.
 
+## Characters
+
 {% hint style="danger" %}
 **Characters are ranked roughly according to how well they perform in this team composition.**
 {% endhint %}
@@ -22,14 +24,14 @@ Besides the Healer, the final character on the team is often one that deals cons
 |                                                                                                          |                                                                                      |                                                                                                                                                                                                                                             |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Qiqi.png" alt=""></p><p>Qiqi</p>    |
 |                                                                                                          |                                                                                      |                                                                                                                                                                                                                                             |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Noelle.png" alt=""></p><p>Noelle</p>  |
 
-## Main DPS
+### Main DPS
 
 |                                                            Character                                                           | Notes                                                                                                                                                                                                                                                                                                                                   |
 | :----------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Xiao.png" alt=""></p><p><a href="../characters/anemo/xiao.md">Xiao</a></p>    | <ul><li><strong>Elemental Burst</strong> grants an <strong>Anemo</strong> infusion and increased jump height, allowing him to frequently use <strong>Plunging Attacks</strong> to deal <strong>Anemo DMG</strong>.</li><li>At <strong>C6</strong>, his <strong>Elemental Skill</strong> becomes his primary source of damage.</li></ul> |
 | <p><img src="../.gitbook/assets/UI_AvatarIcon_Kazuha.png" alt=""></p><p><a href="../characters/anemo/kazuha.md">Kazuha</a></p> | <ul><li>Gains an <strong>Anemo</strong> <strong>Infusion</strong> at <strong>C6</strong>. It is not recommended to use Kazuha as the Main DPS before <strong>C6</strong>.</li></ul>                                                                                                                                                     |
 
-## Support / Battery
+### Support / Energy Battery
 
 |                                                             Character                                                             | Notes                                                                                                                                                                                                                                                                                               |
 | :-------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,7 +39,7 @@ Besides the Healer, the final character on the team is often one that deals cons
 |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Venti.png" alt=""></p><p><a href="../characters/anemo/venti.md">Venti</a></p>    | <ul><li>Provides better grouping Crowd Control than Sucrose, but is worse as an Energy Battery.</li><li><strong>Elemental Burst</strong> is best used against heavier enemies as light enemies are lifted too high to be reliably hit by Xiao's <strong>Plunging Attacks</strong>.</li></ul>        |
 |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Jean.png" alt=""></p><p><a href="../characters/anemo/jean.md">Jean</a></p>     | <ul><li>Provides small amounts of Crowd Control.</li><li>Opens up a team slot for another character by both serving as an Energy Battery and Healer.</li><li><strong>C4</strong> reduces enemies Anemo resistance while inside the field created by her <strong>Elemental Burst</strong>.</li></ul> |
 
-## Flex Support
+### Flex Support
 
 {% hint style="success" %}
 Very flexible slot as the team has few requirements. Any Off-Field DPS can be used.
@@ -50,7 +52,7 @@ Very flexible slot as the team has few requirements. Any Off-Field DPS can be us
 |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Xingqiu.png" alt=""></p><p><a href="../characters/hydro/xingqiu.md">Xingqiu</a></p>   | <ul><li><strong>Elemental Skill</strong> and <strong>Elemental Burst</strong> provide <strong>Damage Reduction</strong> to incoming hits.</li><li><strong>Elemental Skill</strong> and <strong>Elemental Burst</strong> also deal a large amount of <strong>Hydro DMG</strong> on their own when properly geared.</li></ul> |
 |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Albedo.png" alt=""></p><p><a href="../characters/geo/albedo.md">Albedo</a></p>      | <ul><li><strong>Elemental Skill</strong> provides extra Off-Field <strong>Geo DMG</strong>.</li><li>Can activate <strong>Geo Resonance</strong>.</li><li>Can buff the team when equipped with the <strong>Tenacity of Millelith</strong> 4-set<strong>.</strong></li></ul>                                                  |
 
-## Healer / Shielder
+### Healer / Shielder
 
 |                                                             Character                                                             | Notes                                                                                                                                                                                                                                                                                                                                                                             |
 | :-------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

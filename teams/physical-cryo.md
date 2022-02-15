@@ -6,6 +6,8 @@ The **Superconduct Elemental Reaction** can buff **Physical DMG** significantly 
 
 **Superconduct** requires **Cryo** and **Electro** to be applied on an enemy which will then decrease their **Physical Resistance** by 40%.
 
+## Characters
+
 {% hint style="danger" %}
 **Characters are ranked roughly according to how well they perform in this team composition.**
 {% endhint %}
@@ -22,13 +24,13 @@ The **Superconduct Elemental Reaction** can buff **Physical DMG** significantly 
 |                                                                                |                                                                                                        |                                                                                      |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Sayu.png" alt=""></p><p>Sayu</p>    |
 |                                                                                |                                                                                                        |                                                                                      |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Noelle.png" alt=""><br>Noelle</p>   |
 
-## Main DPS
+### Main DPS
 
 |                                                        Character                                                        | Notes                                                                                                                                                                                                                                                                                                                                                                                                            |
 | :---------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p><img src="../.gitbook/assets/UI_AvatarIcon_Eula.png" alt=""></p><p><a href="../characters/cryo/eula.md">Eula</a></p> | <ul><li>Eula's primary source of damage is her <strong>Elemental Burst</strong>.</li><li>Pairs well with Raiden as she provides Eula with Energy for her <strong>Elemental Burst</strong> and also constantly triggers <strong>Superconduct</strong> even while Off-Field.</li><li>Eula can also reduce the <strong>Physical Resistance</strong> of enemies with her <strong>Elemental Skill</strong>.</li></ul> |
 
-## Core Support/Sub DPS
+### Core Support/Sub DPS
 
 |                                                                            Character                                                                           | Notes                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,7 +41,7 @@ The **Superconduct Elemental Reaction** can buff **Physical DMG** significantly 
 |                <p><img src="../.gitbook/assets/UI_AvatarIcon_Sara.png" alt=""></p><p><a href="../characters/electro/kujou-sara.md">Sara</a></p>                | <ul><li><strong>Elemental Skill</strong> and <strong>Burst</strong> while triggers <strong>Superconduct</strong> and provides an <strong>ATK</strong> boost.</li><li>Her <strong>ATK</strong> boost does not cover the duration of Eula's <strong>Elemental Burst</strong>, but is still very valuable due to its sizable <strong>ATK</strong> buff.</li></ul>                                                               |
 | <p><img src="../.gitbook/assets/ui_avataricon_aether_electro.png" alt=""></p><p><a href="../characters/electro/traveler-electro.md">Traveler (Electro)</a></p> | <ul><li>Provides Off-Field <strong>Electro</strong> application while <strong>Elemental Burst</strong> is active, triggering <strong>Superconduct</strong>.</li><li>Can provide large amounts of energy to other team members through both <strong>Elemental Burst</strong> and <strong>Skill</strong>.</li></ul>                                                                                                            |
 
-## Flex Support
+### Flex Support
 
 |                                                              Character                                                             | Notes                                                                                                                                                                                                                                                        |
 | :--------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -51,7 +53,7 @@ The **Superconduct Elemental Reaction** can buff **Physical DMG** significantly 
 |   <p>​<img src="../.gitbook/assets/UI_AvatarIcon_Albedo.png" alt="">​</p><p><a href="../characters/geo/albedo.md">Albedo</a></p>   | <ul><li>Does not have synergy with a <strong>Physical DMG</strong> team. Only used for his <strong>Elemental Skill</strong> to provide Off-Field <strong>Geo DMG</strong>.</li></ul>                                                                         |
 |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Xinyan.png" alt=""></p><p><a href="../characters/pyro/xinyan.md">Xinyan</a></p>   | <ul><li>Her <strong>Elemental Skill</strong> provides a decent shield that increases <strong>Physical DMG</strong> by 15% with her <strong>A4</strong> talent.</li></ul>                                                                                     |
 
-## Healer/Shielder
+### Healer/Shielder
 
 |                                                             Character                                                             | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | :-------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
