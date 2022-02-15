@@ -25,7 +25,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)
 
-* Beidou primarily acts as a Sub DPS for Keqing, providing extra Off-Field **Electro DMG** with her **Elemental Burst**.
+* Beidou primarily acts as a Off-Field DPS for Keqing, providing extra Off-Field **Electro DMG** with her **Elemental Burst**.
 * Beidou can also debuff the the **Electro** **Resistance** of enemies with her **C6** active.
 * Keqing's main source of damage being her **Normal** or **Charged Attacks** allows Beidou's **Elemental Burst** to constantly deal **Electro** **DMG**.
 
