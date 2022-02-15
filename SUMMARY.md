@@ -6,9 +6,8 @@
 ## Roles
 
 * [Main DPS](roles/main-dps.md)
-* [Sub DPS](roles/sub-dps/README.md)
-  * [Burst](roles/sub-dps/burst.md)
-  * [Off-Field](roles/sub-dps/off-field.md)
+* [Burst DPS](roles/burst-dps.md)
+* [Off-Field DPS](roles/off-field-dps.md)
 * [Support](roles/support/README.md)
   * [Buffer / Debuffer](roles/support/buffer-debuffer.md)
   * [Crowd Control](roles/support/crowd-control.md)
