@@ -45,6 +45,7 @@
   * [Razor](characters/electro/razor.md)
   * [Sara](characters/electro/kujou-sara.md)
   * [Traveler (Electro)](characters/electro/traveler-electro.md)
+  * [Yae](characters/electro/yae.md)
 * [Geo](characters/geo/README.md)
   * [Albedo](characters/geo/albedo.md)
   * [Gorou](characters/geo/gorou.md)
@@ -75,6 +76,7 @@
 ## Teams
 
 * [Anemo](teams/anemo.md)
+* [Electro](teams/electro.md)
 * [Electro-Charged (Electro)](teams/electro-charged.md)
 * [Electro-Charged (Hydro)](teams/electro-charged-hydro.md)
 * [Freeze (Cryo)](teams/freeze.md)
