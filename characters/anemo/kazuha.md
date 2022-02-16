@@ -56,13 +56,9 @@ Click on the team names below for more details on how the team works and alterna
 In the following teams, Kazuha provides debuffing utility using the **Viridescent Venerer** 4-set and can also provide boosts to multiple **Elemental DMG** types.
 {% endhint %}
 
-#### [Electro-Charged (Electro)](../../teams/electro-charged.md)
-
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
-
 #### [Freeze (Cryo)](../../teams/freeze.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * Kazuha can apply either **Hydro** or **Cryo** with his **Elemental Burst** and help enable AoE **Freeze** teams.
 
@@ -74,7 +70,7 @@ In the following teams, Kazuha provides debuffing utility using the **Viridescen
 
 #### [Pure Pyro](../../teams/pure-pyro.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 #### [Melt (Cryo)](../../teams/reverse-melt.md)
 
@@ -82,6 +78,6 @@ In the following teams, Kazuha provides debuffing utility using the **Viridescen
 
 * Kazuha's **Elemental Burst** can provide **Pyro** application when activated within the field created by Bennett's **Elemental Burst**.
 
-#### [Vaporize (Pyro)](../../teams/reverse-vaporize.md)
+#### [Vaporize (Hydro)](../../teams/vaporize.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)

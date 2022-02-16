@@ -22,7 +22,7 @@ This comp focuses on using the **Vaporize Elemental Reaction** with a **Main Pyr
 |                                                                                                                            |                                                                                      |                                                                                                    |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Noelle.png" alt=""><br>Noelle</p>   |
 
 {% hint style="danger" %}
-* Hu Tao is primarily used with a shielders and is a higher priority pick over healers.
+* Hu Tao is primarily used with a shielder so they are a higher priority pick over healers.
 * This is due to her **A4** which increases her damage output when below 50% **HP** and **Elemental Burst** which heals her.
 {% endhint %}
 
