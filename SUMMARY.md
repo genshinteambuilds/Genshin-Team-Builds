@@ -93,6 +93,7 @@
 ## Changelogs
 
 * [Versions](changelogs/versions/README.md)
+  * [2.5](changelogs/versions/2.5.md)
   * [2.4](changelogs/versions/2.4.md)
   * [2.3](changelogs/versions/2.3.md)
   * [2.2](changelogs/versions/2.2.md)
