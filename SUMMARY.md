@@ -88,6 +88,7 @@
 * [Physical (Cryo)](teams/physical-cryo.md)
 * [Physical (Electro)](teams/physical.md)
 * [Pure Electro](teams/pure-electro.md)
+* [Pure Cryo](teams/pure-cryo.md)
 * [Pure Pyro](teams/pure-pyro.md)
 * [Vaporize (Hydro)](teams/vaporize.md)
 * [Vaporize (Pyro)](teams/reverse-vaporize.md)
