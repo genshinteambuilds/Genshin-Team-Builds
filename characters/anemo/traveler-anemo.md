@@ -15,14 +15,14 @@
 
 ## Additional Notes
 
-* **C6** reduces the **Anemo** **Resistance** of enemies hit by **Elemental Burst** by 20%. If elemental absorption occurs, Enemy **Elemental Resistance** to the corresponding element is reduced by 20%.
+* **C6** reduces the **Anemo** **RES** of enemies hit by **Elemental Burst** by 20%. If elemental absorption occurs, Enemy **Elemental RES** to the corresponding element is reduced by 20%.
 * Can be used as a **Main DPS** at the early stages of the game but is best retired as soon as possible for any better alternatives.
 
 ## Works Well With
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Traveler (Anemo) pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental Resistance** on enemies for 4 of the elements (**Cryo, Electro, Hydro, and Pyro**).
+* Traveler (Anemo) pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental RES** on enemies for 4 of the elements (**Cryo, Electro, Hydro, and Pyro**).
 
 ## Does Not Work Well With
 

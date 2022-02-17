@@ -16,14 +16,14 @@
 
 ## **Additional Notes**
 
-* Zhongli’s Jade Shield Debuffs nearby enemy units' by decreasing their **Elemental and Physical Resistance** by 20%.
+* Zhongli’s Jade Shield Debuffs nearby enemy units' by decreasing their **Elemental and Physical RES** by 20%.
 * Zhongli's **Stone Stele** additionally causes all other **Geo Constructs** in the nearby area to pulse, dealing additional **Geo DMG**.
 
 ## **Works Well With**
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
 
-* Zhongli can be put into almost any team as a flexible Support. He provides powerful shielding, a universal **Resistance** Debuff, and Crowd Control in a large area.
+* Zhongli can be put into almost any team as a flexible Support. He provides powerful shielding, a universal **RES** Debuff, and Crowd Control in a large area.
 * Teams containing Zhongli typically do not center around him. He is usually used in an empty slot to enhance other members of the team.
 * Zhongli also generally replaces healers, as his shield provides enough damage negation if sustained (especially with his **A1**).
 
@@ -44,14 +44,14 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-In all of the teams below, Zhongli universally provides shielding, a **Universal** **Resistance** debuff on his Jade Shield, and Crowd Control via his **Elemental Burst**.
+In all of the teams below, Zhongli universally provides shielding, a **Universal** **RES** debuff on his Jade Shield, and Crowd Control via his **Elemental Burst**.
 {% endhint %}
 
 [**Anemo**](../anemo/)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's shielding and **Universal Resistance** Debuffing are especially useful in Xiao teams due to Xiao's poor survivability and the lack of convenient abilities that debuff **Anemo Resistance**. He can also provide **Geo Resonance**.
+* Zhongli's shielding and **Universal RES** Debuffing are especially useful in Xiao teams due to Xiao's poor survivability and the lack of convenient abilities that debuff **Anemo RES**. He can also provide **Geo Resonance**.
 
 [**Geo**](../../teams/geo.md)
 
@@ -69,7 +69,7 @@ In all of the teams below, Zhongli universally provides shielding, a **Universal
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's Jade Shield allows Eula to **Normal Attack** as much as possible and debuff **Physical Resistance** to fully enhance her **Elemental Burst DMG**.
+* Zhongli's Jade Shield allows Eula to **Normal Attack** as much as possible and debuff **Physical RES** to fully enhance her **Elemental Burst DMG**.
 
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 

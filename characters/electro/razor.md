@@ -14,13 +14,13 @@
   * **ATK SPD** increased.
   * **Charged Attack** disabled.
   * Increased resistance to interruption.
-  * Razor becomes immune to the **Electro-Charged** **Elemental Reaction** and has increased **Electro** Resistance.
+  * Razor becomes immune to the **Electro-Charged** **Elemental Reaction** and has increased **Electro** **RES**.
 * **A1** reduces the Cooldown on Razor's **Elemental Skill**, and activating his **Elemental Burst** instantly resets the Cooldown of his **Elemental Skill.**
 * **A4** provides Razor extra **Energy Recharge** when he has less than half of the energy needed for his **Elemental Burst**.
 
 ## Additional Notes
 
-* **Elemental Burst** can change Razor's optimal attack combo depending if it's active or not.&#x20;
+* **Elemental Burst** can change Razor's optimal attack combo depending if it's active or not.
   * If Razor's **Elemental Burst** is not active, Razor deals more DPS with a three-hit combo followed by a dash cancel.
   * If Razor's **Elemental Burst** is active, Razor deals more DPS with a full four-hit combo followed by a dash cancel.
 * **Elemental Burst** will be cancelled when swapping to another character while it's active. This why Razor is referred as a Selfish Main DPS and it is generally recommended to keep him on the field for as long as possible.
@@ -31,7 +31,7 @@
 
 #### ![](../../.gitbook/assets/Element\_Cryo.webp)
 
-* **Superconduct** is Razor’s core reaction, as it debuffs enemy **Physical** Resistance. Thus, most **Cryo** characters are generally very effective with Razor.
+* **Superconduct** is Razor’s core reaction, as it debuffs enemy **Physical** **RES**. Thus, most **Cryo** characters are generally very effective with Razor.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
 
@@ -46,11 +46,11 @@
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)
 
 * Most **Anemo** characters can Crowd Control and group enemies, allowing for Razor to hit multiple enemies more easily.
-* They also reduce enemy **Electro Resistance** via **Viridescent Venerer** 4-set effect, increasing Razor's **Electro** **DMG**.
+* They also reduce enemy **Electro RES** via **Viridescent Venerer** 4-set effect, increasing Razor's **Electro** **DMG**.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
 
-* Zhongli's shield allows Razor to negate incoming damage that might otherwise interrupt his attacks. Additionally, the shield also reduces enemy **Physical Resistance**. Zhongli's **Elemental Burst** locks enemies in place, preventing them from being knocked back by Razor's attacks.
+* Zhongli's shield allows Razor to negate incoming damage that might otherwise interrupt his attacks. Additionally, the shield also reduces enemy **Physical RES**. Zhongli's **Elemental Burst** locks enemies in place, preventing them from being knocked back by Razor's attacks.
 * Albedo provides Off-Field **Geo DMG** and can generate shields through the **Crystallize** reaction.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)
@@ -84,7 +84,7 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * A team that runs Razor as Main DPS and a **Cryo** support to cause **Superconduct**.
-* Xingqui provides Off-Field **Hydro DMG** nd resistance to interruption.
+* Xingqui provides Off-Field **Hydro DMG** and resistance to interruption.
 * Fischl acts as an Energy Battery and provides Off-Field **Electro DMG**.
 * Diona provides **Cryo** for **Superconduct** and also shields and heals.
 

@@ -33,7 +33,7 @@
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)
 
-* As with all **Elemental DMG** DPS characters, **Anemo** supports works well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
+* As with all **Elemental DMG** DPS characters, **Anemo** supports works well by reducing the enemies' **Elemental RES** with **Viridescent Venerer** 4-set. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 
 ## Does Not Work Well With
 
@@ -73,4 +73,4 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tohma.png)
 
 * Thoma's shield and Xingqiu's **Damage Reduction** are used instead of a dedicated healer here. This also helps with managing Hu Tao's **HP** to maintain buffs below 50% **HP**.
-* Thoma allows **Pyro** application outside of Hu Tao's abilities to be able to **Swirl Pyro** with an **Anemo** support to decrease enemy **Pyro Resistance** using the **Viridescent Venerer** 4-set.
+* Thoma allows **Pyro** application outside of Hu Tao's abilities to be able to **Swirl Pyro** with an **Anemo** support to decrease enemy **Pyro RES** using the **Viridescent Venerer** 4-set.

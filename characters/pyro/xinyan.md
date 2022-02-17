@@ -19,7 +19,7 @@
 
 * Often used as a **Physical** Support but lacks the ability to trigger **Superconduct**, making her a less desirable choice than **Electro** / **Cryo**-based **Physical** Supports.
 * Can be used to cleanse the active character with her shield which momentarily applies **Pyro**. Swapping to another character while the shield is active will also cleanse that character as well.
-* **C4** allows Xinyan's **Elemental Skill** to debuff enemy **Physical Resistance** by 15% for 12 seconds.
+* **C4** allows Xinyan's **Elemental Skill** to debuff enemy **Physical RES** by 15% for 12 seconds.
 
 ## Works Well With
 

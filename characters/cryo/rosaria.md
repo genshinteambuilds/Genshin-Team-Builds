@@ -18,7 +18,7 @@
 * **C1** increases Rosaria's **ATK SPD** and **Normal** **Attack DMG** after triggering a **Critical Hit**.
 * **C2** increases the duration of her **Elemental Burst** by 4 seconds, making her **Elemental Burst** trigger 2 more blasts of **Cryo DMG**.
 * **C4** greatly improves Rosaria's self energy regeneration, allowing her to use her **Elemental Burst** more easily.
-* **C6** causes her **Elemental Burst** to reduce enemy **Physical Resistance** by 20% for 10 seconds, allowing her to act as a debuffer for **Physical** teams.
+* **C6** causes her **Elemental Burst** to reduce enemy **Physical RES** by 20% for 10 seconds, allowing her to act as a debuffer for **Physical** teams.
 
 ## Works Well With
 
@@ -68,7 +68,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Rosaria's **Physical Resistance** reduction at **C6** makes her a powerful option for a [**Physical** ](../../teams/physical-cryo.md)team.
+* Rosaria's **Physical RES** reduction at **C6** makes her a powerful option for a [**Physical** ](../../teams/physical-cryo.md)team.
 * Even without **C6**, Rosaria can still provide energy for a **Cryo** character like Eula, Off-Field **Cryo** application to trigger **Superconduct**, and a teamwide buff to **CRIT Rate** after casting her **Elemental Burst**.
 
 ### Character Specific Teams

@@ -17,13 +17,13 @@
 
 * Traveler (Electro) serves as an Energy Battery, as their **Elemental Skill** and **Elemental Burst** can both provide energy to other characters on the team.
 * The majority of Traveler's **Constellations** and **Talents** focus on further enhancing their energy-generating abilities, making them a powerful Energy Battery for characters with high-cost **Elemental Bursts**.
-* **C2** causes Traveler's **Elemental Burst** to debuff the enemy's **Electro Resistance**.
+* **C2** causes Traveler's **Elemental Burst** to debuff the enemy's **Electro RES**.
 
 ## Works Well With
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
-* Traveler (Electro) can provide Eula with **Superconduct**, which debuffs **Physical Resistance**, as well as help recharge her high-cost **Elemental Burst**.
+* Traveler (Electro) can provide Eula with **Superconduct**, which debuffs **Physical RES**, as well as help recharge her high-cost **Elemental Burst**.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)
 

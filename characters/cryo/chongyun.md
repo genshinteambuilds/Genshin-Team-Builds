@@ -9,7 +9,7 @@
 
 * **Elemental Skill** deals **AoE** **Cryo** **DMG** and creates a field on the ground within which all **Sword**, **Claymore** and **Polearm**-wielding characters' weapons will be infused with **Cryo**.
   * This can potentially allow any character using these weapon types to act as a Main DPS in a **Freeze** team.
-  * **A4** causes a second instance of **AoE Cryo** **DMG** when the field expires and reduces the **Cryo Resistance** of enemies hit by this.
+  * **A4** causes a second instance of **AoE Cryo** **DMG** when the field expires and reduces the **Cryo RES** of enemies hit by this.
 * **Elemental Burst** summons 3 spirit blades that deal large **AoE** **Cryo** **DMG** and knock enemies back.
 
 ## **Additional Notes**
@@ -26,7 +26,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* As with all Elemental DPS, **Anemo** supports and Zhongli work well by reducing the enemy's **Elemental Resistance** with **Viridescent Venerer** or Zhongli's Jade Shield. **Anemo** characters often also supply useful **Crowd Control** abilities or other buffs.
+* As with all Elemental DPS, **Anemo** supports and Zhongli work well by reducing the enemy's **Elemental RES** with **Viridescent Venerer** or Zhongli's Jade Shield. **Anemo** characters often also supply useful **Crowd Control** abilities or other buffs.
 * Kazuha, Sucrose and Venti can also additionally infuse their **Elemental Bursts** with **Hydro**, **Cryo**, or **Pyro** helping provide those elements in a **Freeze** or **Melt** team.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)

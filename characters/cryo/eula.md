@@ -13,7 +13,7 @@
     * Grimheart increases Eula's **DEF** and resistance to interruption. A maximum of two stacks can be held.
   * **Elemental Skill (Hold)** consumes all Grimheart stacks, deals **Cryo DMG**, and activates the following effects:
     * Each stack of Grimheart consumed creates an instance of **AoE** **Cryo** **DMG**.
-    * If any Grimheart stacks are consumed, surrounding enemies will have their **Physical** and **Cryo Resistance** debuffed.
+    * If any Grimheart stacks are consumed, surrounding enemies will have their **Physical** and **Cryo RES** debuffed.
     * At **A4**, if two stacks of Grimheart are consumed, Eula will create a miniature version of her **Elemental Burst** which explodes instantly, dealing **Physical** **DMG**.
 * **Elemental Burst** first deals **Cryo DMG** to nearby enemies, then creates a **Lightfall Sword** that deals huge **AoE Physical** **DMG** after a set duration, or if Eula is switched out.
   * **Elemental Burst** **DMG** will increase based on how many times Eula hits enemies during its duration.
@@ -42,12 +42,12 @@
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
 * Rosaria serves as a **Cryo** Energy Battery and **CRIT Rate** Buffer while also activating **Cryo Resonance**.
-* **C6** reduces **Physical Resistance** of enemies hit by Rosaria's **Elemental Burst**.
+* **C6** reduces **Physical RES** of enemies hit by Rosaria's **Elemental Burst**.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Zhongli's shield can prevent Eula from being **interrupted**, which lets her more easily build up hits for her **Elemental Burst**.
-* His shield also further Debuffs **Elemental** and **Physical Resistances** of enemies.
+* His shield also further Debuffs **Elemental** and **Physical RES** of enemies.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
@@ -92,5 +92,5 @@ Click on the team names below for more details on how the team works and alterna
 
 * This team focuses on giving Eula high sustained damage and **Elemental Burst** uptime.
 * Raiden Shogun, Rosaria, and Diona serve as an Energy Battery for Eula making this team very consistent with **Elemental Burst** uptime.
-* Rosaria is able to provide team **CRIT Rate** buffs and reduce enemy **Physical Resistance**.
+* Rosaria is able to provide team **CRIT Rate** buffs and reduce enemy **Physical RES**.
 * Raiden Shogun is able to fill in On-Field during the downtime when Eula's **Elemental Burst** is still on cooldown.

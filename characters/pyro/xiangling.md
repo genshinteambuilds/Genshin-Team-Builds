@@ -17,7 +17,7 @@
 * **Elemental Burst** snapshots any character buffs Xiangling receives when activating the ability for its entire duration.
 * **Elemental Skill** is not very good at generating **Elemental Particles,** and her **Elemental Burst** has a very high cost. Xiangling is almost always paired with a **Pyro Energy Battery** (typically Bennett) for this reason.
 * Xiangling’s kit makes her an exceptional duo with almost any **Cryo** or **Hydro** characters, enabling consistent **Melts** or **Vaporize** reactions from her constant **Pyro** application.
-* **C1** debuffs **Pyro Resistance** on enemies when they are hit by **Guoba**'s attacks.
+* **C1** debuffs **Pyro RES** on enemies when they are hit by **Guoba**'s attacks.
 * **C4** increases the duration of her **Elemental Burst**. This greatly increases her total damage output.
 * **C6** buffs the entire team's **Pyro** **DMG** when her **Elemental Burst** is active.
   * The buff does not apply to Xiangling as her **Elemental Burst** snapshots and only activates after it's been cast.
@@ -39,7 +39,7 @@
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
+* As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental RES** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 
 ## Does Not Work Well With
 

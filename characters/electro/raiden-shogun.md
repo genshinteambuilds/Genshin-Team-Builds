@@ -36,7 +36,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_aether\_electro.png)
 
-* Traveler (Electro) can also fulfill a similar role to Kujou Sara, providing **Electro Energy Particles** with their **Elemental Skill** but can also debuff enemies' **Electro Resistance**.
+* Traveler (Electro) can also fulfill a similar role to Kujou Sara, providing **Electro Energy Particles** with their **Elemental Skill** but can also debuff enemies' **Electro RES**.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
 
@@ -80,7 +80,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * This team that utilizes the Raiden Shogun as the Main DPS and focuses on buffing her **Elemental Burst** **DMG** while feeding the whole team high amounts of energy. For a detailed look at how this team works, check out the [**Oneshot**](../../teams/oneshot.md) page.
 * Sara provides an **ATK** buff, as well as **Electro Energy Particle** generation for Raiden Shogun. She can also provide a **CRIT DMG** Buff with **C6**.
-* Kazuha buffs Raiden Shogun's **Elemental Burst** even further by debuffing **Electro Resistance** with the **Viridescent Venerer** 4-set, as well as buffing **Elemental DMG**.
+* Kazuha buffs Raiden Shogun's **Elemental Burst** even further by debuffing **Electro RES** with the **Viridescent Venerer** 4-set, as well as buffing **Elemental DMG**.
 * Bennett acts as the team's healer while providing an **ATK** buff from his **Elemental Burst**.
 * This team is much more effective with Raiden Shogun's **C2** and Kujou Sara's **C6**.
 
@@ -88,4 +88,4 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* A standard team for Raiden Shogun that focuses on utilizing her Off-Field **Electro** **DMG** for consistent **Superconduct** reactions to reduce **Physical Resistance** as well as increasing the team's **Elemental Burst** **DMG** and lowering **Energy Recharge** requirements.
+* A standard team for Raiden Shogun that focuses on utilizing her Off-Field **Electro** **DMG** for consistent **Superconduct** reactions to reduce **Physical RES** as well as increasing the team's **Elemental Burst** **DMG** and lowering **Energy Recharge** requirements.

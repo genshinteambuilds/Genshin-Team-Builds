@@ -26,7 +26,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
-* **Anemo** Support characters can debuff the **Cryo Resistance** of enemies with the **Viridescent Venerer** set.
+* **Anemo** Support characters can debuff the **Cryo RES** of enemies with the **Viridescent Venerer** set.
 * Many can also create persistent fields that can absorb elements to help enable **Melt** or **Frozen Elemental Reactions** to take place.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
@@ -43,7 +43,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli provides a universal debuff to **Elemental Resistances** for all elements while also providing the strongest shielding in the game.
+* Zhongli provides a universal debuff to **Elemental RES** for all elements while also providing the strongest shielding in the game.
 * Shielding is particularly useful for Ganyu as her **Charged Attacks** take time to charge fully and can be interrupted if not shielded.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)

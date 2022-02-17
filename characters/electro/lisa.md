@@ -24,7 +24,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
 
-* Lisa pairs well with **Physical** Main DPS because of the **DEF** reduction from her **Elemental Burst** and **Superconduct** reactions which debuffs **Physical Resistance**.
+* Lisa pairs well with **Physical** Main DPS because of the **DEF** reduction from her **Elemental Burst** and **Superconduct** reactions which debuffs **Physical RES**.
 * Razor being an **Electro** character also helps Lisa have better uptime on her **Elemental Burst** because of its high energy requirement.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)
@@ -58,5 +58,5 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Lisa helps in applying **Electro** for **Superconduct** reactions that decreases enemies' **Physical Resistance**. When creating **Superconduct** reactions, she also marks enemies with her Conductive status and can use her **Elemental Skill (Hold)** to deal a large amount of **Electro DMG**.
+* Lisa helps in applying **Electro** for **Superconduct** reactions that decreases enemies' **Physical RES**. When creating **Superconduct** reactions, she also marks enemies with her Conductive status and can use her **Elemental Skill (Hold)** to deal a large amount of **Electro DMG**.
 * Lisa’s **Elemental Burst** reduces enemy **DEF** while also dealing **Electro DMG** even when she’s not On-Field.

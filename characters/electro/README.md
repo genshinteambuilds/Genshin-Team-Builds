@@ -44,8 +44,8 @@ While Razor is listed here as an **Electro** character, he is primarily used as 
 
 ## Teams
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../teams/electro.md" %}
+[electro.md](../../teams/electro.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../teams/electro-charged.md" %}

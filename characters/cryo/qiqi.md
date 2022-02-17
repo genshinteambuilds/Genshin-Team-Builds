@@ -25,7 +25,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)
 
-* Qiqi works fairly well with a **Physical** Main DPS, as she can periodically apply **Cryo** with her **Elemental skill** to enable **Superconduct** to debuff enemy **Physical Resistance**.
+* Qiqi works fairly well with a **Physical** Main DPS, as she can periodically apply **Cryo** with her **Elemental skill** to enable **Superconduct** to debuff enemy **Physical RES**.
 
 ## Does Not Work Well With
 

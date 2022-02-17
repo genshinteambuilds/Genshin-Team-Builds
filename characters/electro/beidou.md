@@ -19,14 +19,14 @@
 * **Elemental Burst** snapshots buffs on cast, allowing supports such as Bennett to buff the entire duration of Beidou's **Elemental Burst.**
 * **C2** allows her **Elemental Burst** lightning discharge to bounce between 2 more enemies, increasing AoE damage significantly.
   * Due to this, Beidou's damage scales with the number of enemies surrounding the active character and decreases by a large amount if only attacking a single target.
-* **C6** allows her **Elemental Burst** to reduce the **Electro** **Resistance** of surrounding enemies, making her a Debuffer for **Electro** characters.
+* **C6** allows her **Elemental Burst** to reduce the **Electro** **RES** of surrounding enemies, making her a Debuffer for **Electro** characters.
 
 ## Works Well With
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)
 
 * Beidou primarily acts as a Off-Field DPS for Keqing, providing extra Off-Field **Electro DMG** with her **Elemental Burst**.
-* Beidou can also debuff the the **Electro** **Resistance** of enemies with her **C6** active.
+* Beidou can also debuff the the **Electro** **RES** of enemies with her **C6** active.
 * Keqing's main source of damage being her **Normal** or **Charged Attacks** allows Beidou's **Elemental Burst** to constantly deal **Electro** **DMG**.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
@@ -36,11 +36,11 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
-* Beidou applies **Electro** for **Superconduct** and her high **Electro** **DMG** can assist Eula against enemies with high **Physical Resistance.**
+* Beidou applies **Electro** for **Superconduct** and her high **Electro** **DMG** can assist Eula against enemies with high **Physical RES.**
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)
 
-* **Anemo** characters pair well with Beidou as they can provide **Elemental Resistance** debuffs with the **Viridescent Venerer** 4-set or other **Elemental DMG** buffs when triggering a **Swirl** reaction.
+* **Anemo** characters pair well with Beidou as they can provide **Elemental RES** debuffs with the **Viridescent Venerer** 4-set or other **Elemental DMG** buffs when triggering a **Swirl** reaction.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)
 
@@ -60,7 +60,7 @@
 
 #### ![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Against smaller enemies with low Knock-back **Resistance**, the Knock-back of **Overload** can lead to spending too much time chasing them around.
+* Against smaller enemies with low Knock-back resistance, the Knock-back of **Overload** can lead to spending too much time chasing them around.
 
 ## Teams
 
@@ -88,5 +88,5 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Beidou provides Off-Field **Electro** **DMG** for Eula to trigger **Superconduct,** debuffing enemy **Physical Resistance**.
+* Beidou provides Off-Field **Electro** **DMG** for Eula to trigger **Superconduct,** debuffing enemy **Physical RES**.
 * A second **Electro** character is recommended to help recharge Beidou's **Elemental Burst**.

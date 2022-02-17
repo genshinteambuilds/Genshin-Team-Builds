@@ -76,7 +76,7 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Hu Tao can **Vaporize** her attacks using the **Hydro** applied to the enemy by Xingqiu's **Elemental Burst**.
-* Zhongli provides an **Elemental Resistance** debuff with his shield while also protecting the team.
+* Zhongli provides an **Elemental RES** debuff with his shield while also protecting the team.
 * Albedo provides Off-Field **Geo DMG** and an **Elemental Mastery** buff when using his **Elemental Burst**.
 * Using both Albedo and Zhongli gives the team **Geo Resonance**.
 

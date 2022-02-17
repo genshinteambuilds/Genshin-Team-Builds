@@ -29,7 +29,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli is the most ideal pairing for Ningguang because of the **Geo Resonance** buff. His Shield is extremely durable and Debuffs nearby enemies' **Elemental Resistance**. Together, these two effects greatly increase Ningguang's damage.
+* Zhongli is the most ideal pairing for Ningguang because of the **Geo Resonance** buff. His Shield is extremely durable and Debuffs nearby enemies' **Elemental RES**. Together, these two effects greatly increase Ningguang's damage.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
 

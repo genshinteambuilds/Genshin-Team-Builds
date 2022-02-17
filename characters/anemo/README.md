@@ -7,7 +7,7 @@ This means that any **Anemo** character can be a Debuffer and this set is a must
 {% endhint %}
 
 {% hint style="danger" %}
-For the **Elemental Resistance** debuff of **Viridescent Venerer** to take effect, the character with the set _**must be on the field**_ at the time of the first **Swirl** reaction and switch out only after the **Swirl**. Using an **Anemo** ability and switching before the **Swirl** reaction happens will result in the debuff not activating.
+For the **Elemental RES** debuff of **Viridescent Venerer** to take effect, the character with the set _**must be on the field**_ at the time of the first **Swirl** reaction and switch out only after the **Swirl**. Using an **Anemo** ability and switching before the **Swirl** reaction happens will result in the debuff not activating.
 {% endhint %}
 
 ## Characters

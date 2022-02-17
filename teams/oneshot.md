@@ -82,7 +82,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's Shield decreases all enemy **Elemental Resistances**.
+* Zhongli's Shield decreases all enemy **Elemental RES**.
 
 ### Sample Hu Tao Teams
 
@@ -100,7 +100,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 **Primary Enablers used:** Bennett, Klee, any Pyro.
 
-**Supporting Cast:** Sucrose, Kazuha, any Anemo (for the **resistance shred**)
+**Supporting Cast:** Sucrose, Kazuha, any Anemo (for the **RES** shred)
 
 ### Main Carry
 
@@ -137,7 +137,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 **Step 1**: Apply **Hydro** with Mona’s **Normal Attack**
 
-**Step 2**: **Swirl** with Sucrose’s **Elemental** **Skill** (to decrease **Hydro resistance** by 40% with 4 set **Viridescent Venere**r’s effect)
+**Step 2**: **Swirl** with Sucrose’s **Elemental** **Skill** (to decrease **Hydro RES** by 40% with 4 set **Viridescent Venere**r’s effect)
 
 **Step 3**: Use Bennett's **Elemental Skill** to completely remove **Hydro** aura on enemies after swirling with sucrose (some Hydro aura still linger on the enemy, this is just to make sure that Step 4 won’t trigger any **Vaporize** reactions from Bennett)
 
@@ -147,7 +147,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 **Step 6**: Use Bennett's **Elemental Skill** or apply any **Pyro** to “pop” the bubble
 
-_Step 1 & Step 2_ are skippable but it does boost your burst damage by a lot since it shreds 40% Hydro resistance.
+_Step 1 & Step 2_ are skippable but it does boost your burst damage by a lot since it shreds 40% **Hydro RES**.
 
 **\*ICD / Internal Cooldown**
 
@@ -208,7 +208,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's Shield decreases all **Elemental Resistance** along with **Stagger Resistance**.
+* Zhongli's Shield decreases all **Elemental RES** along with stagger resistance.
 
 ### Sample Childe Teams
 
@@ -259,7 +259,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's Shield decreases all **Elemental Resistance** along with **Stagger Resistance**. The **Stagger Resistance** is valuable on Eula for her to be able to build stacks uninterrupted.
+* Zhongli's Shield decreases all **Elemental RES** along with stagger resistance. The stagger resistance is valuable on Eula for her to be able to build stacks uninterrupted.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
@@ -271,7 +271,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Lisa.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * `Eula E -> Bennett Q → Lisa Q → Eula Q → Eula N x 4→ Eula hold E → Eula N x 4 → Xinyan E`
-* Utilizes **Pyro Resonance** and Lisa's **DEF shred** to provide high amounts of buffs and debuffs for Eula.
+* Utilizes **Pyro Resonance** and Lisa's **DEF** shred to provide high amounts of buffs and debuffs for Eula.
 * Xinyan can increase Eula's damage significantly if she is able to proc **Wolf's Gravestone's** passive with her **Elemental Skill**.
 * Note: Bennett's **Elemental Burst** will barely last long enough for this rotation. Make sure to utilize the quick **Elemental Burst** commands (ALT + #) when using this rotation.
 
@@ -313,7 +313,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's Shield decreases all **Elemental Resistance** along with **Stagger Resistance**.
+* Zhongli's Shield decreases all **Elemental RES** along with stagger resistance.
 
 ### Sample Ayaka Teams
 
@@ -358,7 +358,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's Shield decreases all **Elemental Resistance** along with **Stagger Resistance**.
+* Zhongli's Shield decreases all **Elemental RES** along with stagger resistance.
 
 ### Sample Raiden Teams
 

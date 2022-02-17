@@ -23,7 +23,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
-* Eula can benefit from frequent **Superconduct** reactions which debuff **Physical Resistance**.
+* Eula can benefit from frequent **Superconduct** reactions which debuff **Physical RES**.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
@@ -74,4 +74,4 @@ In all the teams listed below, Fischl universally provides Off-Field **Electro**
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Fischl pairs well with **Physical** Main DPS because of frequent **Superconduct** reactions, which debuff **Physical Resistance**. She also helps provide extra Off-Field **Electro DMG** without requiring much time spent on her character.
+* Fischl pairs well with **Physical** Main DPS because of frequent **Superconduct** reactions, which debuff **Physical RES**. She also helps provide extra Off-Field **Electro DMG** without requiring much time spent on her character.

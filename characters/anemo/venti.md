@@ -16,14 +16,14 @@
 
 * **A1** creates an upward current that the active characters can use to glide into the air when using **Elemental Skill** (Hold).
 * **A4** regenerates 15 energy for Venti after his **Elemental Burst** ends. If the **Elemental Burst** is infused with an element, every character with that infused element gains 15 energy.
-* **C2** debuffs **Anemo Resistance** whenever enemies are hit by Venti's **Elemental Skill.**
-* **C6** debuffs **Anemo Resistance** and **Elemental Resistance** of the absorbed element when enemies are hit by Venti's **Elemental Burst.**
+* **C2** debuffs **Anemo RES** whenever enemies are hit by Venti's **Elemental Skill.**
+* **C6** debuffs **Anemo RES** and **Elemental RES** of the absorbed element when enemies are hit by Venti's **Elemental Burst.**
 
 ## Works Well With
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Venti pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental Resistance** on enemies for 4 of the elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
+* Venti pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental RES** on enemies for 4 of the elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
 
 ## Does Not Work Well With
 
@@ -43,7 +43,7 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Venti acts as Xiao's Energy Battery and a main source of Crowd Control.
-* He can also decrease enemy **Anemo Resistance** to enemies when he has **C2** or **C6** active.
+* He can also decrease enemy **Anemo RES** to enemies when he has **C2** or **C6** active.
 
 {% hint style="info" %}
 In the following teams, Venti provides debuffing utility using the **Viridescent Venerer** 4-set.

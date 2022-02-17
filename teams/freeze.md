@@ -95,4 +95,4 @@ Because **Freeze** teams have high **Crowd Control**, it is possible to play it 
 * Ayaka **Freezes** enemies with her **Elemental Burst, Normal** and **Charged Attacks,** utilizing the **Hydro** application from Kokomi's **Elemental Skill**.
 * Kokomi both applies **Hydro** and acts as a **Healer** in this composition, freeing up a slot for another Support.
 * Kazuha uses **Viridescent Venerer's** debuff and grants an **Elemental DMG** buff.
-* Shenhe increases **Cryo DMG,** buffs **Elemental Burst DMG**, debuffs **Cryo Resistance,** and acts as an Energy Battery for Ayaka.
+* Shenhe increases **Cryo DMG,** buffs **Elemental Burst DMG**, debuffs **Cryo RES,** and acts as an Energy Battery for Ayaka.

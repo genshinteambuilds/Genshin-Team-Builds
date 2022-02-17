@@ -14,7 +14,7 @@
 ## **Additional Notes**
 
 * The Rain Swords summoned by Xingqiu's **Elemental Skill** and **Elemental Burst** can apply **Hydro** to enemies just by touching the enemy similar to Barbara's **Elemental Skill**.
-* **C2** extends the duration of Xingqiu’s **Elemental Burst** by 3 seconds and decreases the **Hydro** **Resistance** of enemies hit by his sword rain attacks by 15% for 4 seconds.
+* **C2** extends the duration of Xingqiu’s **Elemental Burst** by 3 seconds and decreases the **Hydro** **RES** of enemies hit by his sword rain attacks by 15% for 4 seconds.
 * **C4** provides a massive increase in his **Elemental Skill DMG** if cast while his **Elemental Burst** is active.
 * Xingqiu's **Elemental Skill** and **Elemental Burst** apply **Hydro** momentarily to himself, allowing him to cleanse Debuffs on himself but not other members of the team. This can also cause Xingqiu to become momentarily **Frozen** if Xingqiu is affected by **Cryo** before using his **Elemental Skill** or **Elemental Burst**.
 
@@ -25,7 +25,7 @@
 * Xingqiu works incredibly well with almost every character in the game so long as the Main DPS character being used uses **Normal Attacks** that can trigger Xingqiu's **Elemental Burst** sword rain attacks.
   * Even **Charged Attack** based characters besides those that use Bows can make use of Xingqiu as a single **Normal Attack** is performed before each **Charged Attack**.
 * Xingqiu is a core member of many **Vaporize**, **Electro-charged**, and **Freeze** teams.
-* Xingqiu also works with other **Hydro** characters at **C2** as his sword rain attacks decrease the **Hydro** **Resistance** of enemies.
+* Xingqiu also works with other **Hydro** characters at **C2** as his sword rain attacks decrease the **Hydro** **RES** of enemies.
 
 ## **Does Not Work Well With**
 

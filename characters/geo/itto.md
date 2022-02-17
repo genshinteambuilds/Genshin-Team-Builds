@@ -13,7 +13,7 @@
   * Ushi taunts enemies and gives Itto a stack of Superlative Strength when hit.
 * **A1** grants Itto increased resistance to interruption and **ATK SPD** during consecutive Arataki Kesagiri slashes.
 * **A4** increases Arataki Kesagiri **DMG** by a percentage of his **DEF**.
-* **Elemental Burst** infuses Itto's weapon with **Geo** and provides an **ATK** buff that scales off of his **DEF**. Itto also loses **Elemental** and **Physical Resistance** during this time.
+* **Elemental Burst** infuses Itto's weapon with **Geo** and provides an **ATK** buff that scales off of his **DEF**. Itto also loses **Elemental** and **Physical RES** during this time.
 
 ## **Additional Notes**
 

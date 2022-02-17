@@ -28,7 +28,7 @@
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Sucrose pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental Resistance** on enemies for 4 of the elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
+* Sucrose pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental RES** on enemies for 4 of the elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
 
 ## Does Not Work Well With
 
@@ -72,7 +72,7 @@ In the following teams, Sucrose provides debuffing utility using the **Viridesce
 
 * Sucrose provides **Elemental Mastery** to buff **Elemental Reactions** such as **Vaporize**.
 * Sucrose also provides Crowd Control with her **Elemental Skill** and **Elemental Burst.**&#x20;
-* Sucrose also decreases **Pyro Resistance** for the **Pyro** Main DPS.
+* Sucrose also decreases **Pyro RES** for the **Pyro** Main DPS.
 
 ### Character Specific Teams
 
@@ -80,5 +80,5 @@ In the following teams, Sucrose provides debuffing utility using the **Viridesce
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
 
-* Often referred to as the Sucrose Taser team, this team makes use of **Electro** and **Hydro** Off-Field DPS while Sucrose creates **Swirl** Reactions with her **Elemental Skill, Normal Attacks** and **Charged Attacks**, buffing the teams' **Elemental Mastery** while decreasing enemies **Electro** and **Hydro** **Resistance**.
+* Often referred to as the Sucrose Taser team, this team makes use of **Electro** and **Hydro** Off-Field DPS while Sucrose creates **Swirl** Reactions with her **Elemental Skill, Normal Attacks** and **Charged Attacks**, buffing the teams' **Elemental Mastery** while decreasing enemies **Electro** and **Hydro** **RES**.
 * Note: This team does not contain a dedicated healer and is not included within the Electro-Charged team page for that reason. Kokomi Taser team compositions have largely replaced Sucrose Taser teams due to the ability for Kokomi to provide healing.

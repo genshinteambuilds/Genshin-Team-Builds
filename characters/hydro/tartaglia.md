@@ -48,7 +48,7 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental Resistance** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other Buffs.
+* As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental RES** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other Buffs.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
@@ -91,7 +91,7 @@ Click on the team names below for more details on how the team works and alterna
 * Tartaglia's main focus is to Oneshot enemies with his **Elemental Burst**. For a detailed look at how this team works, check out the [**Oneshot**](../../teams/oneshot.md) page.
 * Bennett provides an **ATK** buff and applies **Pyro** on enemies for the **Vaporize** reaction.
 * Mona can apply the **Omen** debuff to provide a **DMG Bonus**.
-* Sucrose buffs Tartaglia's **Elemental Mastery** and debuffs **Hydro Resistance** when equipped with **Viridescent Venerer** 4-set.
+* Sucrose buffs Tartaglia's **Elemental Mastery** and debuffs **Hydro RES** when equipped with **Viridescent Venerer** 4-set.
 
 #### [Vaporize (Hydro)](../../teams/vaporize.md)
 

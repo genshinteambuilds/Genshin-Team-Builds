@@ -38,7 +38,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
-* **Anemo** support characters work well with Ayaka by reducing the enemy's **Elemental Resistance** with **Viridescent Venerer**. **Anemo** characters often also supply useful **Crowd Control** abilities or other buffs.
+* **Anemo** support characters work well with Ayaka by reducing the enemy's **Elemental RES** with **Viridescent Venerer**. **Anemo** characters often also supply useful **Crowd Control** abilities or other buffs.
 * Kazuha, Sucrose and Venti can additionally infuse their **Elemental Bursts** with **Hydro** or **Cryo**, helping provide those elements in a [**Freeze** team](../../teams/freeze.md).
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)

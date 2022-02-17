@@ -35,21 +35,21 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
-* Beidou contributes to the team's overall damage with her own **Elemental Burst,** and her **C6** debuffs the **Electro Resistance** of enemies.
+* Beidou contributes to the team's overall damage with her own **Elemental Burst,** and her **C6** debuffs the **Electro RES** of enemies.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's shield blocks a large amount of damage from enemies, allowing Keqing to focus more on dealing damage rather than dodging. It also reduces enemy **Resistances**. Zhongli's **Elemental Burst** provides a **Petrify** Debuff to enemies allowing for a window to attack without worrying about Knock-back from Keqing's **Charged Attacks**.
+* Zhongli's shield blocks a large amount of damage from enemies, allowing Keqing to focus more on dealing damage rather than dodging. It also reduces enemy **RES**. Zhongli's **Elemental Burst** provides a **Petrify** Debuff to enemies allowing for a window to attack without worrying about Knock-back from Keqing's **Charged Attacks**.
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)
 
-* Keqing pairs well with **Anemo** characters as the **Viridescent Venerer** 4-set can debuff **Electro** **Resistance** on enemies.
+* Keqing pairs well with **Anemo** characters as the **Viridescent Venerer** 4-set can debuff **Electro** **RES** on enemies.
 * Kazuha provides buffs to **Elemental DMG** with **Swirl** reactions.
 * Venti is used primarily on **Electro** Keqing teams. He can keep enemies grouped and damage can be dealt to all enemies trapped in his **Elemental Burst** with Keqing's **Elemental Skill** and **Burst**.
 
 #### ![](../../.gitbook/assets/Element\_Cryo.webp)
 
-* **Cryo** support characters such work well with **Physical** Keqing as the **Superconduct** **Elemental Reaction** debuffs enemies' **Physical Resistance**.
+* **Cryo** support characters such work well with **Physical** Keqing as the **Superconduct** **Elemental Reaction** debuffs enemies' **Physical RES**.
 
 ## Does Not Work Well With
 

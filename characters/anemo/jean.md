@@ -19,7 +19,7 @@
 ## **Additional Notes**
 
 * Often paired with another **Anemo** character to act as an Energy Battery for them and also to regenerate energy for herself, as her **Elemental Burst** has a high energy requirement.
-* **C4** reduces the **Anemo Elemental Resistance** of enemies standing within the field created by her **Elemental Burst** by 40%.
+* **C4** reduces the **Anemo Elemental RES** of enemies standing within the field created by her **Elemental Burst** by 40%.
 * Jean's healing scales off **ATK**.
 * **Charged Attacks** can cause smaller enemies to float in the air for a short period of time after they are hit.
 
@@ -27,7 +27,7 @@
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Jean pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental Resistance** on enemies for 4 of the Elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
+* Jean pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental RES** on enemies for 4 of the Elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
 * You should generally avoid pairing Jean with another Healer as Jean's healing is sufficient for most content.
   * Bennett + Jean is one exception to this rule in situations where this exact pairing can combine **Elemental Bursts** to trigger **Swirl** and quickly destroy enemy shields.
 
