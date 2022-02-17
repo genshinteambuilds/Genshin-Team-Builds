@@ -26,12 +26,17 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
 
-* **Cryo** DPS can use Shenhe's Icy Quill buff to increase their **Cryo DMG**.&#x20;
+* **Cryo** DPS can use Shenhe's Icy Quill buff to increase their **Cryo DMG**.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Depending on the team composition, Bennett's ability to buff **ATK** synergizes well with Shenhe's Icy Quill, as it is based on Shenhe's **ATK**.
 * Note that Bennett should not be utilized in **Freeze** teams as his abilities may cause **Melt** reactions and interfere with keeping enemies **Frozen**.
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
+
+* Shenhe debuffs enemies' **Phys RES** for Eula.
+* Shenhe acts as an Energy Battery for the Energy-hungry Eula.
 
 ## Does Not Work Well With
 
@@ -55,7 +60,7 @@ In all of the teams below, Shenhe universally provides a buff to the **Cryo DMG*
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * Shenhe provides buffing with her **Elemental Skill** and buffing and debuffing with her **Elemental Burst** for a **Cryo** On-Field DPS.
-* Shenhe should use her **Elemental Skill (Tap)** in this team to provide an **Elemental Burst DMG** increase for Ayaka.&#x20;
+* Shenhe should use her **Elemental Skill (Tap)** in this team to provide an **Elemental Burst DMG** increase for Ayaka.
 
 [**Melt (Cryo)**](../../teams/reverse-melt.md)
 
@@ -63,3 +68,12 @@ In all of the teams below, Shenhe universally provides a buff to the **Cryo DMG*
 
 * Shenhe provides buffing for Rosaria with her **Elemental Skill** and buffing and debuffing with her **Elemental Burst.**
 * Shenhe also functions as an Off-Field DPS in this team, using her **Elemental Burst** to apply **Cryo** and frequently trigger **Melt** reactions.
+
+****[**Physical (Cryo)**](../../teams/physical-cryo.md)****
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+
+* Although this team centers around Eula dealing **Physical DMG**, it does not have **Superconduct**.
+* Both Shenhe and Rosaria(C6) provide **Physical RES** debuff.
+* With two off-field **Cryo** applicators, Shenhe and Rosaria, 100% **Cryo** uptime is achievable, allowing Eula to always be under the influence of **Cryo Resonance**, increasing her **CRIT Rate**.
+* Zhongli provides a shield for survivability and **Physical RES** debuff.

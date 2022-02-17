@@ -39,10 +39,11 @@
 
 * Diona is a popular option as a **Cryo** healer for Eula as she activates **Cryo Resonance** and provides **Cryo Energy Particles** alongside her healing and shielding.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)
 
 * Rosaria serves as a **Cryo** Energy Battery and **CRIT Rate** Buffer while also activating **Cryo Resonance**.
 * **C6** reduces **Physical RES** of enemies hit by Rosaria's **Elemental Burst**.
+* Shenhe activates **Cryo Resonance**, acts as an Energy Battery and reduces **Physical RES** of enemies in Shenhe's **Elemental Burst**.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
@@ -94,3 +95,14 @@ Click on the team names below for more details on how the team works and alterna
 * Raiden Shogun, Rosaria, and Diona serve as an Energy Battery for Eula making this team very consistent with **Elemental Burst** uptime.
 * Rosaria is able to provide team **CRIT Rate** buffs and reduce enemy **Physical RES**.
 * Raiden Shogun is able to fill in On-Field during the downtime when Eula's **Elemental Burst** is still on cooldown.
+
+
+
+****[**Physical (Cryo)**](../../teams/physical-cryo.md)****
+
+![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+
+* Although this team centers around Eula dealing **Physical DMG**, it does not have **Superconduct**.
+* Both Shenhe and Rosaria(C6) provide **Physical RES** debuff.
+* With two off-field **Cryo** applicators, Shenhe and Rosaria, 100% **Cryo** uptime is achievable, allowing Eula to always be under the influence of **Cryo Resonance**, increasing her **CRIT Rate**.
+* Zhongli provides a shield for survivability and **Physical RES** debuff.
