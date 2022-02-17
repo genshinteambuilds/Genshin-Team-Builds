@@ -4,12 +4,12 @@ This team composition focuses on **Cryo** characters that center around dealing 
 
 Swirl is the only notable **Elemental Reaction** as the **Viridescent Venerer** 4-set can reduce enemies' **Cryo Resistance**.
 
-With a full team of **Cryo** characters, **Energy Recharge** requirements for the team is severely lowered.
+With a full team of **Cryo** characters, **Energy Recharge** requirements for the team are severely lowered.
 
 The format for the team is a **Cryo** Main DPS, Shenhe, **Cryo**/**Anemo** support, Healer/Shielder that is preferably **Cryo**/**Anemo**.
 
 {% hint style="danger" %}
-Teams from this category is only possible because of Shenhe.
+Teams from this category are only possible because of Shenhe.
 {% endhint %}
 
 ## Characters
