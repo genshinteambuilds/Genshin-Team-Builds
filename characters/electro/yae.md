@@ -1,4 +1,4 @@
-# Yae Miko
+# Yae
 
 ## Roles
 
@@ -11,17 +11,17 @@
 * **Elemental Skill** summons a Sesshou Sakura, which deals an **Electro DMG** to a single enemy for a set duration.
   * Sesshou Sakura can hold up to 3 charges and it starts at level 1. When they are nearby each other its level increases up to maximum of level 3, Which further boost the **Electro DMG** dealt.
 * **Elemental Burst** summons a lightning strike which deals a large amount of **AoE Electro DMG**.
-  * If there are Sesshou Sakuras on the field it consumes them and Summons extra lightning strikes based on how many are present.
+  * If there are Sesshou Sakuras on the field it consumes them and summons extra lightning strikes based on how many are present.
 * **A1** reduces the cooldown of Yae Miko's **Elemental Skill** based on the number of Sesshou Sakura present on the field.
-* **A2** increases the damage of Sesshou Sakura by 0.15% for every point of Yae Miko's **Elemental Mastery**.
+* **A4** increases the damage of Sesshou Sakura by 0.15% for every point of Yae Miko's **Elemental Mastery**.
 
 ## **Additional Notes**
 
+* **Elemental Skill** does not snapshot from buffs which results in Yae Miko dealing less damage when Off-Field.
 * **C1** allows Yae Miko's **Elemental Burst** to restore her own energy with every lightning strike summoned when cast.
 * **C2** increases the initial of Sesshou Sakura to level 2, max level to 4 and gets an increased attack range.
 * **C4** allows Yae Miko's **Elemental Skill** to buff the entire party's **Electro DMG** when it hits enemies.
 * **C6** massively increases the damage dealt by the from Yae Miko's **Elemental Skill**.
-* **Elemental Skill** does not snapshot from buffs which results in Yae Miko dealing less damage when Off-Field.
 
 ## **Works Well With**
 
@@ -36,7 +36,8 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
-* Kokomi and Xingqiu provide a high rate of **Hydro** application and which can constantly create **Electro-Charged** reactions.
+* Kokomi and Xingqiu provide **Hydro** application and which can constantly create **Electro-Charged** reactions.
+* Kokomi also serves as a healer which allows another Flex spot open in the party.
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)
 
@@ -65,7 +66,7 @@ Click on the team names below for more details on how the team works and alterna
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yae.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
 
 * This team is centered around creating **Electro-Charged Reactions** with Kokomi or Xinqiu applying **Hydro** on enemies.
-* Sucrose debuffs enemy **Elemental RES** with 4-set **Viridescent Venerer** and provides **Elemental Mastery**. She is mainly equipped with the **Prototype Amber** 4\* weapon to provide healing for the party.
+* Sucrose debuffs enemy **Elemental RES** with 4-set **Viridescent Venerer** and provides **Elemental Mastery**. She is mainly equipped with the **Prototype Amber** 4\* weapon to provide healing for the party if there are no healer characters in the team.
 * Fischl and Raiden acts as an Energy Battery and activates **Electro Resonance** while also providing extra damage Off-Field.
 
 ****[**Pure Electro**](../../teams/pure-electro.md)****

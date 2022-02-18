@@ -45,7 +45,7 @@
   * [Razor](characters/electro/razor.md)
   * [Sara](characters/electro/kujou-sara.md)
   * [Traveler (Electro)](characters/electro/traveler-electro.md)
-  * [Yae Miko](characters/electro/yae-miko.md)
+  * [Yae](characters/electro/yae.md)
 * [Geo](characters/geo/README.md)
   * [Albedo](characters/geo/albedo.md)
   * [Gorou](characters/geo/gorou.md)
