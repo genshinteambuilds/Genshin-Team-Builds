@@ -12,12 +12,14 @@
   * Sesshou Sakura can hold up to 3 charges and it starts at level 1. When they are nearby each other its level increases up to maximum of level 3, Which further boost the **Electro DMG** dealt.
 * **Elemental Burst** summons a lightning strike which deals a large amount of **AoE Electro DMG**.
   * If there are Sesshou Sakuras on the field it consumes them and summons extra lightning strikes based on how many are present.
-* **A1** reduces the cooldown of Yae Miko's **Elemental Skill** based on the number of Sesshou Sakura present on the field.
+* **A1** resets the cooldown of a single charge of Yae Miko's **Elemental Skill** when casting her **Elemental Burst.**
+  * The number of charges that get their cooldown reset is based on how many Sesshou Sakuras are present.
 * **A4** increases the damage of Sesshou Sakura by 0.15% for every point of Yae Miko's **Elemental Mastery**.
 
 ## **Additional Notes**
 
 * **Elemental Skill** does not snapshot from buffs which results in Yae Miko dealing less damage when Off-Field.
+* The number of **Electro Particles** gained with Yae Miko's **Elemental Skill** is shared across all Sesshou Sakuras present On-Field.
 * **C1** allows Yae Miko's **Elemental Burst** to restore her own energy with every lightning strike summoned when cast.
 * **C2** increases the initial of Sesshou Sakura to level 2, max level to 4 and gets an increased attack range.
 * **C4** allows Yae Miko's **Elemental Skill** to buff the entire party's **Electro DMG** when it hits enemies.
