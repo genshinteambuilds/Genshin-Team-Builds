@@ -64,7 +64,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yae.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
 
-* This team is centered around creating **Electro-Charged Reactions** with Kokomi applying **Hydro** on enemies.
+* This team is centered around creating **Electro-Charged Reactions** with Kokomi or Xinqiu applying **Hydro** on enemies.
 * Sucrose debuffs enemy **Elemental RES** with 4-set **Viridescent Venerer** and provides **Elemental Mastery**. She is mainly equipped with the **Prototype Amber** 4\* weapon to provide healing for the party.
 * Fischl and Raiden acts as an Energy Battery and activates **Electro Resonance** while also providing extra damage Off-Field.
 
