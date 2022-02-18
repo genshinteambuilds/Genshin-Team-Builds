@@ -76,4 +76,4 @@ Click on the team names below for more details on how the team works and alterna
 
 * This team mainly focuses on dealing only **Electro** damage through Yae Miko's **Elemental Skill** and **Burst**. The supports focus on buffing Yae's overall damage output through various buffs.
 * Raiden provides energy for the entire party and deals damage with her **Elemental Burst** while Yae Miko is Off-Field.
-* Alternatively Fischl can be used if Raiden isn't available as an Energy Battery
+* Alternatively Fischl can be used if Raiden isn't available as an Energy Battery.
