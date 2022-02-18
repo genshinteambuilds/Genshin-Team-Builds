@@ -38,8 +38,8 @@ While Razor is listed here as an **Electro** character, he is primarily used as 
 [traveler-electro.md](traveler-electro.md)
 {% endcontent-ref %}
 
-{% content-ref url="yae.md" %}
-[yae.md](yae.md)
+{% content-ref url="yae-miko.md" %}
+[yae-miko.md](yae-miko.md)
 {% endcontent-ref %}
 
 ## Teams
