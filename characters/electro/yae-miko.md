@@ -27,11 +27,11 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
 
-* Raiden is one of the best characters to pair with Yae Miko, providing energy, activating **Electro Resonance** as well as damage from her **Elemental Skill** and **Elemental Burst.**
+* Raiden is one of the best characters to pair with Yae Miko, providing energy, activating **Electro Resonance** as well as damage from her **Elemental Skill** and **Burst.**
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Sara and Bennet provides an **ATK** boost that can increase which overall increases Yae Miko's damage output.&#x20;
+* Sara and Bennet provides an **ATK** boost which overall increases Yae Miko's damage output.&#x20;
 * Sara however has poor **Energy** **Particle** generation so it is recommended to run a 3rd **Electro** character in the team to serve as an Energy Battery unless it is a [**Oneshot**](../../teams/oneshot.md) team.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
@@ -50,7 +50,7 @@
 
 ![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Yae Miko does not pair with most **Pyro** characters because of the **Overload** **Reaction** which can knock enemies away from the attack range of her **Elemental Skill**.
+* Yae Miko does not pair well with most **Pyro** characters because of the **Overload** **Reaction** which can knock enemies away from the attack range of her **Elemental Skill**.
 
 ## Teams
 
