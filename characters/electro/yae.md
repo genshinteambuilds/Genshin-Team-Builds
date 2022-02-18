@@ -37,7 +37,7 @@
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
 * Kokomi and Xingqiu provide **Hydro** application and which can constantly create **Electro-Charged** reactions.
-* Kokomi also serves as a healer which allows another Flex spot open in the party.
+* Kokomi also serves as a healer which allows another Flex spot to be open in the party.
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)
 
