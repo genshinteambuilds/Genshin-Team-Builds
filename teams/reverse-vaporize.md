@@ -22,8 +22,8 @@ This comp focuses on using the **Vaporize Elemental Reaction** with a **Main Pyr
 |                                                                                                                            |                                                                                      |                                                                                                    |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Noelle.png" alt=""><br>Noelle</p>   |
 
 {% hint style="danger" %}
-* Hu Tao is primarily used with a shielder so they are a higher priority pick over healers.
-* This is due to her **A4** which increases her damage output when below 50% **HP** and **Elemental Burst** which heals her.
+* Hu Tao's **A4** buffs her **Pyro DMG** when she is below 50% **HP**. This can make playing Hu Tao with healers such as Bennett difficult. Often shielding such as Zhongli, Diona or Thoma is used instead.
+* It is also difficult to **Swirl Pyro** on Hutao teams without a 2nd **Pyro** characters such as Thoma or Amber. Other Off-Field DPS characters can be used if you do not have a 2nd **Pyro** character.
 {% endhint %}
 
 ### Main DPS

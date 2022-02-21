@@ -1,7 +1,6 @@
 # Electro-Charged (Electro)
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)\
-[Raiden](../characters/electro/raiden-shogun.md)This team composition focuses on the **Electro-Charged Elemental Reaction** that requires **Hydro** and **Electro** to be applied to an enemy. This reaction deals **Electro DMG** over time to target affected by the reaction as well as to any nearby targets that are **Wet**.
+This team composition focuses on the **Electro-Charged Elemental Reaction** that requires **Hydro** and **Electro** to be applied to an enemy. This reaction deals **Electro DMG** over time to target affected by the reaction as well as to any nearby targets that are **Wet**.
 
 This page contains **Electro-Charged** teams with a **Electro** Main DPS character. For **Electro-Charged** teams with **Hydro** Main DPS characters, see [Electro-Charged (Hydro)](electro-charged-hydro.md).
 

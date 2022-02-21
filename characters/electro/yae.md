@@ -8,12 +8,11 @@
 
 ## **Character Breakdown**
 
-* **Elemental Skill** summons a Sesshou Sakura, which continuously deals **Electro DMG** to a single target for a set duration.
-  * **Elemental Skill** has 3 charges and 3 Sesshou Sakura can be on the field at a time.
-  * When Sesshou Sakura they are near each other, they increase each other's level up to maximum of 3, Which further boost the **Electro DMG** dealt.
+* **Elemental Skill** summons a Sesshou Sakura, which deals an **Electro DMG** to a single enemy for a set duration.
+  * Sesshou Sakura can hold up to 3 charges and it starts at level 1. When they are nearby each other its level increases up to maximum of level 3, Which further boost the **Electro DMG** dealt.
 * **Elemental Burst** summons a lightning strike which deals a large amount of **AoE Electro DMG**.
-  * If there are Sesshou Sakuras on the field, they are consumed to produce additional lightning strikes.
-* **A1** resets the cooldown of Yae Miko's **Elemental Skill** when casting her **Elemental Burst.**
+  * If there are Sesshou Sakuras on the field it consumes them and summons extra lightning strikes based on how many are present.
+* **A1** resets the cooldown of a single charge of Yae Miko's **Elemental Skill** when casting her **Elemental Burst.**
   * The number of charges that get their cooldown reset is based on how many Sesshou Sakuras are present.
 * **A4** increases the damage of Sesshou Sakura by 0.15% for every point of Yae Miko's **Elemental Mastery**.
 
@@ -30,17 +29,17 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
 
-* Raiden is one of the best characters to pair with Yae Miko, providing energy, activating **Electro Resonance** as well as buffing Yae with her **Elemental Skill**.
+* Raiden is one of the best characters to pair with Yae Miko, providing energy, activating **Electro Resonance** as well as damage from her **Elemental Skill** and **Burst.**
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Sara and Bennett can provide an **ATK** buff. Sara can also provide a buff to **CRIT DMG** at **C6**.
-* Note that Sara has poor **Energy** **Particle** generation and you may require a 3rd **Electro** character in the team to serve as an Energy Battery.
+* Sara and Bennet provides an **ATK** boost which overall increases Yae Miko's damage output.&#x20;
+* Sara however has poor **Energy** **Particle** generation so it is recommended to run a 3rd **Electro** character in the team to serve as an Energy Battery unless it is a [**Oneshot**](../../teams/oneshot.md) team.
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
 * Kokomi and Xingqiu provide **Hydro** application and which can constantly create **Electro-Charged** reactions.
-* Kokomi also serves as a healer which frees up another character slot in the team.
+* Kokomi also serves as a healer which allows another Flex spot to be open in the party.
 
 ![](../../.gitbook/assets/Element\_Anemo.webp)
 
@@ -54,7 +53,7 @@
 
 ![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* **Overload Elemental Reactions** may cause smaller enemies to be displaced though this can be mitigated through Crowd Control and is not a concern when fighting larger enemies or bosses.
+* Yae Miko does not pair well with most **Pyro** characters because of the **Overload** **Reaction** which can knock enemies away from the attack range of her **Elemental Skill**.
 
 ## Teams
 
