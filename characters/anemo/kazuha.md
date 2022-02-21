@@ -70,7 +70,7 @@ In the following teams, Kazuha provides debuffing utility using the **Viridescen
 
 #### [Pure Pyro](../../teams/pure-pyro.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 #### [Melt (Cryo)](../../teams/reverse-melt.md)
 
