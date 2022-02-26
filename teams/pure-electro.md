@@ -70,7 +70,7 @@ This is viable when **Hydro** characters that are essential for **Electro-Charge
 * Kazuha provides buffing to **Electro DMG** after causing **Swirl** and an **Elemental RES** debuff with the **Viridescent Venerer** 4-set.
 * Bennett provides healing and a large **ATK** buff for Raiden.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
 
 * Beidou uses her **Elemental Burst** and performs **Normal Attacks** alongside the use of her **Elemental Skill** to deal large amounts of **Electro DMG**. Her **Elemental Burst** snapshots and so it can be buffed for its entire duration.
 * Fischl serves as a Battery for Beidou as well as a source of consistent Off-field **Electro DMG**.
