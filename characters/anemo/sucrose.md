@@ -7,7 +7,7 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** creates a small Wind Spirit that pulls opponents towards it's location and launches opponents within it's AoE into the air.
+* **Elemental Skill** creates a small Wind Spirit that pulls opponents towards it's location and launches opponents within it's **AoE** into the air.
 * **Elemental Burst** creates a field that that can absorb **Cryo**, **Electro**, **Hydro** or **Pyro** and will continuously deal **DMG** of that elemental type. If no element is absorbed, the field will only deal **Anemo** **DMG**.
   * Once the **Elemental Burst** absorbs an element, enemies within the field are continuously attacked with that element, allowing other **Elemental Reactions** with that element to constantly take place.
 * **A1** raises the **Elemental Mastery** of all characters besides Sucrose whenever Sucrose triggers a **Swirl** reaction.
