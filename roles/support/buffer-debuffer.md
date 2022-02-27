@@ -2,7 +2,7 @@
 
 Buffers and Debuffers are supports that directly boost the damage of your characters with their **Elemental Skills** and/or **Elemental Bursts**. Many of these abilities also have other effects other than buffing or debuffing such providing Healing, Crowd Control, or Shielding and so on.
 
-The boost to your damage can come in the form of either increasing the stats of your characters (Buffing) or by decreasing the stats of your enemies (Debuffing).
+The boost to your damage can come in the form of either increasing the stats of your characters (buffing) or by decreasing the stats of your enemies (debuffing).
 
 Depending on the characters you use, different character stats can be buffed or different enemy stats can be debuffed. Some characters gain the ability to buff or debuff through constellations.
 
@@ -24,7 +24,7 @@ The current enemy stats that can be debuffed by characters include:
 * DEF
 
 {% hint style="info" %}
-Some artifact sets have set bonuses that can allow characters to become buffers or debuffers. For example, **Viridescent Venerer's** 4-set bonus allows **Anemo** characters to reduce enemy **Elemental RES** to the **Swirled** element.
+Some artifact sets have set bonuses that can allow characters to become Buffers or Debuffers. For example, **Viridescent Venerer's** 4-set bonus allows **Anemo** characters to reduce enemy **Elemental RES** to the **Swirled** element.
 {% endhint %}
 
 {% hint style="info" %}
@@ -35,7 +35,7 @@ Some weapons have the ability to buff the team. For example, **Freedom-Sworn** c
 The **Superconduct** **Elemental Reaction** (**Cryo** + **Electro**) is the only reaction that innately debuffs enemies. **Superconduct** reduces an enemy's **Physical RES** by 40% for 12 seconds, making it a necessity for any team using a **Physical** Main DPS.
 {% endhint %}
 
-## Characters that can Buff / Debuff <a href="#list-of-burst-sub-dps-characters" id="list-of-burst-sub-dps-characters"></a>
+## Characters that can buff / debuff <a href="#list-of-burst-sub-dps-characters" id="list-of-burst-sub-dps-characters"></a>
 
 {% hint style="warning" %}
 Check out the character's page to see how the character works and functions in a team.

@@ -48,7 +48,7 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental RES** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other Buffs.
+* As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental RES** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
@@ -58,7 +58,7 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
 * Yunjin can boost Childe's **Normal Attacks**.
 * Although a large amount of of Childe teams' damage is from his Off-Field DPS, Childe's **Normal Attacks** do a considerable amount of **Hydro DMG**.
-* Using Yunjin is generally not preferable to running a buffer like Sucrose or Kazuha to boost the **Elemental DMG** of your Off-Field DPS characters.
+* Using Yunjin is generally not preferable to running a Buffer like Sucrose or Kazuha to boost the **Elemental DMG** of your Off-Field DPS characters.
 
 ## **Does Not Work Well With**
 

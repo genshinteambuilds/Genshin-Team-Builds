@@ -79,7 +79,7 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * This team that utilizes the Raiden Shogun as the Main DPS and focuses on buffing her **Elemental Burst** **DMG** while feeding the whole team high amounts of energy. For a detailed look at how this team works, check out the [**Oneshot**](../../teams/oneshot.md) page.
-* Sara provides an **ATK** buff, as well as **Electro Energy Particle** generation for Raiden Shogun. She can also provide a **CRIT DMG** Buff with **C6**.
+* Sara provides an **ATK** buff, as well as **Electro Energy Particle** generation for Raiden Shogun. She can also provide a **CRIT DMG** buff with **C6**.
 * Kazuha buffs Raiden Shogun's **Elemental Burst** even further by debuffing **Electro RES** with the **Viridescent Venerer** 4-set, as well as buffing **Elemental DMG**.
 * Bennett acts as the team's healer while providing an **ATK** buff from his **Elemental Burst**.
 * This team is much more effective with Raiden Shogun's **C2** and Kujou Sara's **C6**.

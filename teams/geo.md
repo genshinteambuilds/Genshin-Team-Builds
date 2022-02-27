@@ -88,7 +88,7 @@ If you do not struggle with survivability with Shields from **Crystallization** 
 * Zhongli's shield coupled with **Geo Resonance** reduces the **Geo** **RES** of Enemies by -40%.
 * Ningguang generates a substantial amount of energy particles allowing both her and Zhongli to cast their **Elemental Burst** frequently.
 * When **Elemental Bursts** are not ready to be cast, Ningguang deals sustained damage with her **Normal** and **Charged Attacks**.
-* Xiangling deals Off-Field **AoE** **Pyro DMG** and Bennett acts as Xiangling's Energy Battery and overall team buffer and healer.
+* Xiangling deals Off-Field **AoE** **Pyro DMG** and Bennett acts as Xiangling's Energy Battery and overall team Buffer and healer.
 
 ![](../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 

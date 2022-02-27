@@ -60,5 +60,5 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * A team where Diluc can **Vaporize** his attacks using the **Hydro** applied to the enemy by Xingqiu's **Elemental Burst**.
-* Zhongli provides **Pyro RES** Debuff and Shielding.
+* Zhongli provides **Pyro RES** debuff and Shielding.
 * Bennett acts as the team's healer while also providing an **ATK** buff from his **Elemental Burst.**
