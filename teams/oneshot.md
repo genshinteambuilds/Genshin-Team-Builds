@@ -1,6 +1,6 @@
 # Oneshot
 
-These team compositions focus on dealing a large amount of burst damage to enemies (ideally ending the encounter immediately) without caring much about repeatability and follow up damage. This is usually accomplished by utilizing characters with very high **Elemental Burst** modifiers that can take full advantage of multiple scaling, Buffs, and/or **Elemental Reactions**. Notable **Elemental Reactions** are **Melt** and **Vaporize** as they are able to provide an additional final multiplier to damage. The other character slots are used mainly to "setup" the Oneshot and stack multiple buffs and apply **Elements** in a specific order.
+These team compositions focus on dealing a large amount of burst damage to enemies (ideally ending the encounter immediately) without caring much about repeatability and follow up damage. This is usually accomplished by utilizing characters with very high **Elemental Burst** modifiers that can take full advantage of multiple scaling, buffs, and/or **Elemental Reactions**. Notable **Elemental Reactions** are **Melt** and **Vaporize** as they are able to provide an additional final multiplier to damage. The other character slots are used mainly to "setup" the Oneshot and stack multiple buffs and apply **Elements** in a specific order.
 
 **Elemental Skill** and **Burst** usage order and character swapping order is very important in these types of compositions. This playstyle will often have different artifacts and weapon choices than traditional play, and setups vary widely by availability of characters and equipment.
 
@@ -44,7 +44,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
 * Although Mona is not **Cryo**, she is able to be used in specific scenarios (**Floor 7** with Cryogunner, **Blizzard Strayer** Domain). If Melt is not an option, then Mona can be used as a Vaporize Enabler.
-* Provides large Buffs through her **Elemental Burst** and ability to carry **Thrilling Tales of Dragon Slayer**.
+* Provides large buffs through her **Elemental Burst** and ability to carry **Thrilling Tales of Dragon Slayer**.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)
 
@@ -54,7 +54,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett provides a large **ATK** Buff from his **Elemental Burst** and can be used for Swirling **Pyro** as Hu Tao has no way to apply Pyro without using her **Elemental Skill** or **Elemental Burst**.
+* Bennett provides a large **ATK** buff from his **Elemental Burst** and can be used for Swirling **Pyro** as Hu Tao has no way to apply Pyro without using her **Elemental Skill** or **Elemental Burst**.
 * Hu Tao should be very low in health before switching to her so that she does not heal past the 50% threshold for her passive. If needed, Bennett can be equipped with a non-upgraded flower to lower his Healing.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
@@ -77,8 +77,8 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
 
 * Able to carry **Elegy for the End** and easily activate the passive through her **Elemental Burst**.
-* At **C6**, using her **Elemental Burst** gives her team a small **ATK**% Buff.
-* Used for **Swirling Pyro** for **Viridescent Venerer**'s Debuff with an **Anemo** character.
+* At **C6**, using her **Elemental Burst** gives her team a small **ATK**% buff.
+* Used for **Swirling Pyro** for **Viridescent Venerer**'s debuff with an **Anemo** character.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
@@ -292,7 +292,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
-* Provides large Buffs through her **Elemental Burst** and ability to carry **Thrilling Tales of Dragon Slayer**.
+* Provides large buffs through her **Elemental Burst** and ability to carry **Thrilling Tales of Dragon Slayer**.
 * Should use 4 set **Tenacity of the Millelith** in this team.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
@@ -354,7 +354,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
-* Provides large Buffs through her **Elemental Burst** and ability to carry **Thrilling Tales of Dragon Slayer**.
+* Provides large buffs through her **Elemental Burst** and ability to carry **Thrilling Tales of Dragon Slayer**.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 

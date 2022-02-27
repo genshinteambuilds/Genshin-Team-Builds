@@ -17,26 +17,26 @@
 ## **Additional Notes**
 
 * Kujou Sara focuses on buffing the **ATK** of other characters but is also capable of dealing a large amount of **Elemental Burst** **DMG** herself.
-* Kujou Sara’s **ATK** Buff will only benefit the active character and has a very short duration of 6 seconds
+* Kujou Sara’s **ATK** buff will only benefit the active character and has a very short duration of 6 seconds
 * **Energy** will only be generated from the explosion after an Aimed Shot from Kujou Sara’s **Elemental Skill**. The activation itself will not generate particles.
 * **C2** creates a Crowfeather upon activation, greatly increasing the speed and ease at which she can provide her **ATK** buff.
   * This Crowfeather however will not generate **Energy Particles**, and will still require Kujou Sara to perform an Aimed Shot to summon the 2nd Crowfeather in order to generate them.
-* **C6** provides a 60% **CRIT DMG** Buff on any **Electro DMG** dealt by characters that have their **ATK** buffed by Tengu Juurai.
+* **C6** provides a 60% **CRIT DMG** buff on any **Electro DMG** dealt by characters that have their **ATK** buffed by Tengu Juurai.
 
 ## **Works Well With**
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
 
-* Raiden Shogun is great when paired with Kujou Sara, they can feed each other high amounts of Energy to help offset their high **Elemental Burst** costs while Sara functions as a powerful buffer for the Raiden Shogun.
+* Raiden Shogun is great when paired with Kujou Sara, they can feed each other high amounts of Energy to help offset their high **Elemental Burst** costs while Sara functions as a powerful Buffer for the Raiden Shogun.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
 
 * Beidou can benefit from Kujou Sara’s utility and buffs in the same way the Raiden Shogun can. She both helps Beidou recharge her **Elemental Burst** and increases Beidou’s **Elemental Burst** **DMG**, as Beidou can snapshot Kujou Sara’s **ATK** buff.
-  * **C6** Kujou Sara's **CRIT DMG** Buff cannot be snapshot and will not benefit Beidou’s **Elemental Burst** throughout its entire duration.
+  * **C6** Kujou Sara's **CRIT DMG** buff cannot be snapshot and will not benefit Beidou’s **Elemental Burst** throughout its entire duration.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
-* Kujou Sara can provide **Superconduct** and **ATK** Buff to a **Physical** Main DPS that is **Cryo**, though there are often better alternatives for this role.
+* Kujou Sara can provide **Superconduct** and **ATK** buff to a **Physical** Main DPS that is **Cryo**, though there are often better alternatives for this role.
 
 ## **Does Not Work Well With**
 
@@ -54,7 +54,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Sara provides an **ATK** buff, as well as **Electro Particle** generation for Raiden Shogun. She can also provide an **Electro** **CRIT DMG** Buff with **C6**
+* Sara provides an **ATK** buff, as well as **Electro Particle** generation for Raiden Shogun. She can also provide an **Electro** **CRIT DMG** buff with **C6**
 * Kazuha buffs this **Elemental Burst** even further with **Viridescent Venerer** and his built-in **Elemental DMG** buff.
 * Bennett acts as the team's healer while providing additional **ATK** from his **Elemental Burst**.
 * This team is much more effective with Raiden Shogun's **C2.**

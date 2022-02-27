@@ -17,7 +17,7 @@
 * Beidou excels an Off-Field DPS with her **Elemental Burst** for teams that attack often with **Normal Attacks** or **Charged Attacks**.
 * Beidou is often paired with another **Electro** character to help regenerate energy as her **Elemental Burst** has a high energy requirement.
 * **Elemental Burst** snapshots buffs on cast, allowing supports such as Bennett to buff the entire duration of Beidou's **Elemental Burst.**
-* **C2** allows her **Elemental Burst** lightning discharge to bounce between 2 more enemies, increasing AoE damage significantly.
+* **C2** allows her **Elemental Burst** lightning discharge to bounce between 2 more enemies, increasing **AoE** damage significantly.
   * Due to this, Beidou's damage scales with the number of enemies surrounding the active character and decreases by a large amount if only attacking a single target.
 * **C6** allows her **Elemental Burst** to reduce the **Electro** **RES** of surrounding enemies, making her a Debuffer for **Electro** characters.
 
