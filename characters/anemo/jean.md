@@ -13,7 +13,7 @@
 * **Elemental Burst** deals a large amount of **Anemo DMG** and heals a large amount when used.
 * **Elemental Burst** also creates a **Dandelion Field** which continuously heals characters that stand in it.
 * **Elemental Burst** cleanses debuffs from all team members.
-* Can act as a Debuffer with **Viridescent Venerer** 4-set or as a buffer with **Noblesse Oblige** 4-set if running 2 **Anemo** supports.
+* Can act as a Debuffer with **Viridescent Venerer** 4-set or as a Buffer with **Noblesse Oblige** 4-set if running 2 **Anemo** supports.
 * **Anemo** characters need to be within 20 levels of enemies to be able to Crowd Control them most effectively.
 
 ## **Additional Notes**

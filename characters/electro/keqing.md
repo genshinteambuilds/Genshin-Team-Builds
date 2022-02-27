@@ -39,7 +39,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's shield blocks a large amount of damage from enemies, allowing Keqing to focus more on dealing damage rather than dodging. It also reduces enemy **RES**. Zhongli's **Elemental Burst** provides a **Petrify** Debuff to enemies allowing for a window to attack without worrying about Knock-back from Keqing's **Charged Attacks**.
+* Zhongli's shield blocks a large amount of damage from enemies, allowing Keqing to focus more on dealing damage rather than dodging. It also reduces enemy **RES**. Zhongli's **Elemental Burst** provides a **Petrify** debuff to enemies allowing for a window to attack without worrying about Knock-back from Keqing's **Charged Attacks**.
 
 #### ![](../../.gitbook/assets/Element\_Anemo.webp)
 
@@ -78,4 +78,4 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * Do not recast Keqing's **Elemental Skill**. It should be detonated via **Charged Attack** to avoid **Electro** infusion.
-* The 3rd and 4th slots in the team are flexible and their main role is to provide Buffs, Debuffs or other utility effects.
+* The 3rd and 4th slots in the team are flexible and their main role is to provide buffs, debuffs or other utility effects.
