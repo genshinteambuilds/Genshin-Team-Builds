@@ -60,7 +60,7 @@
 
 #### ![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Against smaller enemies with low Knock-back resistance, the Knock-back of **Overload** can lead to spending too much time chasing them around.
+* Against smaller enemies with low resistance to interruption, the knock back of **Overload** can lead to spending too much time chasing them around.
 
 ## Teams
 

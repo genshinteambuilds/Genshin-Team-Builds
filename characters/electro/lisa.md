@@ -39,7 +39,7 @@
 
 #### ![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Lisa's constant **Electro** application can knock enemies out of range when used with a **Pyro** Main DPS due to **Overload's** knockback effect. **Electro** can also interfere with the consistency of **Vaporize** or **Melt** reactions.
+* Lisa's constant **Electro** application can knock enemies out of range when used with a **Pyro** Main DPS due to **Overload's** knock back effect. **Electro** can also interfere with the consistency of **Vaporize** or **Melt** reactions.
 
 ## Teams
 

@@ -38,7 +38,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)
 
-* **Overload** can be a burden for close-range DPS, as its Knock-back effect wastes time chasing smaller enemies around.
+* **Overload** can be a burden for close-range DPS, as its knock back effect wastes time chasing smaller enemies around.
 * Many **Pyro** DPS are better suited to use reactions other than **Overload**, which Traveler (Electro) can interfere with.
 * Neither Diluc nor Hu Tao requires large amounts of energy, making large parts of Electro Traveler's kit useless.
 

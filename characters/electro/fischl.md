@@ -41,7 +41,7 @@
 
 #### ![](../../.gitbook/assets/Element\_Pyro.webp)
 
-* Fischl’s constant **Electro** application can knock enemies out of range when used with a **Pyro** Main DPS due to **Overload's** Knock-back effect. **Electro** can also interfere with the consistency of **Vaporize** or **Melt** reactions.
+* Fischl’s constant **Electro** application can knock enemies out of range when used with a **Pyro** Main DPS due to **Overload's** knock back effect. **Electro** can also interfere with the consistency of **Vaporize** or **Melt** reactions.
   * However, some teams can still function this way. See [**Overload**](../../teams/overload.md).
 
 ## Teams

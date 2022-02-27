@@ -60,7 +60,7 @@ Click on the team names below for more details on how the team works and alterna
 * Thoma's shield and Beidou's **Damage Reduction** are used instead of a dedicated healer here.
 * Thoma's **Pyro** application in this team can help with triggering **Overload Elemental Reactions**.
 * Thoma activates **Pyro Resonance** in this team.
-* **Overload**'s knockback is not as much of an issue in this team, as Yoimiya's range means you don't have to spend time chasing enemies around.
+* **Overload**'s knock back is not as much of an issue in this team, as Yoimiya's range means you don't have to spend time chasing enemies around.
 
 [**Pure Pyro**](../../teams/pure-pyro.md)
 

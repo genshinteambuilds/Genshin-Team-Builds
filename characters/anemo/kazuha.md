@@ -66,7 +66,7 @@ In the following teams, Kazuha provides debuffing utility using the **Viridescen
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* While Kazuha's **Elemental Skill** can provide decent **Crowd Control** and his **Elemental Burst** can cause **Overload** reactions, this may not work efficiently for large numbers of smaller enemies that are displaced by Overload's knockback.
+* While Kazuha's **Elemental Skill** can provide decent **Crowd Control** and his **Elemental Burst** can cause **Overload** reactions, this may not work efficiently for large numbers of smaller enemies that are displaced by Overload's knock back.
 
 #### [Pure Pyro](../../teams/pure-pyro.md)
 
