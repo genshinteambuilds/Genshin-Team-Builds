@@ -11,7 +11,7 @@
   * **Elemental Skill (Hold)** deals **AoE Cryo DMG** and grants the party 7 stacks of the Icy Quill buff.
   * Icy Quill increases **Cryo DMG** dealt by other party members by a percentage of Shenhe's **ATK**. This buff lasts either until the duration expires or it is triggered a certain amount of times. Each party member has their own set of stacks.
   * **A4** provides an additional **DMG Bonus** to either **Elemental Skill** and **Elemental Burst** **DMG** with **Elemental Skill (Tap)** or **Normal, Charged,** and **Plunging Attack** **DMG** with **Elemental Skill (Hold)**.
-* **Elemental Burst** deals AoE **Cryo DMG** and creates a field.
+* **Elemental Burst** deals **AoE Cryo DMG** and creates a field.
   * Shenhe’s **Elemental Burst** will continue to periodically deal **Cryo DMG** to enemies in this field, and enemies within this field will have their **Physical** and **Cryo RES** debuffed.
   * **A1** buffs the **Cryo DMG** of party members within this field.
 
