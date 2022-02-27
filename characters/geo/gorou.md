@@ -6,11 +6,11 @@
 
 ## **Character Breakdown**
 
-* **Elemental Skill** causes Gorou sets up a war banner that deals AoE **Geo DMG** and provides a number of buffs to the whole team depending on the amount of **Geo** characters in the party.
+* **Elemental Skill** causes Gorou sets up a war banner that deals **AoE Geo DMG** and provides a number of buffs to the whole team depending on the amount of **Geo** characters in the party.
   * 1 **Geo** character: Adds "Standing Firm" - **DEF** Bonus.
   * 2 **Geo** characters: Adds "Impregnable" - Increased resistance to interruption.
   * 3 **Geo** characters: Adds "Crunch" - **Geo DMG Bonus**.
-* **Elemental Burst** deals AoE **Geo DMG** and creates a field around the active character and periodically deals **Geo DMG** and pulls in a **Crystallize** shard toward the active character. This field provides the same buffs that Gorou's **Elemental Skill** provides.
+* **Elemental Burst** deals **AoE Geo DMG** and creates a field around the active character and periodically deals **Geo DMG** and pulls in a **Crystallize** shard toward the active character. This field provides the same buffs that Gorou's **Elemental Skill** provides.
   * Casting **Elemental Burst** will destroy any active war banners.
 * **A1** increases party's **DEF**% after Gorou casts **Elemental Burst**.
 * **A4** increases Gorou's **Elemental Skill** and **Elemental Burst DMG** by a percentage of his **DEF**.
