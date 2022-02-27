@@ -60,7 +60,7 @@ In the following teams, Kazuha provides debuffing utility using the **Viridescen
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-* Kazuha can apply either **Hydro** or **Cryo** with his **Elemental Burst** and help enable AoE **Freeze** teams.
+* Kazuha can apply either **Hydro** or **Cryo** with his **Elemental Burst** and help enable **AoE Freeze** teams.
 
 #### [Overload (Pyro)](../../teams/overload.md)
 
