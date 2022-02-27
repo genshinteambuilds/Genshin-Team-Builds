@@ -1,6 +1,6 @@
 # Buffer / Debuffer
 
-Buffers and Debuffers are supports that directly boost the damage of your characters with their **Elemental Skills** and/or **Elemental Bursts**. Many of these abilities also have other effects other than buffing or debuffing such providing Healing, Crowd Control, or Shielding and so on.
+Buffers and Debuffers are supports that directly boost the damage of your characters with their **Elemental Skills** and/or **Elemental Bursts**. Many of these abilities also have other effects other than buffing or debuffing such providing healing, Crowd Control, or shielding and so on.
 
 The boost to your damage can come in the form of either increasing the stats of your characters (buffing) or by decreasing the stats of your enemies (debuffing).
 

@@ -7,9 +7,9 @@
 
 ## **Character Breakdown**
 
-* **Elemental Skill** is a Shield that deals **Geo** **DMG** when cast.
+* **Elemental Skill** is a shield that deals **Geo** **DMG** when cast.
   * **Elemental Skill** does not generate **Energy Particles**.
-  * The Shield's damage absorption scales on Noelle's **DEF**.
+  * The shield's damage absorption scales on Noelle's **DEF**.
 * **A1** creates a shield when any character in the party falls below 30% **HP**. This has a cooldown of 60 seconds.
 * **A4** reduces the cooldown of her **Elemental Skill** by 1 second for every 4 **Normal** or **Charged Attacks** that hit enemies. Hitting multiple enemies with one attack will only count as one hit.
 * **Elemental Burst** deals **Geo** **DMG** in a wide area. Noelle gains the following effects:
@@ -20,7 +20,7 @@
 ## **Additional Notes**
 
 * Noelle can function as a Main DPS or a Support who provides healing, shielding, and possibly **Geo Resonance**.
-* A Main DPS Noelle should be played with **Geo Resonance** for a **DMG Bonus** buff when Shielded, and a **Geo RES** debuff against enemies. She also requires a **Geo** Energy Battery in order to reach 100% uptime on her **Elemental Burst**. It is not recommended to use her as a Main DPS before **C6**.
+* A Main DPS Noelle should be played with **Geo Resonance** for a **DMG Bonus** buff when shielded, and a **Geo RES** debuff against enemies. She also requires a **Geo** Energy Battery in order to reach 100% uptime on her **Elemental Burst**. It is not recommended to use her as a Main DPS before **C6**.
   * Noelle's inability to heal Off-Field weakens her functionality as a Support, especially when compared to other Supports. As such, she should generally be used as the Main DPS in most teams she is run on.
 * **C4** allows Noelle's shield to deal **AoE** **Geo** **DMG** when it expires or gets destroyed.
 * **C6** Increases the **ATK** buff she receives when casting her **Elemental Burst**.

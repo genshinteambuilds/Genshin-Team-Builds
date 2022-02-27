@@ -25,11 +25,11 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
 
-* Eula and Razor are both **Physical** Main DPS that can benefit from Xinyan's Shield and **Physical** **DMG** related debuffs.
+* Eula and Razor are both **Physical** Main DPS that can benefit from Xinyan's shield and **Physical** **DMG** related debuffs.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Bennett is able to pair with Xinyan nicely to provide Healing, Shielding, Buffs / Debuffs and **Pyro Resonance**. This may potentially cause issues in Razor teams specifically though due to constantly causing **Overload Elemental Reactions**.
+* Bennett is able to pair with Xinyan nicely to provide healing, shielding, buffs / debuffs and **Pyro Resonance**. This may potentially cause issues in Razor teams specifically though due to constantly causing **Overload Elemental Reactions**.
 
 ## Does Not Work Well With
 

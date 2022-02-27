@@ -82,7 +82,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's Shield decreases all enemy **Elemental RES**.
+* Zhongli's shield decreases all enemy **Elemental RES**.
 
 ### Sample Hu Tao Teams
 
@@ -208,7 +208,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's Shield decreases all **Elemental RES** along with stagger resistance.
+* Zhongli's shield decreases all **Elemental RES** along with stagger resistance.
 
 ### Sample Childe Teams
 
@@ -259,7 +259,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's Shield decreases all **Elemental RES** along with stagger resistance. The stagger resistance is valuable on Eula for her to be able to build stacks uninterrupted.
+* Zhongli's shield decreases all **Elemental RES** along with stagger resistance. The stagger resistance is valuable on Eula for her to be able to build stacks uninterrupted.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
 
@@ -313,7 +313,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's Shield decreases all **Elemental RES** along with stagger resistance.
+* Zhongli's shield decreases all **Elemental RES** along with stagger resistance.
 
 ### Sample Ayaka Teams
 
@@ -358,7 +358,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Zhongli's Shield decreases all **Elemental RES** along with stagger resistance.
+* Zhongli's shield decreases all **Elemental RES** along with stagger resistance.
 
 ### Sample Raiden Teams
 
