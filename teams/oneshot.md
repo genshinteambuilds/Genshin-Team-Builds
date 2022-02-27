@@ -55,7 +55,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * Bennett provides a large **ATK** buff from his **Elemental Burst** and can be used for Swirling **Pyro** as Hu Tao has no way to apply Pyro without using her **Elemental Skill** or **Elemental Burst**.
-* Hu Tao should be very low in health before switching to her so that she does not heal past the 50% threshold for her passive. If needed, Bennett can be equipped with a non-upgraded flower to lower his Healing.
+* Hu Tao should be very low in health before switching to her so that she does not heal past the 50% threshold for her passive. If needed, Bennett can be equipped with a non-upgraded flower to lower his healing.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 

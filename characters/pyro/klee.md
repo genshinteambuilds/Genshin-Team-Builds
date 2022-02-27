@@ -46,7 +46,7 @@ In all teams below, Bennett acts as the team's healer while providing an **ATK**
 
 * Klee's goal is to deal as much **Pyro DMG** as possible through her **Charged Attack**, **Elemental Skill** during her **Elemental Burst**.
 * Xiangling and Bennett provide Off-Field **Pyro** application and team buffing respectively.
-* Kazuha provides **Pyro RES** debuff through **Viridescent Venerer** 4-set and buffs **Pyro DMG** with his **A4**.
+* Kazuha provides **Pyro RES** Debuff through **Viridescent Venerer** 4-set and buffs **Pyro DMG** with his **A4**.
 
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 
@@ -54,7 +54,7 @@ In all teams below, Bennett acts as the team's healer while providing an **ATK**
 
 * Klee triggers **Vaporize** reactions with her **Charged Attack**, **Elemental Skill** and **Elemental Burst**. True only if Xingqiu is C6 due to too much **Pyro** application by Klee herself.
 * Xingqiu applies **Hydro** on enemies with his **Elemental Burst** and provides resistance to interruption.
-* Sucrose debuffs enemies' **Pyro RES** with **Viridescent Venerer** while also buffing **Elemental Mastery**.
+* Sucrose Debuffs enemies' **Pyro RES** with **Viridescent Venerer** while also buffing **Elemental Mastery**.
 
 ### Character Specific Teams
 

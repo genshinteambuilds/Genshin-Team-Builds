@@ -54,7 +54,7 @@
 ## **Teams**
 
 {% hint style="warning" %}
-This character is a healer. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
+This character is a Healer. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
 {% endhint %}
 
 [**Geo**](../../teams/geo.md)

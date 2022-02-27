@@ -22,7 +22,7 @@
 * **C1** reduces **Elemental Burst** cooldown when **Geo DMG** occurs during **Elemental Burst**.
 * **C2** extends **Elemental Burst** uptime when active characters obtain a **Crystallize** shard.
 * **C4** heals the active character based on his **DEF** periodically when "Impregnable" or "Crunch" buffs are active.
-* **C6** provides a **CRIT DMG** buff on any **Geo DMG** dealt by characters buffed by Gorou's **Elemental Skill** or **Elemental Burst**.
+* **C6** provides a **CRIT DMG** Buff on any **Geo DMG** dealt by characters buffed by Gorou's **Elemental Skill** or **Elemental Burst**.
 
 ## **Works Well With**
 

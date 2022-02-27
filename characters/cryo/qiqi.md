@@ -32,7 +32,7 @@
 {% hint style="danger" %}
 Qiqi provides very little utility outside of healing and cannot generate energy with her Elemental Skill.
 
-While she can be used on any team composition that is looking for a healer, Qiqi is often only used when no other options are available.
+While she can be used on any team composition that is looking for a Healer, Qiqi is often only used when no other options are available.
 {% endhint %}
 
 ## Teams
@@ -42,14 +42,14 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="warning" %}
-This character is a healer. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
+This character is a Healer. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
 {% endhint %}
 
 [**Freeze (Cryo)**](../../teams/freeze.md)
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Qiqi.png)
 
-* Qiqi acts as a healer as well as a second **Cryo** character on this team to trigger **Cryo Resonance**. Note that this team, often called Morgana, typically uses Diona over Qiqi as Diona provides more utility.
+* Qiqi acts as a Healer as well as a second **Cryo** character on this team to trigger **Cryo Resonance**. Note that this team, often called Morgana, typically uses Diona over Qiqi as Diona provides more utility.
 
 [**Physical (Electro)**](../../teams/physical.md)
 

@@ -52,7 +52,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Jean acts as an Energy Battery for Xiao in this team and can also provide Crowd Control and Healing utility.
+* Jean acts as an Energy Battery for Xiao in this team and can also provide Crowd Control and healing utility.
 
 {% hint style="info" %}
 In the following teams, Jean provides debuffing utility using the **Viridescent Venerer** 4-set as well as healing.

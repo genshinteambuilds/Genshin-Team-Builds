@@ -41,14 +41,14 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)
 
-* Rosaria serves as a **Cryo** Energy Battery and **CRIT Rate** buffer while also activating **Cryo Resonance**.
+* Rosaria serves as a **Cryo** Energy Battery and **CRIT Rate** Buffer while also activating **Cryo Resonance**.
 * **C6** reduces **Physical RES** of enemies hit by Rosaria's **Elemental Burst**.
 * Shenhe activates **Cryo Resonance**, acts as an Energy Battery and reduces **Physical RES** of enemies in Shenhe's **Elemental Burst**.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Zhongli's shield can prevent Eula from being **interrupted**, which lets her more easily build up hits for her **Elemental Burst**.
-* His shield also further debuffs **Elemental** and **Physical RES** of enemies.
+* His shield also further Debuffs **Elemental** and **Physical RES** of enemies.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
@@ -65,7 +65,7 @@
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
 
-* Mona’s **Omen** debuff from her **Elemental Burst** does not last long enough for Eula to finish stacking hits for her **Elemental Burst** for its full duration.
+* Mona’s **Omen** Debuff from her **Elemental Burst** does not last long enough for Eula to finish stacking hits for her **Elemental Burst** for its full duration.
 
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)
 

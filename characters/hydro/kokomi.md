@@ -56,7 +56,7 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="warning" %}
-This character is a healer. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
+This character is a Healer. While some teams are provided below where they are particularly useful, this character can be used on any team provided you do not have better healing options.
 {% endhint %}
 
 [**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md)
@@ -71,7 +71,7 @@ This character is a healer. While some teams are provided below where they are p
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)
 
 * Kokomi's **Hydro** application enables permanent **Freeze** from Off-Field.
-* Using Kokomi as a **Hydro** applicator can free up a slot that would typically be dedicated to a healer.
+* Using Kokomi as a **Hydro** applicator can free up a slot that would typically be dedicated to a Healer.
 
 [**Vaporize (Hydro)**](../../teams/vaporize.md)
 
