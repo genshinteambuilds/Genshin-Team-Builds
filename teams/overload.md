@@ -75,14 +75,14 @@ Team compositions that focus on **Overload** can utilize **Anemo** characters to
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Yoimiya rapidly deals ranged **Pyro DMG** while her **Elemental Skill** is active. Her **Elemental Burst** provides additional AoE **Pyro DMG.**
-* Beidou provides Off-Field AoE **Electro DMG** through her **Elemental Burst**. Beidou's **Elemental Burst** also provides **Damage Reduction** and knockback resistance, allowing Yoimiya to freely use her **Normal Attacks** without getting interrupted.
+* Yoimiya rapidly deals ranged **Pyro DMG** while her **Elemental Skill** is active. Her **Elemental Burst** provides additional **AoE Pyro DMG.**
+* Beidou provides Off-Field **AoE Electro DMG** through her **Elemental Burst**. Beidou's **Elemental Burst** also provides **Damage Reduction** and knockback resistance, allowing Yoimiya to freely use her **Normal Attacks** without getting interrupted.
 * Sucrose provides a buff to the team's **Elemental Mastery** as well as an **Elemental RES** debuff with the **Viridescent Venerer** 4-set. Her Grouping Crowd Control can also help reducing the impact of **Overload's** knockback.
 * Bennet provides healing, an **ATK** buff from his **Elemental Burst**, **Pyro Resonance**, and can act as an Energy Battery for Yoimiya.
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Klee rapidly deals AoE ranged **Pyro DMG** with her **Normal** and **Charged Attacks** and **Elemental Skill** and **Burst**.
+* Klee rapidly deals **AoE** ranged **Pyro DMG** with her **Normal** and **Charged Attacks** and **Elemental Skill** and **Burst**.
 * Raiden provides Off-Field **Electro DMG** with her **Elemental Skill** and can act as an Energy Battery for the team with her **Elemental Burst**.
 * Albedo provides additional Off-Field **Geo DMG** through his **Elemental Skill**, **Elemental Mastery** with his **Elemental Burst** at **A4**, and enables **Geo Resonance** when paired with Zhongli.
 * Zhongli provides a powerful shield and reduces enemies **Elemental RES** with his **Elemental Skill** as well as providing **Geo Resonance** when paired with Albedo.
