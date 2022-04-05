@@ -56,6 +56,7 @@
   * [Yunjin](characters/geo/yunjin.md)
   * [Zhongli](characters/geo/zhongli.md)
 * [Hydro](characters/hydro/README.md)
+  * [Ayato](characters/hydro/ayato.md)
   * [Barbara](characters/hydro/barbara.md)
   * [Kokomi](characters/hydro/kokomi.md)
   * [Mona](characters/hydro/mona.md)
@@ -96,6 +97,7 @@
 ## Changelogs
 
 * [Versions](changelogs/versions/README.md)
+  * [2.6](changelogs/versions/2.6.md)
   * [2.5](changelogs/versions/2.5.md)
   * [2.4](changelogs/versions/2.4.md)
   * [2.3](changelogs/versions/2.3.md)
