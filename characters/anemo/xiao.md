@@ -24,7 +24,7 @@
 
 * Xiao works particularly well with Zhongli as he provides one of the few debuffs that work for **Anemo** **DMG**. His shielding also helps Xiao from taking additional damage during his **Elemental Burst**.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)
 
 * Raiden replaces the slot for the dedicated **Anemo** battery.
 * Because she deals considerable damage, she is able to finish mobs during Xiao's **Elemental Burst** downtime, saving his **Elemental Burst** for the next wave of enemies.
@@ -65,7 +65,7 @@ Xiao only really works in an **Anemo** team where Xiao works as the Selfish Main
 * Zhongli provides Shielding and decreases the enemy's **Elemental RES** with his **Elemental Skill.**
 * Jean provides Healing as well as acts as an energy battery for Xiao.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yae.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yae.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Xiao performs the role of the Main DPS.
 * Raiden provides Energy for Xiao and the rest of the team, while contributing a substantial amount of damage herself.

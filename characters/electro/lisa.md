@@ -56,7 +56,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Physical (Cryo)**](../../teams/physical-cryo.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * Lisa helps in applying **Electro** for **Superconduct** reactions that decreases enemies' **Physical RES**. When creating **Superconduct** reactions, she also marks enemies with her Conductive status and can use her **Elemental Skill (Hold)** to deal a large amount of **Electro DMG**.
 * Lisa’s **Elemental Burst** reduces enemy **DEF** while also dealing **Electro DMG** even when she’s not On-Field.

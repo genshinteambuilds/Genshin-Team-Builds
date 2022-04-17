@@ -68,7 +68,7 @@ This character is a healer. While some teams are provided below where they are p
 
 [**Physical (Cryo)**](../../teams/physical.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
 * Diona acts as an Energy Battery (for **Cryo Physical** Main DPS) and can aid in making **Superconduct** reactions which debuffs the **Physical RES** of enemies.
 * Diona's **Stamina** consumption also usually comes in handy on **Physical** teams due to often needing to chase down enemies.

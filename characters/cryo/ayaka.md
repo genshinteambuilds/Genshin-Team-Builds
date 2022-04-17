@@ -51,7 +51,7 @@
 * **Melt** teams using Ayaka are almost always [Oneshot ](../../teams/oneshot.md)team setups since Ayaka's **Elemental Burst** lasts only 5 seconds and can only be reasonably applied to large enemies in this composition.
 * **Melt** teams using Ayaka can struggle at putting out sustained DPS after Ayaka's **Elemental Burst** is entirely finished and on cooldown.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)
 
 * Despite being an **Electro** character, Raiden's **Elemental Skill** will not interrupt the **Frozen Elemental Reaction**. Additionally, Ayaka can also reduce her **Energy Recharge** requirements as Raiden will generate energy for Ayaka with her **Elemental Burst**.
 

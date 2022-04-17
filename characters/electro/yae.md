@@ -24,7 +24,7 @@
 
 ## **Works Well With**
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)
 
 * Raiden is one of the best characters to pair with Yae, providing energy, activating **Electro Resonance** as well as buffing Yae with her **Elemental Skill**.
 
@@ -63,7 +63,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ****![](../../.gitbook/assets/UI\_AvatarIcon\_Yae.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yae.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Yae.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 
 * This team is centered around creating **Electro-Charged Reactions** with Kokomi or Xingqiu applying **Hydro** on enemies.
 * Sucrose debuffs enemy **Elemental RES** with 4-set **Viridescent Venerer** and provides **Elemental Mastery** that buffs **Electrocharged**.
@@ -71,7 +71,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ****[**Pure Electro**](../../teams/pure-electro.md)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yae.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Yae.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Yae.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
 

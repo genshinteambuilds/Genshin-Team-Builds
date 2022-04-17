@@ -45,7 +45,7 @@
 
 * Characters that are focused on **Charged Attacks** are generally ineffective with Yunjin as she only buffs **Normal Attack DMG**.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)
 
 * As Raiden's **Elemental Burst** attacks are considered **Elemental Burst DMG**, it is not buffed by Yunjin's **Elemental Burst**.
 

@@ -247,7 +247,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 * Provides **Superconduct** and **DEF shred** through her **Elemental Burst**.
 * Can carry **Thrilling Tales of Dragon Slayer**.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)
 
 * Provides **Superconduct** and **Elemental Burst** **DMG** buff.
 
@@ -329,7 +329,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ### Main Carry
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)
 
 * Raiden Shogun has the highest **Electro** single damage instance multiplier in the game currently with her **Elemental Burst**'s initial slash. This doesn't even count the damage from attacks that comes after.
 * Raiden Oneshot teams focus mostly on the **Elemental Burst**'s initial slash damage to oneshot the enemy or the wave instantly.
@@ -362,7 +362,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ### Sample Raiden Teams
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Shougun.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sara.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sara.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
 * `Raiden Shogun E → Kazuha Q → Bennett Q → Sara Q → Raiden Q`
 
