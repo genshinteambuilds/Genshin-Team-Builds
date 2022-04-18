@@ -83,10 +83,10 @@ This page contains **Electro-Charged** teams with a **Hydro** Main DPS character
 * Raiden provides buff and charges the team's **Elemental Bursts**.
 * Kazuha provides his **Elemental DMG** buff to the party and **Viridescent-Venerer's** debuff to enemies.
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Ayato.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Yae.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+![](../.gitbook/assets/UI\_AvatarIcon\_Ayato.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
 * Ayato provides consistent **Hydro** application with his **Normal Attacks** after using his **Elemental Skill** to continuously trigger **Electro-Charged**.
-* Yae provides Off-Field **Electro** application.
+* Fischl provides Off-Field **Electro** application.
 * Sucrose provides buffs to both **Elemental DMG** and **Elemental Mastery** and **Viridescent-Venerer's** debuff.
 * Zhongli provides a powerful shield and an **Elemental RES** debuff.
 
