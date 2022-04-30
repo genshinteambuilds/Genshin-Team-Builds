@@ -54,6 +54,7 @@
 #### ![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)
 
 * Despite being an **Electro** character, Raiden's **Elemental Skill** will not interrupt the **Frozen Elemental Reaction**. Additionally, Ayaka can also reduce her **Energy Recharge** requirements as Raiden will generate energy for Ayaka with her **Elemental Burst**.
+* Raiden is only viable in this team when Xingqiu is also present on the team.
 
 ## Does not work well with
 
