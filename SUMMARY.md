@@ -93,6 +93,7 @@
 * [Pure Pyro](teams/pure-pyro.md)
 * [Vaporize (Hydro)](teams/vaporize.md)
 * [Vaporize (Pyro)](teams/reverse-vaporize.md)
+* [Uncategorized](teams/uncategorized.md)
 
 ## Changelogs
 

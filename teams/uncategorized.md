@@ -1,0 +1,91 @@
+# Uncategorized
+
+{% hint style="danger" %}
+_**This page is currently under construction. Take any information here with a grain of salt until it is complete.**_
+{% endhint %}
+
+These team compositions do not follow a normal team setup that is recommended for most players as they can either have multiple Main DPS characters or none at all and they have tested and proven to work as a viable teams to use. Some teams require a certain amount of investment to be able to deal sufficient damage and can be more expensive to build compared to the more traditional teams.
+
+**Elemental Skill** and **Burst** usage order and character swapping order is very important in these types of compositions. This playstyle will often have different artifacts and weapon choices than traditional play, and setups vary widely by availability of characters and equipment.\
+
+
+{% hint style="info" %}
+The teams shown on this page are only a few examples and not an exhaustive list by any means. The damage you get out of a setup is extremely dependent upon your character’s artifact stats, supporting character’s stats, constellations, and weapons.
+{% endhint %}
+
+## **A Brief Overview of Terminology**
+
+**Core Member/s** - Characters that are integral to make a team work and isn't recommended to be replaced with any other alternatives.
+
+**Flex** - Characters that aren't essential for a team but can help with either buffing the core members, debuffing enemies, or just added damage.
+
+**Support** - Refers to characters that are usually Off-Field, that buff allied characters, heal or shield the team, or debuffs enemies. See [Support](../roles/support/). This term can also simply refer to [Off-Field DPS](../roles/off-field-dps.md) as well.
+
+**Enablers** - The characters that is responsible for applying the **Element** for the Main DPS to react with.
+
+## **Sunfire Jean**
+
+**Core:** Jean, Bennett
+
+**Supporting Cast:** Raiden, Ganyu, Xinqgiu, Fischl, Xiangling
+
+\
+This team has Jean and Bennett paired together because of how their **Elemental Bursts** work as they both apply their elements on the current On-Field character. This can synergize as just by being inside AoE of their bursts they trigger swirl reactions which applies **Pyro** on enemies allowing for consistent **Elemental Reactions** and is effective against elemental shields.
+
+### **Core Members**
+
+#### Jean - Support/Enabler
+
+![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
+
+* Jean's main role is to cast her **Elemental Burst** which applies Anemo on your current character and when used alongside Bennett's **Elemental Burst** this triggers Swirl reactions which deals damage to enemies.
+* Jean generally needs to use the **Viridescent Venerer** 4-set to reduce **Pyro** resistance when triggering a reaction with Bennett.
+  * The damage from the Swirls scales on Jean's **Elemental Mastery** so focusing her stats on it allows Jean to gain a deal sufficient damage with minimal investment.
+* Having high **Energy Recharge** allows Jean to consistently cast her **Elemental Burst** and as such it is recommended to either use an **Energy Recharge** Sands or Weapon.
+
+#### Bennett: Support
+
+![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+
+* Bennett provides an **ATK** buff and can also apply **Pyro** on your current On-Field character with his **Elemental Burst** which allows Jean to **Swirl** with her **Elemental Burst.**&#x20;
+* If there is another Pyro character present on the team he is able to provide **Pyro Energy Particles** to recharge their **Elemental Bursts** faster.
+
+### **Supporting Cast**
+
+**Raiden: Main DPS/Support**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)****
+
+* Raiden Shogun can plays a role of both a Main DPS and a Support as she can deal damage as well as provide energy to the entire team with her **Elemental Burst.** This can allow other members in the party to focus less on building **Energy Recharge** and more on damage.
+
+**Ganyu: Main DPS**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****
+
+* Ganyu can work in a Sunfire Jean team because of the frequent **Pyro** application with the **Swirl** reaction from Jean and Bennett's **Elemental Burst**. This allows Ganyu to consistently trigger **Melt** reactions with her Charged shots.
+
+#### Xingqiu: Off-Field DPS/Enabler
+
+![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+
+* Xingqiu's **Elemental Burst** can apply **Hydro** on enemies which can trigger Vaporize and/or Electro-charged reactions.
+  * It is recommended to have **Sacrificial Sword** or any sword with **Energy Recharge** to consistently have his **Elemental Burst** ready on cooldown.
+
+**Fischl: Off-field DPS**
+
+![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
+
+* Fischl can deal Off-field damage with her **Elemental Skill** and can provide **Energy** **Particles** for the entire team.
+* She also applies **Electro** on enemies to trigger **Electro-charged** and/or **Overload** reactions.
+
+**Xiangling: Off-field DPS/Enabler**
+
+![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
+
+* Xiangling is only a viable option in a Sunfire Jean team if she is paired with Ganyu.
+* She alternate on applying **Pyro** with Jean and Bennett's **Elemental Burst** synergy during their downtime.
+
+### **Sample Sunfire Jean Teams**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
+
