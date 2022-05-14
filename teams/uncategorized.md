@@ -89,7 +89,7 @@ This team has Jean and Bennett paired together because of how their **Elemental 
 
 ****![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
 
-## Raiden Dual Carry (XiaoDen)
+## Raiden Dual Carry&#x20;
 
 **Core**: **** Raiden, another carry that wants energy (commonly Xiao)\
 
