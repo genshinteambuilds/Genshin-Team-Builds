@@ -89,3 +89,44 @@ This team has Jean and Bennett paired together because of how their **Elemental 
 
 ****![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
 
+## Raiden Dual Carry (XiaoDen)
+
+**Core**: **** Raiden, another carry that wants energy (commonly Xiao)\
+
+
+The idea of this team is to have Raiden to buff the team, mainly of their **Elemental Burst DMG** as well as providing a limited amount of energy to aid the team with their needs.&#x20;
+
+**Pros**
+
+* **Elemental Burst DMG** is buffed.
+* Raiden herself having good raw **DMG** and is easy to play.
+* Allows lower **Energy Recharge** for the whole team which makes room for more offensive stats as well as having access to supports with higher **Elemental Burst** cost.&#x20;
+* Mitigates disadvantages against phased bosses, multi enemy wave content, and low energy scenarios.
+
+**Cons**
+
+* Does not maximize all the skill and burst by having them casted off cooldown.&#x20;
+* Extended total rotation time due to each of the two carries requiring their time on field to shine (Somewhat mitigated by Raiden's good personal **DMG**).
+* Expensive to build when compared to other Energy Battery options.
+* Not ideal for speedruns.
+* Only a slight DPS increase comparing to well designed traditional teams (as of the release of Ayato).
+
+### **Core Members**
+
+**Raiden: Main DPS/Support**
+
+​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MgIuSiDFSNyVZCB3uMq%2Fuploads%2Fgit-blob-a6081b271595da94b37bd225a927dc71cee2f259%2FUI\_AvatarIcon\_Shougun.png?alt=media)**​**
+
+* Raiden Shogun can plays a role of both a Main DPS and a Support as she can deal damage as well as provide energy to the entire team with her **Elemental Burst.** This can allow other members in the party to focus less on building **Energy Recharge** and more on damage.
+
+**Xiao: Main DPS**
+
+​![](../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)**​**
+
+* The most common partner in a Raiden dual carry team. While Xiao does not benefit from the **Elemental Burst DMG** buff from Raiden, her skill lasts the whole duration of Xiao's **Elemental Burst** and the energy provided by Raiden allows Xiao to replace an Energy Battery with her.&#x20;
+
+**Ayato: Main DPS**
+
+![](../.gitbook/assets/UI\_AvatarIcon\_Ayato.png)
+
+* Raiden's ability to provide energy eases Ayato's struggles to gain energy back for his high cost **Elemental Burst**.&#x20;
