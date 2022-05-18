@@ -130,3 +130,59 @@ The idea of this team is to have Raiden to buff the team, mainly of their **Elem
 ![](../.gitbook/assets/UI\_AvatarIcon\_Ayato.png)
 
 * Raiden's ability to provide energy eases Ayato's struggles to gain energy back for his high cost **Elemental Burst**.&#x20;
+
+## Hydro Freeze
+
+**Core:** A **Hydro** Main DPS such as Tartaglia or Kokomi
+
+**Supporting Cast:** Kaeya, Rosaria, **Anemo** Supports
+
+
+
+This team functions in nearly the same way as [**Freeze (Cryo)**](freeze.md) teams, except **Hydro** application is provided by the Main DPS and **Cryo** application is provided from Off-Field DPS. Due to the fact that the **Hydro** Main DPS currently available in the game offer less damage than their **Cryo** counterparts, this team relies more on Off-Field DPS to kill enemies.
+
+### Core Members
+
+**Kokomi: Main DPS/Healer**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)****
+
+* Kokomi plays the role of both Healer and Main DPS in this team, providing **Hydro** application with her **Elemental Skill** and **Normal Attacks** and healing with her **Elemental Skill**.
+
+**Tartaglia: Main DPS**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)****
+
+* Tartaglia provides **Hydro** damage with his **Normal** and **Charged Attacks** while his **Elemental Skill** is active. Due to the long cooldown of his **Elemental Skill**, teams using Tartaglia as the sole source of **Hydro** application may struggle keeping enemies frozen.
+
+### Supporting Cast
+
+**Kaeya: Off-Field DPS**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****
+
+* Kaeya provides Off-Field **Cryo** damage with his **Elemental Burst** and acts as an Energy Battery using his **Elemental Skill**.
+
+**Rosaria: Off-Field DPS**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)****
+
+* Rosaria provides Off-Field **Cryo** damage with his **Elemental Burst** and provides additional energy generation with her **Elemental Skill**.
+
+**Ganyu: Off-Field DPS**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****
+
+* Ganyu can be used as an alternative **Cryo** Off-Field DPS with her **Elemental Burst** if enough energy can be generated to allow her to consistently use it.
+
+**Kazuha: Support**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****
+
+* Kazuha provides Grouping Crowd Control with his **Elemental Skill** and buffs **Elemental Damage** for other party members. He also provides **Elemental Resistance** debuffing using the **Viridescent Venerer** artifact set.
+
+**Jean: Support**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)****
+
+* Jean provides healing and **Elemental Resistance** debuffing using the **Viridescent Venerer** artifact set. Jean's primary use is in teams where additional healing is needed instead of the superior Crowd Control abilities of other **Anemo** characters.
