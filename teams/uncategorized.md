@@ -186,3 +186,61 @@ This team functions in nearly the same way as [**Freeze (Cryo)**](freeze.md) tea
 ****![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)****
 
 * Jean provides healing and **Elemental Resistance** debuffing using the **Viridescent Venerer** artifact set. Jean's primary use is in teams where additional healing is needed instead of the superior Crowd Control abilities of other **Anemo** characters.
+
+## Bennett/Chongyun Melt
+
+**Core:** Bennett **** (Non-**C6**) and Chongyun
+
+**Supporting Cast:** Xingqiu, Mona, Kokomi, Diona, **Anemo** Supports\
+\
+This team is mainly a **Melt** (**Pyro**) comp that focuses on **Melting** Bennett's **Elemental Skill**. The main source of **Cryo** in this comp is Bennett's **Normal Attacks** infused with the **Cryo** infusion granted from Chongyun's **Elemental Skill**. **Hydro** supports are generally run in order to quickly remove **Pyro** auras from the enemy, allowing for more consistent **Melt** reactions.
+
+### Core Members
+
+**Bennett: Main DPS/Healer/Support**
+
+![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)**​**
+
+* Bennett's Main DPS potential comes from his **A4** talent reducing the cooldown of his **Elemental Skill** by 50% when in the field created by his **Elemental Burst**. This allows him to frequently cause damaging **Melt** reactions. Make sure to use Bennett's **Normal Attacks** to apply **Cryo** to the opponent. If Bennett is **C6** do not attempt this team; the **Pyro** infusion from Bennett's **Elemental Burst** will interefere with the **Cryo** infusion needed for consistent reactions.&#x20;
+
+**Chongyun: Enabler**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)**​**
+
+* Chongyun's main value in this team comes from the **Cryo** infusion his **Elemental Skill** grants to characters within its field. His **Elemental Burst**, if built correctly, can also be used to deal massive damage. However, Chongyun will still fulfill his role if this is not the case.
+
+### Supporting Cast
+
+{% hint style="info" %}
+**Hydro** characters can provide Off-Field **Hydro** damage, which helps with the consistency of this team. Sometimes, enemies might still have a **Pyro** aura, and **Hydro** ensures that it will be cleared, making way for **Cryo** application and ensuring that the next instance of **Pyro** damage will **Melt**. This applies to all **Hydro** characters listed below.
+{% endhint %}
+
+**Xingqiu: Enabler/Off-Field DPS**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+
+* Xingqiu is recommended both for his damage and the consistency at which he applies **Hydro.**
+
+**Mona: Enabler/Support**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)****
+
+* The rate of Mona's **Hydro** application is relatively slow, but she can make up for this through the buffs provided by her **Elemental Burst** and her ability to carry the **Thrilling Tales of Dragon Slayers** catalyst.&#x20;
+
+**Kokomi**: **Enabler/Support**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)****
+
+* Kokomi's **Hydro** application is good, but her utility otherwise is limited to ther ability to carry the **Thrilling Tales of Dragon Slayers** catalyst, as Bennett's **Elemental Burst** is often more than enough healing.
+
+**Diona: Enabler/Support**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****
+
+* Diona can apply **Cryo** through her **Elemental Burst,** which aids in **Melt** uptime. At **C6,** she also provides a buff to **Elemental Mastery**, which can further increase the damage of **Melt** reactions.
+
+**Anemo Support**
+
+****![](../.gitbook/assets/Element\_Anemo.webp)****
+
+* **Anemo** Supports, when equipped with the **Viridescent Venerer** artifact set, debuff **Elemental Resistance. Swirl Pyro** to make Bennett deal increased damage.
