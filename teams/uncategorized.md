@@ -277,9 +277,10 @@ This team utilizes Xingqiu's **Elemental Burst** to **Freeze** enemies with Ayak
 
 **Hu Tao: Main DPS**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****
+****![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****
 
-*
+* Able to quickly deal large amounts of **Vaporize** or even **Melt** damage when reacting against either **** Xingqiu or Ayaka's **Bursts**
+* Self-heals and doesn't require much support besides Xingqiu
 
 **Raiden: Main DPS/Support**
 
@@ -287,12 +288,15 @@ This team utilizes Xingqiu's **Elemental Burst** to **Freeze** enemies with Ayak
 
 * Raiden Shogun can plays a role of both a Main DPS and a Support as she can deal damage as well as provide energy to the entire team with her **Elemental Burst.** This can allow other members in the party to focus less on building **Energy Recharge** and more on damage.
 
-****
+**Zhongli: Shielder/Support**
 
-####
+****![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
+
+* Zhongli provides a powerful **shield** which can substituted for a **Healer** since Xingqiu already provides passive healing with his rain swords.
+* Reduces enemy **resistances** with Jade Shield and can buff team attack with the 4-set **Tenacity of Milleth** to all characters with high uptime and few conditions. ****&#x20;
 
 ### **Sample Sunfire Jean Teams**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
+****![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****
 
 ****
