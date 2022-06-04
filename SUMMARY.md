@@ -40,6 +40,7 @@
   * [Beidou](characters/electro/beidou.md)
   * [Fischl](characters/electro/fischl.md)
   * [Keqing](characters/electro/keqing.md)
+  * [Kuki Shinobu](characters/electro/kuki-shinobu.md)
   * [Lisa](characters/electro/lisa.md)
   * [Raiden](characters/electro/raiden-shogun.md)
   * [Razor](characters/electro/razor.md)
@@ -62,6 +63,7 @@
   * [Mona](characters/hydro/mona.md)
   * [Tartaglia](characters/hydro/tartaglia.md)
   * [Xingqiu](characters/hydro/xingqiu.md)
+  * [Yelan](characters/hydro/yelan.md)
 * [Pyro](characters/pyro/README.md)
   * [Amber](characters/pyro/amber.md)
   * [Bennett](characters/pyro/bennett.md)
@@ -98,6 +100,7 @@
 ## Changelogs
 
 * [Versions](changelogs/versions/README.md)
+  * [2.7](changelogs/versions/2.7.md)
   * [2.6](changelogs/versions/2.6.md)
   * [2.5](changelogs/versions/2.5.md)
   * [2.4](changelogs/versions/2.4.md)

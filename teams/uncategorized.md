@@ -94,22 +94,9 @@ This team has Jean and Bennett paired together because of how their **Elemental 
 **Core**: **** Raiden, another carry that wants energy (commonly Xiao)\
 
 
-The idea of this team is to have Raiden to buff the team, mainly of their **Elemental Burst DMG** as well as providing a limited amount of energy to aid the team with their needs.&#x20;
+The idea of this team is to have Raiden buff the team, mainly of their **Elemental Burst DMG** as well as providing a limited amount of energy to aid the team with their needs, thereby lowering the **Energy Recharge** for the whole team which makes room for more offensive stats on everyone. Another advantage is the team mitigates disadvantages against phased bosses, multi enemy wave content, and low energy scenarios.
 
-**Pros**
-
-* **Elemental Burst DMG** is buffed.
-* Raiden herself having good raw **DMG** and is easy to play.
-* Allows lower **Energy Recharge** for the whole team which makes room for more offensive stats as well as having access to supports with higher **Elemental Burst** cost.&#x20;
-* Mitigates disadvantages against phased bosses, multi enemy wave content, and low energy scenarios.
-
-**Cons**
-
-* Does not maximize all the skill and burst by having them casted off cooldown.&#x20;
-* Extended total rotation time due to each of the two carries requiring their time on field to shine (Somewhat mitigated by Raiden's good personal **DMG**).
-* Expensive to build when compared to other Energy Battery options.
-* Not ideal for speedruns.
-* Only a slight DPS increase comparing to well designed traditional teams (as of the release of Ayato).
+The disadvantage of the team is that it does not maximize all the skill and burst by having them casted off cooldown and extends the total rotation time due to both carries requiring their time on field to shine (somewhat mitigated by Raiden's good personal raw **DMG**). Overall it's only a slight DPS increase comparing to well designed traditional teams and is expensive to build when compared to other Energy Battery options.&#x20;
 
 ### **Core Members**
 
@@ -244,3 +231,59 @@ This team is mainly a **Melt** (**Pyro**) comp that focuses on **Melting** Benne
 ****![](../.gitbook/assets/Element\_Anemo.webp)****
 
 * **Anemo** Supports, when equipped with the **Viridescent Venerer** artifact set, debuff **Elemental Resistance. Swirl Pyro** to make Bennett deal increased damage.
+
+## **Ayaka Dual Carry**
+
+**Core:** Ayaka, Xingqiu
+
+**Supporting Cast:** Hu Tao, Raiden, Zhongli, Kazuha
+
+
+
+This team utilizes Xingqiu's **Elemental Burst** to **Freeze** enemies with Ayaka's **Elemental Burst**. Another **DPS** character can be used such as Hu Tao for the remainder of Xingqiu's **Burst** duration. The advantage of this team is having up to 3 powerful elements for shield breaking.
+
+### **Core Members**
+
+#### **Ayaka**- Main/Burst DPS
+
+![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
+
+* Ayaka's role is to use **Freeze** and her **Elemental Burst** to immobilize enemies and deal large amounts of **AoE** damage.
+* The 4-set **Blizzard Strayer** is a powerful option on Ayaka to maintain high **Critical Rate** during her **Elemental Burst.**
+* Unless Ayaka has a **Cryo** member in her party who can help supply her **Energy,** she will require a moderate to high **Energy Recharge** (135-150%). Favonius weapons and Raiden Shogun can mitigate the requirement.
+
+#### Xingqiu: Off-Field DPS/Enabler
+
+![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+
+* Xingqiu's **Elemental Burst** can apply **Hydro** on enemies which can trigger Freeze, Vaporize and/or Electro-charged reactions.
+  * It is recommended to have **Sacrificial Sword** or any sword with **Energy Recharge** to consistently have his **Elemental Burst** ready on cooldown.
+* Xingqiu's **Skill** and **Burst** provide enough **Hydro** application for both setting up **Freeze** for Ayaka's **Burst** and either Hu Tao's or Raiden Shogun's **Main DPS** rotation.
+
+### **Supporting Cast**
+
+**Hu Tao: Main DPS**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****
+
+* Able to quickly deal large amounts of **Vaporize** or even **Melt** damage when reacting against either **** Xingqiu or Ayaka's **Bursts**
+* Self-heals and doesn't require much support besides Xingqiu
+
+**Raiden: Main DPS/Support**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)****
+
+* Raiden Shogun can plays a role of both a Main DPS and a Support as she can deal damage as well as provide energy to the entire team with her **Elemental Burst.** This can allow other members in the party to focus less on building **Energy Recharge** and more on damage.
+
+**Zhongli: Shielder/Support**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
+
+* Zhongli provides a powerful **shield** which can substituted for a **Healer** since Xingqiu already provides passive healing with his rain swords.
+* Reduces enemy **resistances** with Jade Shield and can buff team attack with the 4-set **Tenacity of Milleth** to all characters with high uptime and few conditions. ****&#x20;
+
+### **Sample Sunfire Jean Teams**
+
+****![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****
+
+****
