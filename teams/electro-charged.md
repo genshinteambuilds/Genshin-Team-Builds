@@ -12,7 +12,7 @@ This page contains **Electro-Charged** teams with a **Electro** Main DPS charact
 
 {% tabs %}
 {% tab title="Keqing" %}
-|                                     Main DPS                                    |                            Core Support / Off-Field DPS                           |                                    Flex Support                                   |                                  Healer/Shielder                                  |
+|                                     Main DPS                                    |                            Core Support / Off-Field DPS                           |                                    Flex Support                                   |                                 Healer / Shielder                                 |
 | :-----------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/UI_AvatarIcon_Keqing.png" alt=""><br>Keqing</p> |   <p><img src="../.gitbook/assets/UI_AvatarIcon_Yelan.png" alt=""><br>Yelan</p>   |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Kazuha.png" alt=""><br>Kazuha</p>  | <p><img src="../.gitbook/assets/UI_AvatarIcon_Bennett.png" alt=""><br>Bennett</p> |
 |                                                                                 | <p><img src="../.gitbook/assets/UI_AvatarIcon_Xingqiu.png" alt=""><br>Xingqiu</p> | <p><img src="../.gitbook/assets/UI_AvatarIcon_Sucrose.png" alt=""><br>Sucrose</p> |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Jean.png" alt=""><br>Jean</p>    |
@@ -38,6 +38,8 @@ This page contains **Electro-Charged** teams with a **Electro** Main DPS charact
 |                                                                                         |                                                                                   |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Albedo.png" alt=""><br>Albedo</p>  |                                                                                   |
 {% endtab %}
 {% endtabs %}
+
+### Main DPS
 
 |                                                                               Character                                                                              | Notes                                                                                                                                                                                                                                                                                                                                                              |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -90,7 +92,7 @@ This page contains **Electro-Charged** teams with a **Electro** Main DPS charact
 
 #### ![](../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)![](../.gitbook/assets/UI\_AvatarIcon\_Yelan.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-* Raiden's role in this team is to obtain buffs from other party members before attacking with her **Elemental Burst**.&#x20;
+* Raiden's role in this team is to obtain buffs from other party members before attacking with her **Elemental Burst**. She also acts as the main Energy Battery.
 * Yelan provides constant **Hydro** application to keep **Electro-Charged** on enemies as well as additional Off-Field DPS. She also provides a **DMG** buff any On-Field character while her **Elemental Burst** is Active.
 * Kazuha provides buffing to **Electro DMG** after causing **Swirl** and an **Elemental RES** debuff with the **Viridescent Venerer** 4-set.
 * Bennett provides an **Attack** buff and healing with his **Elemental Burst**.
