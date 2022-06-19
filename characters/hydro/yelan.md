@@ -42,6 +42,10 @@
 
 ## Teams
 
+{% hint style="info" %}
+Click on the team names below for more details on how the team works and alternative support options that can work with that team.
+{% endhint %}
+
 [Electro-Charged (Electro)](../../teams/electro-charged.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yelan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
