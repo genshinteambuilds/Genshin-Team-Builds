@@ -46,36 +46,29 @@
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yelan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-*
+* Yelan's utility as a **Hydro** **Off-Field DPS** character allows her to be a very effective **Hydro** applicator in **Electro-charged** teams.
+* The On-Field character will need to constantly use **Normal Attacks** to activate Yelan's **Elemental Burst**'s Exquisite Throw.
 
 [Freeze](../../teams/freeze.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yelan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
-*
+* Yelan's Off-Field **Hydro** application enables her to be used in **Freeze** teams to keep enemies constantly **Frozen**.
 
 [National](../../teams/national.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yelan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
 
-*
+* Yelan can be used as an alternative option to Xingqiu within the popular national team composition. Her Exquisite Throw from her **Elemental Burst** can be used to initiate **Vaporize** reactions with Xiangling or **Freeze** reactions with Chongyun that can then be combined with Bennet's **Elemental Burst** to cause a **Melt** Reaction for high **DMG**.
 
 [Physical (Cryo)](../../teams/physical-cryo.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yelan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
 
-*
+* Like Xingqiu, Yelan does not contribute to the **Superconduct** reaction required for **Physical** teams at all, she is in general just an incredibly useful support; incidentally **Freezing** enemies, dealing large amounts of damage by herself and buffing the **Main DPS' DMG** and **Max HP**.
 
 [Vaporize (Pyro)](../../teams/reverse-vaporize.md)
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yelan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-*
-
-
-
-
-
-{% hint style="danger" %}
-**This page is currently under construction.**
-{% endhint %}
+* Yelan can either replace or be paired with Xingqui as a Core Support/Off-Field DPS required to make **Vaporize** teams work. Her **Elemental Burst** deals a large amount of **Hydro DMG** and consistently applies **Hydro** to enemies to allow the **Pyro** **Main DPS c**haracter to consistently trigger **Vaporize** reactions. At **C2** her **Hydro** Application becomes great enough to consistently **Vaporize** all of Hu Tao's **Charged Attacks** and so can completely replace Xingqui in a Hu Tao team.
