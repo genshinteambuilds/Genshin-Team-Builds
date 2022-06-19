@@ -9,20 +9,66 @@ This is viable when **Hydro** characters that are essential for **Electro-Charge
 ## Characters
 
 {% hint style="danger" %}
-**Characters are ranked roughly according to how well they perform in this team composition.**
+**Characters are ranked roughly according to how well they perform in this team composition**
 {% endhint %}
 
-|                                          Main DPS                                          |                                        Flex Support                                        |                                   Healer / Shielder                                  |
-| :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
-| <p><img src="../.gitbook/assets/UI_AvatarIcon_Raiden_Shougun.png" alt=""></p><p>Raiden</p> |     <p><img src="../.gitbook/assets/UI_AvatarIcon_Kazuha.png" alt=""></p><p>Kazuha</p>     |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Bennett.png" alt=""></p><p>Bennet</p> |
-|      <p><img src="../.gitbook/assets/UI_AvatarIcon_Yae.png" alt=""></p><p>Yae Miko</p>     |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Sucrose.png" alt=""><br>Sucrose</p>     |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Jean.png" alt=""></p><p>Jean</p>    |
-|       <p><img src="../.gitbook/assets/UI_AvatarIcon_Beidou.png" alt=""><br>Beidou</p>      |        <p><img src="../.gitbook/assets/UI_AvatarIcon_Venti.png" alt=""><br>Venti</p>       | <p><img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""></p><p>Zhongli</p> |
-|       <p><img src="../.gitbook/assets/UI_AvatarIcon_Keqing.png" alt=""><br>Keqing</p>      | <p><img src="../.gitbook/assets/UI_AvatarIcon_Raiden_Shougun.png" alt=""></p><p>Raiden</p> |   <p><img src="../.gitbook/assets/UI_AvatarIcon_Diona.png" alt=""></p><p>Diona</p>   |
-|                                                                                            |         <p><img src="../.gitbook/assets/UI_AvatarIcon_Sara.png" alt=""><br>Sara</p>        |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Sayu.png" alt=""></p><p>Sayu</p>    |
-|                                                                                            |       <p><img src="../.gitbook/assets/UI_AvatarIcon_Fischl.png" alt=""><br>Fischl</p>      |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Kokomi.png" alt=""></p><p>Kokomi</p>  |
-|                                                                                            |      <p>​​<img src="../.gitbook/assets/UI_AvatarIcon_Beidou.png" alt=""><br>Beidou</p>     |  <p>​<img src="../.gitbook/assets/UI_AvatarIcon_Barbara.png" alt=""><br>Barbara</p>  |
-|                                                                                            |     <p>​​<img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""><br>Zhongli</p>    |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Qiqi.png" alt=""><br>Qiqi</p>     |
-|                                                                                            |       <p><img src="../.gitbook/assets/UI_AvatarIcon_Lisa.png" alt=""></p><p>Lisa</p>       |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Noelle.png" alt=""></p><p>Noelle</p>  |
+{% tabs %}
+{% tab title="Raiden" %}
+|                                          Main DPS                                          |                                     Flex Support                                    |                                   Healer / Shielder                                  |
+| :----------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
+| <p><img src="../.gitbook/assets/UI_AvatarIcon_Raiden_Shougun.png" alt=""></p><p>Raiden</p> |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Kazuha.png" alt=""></p><p>Kazuha</p> |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Bennett.png" alt=""></p><p>Bennet</p> |
+|                                                                                            |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Sucrose.png" alt=""><br>Sucrose</p>  |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Jean.png" alt=""></p><p>Jean</p>    |
+|                                                                                            |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Venti.png" alt=""><br>Venti</p>    | <p><img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""></p><p>Zhongli</p> |
+|                                                                                            |     <p><img src="../.gitbook/assets/UI_AvatarIcon_Sara.png" alt=""><br>Sara</p>     |   <p><img src="../.gitbook/assets/UI_AvatarIcon_Diona.png" alt=""></p><p>Diona</p>   |
+|                                                                                            |   <p><img src="../.gitbook/assets/UI_AvatarIcon_Fischl.png" alt=""><br>Fischl</p>   |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Sayu.png" alt=""></p><p>Sayu</p>    |
+|                                                                                            |  <p>​​<img src="../.gitbook/assets/UI_AvatarIcon_Beidou.png" alt=""><br>Beidou</p>  |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Kokomi.png" alt=""></p><p>Kokomi</p>  |
+|                                                                                            | <p>​​<img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""><br>Zhongli</p> |  <p>​<img src="../.gitbook/assets/UI_AvatarIcon_Barbara.png" alt=""><br>Barbara</p>  |
+|                                                                                            |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Lisa.png" alt=""></p><p>Lisa</p>   |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Qiqi.png" alt=""><br>Qiqi</p>     |
+|                                                                                            |                                                                                     |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Noelle.png" alt=""></p><p>Noelle</p>  |
+{% endtab %}
+
+{% tab title="Yae Miko" %}
+|                                      Main DPS                                     |                                        Flex Support                                        |                                   Healer / Shielder                                  |
+| :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
+| <p><img src="../.gitbook/assets/UI_AvatarIcon_Yae.png" alt=""></p><p>Yae Miko</p> |     <p><img src="../.gitbook/assets/UI_AvatarIcon_Kazuha.png" alt=""></p><p>Kazuha</p>     |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Bennett.png" alt=""></p><p>Bennet</p> |
+|                                                                                   |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Sucrose.png" alt=""><br>Sucrose</p>     |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Jean.png" alt=""></p><p>Jean</p>    |
+|                                                                                   |        <p><img src="../.gitbook/assets/UI_AvatarIcon_Venti.png" alt=""><br>Venti</p>       | <p><img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""></p><p>Zhongli</p> |
+|                                                                                   | <p><img src="../.gitbook/assets/UI_AvatarIcon_Raiden_Shougun.png" alt=""></p><p>Raiden</p> |   <p><img src="../.gitbook/assets/UI_AvatarIcon_Diona.png" alt=""></p><p>Diona</p>   |
+|                                                                                   |         <p><img src="../.gitbook/assets/UI_AvatarIcon_Sara.png" alt=""><br>Sara</p>        |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Sayu.png" alt=""></p><p>Sayu</p>    |
+|                                                                                   |       <p><img src="../.gitbook/assets/UI_AvatarIcon_Fischl.png" alt=""><br>Fischl</p>      |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Kokomi.png" alt=""></p><p>Kokomi</p>  |
+|                                                                                   |      <p>​​<img src="../.gitbook/assets/UI_AvatarIcon_Beidou.png" alt=""><br>Beidou</p>     |  <p>​<img src="../.gitbook/assets/UI_AvatarIcon_Barbara.png" alt=""><br>Barbara</p>  |
+|                                                                                   |     <p>​​<img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""><br>Zhongli</p>    |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Qiqi.png" alt=""><br>Qiqi</p>     |
+|                                                                                   |       <p><img src="../.gitbook/assets/UI_AvatarIcon_Lisa.png" alt=""></p><p>Lisa</p>       |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Noelle.png" alt=""></p><p>Noelle</p>  |
+{% endtab %}
+
+{% tab title="Keqing" %}
+|                                     Main DPS                                    |                                        Flex Support                                        |                                   Healer / Shielder                                  |
+| :-----------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
+| <p><img src="../.gitbook/assets/UI_AvatarIcon_Keqing.png" alt=""><br>Keqing</p> |     <p><img src="../.gitbook/assets/UI_AvatarIcon_Kazuha.png" alt=""></p><p>Kazuha</p>     |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Bennett.png" alt=""></p><p>Bennet</p> |
+|                                                                                 |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Sucrose.png" alt=""><br>Sucrose</p>     |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Jean.png" alt=""></p><p>Jean</p>    |
+|                                                                                 |        <p><img src="../.gitbook/assets/UI_AvatarIcon_Venti.png" alt=""><br>Venti</p>       | <p><img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""></p><p>Zhongli</p> |
+|                                                                                 | <p><img src="../.gitbook/assets/UI_AvatarIcon_Raiden_Shougun.png" alt=""></p><p>Raiden</p> |   <p><img src="../.gitbook/assets/UI_AvatarIcon_Diona.png" alt=""></p><p>Diona</p>   |
+|                                                                                 |         <p><img src="../.gitbook/assets/UI_AvatarIcon_Sara.png" alt=""><br>Sara</p>        |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Sayu.png" alt=""></p><p>Sayu</p>    |
+|                                                                                 |       <p><img src="../.gitbook/assets/UI_AvatarIcon_Fischl.png" alt=""><br>Fischl</p>      |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Kokomi.png" alt=""></p><p>Kokomi</p>  |
+|                                                                                 |      <p>​​<img src="../.gitbook/assets/UI_AvatarIcon_Beidou.png" alt=""><br>Beidou</p>     |  <p>​<img src="../.gitbook/assets/UI_AvatarIcon_Barbara.png" alt=""><br>Barbara</p>  |
+|                                                                                 |     <p>​​<img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""><br>Zhongli</p>    |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Qiqi.png" alt=""><br>Qiqi</p>     |
+|                                                                                 |       <p><img src="../.gitbook/assets/UI_AvatarIcon_Lisa.png" alt=""></p><p>Lisa</p>       |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Noelle.png" alt=""></p><p>Noelle</p>  |
+{% endtab %}
+
+{% tab title="Beidou" %}
+|                                     Main DPS                                    |                                        Flex Support                                        |                                   Healer / Shielder                                  |
+| :-----------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
+| <p><img src="../.gitbook/assets/UI_AvatarIcon_Beidou.png" alt=""><br>Beidou</p> |     <p><img src="../.gitbook/assets/UI_AvatarIcon_Kazuha.png" alt=""></p><p>Kazuha</p>     |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Bennett.png" alt=""></p><p>Bennet</p> |
+|                                                                                 |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Sucrose.png" alt=""><br>Sucrose</p>     |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Jean.png" alt=""></p><p>Jean</p>    |
+|                                                                                 |        <p><img src="../.gitbook/assets/UI_AvatarIcon_Venti.png" alt=""><br>Venti</p>       | <p><img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""></p><p>Zhongli</p> |
+|                                                                                 | <p><img src="../.gitbook/assets/UI_AvatarIcon_Raiden_Shougun.png" alt=""></p><p>Raiden</p> |   <p><img src="../.gitbook/assets/UI_AvatarIcon_Diona.png" alt=""></p><p>Diona</p>   |
+|                                                                                 |         <p><img src="../.gitbook/assets/UI_AvatarIcon_Sara.png" alt=""><br>Sara</p>        |    <p><img src="../.gitbook/assets/UI_AvatarIcon_Sayu.png" alt=""></p><p>Sayu</p>    |
+|                                                                                 |       <p><img src="../.gitbook/assets/UI_AvatarIcon_Fischl.png" alt=""><br>Fischl</p>      |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Kokomi.png" alt=""></p><p>Kokomi</p>  |
+|                                                                                 |     <p>​​<img src="../.gitbook/assets/UI_AvatarIcon_Zhongli.png" alt=""><br>Zhongli</p>    |  <p>​<img src="../.gitbook/assets/UI_AvatarIcon_Barbara.png" alt=""><br>Barbara</p>  |
+|                                                                                 |       <p><img src="../.gitbook/assets/UI_AvatarIcon_Lisa.png" alt=""></p><p>Lisa</p>       |      <p><img src="../.gitbook/assets/UI_AvatarIcon_Qiqi.png" alt=""><br>Qiqi</p>     |
+|                                                                                 |                                                                                            |  <p><img src="../.gitbook/assets/UI_AvatarIcon_Noelle.png" alt=""></p><p>Noelle</p>  |
+{% endtab %}
+{% endtabs %}
 
 ### Main DPS
 
