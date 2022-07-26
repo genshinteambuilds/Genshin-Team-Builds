@@ -44,19 +44,19 @@ Click on the team names below for more details on how the team works and alterna
 
 #### Electro-Charged (Hydro)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yelan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayato.png)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Yelan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayato.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kuki\_Shinobu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
 
 * Shinobu's utility as both a healer and **Electro**-applier allows her to be used in a double-**Hydro** composition that allows the use of an **Anemo** support to boost the team's overall **DPS**.
 
 #### Electro-Charged (Electro)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kuki\_Shinobu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
 
 * Allows for more healing potential in a taser team which makes this team composition safer to run than with another **Electro** character such as Beidou.
 
 #### Geo
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/Element\_Electro.webp)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kuki\_Shinobu.png)
 
 * This team allows her to proc **Crystalized** reactions from off-field whilst healing the active character.
 

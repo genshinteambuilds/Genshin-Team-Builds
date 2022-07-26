@@ -1,9 +1,5 @@
 # Shikanoin Heizou
 
-{% hint style="danger" %}
-**This page is currently under construction.**
-{% endhint %}
-
 ## Roles
 
 * **Support**: Buffer (A4), Debuffer (VV), Crowd Control (Grouping)
