@@ -21,6 +21,7 @@
   * [Jean](characters/anemo/jean.md)
   * [Kazuha](characters/anemo/kazuha.md)
   * [Sayu](characters/anemo/sayu.md)
+  * [Shikanoin Heizou](characters/anemo/shikanoin-heizou.md)
   * [Sucrose](characters/anemo/sucrose.md)
   * [Venti](characters/anemo/venti.md)
   * [Xiao](characters/anemo/xiao.md)
@@ -100,6 +101,7 @@
 ## Changelogs
 
 * [Versions](changelogs/versions/README.md)
+  * [2.8](changelogs/versions/2.8.md)
   * [2.7](changelogs/versions/2.7.md)
   * [2.6](changelogs/versions/2.6.md)
   * [2.5](changelogs/versions/2.5.md)
