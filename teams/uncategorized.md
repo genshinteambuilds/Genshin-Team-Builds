@@ -282,7 +282,7 @@ This team utilizes Xingqiu's **Elemental Burst** to **Freeze** enemies with Ayak
 * Zhongli provides a powerful **shield** which can substituted for a **Healer** since Xingqiu already provides passive healing with his rain swords.
 * Reduces enemy **resistances** with Jade Shield and can buff team attack with the 4-set **Tenacity of Milleth** to all characters with high uptime and few conditions. ****&#x20;
 
-### **Sample Ayaka Dual Carry Teams**
+### **Sample Sunfire Jean Teams**
 
 ****![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****
 

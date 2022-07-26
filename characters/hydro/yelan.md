@@ -16,7 +16,7 @@
 
 ## Additional Notes
 
-* The Exquisite Throw summoned by Yelan's **Elemental Burst** can apply **Hydro** to enemies similarly to Xingqiu's Rain Swords from his **Elemental Burst.**
+* The Exquisite Throw summoned by Yelan's **Elemental Burst** can apply **Hydro** to enemies similarly to Xingqiu's Rain Swords from his **Elemental Burst**.
 * The explosion from Yelan's Lifeline at the end of her **Elemental Skill** duration also applies **Hydro** on entangled enemies.
 * **C2** allows Exquisite Throw to fire an additional arrow that deals 14% of Yelan's **Max HP** as **Hydro DMG** with a cooldown of 1.8s.
   * The extra instance of Hydro application from this constellation allows Yelan to effectively vaporize all of Hu Tao's **Charged Attacks** when they are paired in a team.&#x20;
@@ -30,7 +30,7 @@
 
 * Like Xingqiu, Yelan works well with almost every character in the game so long as the active character on-field uses **Normal Attacks** to trigger Yelan's Exquisite Throw from her **Elemental Burst**.
   * Even characters that may solely rely on **Charged Attacks** as their main source of **DMG** such as Bow Users may utilise Yelan's Exquisite Throw by performing a **Normal Attack** between each **Charged Attack**.
-* Yelan can be interchangeable with Xingqui as a core member of many **Vaporize**, **Electro-charged**, and **Freeze** Teams.
+* Yelan can be interchangeable with Xingqiu as a core member of many **Vaporize**, **Electro-charged**, and **Freeze** Teams.
 * Yelan also has great synergy with Xingqui as they can provide large amounts of energy particles for each other and Xingqui's **C2** decreases the **Hydro RES** of enemies which greatly amplifies their **DMG** per team rotation.
 
 ## Does Not Work Well With
@@ -75,4 +75,4 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yelan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
 
-* Yelan can either replace or be paired with Xingqui as a Core Support/Off-Field DPS required to make **Vaporize** teams work. Her **Elemental Burst** deals a large amount of **Hydro DMG** and consistently applies **Hydro** to enemies to allow the **Pyro** **Main DPS c**haracter to consistently trigger **Vaporize** reactions. At **C2** her **Hydro** Application becomes great enough to consistently **Vaporize** all of Hu Tao's **Charged Attacks** and so can completely replace Xingqui in a Hu Tao team.
+* Yelan can either replace or be paired with Xingqiu as a Core Support/Off-Field DPS required to make **Vaporize** teams work. Her **Elemental Burst** deals a large amount of **Hydro DMG** and consistently applies **Hydro** to enemies to allow the **Pyro** **Main DPS c**haracter to consistently trigger **Vaporize** reactions. At **C2** her **Hydro** Application becomes great enough to consistently **Vaporize** all of Hu Tao's **Charged Attacks** and so can completely replace Xingqui in a Hu Tao team.
