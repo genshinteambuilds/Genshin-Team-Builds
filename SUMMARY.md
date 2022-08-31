@@ -40,6 +40,7 @@
 * [Dendro](characters/dendro/README.md)
   * [Collei](characters/dendro/collei.md)
   * [Tighnari](characters/dendro/tighnari.md)
+  * [Traverler (Dendro)](characters/dendro/traverler-dendro.md)
 * [Electro](characters/electro/README.md)
   * [Beidou](characters/electro/beidou.md)
   * [Dori](characters/electro/dori.md)
@@ -84,6 +85,9 @@
 ## Teams
 
 * [Anemo](teams/anemo.md)
+* [Aggravate](teams/aggravate.md)
+* [Bloom](teams/bloom.md)
+* [Burgeon](teams/burgeon.md)
 * [Electro-Charged (Electro)](teams/electro-charged.md)
 * [Electro-Charged (Hydro)](teams/electro-charged-hydro.md)
 * [Freeze (Cryo)](teams/freeze.md)
@@ -98,6 +102,7 @@
 * [Pure Cryo](teams/pure-cryo.md)
 * [Pure Electro](teams/pure-electro.md)
 * [Pure Pyro](teams/pure-pyro.md)
+* [Spread](teams/spread.md)
 * [Vaporize (Hydro)](teams/vaporize.md)
 * [Vaporize (Pyro)](teams/reverse-vaporize.md)
 * [Uncategorized](teams/uncategorized.md)
@@ -105,6 +110,7 @@
 ## Changelogs
 
 * [Versions](changelogs/versions/README.md)
+  * [3.0](changelogs/versions/3.0.md)
   * [2.8](changelogs/versions/2.8.md)
   * [2.7](changelogs/versions/2.7.md)
   * [2.6](changelogs/versions/2.6.md)
