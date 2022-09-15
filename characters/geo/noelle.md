@@ -59,7 +59,7 @@ This character is a Healer. While some teams are provided below where they are p
 
 [**Geo**](../../teams/geo.md)
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_noelle.png)![](../../.gitbook/assets/ui\_avataricon\_aether\_geo.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_noelle.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo1.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Noelle serves as the Main DPS in this team. She takes advantage of both **Geo** and **Pyro** **Resonance** to increase her damage.
   * Bennett provides an **ATK** buff with his **Elemental Burst**.
