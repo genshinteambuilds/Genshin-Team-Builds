@@ -40,7 +40,7 @@
 * [Dendro](characters/dendro/README.md)
   * [Collei](characters/dendro/collei.md)
   * [Tighnari](characters/dendro/tighnari.md)
-  * [Traveler (Dendro)](characters/dendro/traveler-dendro.md)
+  * [Traveler (Dendro)](characters/dendro/traverler-dendro.md)
 * [Electro](characters/electro/README.md)
   * [Beidou](characters/electro/beidou.md)
   * [Dori](characters/electro/dori.md)
