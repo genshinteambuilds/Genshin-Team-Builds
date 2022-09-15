@@ -24,7 +24,7 @@
 
 ## **Works Well With**
 
-#### TODO: Dendro Electro Hydro Pyro
+#### ![](../../.gitbook/assets/ui\_icon\_dendro.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)&#x20;
 
 * Traveler (Dendro) have a huge **AoE Elemental Burst** that works with all **Hydro**, **Electro** and **Pyro** characters to apply:
   * **Burning**, **Quicken**, **Bloom**, **Aggravate**, **Spread**, **Burgeon** and **Hyperbloom**.
@@ -32,7 +32,7 @@
 
 ## **Does Not Work Well With**
 
-#### TODO:  Anemo Cryo Geo
+#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
 * **Cryo**, **Geo** and **Anemo** cannot cause **Elemental Reactions**.
 
