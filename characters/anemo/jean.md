@@ -25,7 +25,7 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/element\_anemo.webp)![](../../.gitbook/assets/element\_cryo.webp)![](../../.gitbook/assets/element\_electro.webp)![](../../.gitbook/assets/element\_hydro.webp)![](../../.gitbook/assets/element\_pyro.webp)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * Jean pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental RES** on enemies for 4 of the Elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
 * You should generally avoid pairing Jean with another Healer as Jean's healing is sufficient for most content.
@@ -33,7 +33,7 @@
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/element\_geo.webp)![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)
+#### ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)
 
 * **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo** and **Physical DMG** characters.
   * Jean can still be used with these characters if your team requires healing but will provide little other value.

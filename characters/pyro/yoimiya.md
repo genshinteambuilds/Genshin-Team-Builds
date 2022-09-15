@@ -40,12 +40,12 @@
 * Bennett's **Elemental Burst** provides healing and a massive **ATK** buff, making him a recommended character in most teams. He can also provide **Pyro Resonance** which buffs ATK.
 * He can act as an **Energy Battery** for Yoimiya, recharging her **Elemental Burst** faster.
 
-#### ![](../../.gitbook/assets/element\_anemo.webp)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)
 
 * As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental RES** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 * Albedo provides **Elemental Mastery** buff when using his **Elemental Burst**.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)
+![](../../.gitbook/assets/ui\_avataricon\_yunjin.png)
 
 * Buffs Yoimiya's **Normal Attacks**.
 
@@ -56,7 +56,7 @@
 * Mona’s **Omen** debuff from her **Elemental Burst** lasts for only a few seconds.
 * Mona cannot apply **Hydro** as often as Xingqiu which will result in Yoimiya triggering **Vaporize** inconsistently.
 
-#### ![](../../.gitbook/assets/element\_cryo.webp)
+#### ![](../../.gitbook/assets/Element\_Cryo.webp)
 
 * Other **Cryo** characters cannot apply Off-Field **Cryo** as often as Ganyu which will result in Yoimiya being unable to **Melt** as consistently.
 * Diona and Rosaria could work, but should only be used if Ganyu isn't available.

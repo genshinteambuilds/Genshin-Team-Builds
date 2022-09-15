@@ -33,7 +33,7 @@
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/element\_anemo.webp)![](../../.gitbook/assets/element\_cryo.webp)![](../../.gitbook/assets/element\_electro.webp)![](../../.gitbook/assets/element\_hydro.webp)![](../../.gitbook/assets/element\_pyro.webp)![](../../.gitbook/assets/element\_geo.webp)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
 
 * Unless a team has a **Physical** Main DPS, Xinyan provides little as a Support.
 
@@ -53,4 +53,4 @@ Xinyan provides buffing and debuffing of **Physical** **DMG** in both the below 
 
 [**Physical (Cryo)**](../../teams/physical-cryo.md)
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)

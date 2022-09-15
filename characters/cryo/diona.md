@@ -33,7 +33,7 @@
 
 * Diona can help **Physical** Main DPS create **Superconduct** reactions. Diona's **Energy Particle** generation may also help recharge **Cryo** characters like Eula.
 
-#### ![](../../.gitbook/assets/element\_anemo.webp)![](../../.gitbook/assets/element\_cryo.webp)![](../../.gitbook/assets/element\_electro.webp)![](../../.gitbook/assets/element\_geo.webp)![](../../.gitbook/assets/element\_hydro.webp)![](../../.gitbook/assets/element\_pyro.webp)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * Diona works well with almost every team in the game by universally functioning as a **Healer** and a **Shielder**.
 * Diona's **C6** **Elemental Mastery** buff helps in teams that focus on **Elemental Reactions**.
@@ -68,7 +68,7 @@ This character is a healer. While some teams are provided below where they are p
 
 [**Physical (Cryo)**](../../teams/physical.md)
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
 * Diona acts as an Energy Battery (for **Cryo Physical** Main DPS) and can aid in making **Superconduct** reactions which debuffs the **Physical RES** of enemies.
 * Diona's **Stamina** consumption also usually comes in handy on **Physical** teams due to often needing to chase down enemies.

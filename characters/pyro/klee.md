@@ -19,14 +19,14 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/element\_anemo.webp)![](../../.gitbook/assets/element\_cryo.webp)![](../../.gitbook/assets/element\_hydro.webp)![](../../.gitbook/assets/element\_pyro.webp)![](../../.gitbook/assets/element\_geo.webp)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
 
 * In the main DPS role, Klee’s rapid **Pyro** application allows her to be used in **Pure** **Pyro**, **Melt (Cryo)** or **Vaporize** teams.
 * In Klee’s **Vaporize** teams, her **Elemental Burst** can apply **Pyro** too fast and causes **Vaporize** reactions to be inconsistent.
 
 ## Doesn’t Work Well With
 
-#### ![](../../.gitbook/assets/element\_electro.webp)
+#### ![](../../.gitbook/assets/Element\_Electro.webp)
 
 * **Overload** is generally not advised with Klee as overload may push smaller enemies out of Klee’s reach.
 

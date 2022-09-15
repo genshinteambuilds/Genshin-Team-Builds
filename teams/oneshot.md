@@ -74,7 +74,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 * Mona can also function as a damage amplifier alongside a **Cryo** enabler, as her Omen is a 5 second debuff that provides a **DMG Bonus** to all attacks during that duration.
 * Can carry **Thrilling Tales of Dragon Slayer**.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_amber.png)
 
 * Able to carry **Elegy for the End** and easily activate the passive through her **Elemental Burst**.
 * At **C6**, using her **Elemental Burst** gives her team a small **ATK**% buff.
@@ -115,7 +115,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 * Bennett applies **Pyro** and his **Elemental Burst** buffs Mona’s **ATK** based on his base **ATK** (Weapon **ATK** + Character **ATK**). There’s too much value in Bennett to not utilize him.
 
-#### ![](../.gitbook/assets/ui\_avataricon\_klee.png) ![](../.gitbook/assets/ui\_avataricon\_yanfei.png) ![](../.gitbook/assets/element\_pyro.webp)
+#### ![](../.gitbook/assets/ui\_avataricon\_klee.png) ![](../.gitbook/assets/ui\_avataricon\_yanfei.png) ![](../.gitbook/assets/Element\_Pyro.webp)
 
 * Klee and Yanfei help at applying **Pyro** and using an R5 **Thrilling tales of Dragon Slayers** which buffs your Mona's **ATK** by 48%. If you Klee's **C2**, her **Elemental Skill** shreds the enemy's **DEF** by 23%, which helps a lot to deal even more damage. If you don’t have Klee or Yanfei, any **Pyro** works.
 
@@ -167,7 +167,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ### **Main Carry**
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_tartaglia.png)
 
 * Tartaglia has two ways to use his **Elemental Burst**, based on which form he is in. **Ranged stance** (rQ) does less damage but occurs much faster since it returns 20 energy back to Tartaglia, while **Melee stance** (mQ) requires the transformation and does much more damage.
 * Tartaglia Oneshot teams will focus on **Vaporizing** the **Melee Stance Elemental Burst**.
@@ -178,7 +178,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 * Bennett provides a massive **ATK** buff and is able to set up by applying **Pyro**.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_amber.png)
 
 * Amber provides very quick **Pyro** application at a range.
 * Can activate **Elegy for the End** and further buff with **C6**.
@@ -212,17 +212,17 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ### Sample Childe Teams
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../.gitbook/assets/ui\_avataricon\_mona.png)![](../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../.gitbook/assets/ui\_avataricon\_bennett.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../.gitbook/assets/ui\_avataricon\_mona.png)![](../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * ` Tartaglia E (apply`` `` `**`Hydro`**` `` ``on enemy) → Bennett Q (does not clear the Hydro application) → Kazuha Q (inside Bennett Q) → Mona Q→ Tartaglia E (to change from ranged stance to melee stance)→ Tartaglia mQ `
 
 {% embed url="https://drive.google.com/file/d/1ayFszYOJv3Ut-XPdhTpv9RnnCNPiNY-N/view?usp=sharing" %}
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../.gitbook/assets/ui\_avataricon\_xiangling.png) ![](../.gitbook/assets/ui\_avataricon\_kazuha.png) ![](../.gitbook/assets/ui\_avataricon\_bennett.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../.gitbook/assets/ui\_avataricon\_xiangling.png) ![](../.gitbook/assets/ui\_avataricon\_kazuha.png) ![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * ` Tartaglia E (apply`` `` `**`Hydro`**` `` ``on enemy) → Bennett Q (does not clear the Hydro application) → Kazuha Q(inside Bennett Elemental Burst) → Xiangling Q → Tartaglia E → Tartaglia mQ `
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../.gitbook/assets/ui\_avataricon\_bennett.png) ![](../.gitbook/assets/ui\_avataricon\_sucrose.png) ![](../.gitbook/assets/ui\_avataricon\_zhongli.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../.gitbook/assets/ui\_avataricon\_bennett.png) ![](../.gitbook/assets/ui\_avataricon\_sucrose.png) ![](../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * ` Zhongli hold E → Tartaglia E (apply`` `` `**`Hydro`**` `` ``on enemy) → Sucrose E → Bennett Q → Tartaglia E (don't hit enemy with activation damage) → Tartaglia mQ `
 
@@ -247,7 +247,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 * Provides **Superconduct** and **DEF shred** through her **Elemental Burst**.
 * Can carry **Thrilling Tales of Dragon Slayer**.
 
-#### ![](../.gitbook/assets/ui\_avataricon\_shougun.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)
 
 * Provides **Superconduct** and **Elemental Burst** **DMG** buff.
 
@@ -329,7 +329,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ### Main Carry
 
-#### ![](../.gitbook/assets/ui\_avataricon\_shougun.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)
 
 * Raiden Shogun has the highest **Electro** single damage instance multiplier in the game currently with her **Elemental Burst**'s initial slash. This doesn't even count the damage from attacks that comes after.
 * Raiden Oneshot teams focus mostly on the **Elemental Burst**'s initial slash damage to oneshot the enemy or the wave instantly.
@@ -362,7 +362,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ### Sample Raiden Teams
 
-#### ![](../.gitbook/assets/ui\_avataricon\_shougun.png) ![](../.gitbook/assets/ui\_avataricon\_sara.png) ![](../.gitbook/assets/ui\_avataricon\_kazuha.png) ![](../.gitbook/assets/ui\_avataricon\_bennett.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png) ![](../.gitbook/assets/ui\_avataricon\_sara.png) ![](../.gitbook/assets/ui\_avataricon\_kazuha.png) ![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * `Raiden Shogun E → Kazuha Q → Bennett Q → Sara Q → Raiden Q`
 

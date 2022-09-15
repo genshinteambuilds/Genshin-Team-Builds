@@ -25,7 +25,7 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_gorou.png)
 
 * Gorou is made to support **DEF** scaling characters like Itto. He provides a **DEF** buff as well as multiple other small buffs to the party with no downtime as well as greatly increasing Geo **CRIT DMG** at **C6**.
 * Can provide chip healing at **C4**.
@@ -34,7 +34,7 @@
 
 * Zhongli's shield gives Itto the the safety to focus on attacking enemies uninterrupted.
 
-#### ![](../../.gitbook/assets/element\_geo.webp)
+#### ![](../../.gitbook/assets/Element\_Geo.webp)
 
 * Almost all **Geo** characters can work well Itto as long as they are able to provide offensive buffs, energy for Itto, or complete **Geo Resonance**.
 
@@ -52,7 +52,7 @@
 
 * Noelle is a unit that wants to be On-Field and Itto will take majority of the field time in any team he is on. She doesn't provide a strong enough shield and it has high downtime, making her a poor **Geo** character to pair with Itto.
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_keqing.png)![](../../.gitbook/assets/ui\_avataricon\_xiao.png)![](../../.gitbook/assets/ui\_avataricon\_eula.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_keqing.png)![](../../.gitbook/assets/ui\_avataricon\_xiao.png)![](../../.gitbook/assets/ui\_avataricon\_eula.png)
 
 * As a Selfish Main DPS, Itto does not work well with other characters that must stay on the field.
 
@@ -68,14 +68,14 @@ Itto only works in an **Geo** team where Itto plays the role of the Selfish Main
 
 [**Geo**](../../teams/geo.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_itto.png)![](../../.gitbook/assets/ui\_avataricon\_gorou.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * Gorou is Itto's primary offensive Buffer, providing **DEF** as well as various other offensive and defensive buffs.
 * Albedo benefits greatly from Gorou as well and is able to provide strong Off-Field **Geo DMG**.
 * Zhongli provides the shield for **Geo Resonance** and survivability.
 * This full Geo team is able to take advantage of multiple **Geo Constructs** providing energy for Itto, making his **Energy Recharge** requirement lower.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_itto.png)![](../../.gitbook/assets/ui\_avataricon\_gorou.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Gorou is Itto's primary offensive Buffer, providing **DEF** as well as various other offensive and defensive buffs.
 * Zhongli provides the shield for **Geo Resonance** and survivability.

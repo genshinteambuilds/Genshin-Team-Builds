@@ -28,7 +28,7 @@
 
 * Ganyu and Xiangling is a standard pairing for **Melt Elemental Reactions**, Xiangling’s frequent **Pyro** application can enable Ganyu’s **Charged Attacks** to consistently **Melt** for large amounts of damage.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * While Tartaglia is played as the Main DPS character when paired with Xiangling, he effectively ends up applying **Hydro** constantly on enemies and causing Xiangling’s abilities to trigger **Vaporize Elemental Reactions**.
 * Childe and Xingqiu apply so much **Hydro** that all of Xiangling’s abilities can consistently **Vaporize** for 1.5x more damage off of them.
@@ -37,7 +37,7 @@
 
 * Bennett acts as both an Energy Battery and as a buffer for Xiangling, giving her a large **ATK** both buff from his **Elemental Burst** and from **Pyro Resonance** which will snapshot into Xiangling’s **Elemental Burst.**
 
-#### ![](../../.gitbook/assets/element\_anemo.webp)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental RES** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 

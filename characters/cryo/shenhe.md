@@ -40,7 +40,7 @@
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/element\_electro.webp)![](../../.gitbook/assets/element\_geo.webp)
+#### ![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
 
 * Shenhe is incapable of providing any buffs to **Electro** or **Geo** characters. The debuff she can provide to **Physical** team compositions is also not very strong.
 * Most **Anemo**, **Pyro**, and **Hydro** characters do not directly synergize with Shenhe but instead provide utility to the On-Field DPS in many teams Shenhe is in.
@@ -57,21 +57,21 @@ In all of the teams below, Shenhe universally provides a buff to the **Cryo DMG*
 
 [**Freeze**](../../teams/freeze.md)
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_shenhe.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
 * Shenhe provides buffing with her **Elemental Skill** and buffing and debuffing with her **Elemental Burst** for a **Cryo** On-Field DPS.
 * Shenhe should use her **Elemental Skill (Tap)** in this team to provide an **Elemental Burst DMG** increase for Ayaka.
 
 [**Melt (Cryo)**](../../teams/reverse-melt.md)
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_shenhe.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Shenhe provides buffing for Rosaria with her **Elemental Skill** and buffing and debuffing with her **Elemental Burst.**
 * Shenhe also functions as an Off-Field DPS in this team, using her **Elemental Burst** to apply **Cryo** and frequently trigger **Melt** reactions.
 
 ****[**Physical (Cryo)**](../../teams/physical-cryo.md)****
 
-![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
+![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_shenhe.png)![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * Although this team centers around Eula dealing **Physical DMG**, it does not have **Superconduct**.
 * Both Shenhe and Rosaria(C6) provide **Physical RES** debuff.

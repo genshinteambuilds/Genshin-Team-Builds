@@ -35,7 +35,7 @@
 
 * Yanfei is almost always paired with Xingqiu in order to allow her to **Vaporize** her attacks for 1.5x more damage. Check [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md) for more details.
 
-#### ![](../../.gitbook/assets/element\_anemo.webp)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental RES** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 
@@ -45,7 +45,7 @@
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/element\_electro.webp)
+#### ![](../../.gitbook/assets/Element\_Electro.webp)
 
 * While Beidou and Fischl can work with Yanfei, **Overload** is still an Elemental Reaction to be avoided as it makes **Vaporize** reactions less consistent.
 

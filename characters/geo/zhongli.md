@@ -21,7 +21,7 @@
 
 ## **Works Well With**
 
-#### ![](../../.gitbook/assets/element\_anemo.webp)![](../../.gitbook/assets/element\_cryo.webp)![](../../.gitbook/assets/element\_electro.webp)![](../../.gitbook/assets/element\_hydro.webp)![](../../.gitbook/assets/element\_pyro.webp)![](../../.gitbook/assets/element\_geo.webp)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
 
 * Zhongli can be put into almost any team as a flexible Support. He provides powerful shielding, a universal **RES** Debuff, and Crowd Control in a large area.
 * Teams containing Zhongli typically do not center around him. He is usually used in an empty slot to enhance other members of the team.

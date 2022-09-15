@@ -35,7 +35,7 @@
 
 * Albedo provides **Geo Energy Particles**, **Geo Resonance**, and Off-Field **DMG**. His **Elemental Skill** cooldowns line up with Ningguang’s.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo1.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_aether\_geo.png)
 
 * Traveler (Geo) provides **Geo Energy Particles,** **Geo Resonance**, and a **CRIT Rate** buff. He also has cooldowns that line up with Ningguang's. However, he lacks Off-Field **DMG**, forcing frequent character swaps.
 
@@ -70,7 +70,7 @@
 
 * Chongyun doesn’t provide anything else aside from damage through his **Elemental Burst**. Chongyun's **Elemental Skill** does not affect Catalyst Main DPS characters.
 
-#### ![](../../.gitbook/assets/element\_anemo.webp)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)
 
 * **Geo** cannot take advantage of **Viridescent Venerer** 4-set effect. **Anemo** does not provide anything for Ningguang aside from Crowd Control.
 

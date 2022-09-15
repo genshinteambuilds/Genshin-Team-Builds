@@ -27,7 +27,7 @@
 
 * While Barbara is not the usual first choice for **Hydro** application for **Freeze** teams, her constant application with her **Elemental Skill** does allow her to function as a **Hydro** applier and Healer in them.
 
-#### ![](../../.gitbook/assets/element\_anemo.webp)![](../../.gitbook/assets/element\_cryo.webp)![](../../.gitbook/assets/element\_electro.webp)![](../../.gitbook/assets/element\_geo.webp)![](../../.gitbook/assets/element\_hydro.webp)![](../../.gitbook/assets/element\_pyro.webp)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * Barbara can work in almost any team in the game as a universal Healer.
 * Barbara's high healing and unique resurrection at **C6** can provide options for teams struggling to survive.

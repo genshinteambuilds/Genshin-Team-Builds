@@ -25,7 +25,7 @@
 
 * Eula can benefit from frequent **Superconduct** reactions which debuff **Physical RES**.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * Tartaglia and Xingqiu provide a high rate of **Hydro** application and combined with Fischl's Oz, can constantly create **Electro-Charged** reactions.
 
@@ -39,7 +39,7 @@
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/element\_pyro.webp)
+#### ![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * Fischl’s constant **Electro** application can knock enemies out of range when used with a **Pyro** Main DPS due to **Overload's** knock back effect. **Electro** can also interfere with the consistency of **Vaporize** or **Melt** reactions.
   * However, some teams can still function this way. See [**Overload**](../../teams/overload.md).
@@ -60,7 +60,7 @@ In all the teams listed below, Fischl universally provides Off-Field **Electro**
 
 [**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)
 
 [**Geo**](https://genshinteambuilds.gitbook.io/teams/teams/geo)
 

@@ -25,7 +25,7 @@
 
 ## **Works Well With**
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_shougun.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)
 
 * Raiden Shogun is great when paired with Kujou Sara, they can feed each other high amounts of Energy to help offset their high **Elemental Burst** costs while Sara functions as a powerful Buffer for the Raiden Shogun.
 
@@ -52,7 +52,7 @@
 
 [**Oneshot**](../../teams/oneshot.md)
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_sara.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_sara.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Sara provides an **ATK** buff, as well as **Electro Particle** generation for Raiden Shogun. She can also provide an **Electro** **CRIT DMG** buff with **C6**
 * Kazuha buffs this **Elemental Burst** even further with **Viridescent Venerer** and his built-in **Elemental DMG** buff.

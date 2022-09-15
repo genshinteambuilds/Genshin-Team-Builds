@@ -37,7 +37,7 @@
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/element\_pyro.webp)
+#### ![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * Lisa's constant **Electro** application can knock enemies out of range when used with a **Pyro** Main DPS due to **Overload's** knock back effect. **Electro** can also interfere with the consistency of **Vaporize** or **Melt** reactions.
 
@@ -49,14 +49,14 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_lisa.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_lisa.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * A team that focuses on sustained damage while having the option to deal burst damage with Childe **Vaporizing** his **Elemental Burst** with Bennett, as well as Lisa’s **Elemental Skill (Hold)**.
 * Lisa’s **Elemental Burst** reduces enemy **DEF** while also dealing **Electro DMG** even when she’s not On-Field.
 
 [**Physical (Cryo)**](../../teams/physical-cryo.md)
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_lisa.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_lisa.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
 * Lisa helps in applying **Electro** for **Superconduct** reactions that decreases enemies' **Physical RES**. When creating **Superconduct** reactions, she also marks enemies with her Conductive status and can use her **Elemental Skill (Hold)** to deal a large amount of **Electro DMG**.
 * Lisa’s **Elemental Burst** reduces enemy **DEF** while also dealing **Electro DMG** even when she’s not On-Field.

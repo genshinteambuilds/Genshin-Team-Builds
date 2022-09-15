@@ -22,7 +22,7 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/element\_cryo.webp)
+#### ![](../../.gitbook/assets/Element\_Cryo.webp)
 
 * **Cryo Resonance** is extremely powerful and especially in [**Freeze** ](../../teams/freeze.md)teams where the combination of **Cryo** Resonance and the **Blizzard Strayer** artifact set can give up to 55% **CRIT Rate**.
 * Rosaria can act as an Energy Battery for other **Cryo** Main DPS, such as Ayaka or Eula.
@@ -31,13 +31,13 @@
 
 * Rosaria provides both consistent energy generation and Off-Field **Cryo** application for **Physical** DPS to trigger **Superconduct**.
 
-#### ![](../../.gitbook/assets/element\_pyro.webp)
+#### ![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * Rosaria can either provide **Cryo** application for Pyro characters to **Melt** their attacks, or she can use the **Pyro** application from them to **Melt** her own attacks.
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/element\_geo.webp)
+#### ![](../../.gitbook/assets/Element\_Geo.webp)
 
 * **Geo DMG** shatters **Frozen** enemies making these characters not ideal in [**Freeze** ](../../teams/freeze.md)teams.
 * **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.
@@ -75,7 +75,7 @@ Click on the team names below for more details on how the team works and alterna
 
 **Freeze (w/ Chongyun)**
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)
 
 * Rosaria plays the role of the On-Field Main DPS in this team using **Normal** and **Charged** **Attacks** infused with **Cryo** thanks to Chongyun's **Elemental Skill.**
 * **Kokomi** provides **Hydro** application with her Elemental Skill allowing this team to **Freeze** enemies. Kokomi also provides healing.

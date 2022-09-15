@@ -54,7 +54,7 @@ This team has Jean and Bennett paired together because of how their **Elemental 
 
 **Raiden: Main DPS/Support**
 
-****![](../.gitbook/assets/ui\_avataricon\_shougun.png)****
+****![](../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)****
 
 * Raiden Shogun can plays a role of both a Main DPS and a Support as she can deal damage as well as provide energy to the entire team with her **Elemental Burst.** This can allow other members in the party to focus less on building **Energy Recharge** and more on damage.
 
@@ -114,7 +114,7 @@ The disadvantage of the team is that it does not maximize all the skill and burs
 
 **Ayato: Main DPS**
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Ayato.png)
+![](../.gitbook/assets/ui\_avataricon\_ayato.png)
 
 * Raiden's ability to provide energy eases Ayato's struggles to gain energy back for his high cost **Elemental Burst**.&#x20;
 
@@ -132,13 +132,13 @@ This team functions in nearly the same way as [**Freeze (Cryo)**](freeze.md) tea
 
 **Kokomi: Main DPS/Healer**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)****
+****![](../.gitbook/assets/ui\_avataricon\_kokomi.png)****
 
 * Kokomi plays the role of both Healer and Main DPS in this team, providing **Hydro** application with her **Elemental Skill** and **Normal Attacks** and healing with her **Elemental Skill**.
 
 **Tartaglia: Main DPS**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)****
+****![](../.gitbook/assets/ui\_avataricon\_tartaglia.png)****
 
 * Tartaglia provides **Hydro** damage with his **Normal** and **Charged Attacks** while his **Elemental Skill** is active. Due to the long cooldown of his **Elemental Skill**, teams using Tartaglia as the sole source of **Hydro** application may struggle keeping enemies frozen.
 
@@ -216,7 +216,7 @@ This team is mainly a **Melt** (**Pyro**) comp that focuses on **Melting** Benne
 
 **Kokomi**: **Enabler/Support**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)****
+****![](../.gitbook/assets/ui\_avataricon\_kokomi.png)****
 
 * Kokomi's **Hydro** application is good, but her utility otherwise is limited to ther ability to carry the **Thrilling Tales of Dragon Slayers** catalyst, as Bennett's **Elemental Burst** is often more than enough healing.
 
@@ -228,7 +228,7 @@ This team is mainly a **Melt** (**Pyro**) comp that focuses on **Melting** Benne
 
 **Anemo Support**
 
-****![](../.gitbook/assets/element\_anemo.webp)****
+****![](../.gitbook/assets/Element\_Anemo.webp)****
 
 * **Anemo** Supports, when equipped with the **Viridescent Venerer** artifact set, debuff **Elemental Resistance. Swirl Pyro** to make Bennett deal increased damage.
 
@@ -271,7 +271,7 @@ This team utilizes Xingqiu's **Elemental Burst** to **Freeze** enemies with Ayak
 
 **Raiden: Main DPS/Support**
 
-****![](../.gitbook/assets/ui\_avataricon\_shougun.png)****
+****![](../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)****
 
 * Raiden Shogun can plays a role of both a Main DPS and a Support as she can deal damage as well as provide energy to the entire team with her **Elemental Burst.** This can allow other members in the party to focus less on building **Energy Recharge** and more on damage.
 

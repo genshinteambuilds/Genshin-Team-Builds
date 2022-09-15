@@ -41,7 +41,7 @@
 
 * As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental RES** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)
+![](../../.gitbook/assets/ui\_avataricon\_yunjin.png)
 
 * Yunjin can boost Ayato's **Normal Attacks**.&#x20;
 
@@ -64,25 +64,25 @@ Click on the team names below for more details on how the team works and alterna
 
 #### [Electro-Charged (Hydro)](../../teams/electro-charged-hydro.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayato.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_ayato.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Ayato's ability to attack rapidly allows Beidou's **Elemental Burst** to trigger often.
 
 #### [Vaporize (Hydro)](../../teams/vaporize.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayato.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_ayato.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Xiangling's **Elemental Burst** and **Elemental Skill** can work Off-Field allowing you to attack enemies while Ayato inflicts the enemy with **Hydro** and allowing Xiangling's abilities to **Vaporize** for additional damage.
 
 **Mixed Reaction (Soup)**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayato.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_ayato.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * A multi-reaction team that has many different colored numbers pop up on the screen.&#x20;
 
 **Hyper carry**&#x20;
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayato.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_ayato.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_yunjin.png)
 
 * Xingqiu provides Energy to Ayato and deals **Hydro DMG** Off-Field.
 * Yunjin increases **Normal Attack DMG** of Ayato.

@@ -29,7 +29,7 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/element\_cryo.webp)
+#### ![](../../.gitbook/assets/Element\_Cryo.webp)
 
 * **Superconduct** is Razor’s core reaction, as it debuffs enemy **Physical** **RES**. Thus, most **Cryo** characters are generally very effective with Razor.
 
@@ -43,7 +43,7 @@
 * Fischl provides energy for Razor and deals Off-Field **Electro** **DMG**.
 * Both characters provide **Electro** **Resonance**, which can help with Razor's **Elemental Burst** uptime.
 
-#### ![](../../.gitbook/assets/element\_anemo.webp)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)
 
 * Most **Anemo** characters can Crowd Control and group enemies, allowing for Razor to hit multiple enemies more easily.
 * They also reduce enemy **Electro RES** via **Viridescent Venerer** 4-set effect, increasing Razor's **Electro** **DMG**.
@@ -53,7 +53,7 @@
 * Zhongli's shield allows Razor to negate incoming damage that might otherwise interrupt his attacks. Additionally, the shield also reduces enemy **Physical RES**. Zhongli's **Elemental Burst** locks enemies in place, preventing them from being knocked back by Razor's attacks.
 * Albedo provides Off-Field **Geo DMG** and can generate shields through the **Crystallize** reaction.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)
+![](../../.gitbook/assets/ui\_avataricon\_yunjin.png)
 
 * Yunjin boosts Razor's **Normal Attack DMG**.
 
@@ -63,7 +63,7 @@
 
 * Razor's kit innately favors **Physical** **DMG**. Chongyun's **Elemental Skill** infusing Razor's **Normal Attacks** to deal **Cryo DMG**, which negates his build's **Physical** **DMG** bonuses.
 
-#### ![](../../.gitbook/assets/element\_pyro.webp)
+#### ![](../../.gitbook/assets/Element\_Pyro.webp)
 
 * **Overload** reactions will knock smaller enemies away from Razor. This may not be an issue with larger enemies or bosses.
 

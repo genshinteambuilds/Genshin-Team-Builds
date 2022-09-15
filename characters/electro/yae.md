@@ -24,16 +24,16 @@
 
 ## **Works Well With**
 
-![](../../.gitbook/assets/ui\_avataricon\_shougun.png)
+![](../../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)
 
 * Raiden is one of the best characters to pair with Yae, providing energy, activating **Electro Resonance** as well as buffing Yae with her **Elemental Skill**.
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
+![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * Kokomi and Xingqiu provide **Hydro** application and which can constantly create **Electro-Charged** reactions.
 * Kokomi also serves as a healer which frees up another character slot in the team.
 
-![](../../.gitbook/assets/element\_anemo.webp)
+![](../../.gitbook/assets/Element\_Anemo.webp)
 
 * **Anemo** characters pair well with Yae as they can provide **Elemental RES** debuffs with the **Viridescent Venerer** 4-set or other **Elemental DMG** buffs when triggering a **Swirl** reaction.
 
@@ -61,9 +61,9 @@ Click on the team names below for more details on how the team works and alterna
 
 ****[**Electro-Charged (Electro)**](../../teams/electro-charged.md)
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Yae.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)****
+****![](../../.gitbook/assets/ui\_avataricon\_yae.png)![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yae.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)
+![](../../.gitbook/assets/ui\_avataricon\_yae.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)
 
 * This team is centered around creating **Electro-Charged Reactions** with Kokomi or Xingqiu applying **Hydro** on enemies.
 * Sucrose debuffs enemy **Elemental RES** with 4-set **Viridescent Venerer** and provides **Elemental Mastery** that buffs **Electrocharged**.
@@ -71,9 +71,9 @@ Click on the team names below for more details on how the team works and alterna
 
 ****[**Pure Electro**](../../teams/pure-electro.md)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yae.png)![](../../.gitbook/assets/ui\_avataricon\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
+![](../../.gitbook/assets/ui\_avataricon\_yae.png)![](../../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yae.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)
+![](../../.gitbook/assets/ui\_avataricon\_yae.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)
 
 * This team mainly focuses on dealing only **Electro** damage through Yae's **Elemental Skill** and **Burst**. The supports focus on buffing Yae's overall damage output through various buffs.
 * Raiden provides energy for the entire party and deals damage with her **Elemental Burst** while Yae is Off-Field.

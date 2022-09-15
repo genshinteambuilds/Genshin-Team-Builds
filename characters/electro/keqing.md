@@ -41,13 +41,13 @@
 
 * Zhongli's shield blocks a large amount of damage from enemies, allowing Keqing to focus more on dealing damage rather than dodging. It also reduces enemy **RES**. Zhongli's **Elemental Burst** provides a **Petrify** Debuff to enemies allowing for a window to attack without worrying about knock back from Keqing's **Charged Attacks**.
 
-#### ![](../../.gitbook/assets/element\_anemo.webp)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)
 
 * Keqing pairs well with **Anemo** characters as the **Viridescent Venerer** 4-set can debuff **Electro** **RES** on enemies.
 * Kazuha provides buffs to **Elemental DMG** with **Swirl** reactions.
 * Venti is used primarily on **Electro** Keqing teams. He can keep enemies grouped and damage can be dealt to all enemies trapped in his **Elemental Burst** with Keqing's **Elemental Skill** and **Burst**.
 
-#### ![](../../.gitbook/assets/element\_cryo.webp)
+#### ![](../../.gitbook/assets/Element\_Cryo.webp)
 
 * **Cryo** support characters such work well with **Physical** Keqing as the **Superconduct** **Elemental Reaction** debuffs enemies' **Physical RES**.
 

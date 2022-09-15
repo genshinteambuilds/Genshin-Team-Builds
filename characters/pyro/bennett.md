@@ -25,7 +25,7 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/element\_anemo.webp)![](../../.gitbook/assets/element\_cryo.webp)![](../../.gitbook/assets/element\_electro.webp)![](../../.gitbook/assets/element\_hydro.webp)![](../../.gitbook/assets/element\_pyro.webp)![](../../.gitbook/assets/element\_geo.webp)
+#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
 
 * Bennett’s utility allows him to be placed in almost every single team. However, there are a few exceptions.
   * E.g. Bennett is often not used with Hu Tao as this can complicate Hu Tao's **HP** management where maintaining her below 50% **HP** gives Hu Tao a buff.
@@ -69,7 +69,7 @@ In the following teams, Bennett provides healing and buffing through his **Eleme
 
 [**Oneshot**](../../teams/oneshot.md)
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_sara.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_sara.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Bennett is almost always used in Oneshot teams due to providing one of the largest **ATK** buffs in the game.
 

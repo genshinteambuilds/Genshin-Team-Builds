@@ -31,7 +31,7 @@
 * Often paired with either of these characters in order to create a [**Freeze** team](../../teams/freeze.md).
 * **Freeze** teams using Mona also often use **Anemo** characters that can infuse their Off-Field abilities with **Hydro** to help apply **Hydro** more often.
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_diona.png)![](../../.gitbook/assets/element\_cryo.webp)
+#### ![](../../.gitbook/assets/ui\_avataricon\_diona.png)![](../../.gitbook/assets/Element\_Cryo.webp)
 
 * Diona is usually the healer of choice in Ayaka [**Freeze** teams](../../teams/freeze.md) as she provides **Cryo** **Resonance**, acts as an Energy Battery, and can also provide shielding for the team.
 * When not using Diona as a healer, an additional **Cryo** character is normally used with Ayaka to provide **Cryo** **Resonance** in [**Freeze** teams](../../teams/freeze.md).
@@ -51,19 +51,19 @@
 * **Melt** teams using Ayaka are almost always [Oneshot ](../../teams/oneshot.md)team setups since Ayaka's **Elemental Burst** lasts only 5 seconds and can only be reasonably applied to large enemies in this composition.
 * **Melt** teams using Ayaka can struggle at putting out sustained DPS after Ayaka's **Elemental Burst** is entirely finished and on cooldown.
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_shougun.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)
 
 * Despite being an **Electro** character, Raiden's **Elemental Skill** will not interrupt the **Frozen Elemental Reaction**. Additionally, Ayaka can also reduce her **Energy Recharge** requirements as Raiden will generate energy for Ayaka with her **Elemental Burst**.
 * Raiden is only viable in this team when Xingqiu is also present on the team.
 
 ## Does not work well with
 
-#### ![](../../.gitbook/assets/element\_electro.webp)
+#### ![](../../.gitbook/assets/Element\_Electro.webp)
 
 * Electro's **Superconduct** reaction with **Cryo** does not improve Ayaka's core team compositions.
 * There are superior **Cryo** supports to Ayaka to provide **Superconduct** for **Physical** teams.
 
-#### ![](../../.gitbook/assets/element\_geo.webp)
+#### ![](../../.gitbook/assets/Element\_Geo.webp)
 
 * **Geo DMG** shatters **Frozen** enemies making these characters not ideal in **Freeze** teams.
 * **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.

@@ -40,13 +40,13 @@
 
 ## **Does Not Work Well With**
 
-#### ![](../../.gitbook/assets/element\_cryo.webp)
+#### ![](../../.gitbook/assets/Element\_Cryo.webp)
 
 * **Melt** team compositions using Hu Tao typically do not work well due to the inability to apply **Cryo** Aura fast enough that Hu Tao will sometimes enable the **Cryo** characters instead.
   * It is possible to combine Xingqiu with **Cryo** characters to avoid this problem. See [Character Specific Teams](hu-tao.md#character-specific-teams).
   * Ayaka is an exception when used in [Oneshot](../../teams/oneshot.md) teams.
 
-#### ![](../../.gitbook/assets/element\_electro.webp)
+#### ![](../../.gitbook/assets/Element\_Electro.webp)
 
 * **Electro** supports generally do not work well with Hu Tao as the **Overload** reaction causes enemies to be knocked back out of Hu Tao's melee range. This can be mitigated through Crowd Control abilities such as Kazuha's **Elemental Skill** but is generally not worth building.
 
@@ -84,7 +84,7 @@ Click on the team names below for more details on how the team works and alterna
 
 **Vaporize (Optimized)**
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_amber.png)
 
 * This is theoretically Hu Tao's highest damage team although does not have a dedicated Healer and is therefore not recommended for newer players.
 * Amber can apply **Pyro** with her **Elemental Burst** which can then be swirled by an **Anemo** character. Amber also provides **Pyro Resonance**.
