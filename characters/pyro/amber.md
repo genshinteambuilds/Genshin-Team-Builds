@@ -37,7 +37,7 @@
 
 **Melt (Not Recommended)**
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_amber.png)![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)![](../../.gitbook/assets/ui\_avataricon\_lumine\_anemo.png)![](../../.gitbook/assets/ui\_avataricon\_barbara.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_amber.png)![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_anemo.png)![](../../.gitbook/assets/ui\_avataricon\_barbara.png)
 
 * An example of a budget team using completely free characters.
 * Amber acts as the Main DPS, Melting the **Cryo** applied by Kaeya.

@@ -50,13 +50,13 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md)
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_lumine\_electro.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_electro.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * Traveler (Electro) can provide energy for Beidou and Xingqiu to help maintain their **Elemental Bursts**.
 
 [**Physical (Cryo)**](../../teams/physical-cryo.md)
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_lumine\_electro.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_electro.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
 * Traveler (Electro) synergizes well with **Physical** characters by providing consistent **Electro** **DMG** for **Superconduct** reactions while taking up very little field time.
 * Traveler's energy generation can help support characters such as Eula, who rely heavily on their **Elemental Bursts**.

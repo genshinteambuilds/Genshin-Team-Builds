@@ -42,12 +42,12 @@ In the following teams, Traveler (Anemo) provides debuffing utility using the **
 
 [**Electro-Charged (Electro)**](../../teams/electro-charged.md)
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_keqing.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_lumine\_anemo.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_keqing.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_anemo.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 [**Freeze (Cryo)**](https://genshinteambuilds.gitbook.io/teams/teams/freeze)
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_lumine\_anemo.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_anemo.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_diluc.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_lumine\_anemo.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_diluc.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_anemo.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
