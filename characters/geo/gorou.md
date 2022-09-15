@@ -60,6 +60,6 @@ Itto only works in a **Geo** team where he performs as a Selfish Main DPS. A cou
 
 * A strong team composition that takes full advantage of Gorou's party buffs to **DEF** and **Geo** **DMG**. Having 4 **Geo** characters lowers the energy recharge requirements across the whole team.
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_noelle.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/ui\_avataricon\_aether\_geo.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_noelle.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo1.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * Another example of a full **Geo** team composition. Not recommended unless Noelle is C6.

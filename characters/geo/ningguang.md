@@ -35,7 +35,7 @@
 
 * Albedo provides **Geo Energy Particles**, **Geo Resonance**, and Off-Field **DMG**. His **Elemental Skill** cooldowns line up with Ningguang’s.
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_aether\_geo.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo1.png)
 
 * Traveler (Geo) provides **Geo Energy Particles,** **Geo Resonance**, and a **CRIT Rate** buff. He also has cooldowns that line up with Ningguang's. However, he lacks Off-Field **DMG**, forcing frequent character swaps.
 
