@@ -36,7 +36,7 @@ This team has Jean and Bennett paired together because of how their **Elemental 
 
 #### Jean - Support/Enabler
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
+![](../.gitbook/assets/ui\_avataricon\_jean.png)
 
 * Jean's main role is to cast her **Elemental Burst** which applies Anemo on your current character and when used alongside Bennett's **Elemental Burst** this triggers Swirl reactions which deals damage to enemies.
 * Jean generally needs to use the **Viridescent Venerer** 4-set to reduce **Pyro** resistance when triggering a reaction with Bennett.
@@ -45,7 +45,7 @@ This team has Jean and Bennett paired together because of how their **Elemental 
 
 #### Bennett: Support
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Bennett provides an **ATK** buff and can also apply **Pyro** on your current On-Field character with his **Elemental Burst** which allows Jean to **Swirl** with her **Elemental Burst.**&#x20;
 * If there is another Pyro character present on the team he is able to provide **Pyro Energy Particles** to recharge their **Elemental Bursts** faster.
@@ -54,40 +54,40 @@ This team has Jean and Bennett paired together because of how their **Elemental 
 
 **Raiden: Main DPS/Support**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)****
+****![](../.gitbook/assets/ui\_avataricon\_shougun.png)****
 
 * Raiden Shogun can plays a role of both a Main DPS and a Support as she can deal damage as well as provide energy to the entire team with her **Elemental Burst.** This can allow other members in the party to focus less on building **Energy Recharge** and more on damage.
 
 **Ganyu: Main DPS**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****
+****![](../.gitbook/assets/ui\_avataricon\_ganyu.png)****
 
 * Ganyu can work in a Sunfire Jean team because of the frequent **Pyro** application with the **Swirl** reaction from Jean and Bennett's **Elemental Burst**. This allows Ganyu to consistently trigger **Melt** reactions with her Charged shots.
 
 #### Xingqiu: Off-Field DPS/Enabler
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+![](../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * Xingqiu's **Elemental Burst** can apply **Hydro** on enemies which can trigger Vaporize and/or Electro-charged reactions.
   * It is recommended to have **Sacrificial Sword** or any sword with **Energy Recharge** to consistently have his **Elemental Burst** ready on cooldown.
 
 **Fischl: Off-field DPS**
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
+![](../.gitbook/assets/ui\_avataricon\_fischl.png)
 
 * Fischl can deal Off-field damage with her **Elemental Skill** and can provide **Energy** **Particles** for the entire team.
 * She also applies **Electro** on enemies to trigger **Electro-charged** and/or **Overload** reactions.
 
 **Xiangling: Off-field DPS/Enabler**
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
+![](../.gitbook/assets/ui\_avataricon\_xiangling.png)
 
 * Xiangling is only a viable option in a Sunfire Jean team if she is paired with Ganyu.
 * She alternate on applying **Pyro** with Jean and Bennett's **Elemental Burst** synergy during their downtime.
 
 ### **Sample Sunfire Jean Teams**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
+****![](../.gitbook/assets/ui\_avataricon\_ganyu.png)****![](../.gitbook/assets/ui\_avataricon\_xiangling.png)****![](../.gitbook/assets/ui\_avataricon\_jean.png)****![](../.gitbook/assets/ui\_avataricon\_bennett.png)****
 
 ## Raiden Dual Carry&#x20;
 
@@ -108,7 +108,7 @@ The disadvantage of the team is that it does not maximize all the skill and burs
 
 **Xiao: Main DPS**
 
-​![](../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)**​**
+​![](../.gitbook/assets/ui\_avataricon\_xiao.png)**​**
 
 * The most common partner in a Raiden dual carry team. While Xiao does not benefit from the **Elemental Burst DMG** buff from Raiden, her skill lasts the whole duration of Xiao's **Elemental Burst** and the energy provided by Raiden allows Xiao to replace an Energy Battery with her.&#x20;
 
@@ -146,31 +146,31 @@ This team functions in nearly the same way as [**Freeze (Cryo)**](freeze.md) tea
 
 **Kaeya: Off-Field DPS**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)****
+****![](../.gitbook/assets/ui\_avataricon\_kaeya.png)****
 
 * Kaeya provides Off-Field **Cryo** damage with his **Elemental Burst** and acts as an Energy Battery using his **Elemental Skill**.
 
 **Rosaria: Off-Field DPS**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)****
+****![](../.gitbook/assets/ui\_avataricon\_rosaria.png)****
 
 * Rosaria provides Off-Field **Cryo** damage with his **Elemental Burst** and provides additional energy generation with her **Elemental Skill**.
 
 **Ganyu: Off-Field DPS**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)****
+****![](../.gitbook/assets/ui\_avataricon\_ganyu.png)****
 
 * Ganyu can be used as an alternative **Cryo** Off-Field DPS with her **Elemental Burst** if enough energy can be generated to allow her to consistently use it.
 
 **Kazuha: Support**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)****
+****![](../.gitbook/assets/ui\_avataricon\_kazuha.png)****
 
 * Kazuha provides Grouping Crowd Control with his **Elemental Skill** and buffs **Elemental Damage** for other party members. He also provides **Elemental Resistance** debuffing using the **Viridescent Venerer** artifact set.
 
 **Jean: Support**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Jean.png)****
+****![](../.gitbook/assets/ui\_avataricon\_jean.png)****
 
 * Jean provides healing and **Elemental Resistance** debuffing using the **Viridescent Venerer** artifact set. Jean's primary use is in teams where additional healing is needed instead of the superior Crowd Control abilities of other **Anemo** characters.
 
@@ -186,13 +186,13 @@ This team is mainly a **Melt** (**Pyro**) comp that focuses on **Melting** Benne
 
 **Bennett: Main DPS/Healer/Support**
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)**​**
+![](../.gitbook/assets/ui\_avataricon\_bennett.png)**​**
 
 * Bennett's Main DPS potential comes from his **A4** talent reducing the cooldown of his **Elemental Skill** by 50% when in the field created by his **Elemental Burst**. This allows him to frequently cause damaging **Melt** reactions. Make sure to use Bennett's **Normal Attacks** to apply **Cryo** to the opponent. If Bennett is **C6** do not attempt this team; the **Pyro** infusion from Bennett's **Elemental Burst** will interefere with the **Cryo** infusion needed for consistent reactions.&#x20;
 
 **Chongyun: Enabler**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)**​**
+****![](../.gitbook/assets/ui\_avataricon\_chongyun.png)**​**
 
 * Chongyun's main value in this team comes from the **Cryo** infusion his **Elemental Skill** grants to characters within its field. His **Elemental Burst**, if built correctly, can also be used to deal massive damage. However, Chongyun will still fulfill his role if this is not the case.
 
@@ -204,13 +204,13 @@ This team is mainly a **Melt** (**Pyro**) comp that focuses on **Melting** Benne
 
 **Xingqiu: Enabler/Off-Field DPS**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+****![](../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * Xingqiu is recommended both for his damage and the consistency at which he applies **Hydro.**
 
 **Mona: Enabler/Support**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)****
+****![](../.gitbook/assets/ui\_avataricon\_mona.png)****
 
 * The rate of Mona's **Hydro** application is relatively slow, but she can make up for this through the buffs provided by her **Elemental Burst** and her ability to carry the **Thrilling Tales of Dragon Slayers** catalyst.&#x20;
 
@@ -222,13 +222,13 @@ This team is mainly a **Melt** (**Pyro**) comp that focuses on **Melting** Benne
 
 **Diona: Enabler/Support**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Diona.png)****
+****![](../.gitbook/assets/ui\_avataricon\_diona.png)****
 
 * Diona can apply **Cryo** through her **Elemental Burst,** which aids in **Melt** uptime. At **C6,** she also provides a buff to **Elemental Mastery**, which can further increase the damage of **Melt** reactions.
 
 **Anemo Support**
 
-****![](../.gitbook/assets/Element\_Anemo.webp)****
+****![](../.gitbook/assets/element\_anemo.webp)****
 
 * **Anemo** Supports, when equipped with the **Viridescent Venerer** artifact set, debuff **Elemental Resistance. Swirl Pyro** to make Bennett deal increased damage.
 
@@ -246,7 +246,7 @@ This team utilizes Xingqiu's **Elemental Burst** to **Freeze** enemies with Ayak
 
 #### **Ayaka**- Main/Burst DPS
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
+![](../.gitbook/assets/ui\_avataricon\_ayaka.png)
 
 * Ayaka's role is to use **Freeze** and her **Elemental Burst** to immobilize enemies and deal large amounts of **AoE** damage.
 * The 4-set **Blizzard Strayer** is a powerful option on Ayaka to maintain high **Critical Rate** during her **Elemental Burst.**
@@ -254,7 +254,7 @@ This team utilizes Xingqiu's **Elemental Burst** to **Freeze** enemies with Ayak
 
 #### Xingqiu: Off-Field DPS/Enabler
 
-![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+![](../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * Xingqiu's **Elemental Burst** can apply **Hydro** on enemies which can trigger Freeze, Vaporize and/or Electro-charged reactions.
   * It is recommended to have **Sacrificial Sword** or any sword with **Energy Recharge** to consistently have his **Elemental Burst** ready on cooldown.
@@ -264,26 +264,26 @@ This team utilizes Xingqiu's **Elemental Burst** to **Freeze** enemies with Ayak
 
 **Hu Tao: Main DPS**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****
+****![](../.gitbook/assets/ui\_avataricon\_hutao.png)****
 
 * Able to quickly deal large amounts of **Vaporize** or even **Melt** damage when reacting against either **** Xingqiu or Ayaka's **Bursts**
 * Self-heals and doesn't require much support besides Xingqiu
 
 **Raiden: Main DPS/Support**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)****
+****![](../.gitbook/assets/ui\_avataricon\_shougun.png)****
 
 * Raiden Shogun can plays a role of both a Main DPS and a Support as she can deal damage as well as provide energy to the entire team with her **Elemental Burst.** This can allow other members in the party to focus less on building **Energy Recharge** and more on damage.
 
 **Zhongli: Shielder/Support**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
+****![](../.gitbook/assets/ui\_avataricon\_zhongli.png)****
 
 * Zhongli provides a powerful **shield** which can substituted for a **Healer** since Xingqiu already provides passive healing with his rain swords.
 * Reduces enemy **resistances** with Jade Shield and can buff team attack with the 4-set **Tenacity of Milleth** to all characters with high uptime and few conditions. ****&#x20;
 
 ### **Sample Ayaka Dual Carry Teams**
 
-****![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)****
+****![](../.gitbook/assets/ui\_avataricon\_ayaka.png)****![](../.gitbook/assets/ui\_avataricon\_xingqiu.png)****![](../.gitbook/assets/ui\_avataricon\_zhongli.png)****![](../.gitbook/assets/ui\_avataricon\_hutao.png)****
 
 ****

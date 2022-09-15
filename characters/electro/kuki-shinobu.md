@@ -20,7 +20,7 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/element\_anemo.webp)![](../../.gitbook/assets/element\_cryo.webp)![](../../.gitbook/assets/element\_electro.webp)![](../../.gitbook/assets/element\_geo.webp)![](../../.gitbook/assets/element\_hydro.webp)![](../../.gitbook/assets/element\_pyro.webp)
 
 * Shinobu can work in almost any team in the game as a universal Healer.
 * It is recommended to pair her with **Hydro** and **Anemo** characters so she can also be utilized to apply **Electro-Charged** reactions.&#x20;
@@ -28,7 +28,7 @@
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Qiqi.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tohma.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)![](../../.gitbook/assets/ui\_avataricon\_sayu.png)![](../../.gitbook/assets/ui\_avataricon\_qiqi.png)![](../../.gitbook/assets/ui\_avataricon\_barbara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tohma.png)
 
 * Shinobu's focus on healing reduces her synergy with other Healers and Shielders, who often fill the same role, reducing Shinobu's utility.
 
@@ -44,19 +44,19 @@ Click on the team names below for more details on how the team works and alterna
 
 #### Electro-Charged (Hydro)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Yelan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayato.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kuki\_Shinobu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Yelan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayato.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kuki\_Shinobu.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)
 
 * Shinobu's utility as both a healer and **Electro**-applier allows her to be used in a double-**Hydro** composition that allows the use of an **Anemo** support to boost the team's overall **DPS**.
 
 #### Electro-Charged (Electro)
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kuki\_Shinobu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kuki\_Shinobu.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * Allows for more healing potential in a taser team which makes this team composition safer to run than with another **Electro** character such as Beidou.
 
 #### Geo
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kuki\_Shinobu.png)
+![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kuki\_Shinobu.png)
 
 * This team allows her to proc **Crystalized** reactions from off-field whilst healing the active character.
 

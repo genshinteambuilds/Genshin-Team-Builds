@@ -20,14 +20,14 @@
 
 ## Works Well With:
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/element\_anemo.webp)![](../../.gitbook/assets/element\_cryo.webp)![](../../.gitbook/assets/element\_electro.webp)![](../../.gitbook/assets/element\_geo.webp)![](../../.gitbook/assets/element\_hydro.webp)![](../../.gitbook/assets/element\_pyro.webp)
 
 * When used as a Main DPS, Amber’s slow **Pyro** application allows her to **Melt** all of her **Charged Attacks.**
 * Amber generally does not interfere very much with other **Elemental Reactions**. She can be used on many teams if you have a need for her taunt or are using her with **Elegy of the End** and / or **C6** however, she often does not provide enough utility to justify using her over other available characters.
 
 ## Doesn’t Work Well With
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/element\_anemo.webp)![](../../.gitbook/assets/element\_cryo.webp)![](../../.gitbook/assets/element\_electro.webp)![](../../.gitbook/assets/element\_geo.webp)![](../../.gitbook/assets/element\_hydro.webp)![](../../.gitbook/assets/element\_pyro.webp)
 
 * Amber generally does not interfere very much with other **Elemental Reactions**. She can be used on many teams if you have a need for her taunt or are using her with **Elegy of the End** and / or **C6** however, she often does not provide enough utility to justify using her over other available characters.
 
@@ -37,7 +37,7 @@
 
 **Melt (Not Recommended)**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Amber.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Lumine\_Anemo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Amber.png)![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Lumine\_Anemo.png)![](../../.gitbook/assets/ui\_avataricon\_barbara.png)
 
 * An example of a budget team using completely free characters.
 * Amber acts as the Main DPS, Melting the **Cryo** applied by Kaeya.
@@ -45,7 +45,7 @@
 
 **Vaporize (Optimized)**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Amber.png)
 
 * This is theoretically Hu Tao's highest damage team although does not have a dedicated healer and is therefore not recommended for newer players.
 * Amber can apply **Pyro** with her **Elemental Burst** which can then be swirled by an **Anemo** character. Amber also provides **Pyro Resonance**.

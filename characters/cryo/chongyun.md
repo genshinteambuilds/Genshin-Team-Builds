@@ -20,27 +20,27 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * Often paired with either of these characters in order to create a [**Freeze** ](../../teams/freeze.md)team.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * As with all Elemental DPS, **Anemo** supports and Zhongli work well by reducing the enemy's **Elemental RES** with **Viridescent Venerer** or Zhongli's Jade Shield. **Anemo** characters often also supply useful **Crowd Control** abilities or other buffs.
 * Kazuha, Sucrose and Venti can also additionally infuse their **Elemental Bursts** with **Hydro**, **Cryo**, or **Pyro** helping provide those elements in a **Freeze** or **Melt** team.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)![](../../.gitbook/assets/ui\_avataricon\_klee.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_yanfei.png)
 
 * These characters can be paired with Chongyun in a **Melt** team composition where Chongyun is used as Burst DPS with his **Elemental Burst**.
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/Element\_Electro.webp)
+#### ![](../../.gitbook/assets/element\_electro.webp)
 
 * Electro's **Superconduct** reaction with **Cryo** does not improve Chongyun's core team compositions.
 * Chongyun should not be used if **Superconduct** is needed for a **Physical** team, as Chongyun's **Elemental Skill** is anti-synergistic with **Physical** Main DPS characters due to its **Cryo** infusion.
 
-#### ![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/element\_geo.webp)
 
 * **Geo** **DMG** shatters **Frozen** enemies making these characters not ideal in **Freeze** teams.
 * **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.
@@ -53,7 +53,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### [Freeze (Cryo)](../../teams/freeze.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)
 
 * In **Freeze** teams, Chongyun acts as a Burst DPS and Support and can help provide **Cryo Resonance**.
 * The **Cryo Infusion** from Chongyun's **Elemental Skill** can help non-standard Main DPS characters deal **Cryo** **DMG** with their **Normal Attacks** and **Charged Attacks**.
@@ -61,7 +61,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [**National**](../../teams/national.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * A variation of the popular "National Team" where Chongyun acts as a Burst DPS and Support.
 * This variation allows for both **Melt** and Reverse **Melt** reactions, and Chongyun's **C2** slightly speeds up the team's rotations.

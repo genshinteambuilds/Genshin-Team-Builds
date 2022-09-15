@@ -23,42 +23,42 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_keqing.png)
 
 * Beidou primarily acts as a Off-Field DPS for Keqing, providing extra Off-Field **Electro DMG** with her **Elemental Burst**.
 * Beidou can also debuff the the **Electro** **RES** of enemies with her **C6** active.
 * Keqing's main source of damage being her **Normal** or **Charged Attacks** allows Beidou's **Elemental Burst** to constantly deal **Electro** **DMG**.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * Childe and Xingqiu provide a high rate of **Hydro** application and combined with Beidou's **Elemental Burst** can constantly create **Electro-Charged** reactions.
 * The combination of **Damage Reduction** on both Beidou and Xingqiu's **Elemental Bursts** provides increased survivability while both abilities are active.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)
 
 * Beidou applies **Electro** for **Superconduct** and her high **Electro** **DMG** can assist Eula against enemies with high **Physical RES.**
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)
+#### ![](../../.gitbook/assets/element\_anemo.webp)
 
 * **Anemo** characters pair well with Beidou as they can provide **Elemental RES** debuffs with the **Viridescent Venerer** 4-set or other **Elemental DMG** buffs when triggering a **Swirl** reaction.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)![](../../.gitbook/assets/ui\_avataricon\_sara.png)
 
 * Beidou's ability to snapshot buffs with her **Elemental Burst** allows her to take full advantage of both Bennet and Kujou Sara's **ATK** buffs.
 * The **Electro CRIT DMG** increase from Kujou Sara's **C6** can be snapshotted and will last for the entire duration of Beidou's **Elemental Burst**.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_fischl.png)
 
 * Provides additional Off-Field **Electro DMG** to compliment Beidou and helps generate **Electro Energy Particles** to recharge her **Elemental Burst**.
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/Element\_Cryo.webp)
+#### ![](../../.gitbook/assets/element\_cryo.webp)
 
 * Pairing Beidou with most **Cryo** Main DPS will largely lead to triggering **Superconduct**, a reaction which does not increase **Cryo** or **Electro** **DMG**, and will also stop enemies from being **Frozen.**
   * **Physical** Main DPS that use **Cryo** abilities are an exception and can be used with her in order to provide additional Off-Field **Electro DMG** alongside providing **Superconduct**.
 
-#### ![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/element\_pyro.webp)
 
 * Against smaller enemies with low resistance to interruption, the knock back of **Overload** can lead to spending too much time chasing them around.
 
@@ -70,23 +70,23 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md) **/** [**Electro-Charged (Electro)**](../../teams/electro-charged.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_keqing.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Beidou is typically used as an Off-Field DPS in these teams with an On-Field character such as Keqing or Childe to trigger her **Elemental Burst's** lightning discharges.
 * A second **Electro** character is recommended to help recharge Beidou's **Elemental Burst**.
 
 [**Overload (Pyro)**](../../teams/overload.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_yoimiya.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Beidou's high Off-Field DPS makes this team work well against large or heavy enemies who can't get knocked back by **Overload**.
 * A second **Electro** character is recommended to help recharge Beidou's **Elemental Burst** and create more **Overload** reactions.
 
 [**Physical (Cryo)**](../../teams/physical-cryo.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
 * Beidou provides Off-Field **Electro** **DMG** for Eula to trigger **Superconduct,** debuffing enemy **Physical RES**.
 * A second **Electro** character is recommended to help recharge Beidou's **Elemental Burst**.

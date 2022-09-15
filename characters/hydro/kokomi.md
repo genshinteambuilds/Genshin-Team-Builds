@@ -22,30 +22,30 @@
 
 ## **Works Well With**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_ganyu.png)![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)
 
 * Kokomi's **Hydro** application from her **Elemental Skill** and **Normal**/**Charged Attacks** can work together with these characters to permanently keep enemies **Frozen.**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)
 
 * The high **Electro** application of these characters can allow Kokomi to constantly trigger **Electro-charged** reactions.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)
 
 * Kokomi's **Hydro** application from her **Normal** and **Charged Attacks** can be used to **Vaporize** Xiangling's **Elemental Skill** and **Burst.**
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/element\_anemo.webp)![](../../.gitbook/assets/element\_cryo.webp)![](../../.gitbook/assets/element\_electro.webp)![](../../.gitbook/assets/element\_geo.webp)![](../../.gitbook/assets/element\_hydro.webp)![](../../.gitbook/assets/element\_pyro.webp)
 
 * Kokomi can work in almost any team in the game as a universal Healer.
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * Zhongli's high shielding often reduces the need for Kokomi's healing.
 * Zhongli’s **Stone Seele** also triggers **Shatter** reactions on **Frozen** enemies.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Qiqi.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_barbara.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)![](../../.gitbook/assets/ui\_avataricon\_sayu.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)![](../../.gitbook/assets/ui\_avataricon\_qiqi.png)
 
 * Kokomi's high healing leads to overlap when paired with other characters who primarily heal or shield.
 
@@ -61,26 +61,26 @@ This character is a Healer. While some teams are provided below where they are p
 
 [**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)
 
 * Kokomi's high **Hydro** application allows her to be used as a Main DPS in this team to repeatedly trigger **Electro-Charged**.
 * Kokomi's massive reduction in **CRIT Rate** allows her to build heavily into **Elemental Mastery**, greatly increasing the output of **Electro-Charged Elemental Reactions**.&#x20;
 
 [**Freeze (Cryo)**](../../teams/freeze.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)
 
 * Kokomi's **Hydro** application enables permanent **Freeze** from Off-Field.
 * Using Kokomi as a **Hydro** applicator can free up a slot that would typically be dedicated to a Healer.
 
 [**Vaporize (Hydro)**](../../teams/vaporize.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)
 
 * Kokomi can be used to apply **Hydro** to **Vaporize** the damage from a **Pyro** Off-Field DPS such as Xiangling.
 
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * Kokomi can provide enough **Hydro** application to **Vaporize** Diluc's **Pyro DMG**, allowing other **Hydro** characters such as Xingqiu who are typically paired with him to be used in other teams.

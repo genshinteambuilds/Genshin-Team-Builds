@@ -21,25 +21,25 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)
 
 * Eula can benefit from frequent **Superconduct** reactions which debuff **Physical RES**.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * Tartaglia and Xingqiu provide a high rate of **Hydro** application and combined with Fischl's Oz, can constantly create **Electro-Charged** reactions.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_beidou.png)
 
 * Fischl's **Electro Energy Particle** generation can help recharge Beidou's high cost **Elemental Burst.**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_razor.png)
 
 * Fischl provides **Electro Energy Particles** and **Electro Resonance** allowing Razor to use his **Elemental Burst** more frequently.
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/element\_pyro.webp)
 
 * Fischl’s constant **Electro** application can knock enemies out of range when used with a **Pyro** Main DPS due to **Overload's** knock back effect. **Electro** can also interfere with the consistency of **Vaporize** or **Melt** reactions.
   * However, some teams can still function this way. See [**Overload**](../../teams/overload.md).
@@ -56,22 +56,22 @@ In all the teams listed below, Fischl universally provides Off-Field **Electro**
 
 [**Anemo**](https://genshinteambuilds.gitbook.io/teams/teams/anemo)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_xiao.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 [**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)
 
 [**Geo**](https://genshinteambuilds.gitbook.io/teams/teams/geo)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_ningguang.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 [**Overload**](../../teams/overload.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_yoimiya.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 [**Physical (Cryo)**](../../teams/physical-cryo.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
 * Fischl pairs well with **Physical** Main DPS because of frequent **Superconduct** reactions, which debuff **Physical RES**. She also helps provide extra Off-Field **Electro DMG** without requiring much time spent on her character.

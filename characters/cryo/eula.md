@@ -29,49 +29,49 @@
 
 ## **Works Well With**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_shougun.png) ![](../../.gitbook/assets/ui\_avataricon\_fischl.png)
 
 * Often paired with Eula to form a [**Physical** ](../../teams/physical-cryo.md)team.
 * Raiden Shogun provides **Superconduct**, buffs **Elemental Burst** **DMG**, serves as an Energy Battery and is able to be used On-Field after Eula uses her **Elemental Burst**.
 * Fischl provides Off-Field **Electro DMG**, constant **Superconduct**, and serves as an **Electro** Battery.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
 * Diona is a popular option as a **Cryo** healer for Eula as she activates **Cryo Resonance** and provides **Cryo Energy Particles** alongside her healing and shielding.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)
 
 * Rosaria serves as a **Cryo** Energy Battery and **CRIT Rate** buffer while also activating **Cryo Resonance**.
 * **C6** reduces **Physical RES** of enemies hit by Rosaria's **Elemental Burst**.
 * Shenhe activates **Cryo Resonance**, acts as an Energy Battery and reduces **Physical RES** of enemies in Shenhe's **Elemental Burst**.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * Zhongli's shield can prevent Eula from being **interrupted**, which lets her more easily build up hits for her **Elemental Burst**.
 * His shield also further debuffs **Elemental** and **Physical RES** of enemies.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Bennett provides a high **ATK** buff that lasts the full duration of Eula's **Elemental Burst** and is a **Healer**.
 * **C6** will infuse Eula's **Normal**/**Charged**/**Plunging Attacks** with **Pyro**, negating all of the **Physical** **DMG** bonuses she receives. Do not use C6 Bennett with Eula unless you are going for an **Elemental Burst** Oneshot.
 * Note that since Eula's **Elemental Burst** does not snapshot, Eula's **Elemental Burst** must finish within the duration of Bennett's **Elemental Burst** or a large amount of damage is lost.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_lisa.png)
 
 * Lisa works well to support a Eula focused on her **Elemental Burst** **DMG**. She can apply **Superconduct**, debuff **DEF**, hold the **Thrilling Tales of Dragonslayer’s Catalyst**, and use the **Noblesse Oblige** set.
 * Her high energy cost **Elemental Burst** and high **Energy Recharge** requirements make her more suitable for one rotation team compositions rather than consistent continuous rotation team compositions unless also paired with Raiden.
 
 ## **Does Not Work Well With**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_mona.png)
 
 * Mona’s **Omen** debuff from her **Elemental Burst** does not last long enough for Eula to finish stacking hits for her **Elemental Burst** for its full duration.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)
 
 * Eula's kit innately favors **Physical** **DMG**. Chongyun's **Elemental Skill** converts Eula's **Normal Attacks** to **Cryo** **DMG**, which negates her build's **Physical** **DMG Bonuses**.
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)
+#### ![](../../.gitbook/assets/element\_anemo.webp)
 
 * **Anemo** buffs and debuffs do not affect **Physical** **DMG**. **Anemo** characters can still be used for their **Crowd Control** and utility but should generally be avoided.
 
@@ -83,13 +83,13 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Oneshot**](../../teams/oneshot.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png) ![](../../.gitbook/assets/ui\_avataricon\_lisa.png) ![](../../.gitbook/assets/ui\_avataricon\_xinyan.png) ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * A very basic and straightforward **Elemental Burst** Eula team, focused on buffing Eula as much as possible and Debuffing enemies for a more powerful Lightfall Sword.
 
 [**Physical (Cryo)**](../../teams/physical-cryo.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png) ![](../../.gitbook/assets/ui\_avataricon\_shougun.png) ![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
 * This team focuses on giving Eula high sustained damage and **Elemental Burst** uptime.
 * Raiden Shogun, Rosaria, and Diona serve as an Energy Battery for Eula making this team very consistent with **Elemental Burst** uptime.
@@ -100,7 +100,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ****[**Physical (Cryo)**](../../teams/physical-cryo.md)****
 
-![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Shenhe.png)![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * Although this team centers around Eula dealing **Physical DMG**, it does not have **Superconduct**.
 * Both Shenhe and Rosaria(C6) provide **Physical RES** debuff.

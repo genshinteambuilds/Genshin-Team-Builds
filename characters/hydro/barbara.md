@@ -23,18 +23,18 @@
 
 ## Works well with
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_ganyu.png)![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)
 
 * While Barbara is not the usual first choice for **Hydro** application for **Freeze** teams, her constant application with her **Elemental Skill** does allow her to function as a **Hydro** applier and Healer in them.
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/element\_anemo.webp)![](../../.gitbook/assets/element\_cryo.webp)![](../../.gitbook/assets/element\_electro.webp)![](../../.gitbook/assets/element\_geo.webp)![](../../.gitbook/assets/element\_hydro.webp)![](../../.gitbook/assets/element\_pyro.webp)
 
 * Barbara can work in almost any team in the game as a universal Healer.
 * Barbara's high healing and unique resurrection at **C6** can provide options for teams struggling to survive.
 
 ## Does not work well with
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Qiqi.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)![](../../.gitbook/assets/ui\_avataricon\_sayu.png)![](../../.gitbook/assets/ui\_avataricon\_qiqi.png)
 
 * Barbara's focus on healing while providing little else greatly reduces her synergy with other Healers and Shielders, who often fill the same role, reducing Barbara's utility.
 
@@ -50,13 +50,13 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_barbara.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)
 
 * Barbara is acting as a budget replacement for Kokomi in this team. This is generally not recommended as Barbara's DPS is quite poor.
 
 [**Freeze**](../../teams/freeze.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_barbara.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)
 
 * Barbara can somewhat be used as a **Hydro** applicator for a **Freeze** team while also providing healing utility.
 * As Barbara's DPS and **Hydro** application potential is limited compared to other characters such as Xingqui and Mona, Barbara should typically only be used if other **Hydro** applicators are being used in other teams or if healing is needed and no other characters can be swapped out.

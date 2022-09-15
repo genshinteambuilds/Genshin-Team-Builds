@@ -22,34 +22,34 @@
 
 ## **Works Well With**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_noelle.png)
 
 * Characters that are focused on **Normal Attacks** are very effective with Yunjin.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)
 
 * While Hutao primarily uses **Charged Attacks**, her typical rotation still uses 2 **Normal Attacks** for every 1 **Charged Attack**.
 * Yunjin can also fill in the 2nd slot for **Geo Resonance**.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * Xingqiu synergises well with Yunjin as **Normal Attacks** trigger his **Elemental Burst** sword rain attacks.
 
-#### ![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/element\_geo.webp)
 
 * Most **Geo** characters can work well Yunjin as they are able to provide **DEF** buffs and provide **Geo Resonance**.
 
 ## **Does Not Work Well With**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)
 
 * Characters that are focused on **Charged Attacks** are generally ineffective with Yunjin as she only buffs **Normal Attack DMG**.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_shougun.png)
 
 * As Raiden's **Elemental Burst** attacks are considered **Elemental Burst DMG**, it is not buffed by Yunjin's **Elemental Burst**.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)
 
 * The majority of Eula's damage comes from her **Elemental Burst**. Hence, Yunjin only buffs a minor component of Eula's damage.
 * C6 Yunjin allows Eula to gain more charges on Lightfall Sword.
@@ -64,19 +64,19 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Pure Pyro**](../../teams/pure-pyro.md) **(w/ Yoimiya)**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Yunjin's role is to buff Yoimiya's **Normal Attacks** further.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
 * Yunjin further boosts Razor's **Normal Attack DMG** to be further boosted by **Superconduct**.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_noelle.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * In this **Geo** majority team, Yunjin has less **Energy Recharge** requirements and can invest more into **DEF**.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yunjin.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * Yunjin activates **Geo Resonance**.
 * Yunjin buffs Hutao's **Normal Attacks** that happen before her **Charged Attack** in the sequence N2C (2 **Normal Attack** 1 **Charged Attack**).

@@ -29,26 +29,26 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/Element\_Cryo.webp)
+#### ![](../../.gitbook/assets/element\_cryo.webp)
 
 * **Superconduct** is Razor’s core reaction, as it debuffs enemy **Physical** **RES**. Thus, most **Cryo** characters are generally very effective with Razor.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_barbara.png)
 
 * Off-Field **Hydro** characters work well with Razor as they can provide useful utility effects such as healing, and can create **Electro-Charged** **Elemental Reactions**.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)
 
 * Beidou’s **Elemental Burst** deals high amounts of Off-Field **Electro** **DMG** and gives Razor **Damage Reduction** and resistance to interruption. Note that Beidou requires investment into **Energy Recharge**.
 * Fischl provides energy for Razor and deals Off-Field **Electro** **DMG**.
 * Both characters provide **Electro** **Resonance**, which can help with Razor's **Elemental Burst** uptime.
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)
+#### ![](../../.gitbook/assets/element\_anemo.webp)
 
 * Most **Anemo** characters can Crowd Control and group enemies, allowing for Razor to hit multiple enemies more easily.
 * They also reduce enemy **Electro RES** via **Viridescent Venerer** 4-set effect, increasing Razor's **Electro** **DMG**.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)
 
 * Zhongli's shield allows Razor to negate incoming damage that might otherwise interrupt his attacks. Additionally, the shield also reduces enemy **Physical RES**. Zhongli's **Elemental Burst** locks enemies in place, preventing them from being knocked back by Razor's attacks.
 * Albedo provides Off-Field **Geo DMG** and can generate shields through the **Crystallize** reaction.
@@ -59,11 +59,11 @@
 
 ## **Does Not Work Well With**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)
 
 * Razor's kit innately favors **Physical** **DMG**. Chongyun's **Elemental Skill** infusing Razor's **Normal Attacks** to deal **Cryo DMG**, which negates his build's **Physical** **DMG** bonuses.
 
-#### ![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/element\_pyro.webp)
 
 * **Overload** reactions will knock smaller enemies away from Razor. This may not be an issue with larger enemies or bosses.
 
@@ -81,7 +81,7 @@ Click on the team names below for more details on how the team works and alterna
 
 **Superconduct**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
 * A team that runs Razor as Main DPS and a **Cryo** support to cause **Superconduct**.
 * Xingqui provides Off-Field **Hydro DMG** and resistance to interruption.
@@ -94,7 +94,7 @@ Non-Superconduct is generally not recommended, as the Superconduct reaction grea
 
 **Non-Superconduct**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * This team supplements Razor's **Physical DMG** and **Electro DMG** with the **Electro-Charged** **Elemental Reaction**.
 * Strong Off-Field DPS characters and/or **Geo** or **Pyro Resonance** can be used to provide utility and buffs to the team's damage.

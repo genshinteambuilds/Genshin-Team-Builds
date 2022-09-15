@@ -32,25 +32,25 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Bennett's **Elemental Burst** provides healing and a massive **ATK** buff, making him a recommended character in most teams.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)
 
 * Tartaglia is often used in [**Vaporize (Hydro)**](../../teams/vaporize.md) teams as he applies **Hydro** quickly in his Melee stance allowing Xiangling’s **Elemental Skill** and **Elemental Burst** to **Vaporize** while being Off-Field.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)
 
 * Both Beidou and Fischl are often used with Tartaglia in [**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md) teams.
 * Beidou’s **Elemental Burst** can deal large amounts of **Electro** **DMG** while Beidou is Off-Field. Tartaglia’s fast attacks during his melee stance can also cause Beidou's **Elemental Burst** to trigger more often.
 * Fischl is often paired with Beidou due to Beidou's **Elemental Burst** high energy cost. Fischl generates **Energy Particles** for Beidou, provides more Off-Field **Electro DMG** and also activates **Electro Resonance**. It is also possible to use Fischl by herself for **Electro-Charged** reactions if you do not have Beidou.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Jean.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental RES** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_mona.png)
 
 * Typically only used with Tartaglia in [**Oneshot**](../../teams/oneshot.md) teams. Mona debuffs enemies with **Omen** from her **Elemental Burst** which can be used to amplify Tartaglia's **Hydro DMG**.
 
@@ -62,12 +62,12 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
 ## **Does Not Work Well With**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_ganyu.png)![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)
 
 * Tartaglia generally does not work well in **Freeze** teams due to the long Cooldown on his **Elemental Skill** resulting in periods of time where **Hydro** cannot be applied on to enemies reliably except via **Charged Attack** Aimed Shots.
 * At **C6**, Tartaglia can maintain 100% uptime of his Melee stance that can make these team compositions work well.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)
 
 * **Physical** **DMG** based characters do not synergize well with Tartaglia's **Hydro** **DMG**.
 
@@ -79,14 +79,14 @@ Click on the team names below for more details on how the team works and alterna
 
 #### [Electro-Charged (Hydro)](../../teams/electro-charged-hydro.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * This exact team is often called Fireworks due to the many different colored numbers that pop up on the screen when playing this exact team composition.
 * Tartarglia's ability to attack rapidly while in his Melee stance allows Beidou's **Elemental Burst** to trigger more often.
 
 #### [Oneshot](../../teams/oneshot.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Tartaglia's main focus is to Oneshot enemies with his **Elemental Burst**. For a detailed look at how this team works, check out the [**Oneshot**](../../teams/oneshot.md) page.
 * Bennett provides an **ATK** buff and applies **Pyro** on enemies for the **Vaporize** reaction.
@@ -95,7 +95,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### [Vaporize (Hydro)](../../teams/vaporize.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Xiangling's **Elemental Burst** and **Elemental Skill** can work Off-Field allowing you to attack enemies in Tartaglia's Melee stance, inflicting the enemy with **Hydro** and allowing Xiangling's abilities to **Vaporize** for additional damage.
 * Tartaglia can also **Vaporize** his **Elemental Burst** and deal very high amounts of **AoE Hydro DMG** as enemies can be easily inflicted with **Pyro** with Xiangling, Bennett or Anemo characters that create **Swirl** reactions with **Pyro**.

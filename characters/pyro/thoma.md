@@ -25,24 +25,24 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_yanfei.png)![](../../.gitbook/assets/ui\_avataricon\_yoimiya.png)![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_diluc.png)
 
 * **Pyro** Main DPS characters who frequently **Normal Attack** can make full use of Thoma's shields.
 * Thoma's relatively low **Pyro** application generally does not interfere with **Pyro** Main DPS's **Vaporize** reactions.
 * Thoma can activate **Pyro Resonance** when combined with these Main DPS.
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)
+#### ![](../../.gitbook/assets/element\_anemo.webp)
 
 * As with all **Elemental DMG** DPS characters, **Anemo** supports works well by reducing the enemies' **Elemental RES** with **Viridescent Venerer** 4-set. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Barbara.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_barbara.png)
 
 * As shields from other characters cannot stack on top of each other, combing Thoma and other shielding characters such as Zhongli or Diona is not recommended.
 * Thoma's shielding typically reduces the need for a dedicated Healer.
 
-#### ![](../../.gitbook/assets/Element\_Electro.webp)
+#### ![](../../.gitbook/assets/element\_electro.webp)
 
 * Thoma's **Pyro** application can constantly trigger **Overload** when combined with **Electro** characters, knocking enemies out of attack range and causing time to be wasted chasing them around.
 * A Support with high grouping such as Venti or Kazuha can negate this downside.
@@ -55,7 +55,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Overload (Pyro)**](../../teams/overload.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yoimiya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tohma.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_yoimiya.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tohma.png)
 
 * Thoma's shield and Beidou's **Damage Reduction** are used instead of a dedicated healer here.
 * Thoma's **Pyro** application in this team can help with triggering **Overload Elemental Reactions**.
@@ -64,13 +64,13 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Pure Pyro**](../../teams/pure-pyro.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tohma.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_yanfei.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tohma.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Thoma provides additional shielding for the team but may be replaced for other options if shielding is not required.
 
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tohma.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Tohma.png)
 
 * Thoma's shield and Xingqiu's **Damage Reduction** are used instead of a dedicated healer here. This also helps with managing Hu Tao's **HP** to maintain buffs below 50% **HP**.
 * Thoma allows **Pyro** application outside of Hu Tao's abilities to be able to **Swirl Pyro** with an **Anemo** support to decrease enemy **Pyro RES** using the **Viridescent Venerer** 4-set.

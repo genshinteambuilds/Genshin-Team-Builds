@@ -19,11 +19,11 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/Element\_Cryo.webp)
+#### ![](../../.gitbook/assets/element\_cryo.webp)
 
 * Qiqi can help to enable **Cryo resonance** for increased **CRIT Rate** against enemies affected by **Cryo.**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)![](../../.gitbook/assets/ui\_avataricon\_keqing.png)
 
 * Qiqi works fairly well with a **Physical** Main DPS, as she can periodically apply **Cryo** with her **Elemental skill** to enable **Superconduct** to debuff enemy **Physical RES**.
 
@@ -47,12 +47,12 @@ This character is a Healer. While some teams are provided below where they are p
 
 [**Freeze (Cryo)**](../../teams/freeze.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Qiqi.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_ganyu.png)![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png)![](../../.gitbook/assets/ui\_avataricon\_qiqi.png)
 
 * Qiqi acts as a Healer as well as a second **Cryo** character on this team to trigger **Cryo Resonance**. Note that this team, often called Morgana, typically uses Diona over Qiqi as Diona provides more utility.
 
 [**Physical (Electro)**](../../teams/physical.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Qiqi.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_qiqi.png)
 
 * Qiqi applies **Cryo** to allow for **Superconduct** for prolonged durations, as well as providing consistent healing to the character on field.

@@ -25,16 +25,16 @@
 
 ## **Works Well With**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_shougun.png)
 
 * Raiden Shogun is great when paired with Kujou Sara, they can feed each other high amounts of Energy to help offset their high **Elemental Burst** costs while Sara functions as a powerful Buffer for the Raiden Shogun.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_beidou.png)
 
 * Beidou can benefit from Kujou Sara’s utility and buffs in the same way the Raiden Shogun can. She both helps Beidou recharge her **Elemental Burst** and increases Beidou’s **Elemental Burst** **DMG**, as Beidou can snapshot Kujou Sara’s **ATK** buff.
   * **C6** Kujou Sara's **CRIT DMG** buff cannot be snapshot and will not benefit Beidou’s **Elemental Burst** throughout its entire duration.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)![](../../.gitbook/assets/ui\_avataricon\_eula.png)
 
 * Kujou Sara can provide **Superconduct** and **ATK** buff to a **Physical** Main DPS that is **Cryo**, though there are often better alternatives for this role.
 
@@ -46,13 +46,13 @@
 
 [**Electro-Charged (Electro)**](../../teams/electro-charged.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_sara.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * This team mainly focuses on increasing Beidou's **Elemental Burst DMG** with powerful **ATK** buffs provided by Bennett and Kujou Sara along with consistent **Electro-Charged** reactions for strong sustained DPS.
 
 [**Oneshot**](../../teams/oneshot.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_sara.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Sara provides an **ATK** buff, as well as **Electro Particle** generation for Raiden Shogun. She can also provide an **Electro** **CRIT DMG** buff with **C6**
 * Kazuha buffs this **Elemental Burst** even further with **Viridescent Venerer** and his built-in **Elemental DMG** buff.

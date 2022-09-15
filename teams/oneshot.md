@@ -24,7 +24,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 ### **Main Carry**
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_hutao.png)
 
 * Hu Tao is a complex character in terms of damage scaling, due to her constellations and **HP** scaling on her **Elemental Burst** as well as **Staff of Homa**, her signature weapon, giving even more **HP** scaling.
 * Testing **Elemental Mastery** and **HP** Sands to see which gives the most damage with your current setup is a must.
@@ -32,44 +32,44 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 ### **Primary Enablers**
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_ayaka.png)
 
 * Generally the best choice at **C4**+. The **DEF Shred** (**C4**+) along with possible use of **Freedom-Sworn** make her the best choice at ultra high investment levels.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_ganyu.png)
 
 * Able to buff **DMG** dealt to enemies inside her **Elemental Burst** at **C4**.
 * Able to carry **Elegy for the End** and provide more **ATK** and **Elemental Mastery**.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_mona.png)
 
 * Although Mona is not **Cryo**, she is able to be used in specific scenarios (**Floor 7** with Cryogunner, **Blizzard Strayer** Domain). If Melt is not an option, then Mona can be used as a Vaporize Enabler.
 * Provides large buffs through her **Elemental Burst** and ability to carry **Thrilling Tales of Dragon Slayer**.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_kaeya.png)
 
 * Kaeya is able to provide constant **Cryo** and can carry Freedom-Sworn. Use him only if no other Enablers above are available.
 
 ### **Supporting cast**
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Bennett provides a large **ATK** buff from his **Elemental Burst** and can be used for Swirling **Pyro** as Hu Tao has no way to apply Pyro without using her **Elemental Skill** or **Elemental Burst**.
 * Hu Tao should be very low in health before switching to her so that she does not heal past the 50% threshold for her passive. If needed, Bennett can be equipped with a non-upgraded flower to lower his healing.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_kazuha.png)
 
 * Can be run as a 4 set **Viridescent Venerer** carrier and provides a large **Elemental** **DMG** buff to your team based on his own **Elemental Mastery** and the Element that he **Swirls**.
 * **C2** grants 200 **Elemental Mastery** to everyone on the team.
 * Can carry **Freedom-Sworn**.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_sucrose.png)
 
 * Can be run as a 4 set **Viridescent Venerer** carrier and is able to transfer a flat amount of **Elemental Mastery** along with a portion of her own **Elemental Mastery** to other party members.
 * Can carry **Thrilling Tales of Dragon Slayer**.
 * Aim to use her after another **Element** has been applied, since **Swirl** increases the **Elemental Mastery** transfer.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_mona.png)
 
 * Mona can also function as a damage amplifier alongside a **Cryo** enabler, as her Omen is a 5 second debuff that provides a **DMG Bonus** to all attacks during that duration.
 * Can carry **Thrilling Tales of Dragon Slayer**.
@@ -80,19 +80,19 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 * At **C6**, using her **Elemental Burst** gives her team a small **ATK**% buff.
 * Used for **Swirling Pyro** for **Viridescent Venerer**'s debuff with an **Anemo** character.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * Zhongli's shield decreases all enemy **Elemental RES**.
 
 ### Sample Hu Tao Teams
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_hutao.png)![](../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * ` Bennett Q → Ayaka Dash (if 4pc`` `` `**`Instructor`**`) → Kazuha Q → Ayaka Q` → `Hu Tao E → Hu Tao Q`
 
 {% embed url="https://drive.google.com/file/d/16SaV0cIho61AZ-Qf-MMPzQMuM3-tuCRY/view?usp=sharing" %}
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kaeya.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_hutao.png)![](../.gitbook/assets/ui\_avataricon\_kaeya.png)![](../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * `Bennett Q -> Sucrose E -> Kaeya E -> Kaeya Q -> Hu Tao E -> Hu Tao Q`
 
@@ -104,30 +104,30 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 ### Main Carry
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_mona.png)
 
 * Mona has a very high multiplier on her **Elemental Burst** that benefits from the Omen **DMG Bonus** that it provides. A **Vaporized** Mona' **Elemental Burst** has one of the highest damage ceilings in the game.
 * Mona's **Elemental Burst** has an interesting mechanic where the initial cast applies **Hydro** and the damage only occurs after another instance of damage triggers her "bubble" to pop. Due to how Internal Cooldown of elemental application works, there needs to be at least 2.5 seconds between the initial **Hydro** application on cast and when the bubble breaks so that it is able to apply **Hydro** and **Vaporize**.
 
 ### **Primary Enablers**
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Bennett applies **Pyro** and his **Elemental Burst** buffs Mona’s **ATK** based on his base **ATK** (Weapon **ATK** + Character **ATK**). There’s too much value in Bennett to not utilize him.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Yanfei.png) ![](../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../.gitbook/assets/ui\_avataricon\_klee.png) ![](../.gitbook/assets/ui\_avataricon\_yanfei.png) ![](../.gitbook/assets/element\_pyro.webp)
 
 * Klee and Yanfei help at applying **Pyro** and using an R5 **Thrilling tales of Dragon Slayers** which buffs your Mona's **ATK** by 48%. If you Klee's **C2**, her **Elemental Skill** shreds the enemy's **DEF** by 23%, which helps a lot to deal even more damage. If you don’t have Klee or Yanfei, any **Pyro** works.
 
 ### Supporting Cast
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_sucrose.png)
 
 * Can be run as a 4 set **Viridescent Venerer** carrier and is able to transfer a flat amount of **Elemental Mastery** along with a portion of her own **Elemental Mastery** to other party members.
 * Can carry **Thrilling Tales of Dragon Slayer**.
 * Aim to use her after another **Element** has been applied, since **Swirl** increases the **Elemental Mastery** transfer.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_kazuha.png)
 
 * Can be run as a 4 set **Viridescent Venerer** carrier and provides a large **DMG** boost to your team based on his own **Elemental Mastery** and the **Element** that he Swirls.
 * **C2** grants 200 **Elemental Mastery** to everyone on the team.
@@ -155,7 +155,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ### Sample Mona Teams
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_mona.png)![](../.gitbook/assets/ui\_avataricon\_klee.png)![](../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * `Mona N → Sucrose E → Bennett E → Bennett Q → Klee E (if C2) if not N is fine → Mona Q → wait 2 seconds for ICD before swapping → Bennett E`
 
@@ -174,7 +174,7 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ### Primary Enablers
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Bennett provides a massive **ATK** buff and is able to set up by applying **Pyro**.
 
@@ -183,46 +183,46 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 * Amber provides very quick **Pyro** application at a range.
 * Can activate **Elegy for the End** and further buff with **C6**.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_xiangling.png)
 
 * Xiangling is a solid choice for certain setups. She provides much needed Off-Field **Pyro** application, as well as quite a lot of personal damage.
 
 ### Supporting Cast
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_mona.png)
 
 * Provides large buffs through her **Elemental Burst** and ability to carry **Thrilling Tales of Dragon Slayer**.
 * **C1** and **C4** improve the party's **Vaporize** damage and **CRIT Rate** during the rotation.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_sucrose.png)
 
 * Can be run as a 4 set **Viridescent Venerer** carrier and is able to transfer a flat amount of **Elemental Mastery** along with a portion of her own **Elemental Mastery** to other party members.
 * Can carry **Thrilling Tales of Dragon Slayer**.
 * Aim to use her after another **Element** has been applied, since **Swirl** increases the **Elemental Mastery** transfer.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_kazuha.png)
 
 * Can be run as a 4 set **Viridescent Venerer** carrier and provides a large **DMG Bonus** to your team based on his own Elemental Mastery and the Element that he Swirls.
 * **C2** grants 200 **Elemental Mastery** to everyone on the team.
 * Can carry **Freedom-Sworn**.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * Zhongli's Shield decreases all **Elemental RES** along with resistance to interruption.
 
 ### Sample Childe Teams
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../.gitbook/assets/ui\_avataricon\_mona.png)![](../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * ` Tartaglia E (apply`` `` `**`Hydro`**` `` ``on enemy) → Bennett Q (does not clear the Hydro application) → Kazuha Q (inside Bennett Q) → Mona Q→ Tartaglia E (to change from ranged stance to melee stance)→ Tartaglia mQ `
 
 {% embed url="https://drive.google.com/file/d/1ayFszYOJv3Ut-XPdhTpv9RnnCNPiNY-N/view?usp=sharing" %}
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../.gitbook/assets/ui\_avataricon\_xiangling.png) ![](../.gitbook/assets/ui\_avataricon\_kazuha.png) ![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * ` Tartaglia E (apply`` `` `**`Hydro`**` `` ``on enemy) → Bennett Q (does not clear the Hydro application) → Kazuha Q(inside Bennett Elemental Burst) → Xiangling Q → Tartaglia E → Tartaglia mQ `
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png) ![](../.gitbook/assets/ui\_avataricon\_bennett.png) ![](../.gitbook/assets/ui\_avataricon\_sucrose.png) ![](../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * ` Zhongli hold E → Tartaglia E (apply`` `` `**`Hydro`**` `` ``on enemy) → Sucrose E → Bennett Q → Tartaglia E (don't hit enemy with activation damage) → Tartaglia mQ `
 
@@ -234,41 +234,41 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ### Main Carry
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_eula.png)
 
 * Eula’s **Elemental Burst** is the centerpiece to this team. It does a fair amount of damage on cast, but Eula Oneshot teams will be focused on the explosion at the end as well as maximizing stack count.
 * The final explosion does **Physical DMG** and switching characters will cause Eula's **Elemental Burst** to detonate shortly after, leaving some options for last second buffs/debuffs to apply.
 
 ### Primary Enablers
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_lisa.png)
 
 * Lisa is the the best choice as an Enabler for Eula.
 * Provides **Superconduct** and **DEF shred** through her **Elemental Burst**.
 * Can carry **Thrilling Tales of Dragon Slayer**.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_shougun.png)
 
 * Provides **Superconduct** and **Elemental Burst** **DMG** buff.
 
 ### Supporting Cast
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Provides a massive **ATK** buff that lasts long enough for Eula's entire **Elemental Burst** duration.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * Zhongli's Shield decreases all **Elemental RES** along with resistance to interruption. The resistance to interruption is valuable on Eula for her to be able to build stacks uninterrupted.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_xinyan.png)
 
 * Provides **Physical DMG** buffs/debuffs through **A4** and **C4**.
 * Can carry **Wolf's Gravestone**.
 
 ### Sample Eula Teams
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Eula.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Lisa.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_eula.png) ![](../.gitbook/assets/ui\_avataricon\_lisa.png) ![](../.gitbook/assets/ui\_avataricon\_xinyan.png) ![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * `Eula E -> Bennett Q → Lisa Q → Eula Q → Eula N x 4→ Eula hold E → Eula N x 4 → Xinyan E`
 * Utilizes **Pyro Resonance** and Lisa's **DEF** shred to provide high amounts of buffs and debuffs for Eula.
@@ -283,41 +283,41 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ### Main Carry
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_ayaka.png)
 
 * Ayaka's **Elemental Burst** has one of the highest multipliers in the game, making her one of the best characters to utilize for Oneshot compositions.
 * While most **Cryo** Oneshot teams would focus on **Melting** the damage, Ayaka's **Elemental Burst DMG** is spread across many smaller hits making **Melt** less viable than going for traditional **Freeze** to focus on high **CRIT DMG** and other buffs/debuffs.
 
 ### Supporting Cast
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_mona.png)
 
 * Provides large buffs through her **Elemental Burst** and ability to carry **Thrilling Tales of Dragon Slayer**.
 * Should use 4 set **Tenacity of the Millelith** in this team.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_kazuha.png)
 
 * Can be run as a 4 set **Viridescent Venerer** carrier and provides a large **DMG Bonus** to your team based on his own **Elemental Mastery** and the **Element** that he **Swirls**.
 * Can carry **Freedom-Sworn**.
 * Can be swapped out for other **Anemo** characters like Sucrose or Venti.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Provides a massive **ATK** buff.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Ganyu.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_ganyu.png)
 
 * Provides **DMG Bonus** with **Elemental Burst** at **A4**.
 * Can carry **Elegy of the End**.
 * Completes **Cryo Resonance** for the extra **15% CRIT Rate**.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * Zhongli's Shield decreases all **Elemental RES** along with resistance to interruption.
 
 ### Sample Ayaka Teams
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_ayaka.png) ![](../.gitbook/assets/ui\_avataricon\_mona.png) ![](../.gitbook/assets/ui\_avataricon\_kazuha.png) ![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * ` Ayaka`` `` `**`Dash`**` ``(apply`` `**`Cryo`**` `` ``on enemy) → Kazuha Q (infuse Cryo) → Bennett Q → Mona E → Mona Q → Ayaka Q `
 
@@ -329,40 +329,40 @@ For ICDs, it’s a concept so that a skill cannot do the same **elemental reacti
 
 ### Main Carry
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_shougun.png)
 
 * Raiden Shogun has the highest **Electro** single damage instance multiplier in the game currently with her **Elemental Burst**'s initial slash. This doesn't even count the damage from attacks that comes after.
 * Raiden Oneshot teams focus mostly on the **Elemental Burst**'s initial slash damage to oneshot the enemy or the wave instantly.
 
 ### Supporting Cast
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Sara.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_sara.png)
 
 * Provides a large **ATK** buff.
 * **C6** further buffs the **CRIT DMG** of **Electro DMG** on character's that are buffed by Sara.
 * Can carry **Elegy of the End**.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_kazuha.png)
 
 * Can be run as a 4 set **Viridescent Venerer** carrier and provides a large **DMG Bonus** to your team based on his own **Elemental Mastery** and the **Element** that he **Swirls**.
 * Can carry **Freedom-Sworn**.
 * Can be swapped out for other **Anemo** characters like Venti or Sucrose.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Provides a massive **ATK** buff.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_mona.png)
 
 * Provides large buffs through her **Elemental Burst** and ability to carry **Thrilling Tales of Dragon Slayer**.
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * Zhongli's Shield decreases all **Elemental RES** along with resistance to interruption.
 
 ### Sample Raiden Teams
 
-#### ![](../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Sara.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png) ![](../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_shougun.png) ![](../.gitbook/assets/ui\_avataricon\_sara.png) ![](../.gitbook/assets/ui\_avataricon\_kazuha.png) ![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * `Raiden Shogun E → Kazuha Q → Bennett Q → Sara Q → Raiden Q`
 

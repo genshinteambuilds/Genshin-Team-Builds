@@ -22,13 +22,13 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Pyro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)
+![](../../.gitbook/assets/element\_anemo.webp)![](../../.gitbook/assets/element\_pyro.webp)![](../../.gitbook/assets/element\_hydro.webp)![](../../.gitbook/assets/element\_cryo.webp)![](../../.gitbook/assets/element\_electro.webp)
 
 * Heizou pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental RES** on enemies for 4 of the elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
 
 ## Does Not Work Well With
 
-![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
+![](../../.gitbook/assets/element\_geo.webp)![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)
 
 * **Anemo** cannot cause **Elemental Reactions** with **Geo** and **Viridescent Venerer** cannot provide debuffing for **Geo** and **Physical DMG** characters.
 
@@ -41,7 +41,7 @@ Click on the team names below for more details on how the team works and alterna
 ****[**Anemo**](../../teams/anemo.md)****\
 ****
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Heizou.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)****
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Heizou.png)****![](../../.gitbook/assets/ui\_avataricon\_bennett.png)****![](../../.gitbook/assets/ui\_avataricon\_albedo.png)****![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)****
 
 * **Geo Resonance** is an effective way to boost Heizou's **Anemo DMG**.
 * Albedo provides Off-Field **Geo DMG** with his **Elemental Skill.**
@@ -54,13 +54,13 @@ In the following teams, Venti provides debuffing utility using the **Viridescent
 
 ****[**National**](../../teams/national.md)****
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Heizou.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)****
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Heizou.png)****![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)****![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)****![](../../.gitbook/assets/ui\_avataricon\_bennett.png)****
 
 * Heizou mainly acts as an On-field Support by creating **Swirl** Reactions to reduce enemy **Hydro** and **Pyro** resistances.
 
 **Electro-Charged**
 
-****![](../../.gitbook/assets/UI\_AvatarIcon\_Heizou.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)****![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)****
+****![](../../.gitbook/assets/UI\_AvatarIcon\_Heizou.png)****![](../../.gitbook/assets/ui\_avataricon\_beidou.png)****![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)****![](../../.gitbook/assets/ui\_avataricon\_fischl.png)****
 
 * This team makes use of **Electro** and **Hydro** Off-Field DPS while Heizou creates **Swirl** Reactions with her **Elemental Skill, Normal Attacks** and **Charged Attacks**, buffing the teams' **Elemental Mastery** while decreasing enemies **Electro** and **Hydro** **RES**.
 * Note: This team does not contain a dedicated healer and is not included within the Electro-Charged team page for that reason. Kokomi Taser team compositions have largely replaced Sucrose Taser teams due to the ability for Kokomi to provide healing.

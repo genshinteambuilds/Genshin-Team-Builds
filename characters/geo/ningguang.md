@@ -27,50 +27,50 @@
 
 ## Works well with
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * Zhongli is the most ideal pairing for Ningguang because of the **Geo Resonance** buff. His shield is extremely durable and debuffs nearby enemies' **Elemental RES**. Together, these two effects greatly increase Ningguang's damage.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_albedo.png)
 
 * Albedo provides **Geo Energy Particles**, **Geo Resonance**, and Off-Field **DMG**. His **Elemental Skill** cooldowns line up with Ningguang’s.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_aether\_geo.png)
 
 * Traveler (Geo) provides **Geo Energy Particles,** **Geo Resonance**, and a **CRIT Rate** buff. He also has cooldowns that line up with Ningguang's. However, he lacks Off-Field **DMG**, forcing frequent character swaps.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Bennett's **Elemental Burst** provides healing and a massive **ATK** buff, making him a recommended character in most teams.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)
 
 * Xiangling enables **Pyro Resonance,** provides an **ATK** buff with her **A4,** and can deal high amounts of **Pyro DMG** with her **Elemental Burst**.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)
 
 * Fischl and Beidou provide extra Off-Field **DMG** and generate **Energy Particles** to recharge Ninnguang's **Elemental Burst** faster.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_venti.png)
 
 * Venti is useful for Crowd Control and grouping small enemies together, which allows Ningguang to take advantage of her **C1**.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_mona.png)
 
 * Mona provides taunt utility, an **ATK** buff (through the **Thrilling Tales of Dragon Slayers** catalyst), and her signature **Omen** debuff.
 
 ## Does not work well with
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * Xingqiu isn't necessarily bad with Ningguang (as any Off-Field DPS works with a **Geo** Team), but his potential is wasted as Ningguang’s attack sequence generally does not line up well with Xingqiu.
   * He is better used on teams where his utility and **Hydro** application greatly benefit other Main DPS characters.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)
 
 * Chongyun doesn’t provide anything else aside from damage through his **Elemental Burst**. Chongyun's **Elemental Skill** does not affect Catalyst Main DPS characters.
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)
+#### ![](../../.gitbook/assets/element\_anemo.webp)
 
 * **Geo** cannot take advantage of **Viridescent Venerer** 4-set effect. **Anemo** does not provide anything for Ningguang aside from Crowd Control.
 
@@ -82,7 +82,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Geo**](../../teams/geo.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png) ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_ningguang.png) ![](../../.gitbook/assets/ui\_avataricon\_zhongli.png) ![](../../.gitbook/assets/ui\_avataricon\_xiangling.png) ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Ningguang’s teams generally consist of 2 **Geo** characters to activate **Geo Resonance**, which is recommended because of **Geo**'s lack of damaging reactions.
 * **Pyro Resonance** is used to buff **ATK**.

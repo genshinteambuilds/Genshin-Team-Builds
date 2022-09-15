@@ -22,22 +22,22 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_razor.png)
 
 * Lisa pairs well with **Physical** Main DPS because of the **DEF** reduction from her **Elemental Burst** and **Superconduct** reactions which debuffs **Physical RES**.
 * Razor being an **Electro** character also helps Lisa have better uptime on her **Elemental Burst** because of its high energy requirement.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Venti.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_venti.png)
 
 * Venti provides Crowd Control to group up enemies with his **Elemental Burst** which helps Lisa stack her Conductive status.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_beidou.png)
 
 * Beidou enables **Electro Resonance** with Lisa, allowing for both to recharge their **Elemental Bursts** faster.
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/element\_pyro.webp)
 
 * Lisa's constant **Electro** application can knock enemies out of range when used with a **Pyro** Main DPS due to **Overload's** knock back effect. **Electro** can also interfere with the consistency of **Vaporize** or **Melt** reactions.
 
@@ -49,14 +49,14 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_lisa.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * A team that focuses on sustained damage while having the option to deal burst damage with Childe **Vaporizing** his **Elemental Burst** with Bennett, as well as Lisa’s **Elemental Skill (Hold)**.
 * Lisa’s **Elemental Burst** reduces enemy **DEF** while also dealing **Electro DMG** even when she’s not On-Field.
 
 [**Physical (Cryo)**](../../teams/physical-cryo.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Lisa.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_lisa.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
 * Lisa helps in applying **Electro** for **Superconduct** reactions that decreases enemies' **Physical RES**. When creating **Superconduct** reactions, she also marks enemies with her Conductive status and can use her **Elemental Skill (Hold)** to deal a large amount of **Electro DMG**.
 * Lisa’s **Elemental Burst** reduces enemy **DEF** while also dealing **Electro DMG** even when she’s not On-Field.

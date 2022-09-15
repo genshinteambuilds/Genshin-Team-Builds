@@ -26,21 +26,21 @@
 
 ## **Works Well With**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)![](../../.gitbook/assets/ui\_avataricon\_noelle.png)
 
 * Itto and Noelle are both **DEF** scaling Main DPS units and benefit greatly from all of Gorou's party buffs. They are the best units to pair with Gorou.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_albedo.png)
 
 * Albedo also benefits greatly from Gorou's buffs and is an Off-Field unit that can normally fill the 3rd **Geo** character requirement to unlock the last level of Gorou's buffs.
 
-#### ![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/element\_geo.webp)
 
 * Gorou is a specialized support unit that is able to benefit most **Geo** main DPS.
 
 ## **Does Not Work Well With**
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/element\_anemo.webp)![](../../.gitbook/assets/element\_cryo.webp)![](../../.gitbook/assets/element\_electro.webp)![](../../.gitbook/assets/element\_hydro.webp)![](../../.gitbook/assets/element\_pyro.webp)
 
 * Gorou unfortunately does not work well with units outside of **Geo**. No other Main DPS scales with **DEF** and if they don't deal **Geo DMG,** they do not benefit from a number of Gorou's buffs.
 
@@ -56,10 +56,10 @@ Itto only works in a **Geo** team where he performs as a Selfish Main DPS. A cou
 
 [**Geo**](../../teams/geo.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Itto.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * A strong team composition that takes full advantage of Gorou's party buffs to **DEF** and **Geo** **DMG**. Having 4 **Geo** characters lowers the energy recharge requirements across the whole team.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Noelle.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_noelle.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Gorou.png)![](../../.gitbook/assets/ui\_avataricon\_aether\_geo.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * Another example of a full **Geo** team composition. Not recommended unless Noelle is C6.

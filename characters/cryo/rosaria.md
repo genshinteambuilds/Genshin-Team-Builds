@@ -22,22 +22,22 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/Element\_Cryo.webp)
+#### ![](../../.gitbook/assets/element\_cryo.webp)
 
 * **Cryo Resonance** is extremely powerful and especially in [**Freeze** ](../../teams/freeze.md)teams where the combination of **Cryo** Resonance and the **Blizzard Strayer** artifact set can give up to 55% **CRIT Rate**.
 * Rosaria can act as an Energy Battery for other **Cryo** Main DPS, such as Ayaka or Eula.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Keqing.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xinyan.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_keqing.png)![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)
 
 * Rosaria provides both consistent energy generation and Off-Field **Cryo** application for **Physical** DPS to trigger **Superconduct**.
 
-#### ![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/element\_pyro.webp)
 
 * Rosaria can either provide **Cryo** application for Pyro characters to **Melt** their attacks, or she can use the **Pyro** application from them to **Melt** her own attacks.
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/element\_geo.webp)
 
 * **Geo DMG** shatters **Frozen** enemies making these characters not ideal in [**Freeze** ](../../teams/freeze.md)teams.
 * **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.
@@ -50,7 +50,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Melt (Cryo)**](../../teams/reverse-melt.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sucrose.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * With consistent **Pyro** application from Xiangling and Bennett, Rosaria's **Elemental Skill** and **Burst** can consistently **Melt**.
 * After activating Xiangling and Rosaria's **Elemental Bursts** in Bennett's field, Rosaria generally does not stay On-Field, but rather, the team's skills are cycled through.
@@ -58,7 +58,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Freeze (Cryo)**](../../teams/freeze.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ayaka.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Mona.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sayu.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_sayu.png)
 
 * Rosaria's **Elemental Skill** and **Elemental Burst** provide ample amounts of **Cryo** application that together with **Hydro** can inflict the **Frozen** status on enemies.
 * The combination of **Cryo Resonance**, the **Blizzard Strayer** set, and Rosaria's **A1** can give **Cryo** Main DPS characters large amounts of **CRIT Rate**.
@@ -66,7 +66,7 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Physical (Cryo)**](../../teams/physical.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * Rosaria's **Physical RES** reduction at **C6** makes her a powerful option for a [**Physical** ](../../teams/physical-cryo.md)team.
 * Even without **C6**, Rosaria can still provide energy for a **Cryo** character like Eula, Off-Field **Cryo** application to trigger **Superconduct**, and a teamwide buff to **CRIT Rate** after casting her **Elemental Burst**.
@@ -75,7 +75,7 @@ Click on the team names below for more details on how the team works and alterna
 
 **Freeze (w/ Chongyun)**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Chongyun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)
 
 * Rosaria plays the role of the On-Field Main DPS in this team using **Normal** and **Charged** **Attacks** infused with **Cryo** thanks to Chongyun's **Elemental Skill.**
 * **Kokomi** provides **Hydro** application with her Elemental Skill allowing this team to **Freeze** enemies. Kokomi also provides healing.
@@ -90,7 +90,7 @@ Possible substitutions:
 
 **Physical (Cryo)**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
 * Rosaria can be used as a **Physical** Main DPS if you do not have other options.
 * Her **Cryo** abilities can help generate **Superconduct Elemental Reactions.**
@@ -98,6 +98,6 @@ Possible substitutions:
 
 **Melt (w/ Klee / Yanfei)**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Rosaria.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_klee.png)![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * An alternative **Melt** team that allows Rosaria's **Elemental Burst** to **Melt** while Klee or Yanfei applies **Pyro** to the enemies with their **Normal Attacks**, **Charged Attacks** and abilities.

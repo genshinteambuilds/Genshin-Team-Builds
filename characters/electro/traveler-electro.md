@@ -21,7 +21,7 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)
 
 * Traveler (Electro) can provide Eula with **Superconduct**, which debuffs **Physical RES**, as well as help recharge her high-cost **Elemental Burst**.
 
@@ -29,14 +29,14 @@
 
 * Traveler (Electro) applies **Electro** regularly and can enable constant **Electro-Charged** reactions with Childe's **Elemental Skill** as well as help recharge his **Elemental Burst** faster.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Razor.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_razor.png)
 
 * Traveler (Electro) provides Razor with a consistent source of energy generation, allowing him to use his **Elemental Burst** much more frequently.
 * Razor's tendency to spend large amounts of time On-Field doesn't interrupt Traveler, as they require very little time to activate their abilities.
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_diluc.png)
 
 * **Overload** can be a burden for close-range DPS, as its knock back effect wastes time chasing smaller enemies around.
 * Many **Pyro** DPS are better suited to use reactions other than **Overload**, which Traveler (Electro) can interfere with.
@@ -50,13 +50,13 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/ui\_avataricon\_aether\_electro.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Electro1.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * Traveler (Electro) can provide energy for Beidou and Xingqiu to help maintain their **Elemental Bursts**.
 
 [**Physical (Cryo)**](../../teams/physical-cryo.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/ui\_avataricon\_aether\_electro.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Diona.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Electro1.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
 * Traveler (Electro) synergizes well with **Physical** characters by providing consistent **Electro** **DMG** for **Superconduct** reactions while taking up very little field time.
 * Traveler's energy generation can help support characters such as Eula, who rely heavily on their **Elemental Bursts**.

@@ -23,26 +23,26 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/element\_geo.webp)
 
 * Traveler (Geo) is almost always paired with a 2nd **Geo** character to activate **Geo Resonance** to further increase the **Geo** **DMG** dealt to enemies.
 * Zhongli allows **Geo Constructs** to resonate with the Stone Stele summoned by Zhongli’s **Elemental Skill** to additional Off-Field Geo **DMG**. Traveler (Geo) also acts as an Energy Battery for Zhongli since they can consistently produce **Geo Energy Particles** with their **Elemental Skill**.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Bennett's **Elemental Burst** provides healing and a massive **ATK** buff, making him a recommended character in most teams.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Albedo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Fischl.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)
 
 * Characters with strong Off-Field **DMG** can be easily utilized in **Geo**-focused teams, which Traveler (Geo) typically appear in.
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/Element\_Cryo.webp)
+#### ![](../../.gitbook/assets/element\_cryo.webp)
 
 * **Geo** **DMG** triggers the **Shatter** reaction stopping enemies from being **Frozen**, which results in disrupting **Freeze**-based teams.
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)
+#### ![](../../.gitbook/assets/element\_anemo.webp)
 
 * **Geo** cannot take advantage of **Viridescent Venerer** 4-set effect. **Anemo** does not provide anything for Traveler (Geo) aside from Crowd Control.
 
@@ -54,13 +54,13 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Geo**](../../teams/geo.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Ningguang.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_ningguang.png)![](../../.gitbook/assets/ui\_avataricon\_aether\_geo.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * A team that uses Ningguang as the Main DPS with Traveler (Geo) acting as another source of **Energy Particles** and activates **Geo Resonance**. Traveler (Geo) is used in quick windows, deploying their **Elemental Skill** for **Energy Particle** generation and their **Elemental Burst** to provide buffs to other party members.
 
 [**Pure Pyro**](../../teams/pure-pyro.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Klee.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Geo.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_klee.png)![](../../.gitbook/assets/ui\_avataricon\_aether\_geo.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Focuses on raw **Pyro** **DMG** with Klee. Traveler (Geo) and Zhongli provide **Geo Resonance** along with shielding and a small amount of Off-Field **Geo DMG.**
 * Bennett acts as a healer and buffer and activates **Pyro Resonance** with Klee for extra **ATK**.

@@ -26,38 +26,38 @@
 
 ## **Works Well With**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_sara.png)
 
 * Kujou Sara is one of the Raiden Shogun’s best supports in her team, providing extra **Electro Energy Particles** both from her own **Elemental Skill** as well as activating **Electro Resonance.** Her **ATK** boost can increase the Raiden Shogun’s **Elemental Burst** **DMG** during its duration.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)
 
 * Eula is naturally a very strong Main DPS to pair with Raiden Shogun due to the fact that Raiden Shogun provides consistent **Superconduct** reaction when Off-Field while also increasing Eula’s **Elemental Burst** **DMG** which she is generally very reliant on. The Raiden Shogun’s energy generation can also assist recharging Eula’s own **Elemental Burst.**
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_aether\_electro.png)
+#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Aether\_Electro1.png)
 
 * Traveler (Electro) can also fulfill a similar role to Kujou Sara, providing **Electro Energy Particles** with their **Elemental Skill** but can also debuff enemies' **Electro RES**.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)
 
 * Xiangling is a character who's damage is mainly focused on her **Elemental Burst** and struggles with energy generation. The Raiden Shogun can use her **Elemental Burst** alongside Xiangling's **Elemental Burst** while also recharging it at the same time.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Bennett's **Elemental Burst** synergizes well with Raiden Shogun's **Elemental Burst**, providing her with large amounts of **ATK** during her **Elemental Burst**. Although Bennett does not have energy issues, he can be a **Pyro** Energy Battery for another unit along with Raiden Shogun, like Xiangling.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * Xingqiu's **Elemental Burst** can be triggered by Raiden Shogun's **Normal Attacks** in her **Elemental Burst**. Along with the **Damage Reduction**, small amounts of healing, and an **Elemental Burst** costing 80 energy which grants Raiden Shogun with more Resolve stacks, Xingqiu is able to provide a strong mix of offensive damage and defensive utility while also benefiting from the energy Raiden Shogun can generate.
 
 ## **Does Not Work Well With**
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Beidou.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_beidou.png)
 
 * Beidou's **Elemental Burst** cannot be triggered by Raiden Shogun's **Normal Attacks** in her **Elemental Burst**, making Beidou lose her usefulness in providing powerful Off-Field **Electro DMG**.
   * A Beidou pairing can be utilized somewhat by staggering the **Elemental Burst** rotations such that Raiden uses her **Elemental Burst** before and after Beidou's **Elemental Burst** duration is over although this results in quite a long DPS rotation.
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Diluc.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Hutao.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_diluc.png)![](../../.gitbook/assets/ui\_avataricon\_hutao.png)
 
 * Diluc and Hu Tao's primarily use their **Normal** and **Charged Attacks** and generally do not need much extra energy generation thanks to their low-cost **Elemental Bursts**, in addition to this, Raiden Shogun will cause their attacks to **Overload** and ruin stronger **Elemental Reactions** such as **Melt** and **Vaporize**.
 
@@ -69,14 +69,14 @@ Click on the team names below for more details on how the team works and alterna
 
 [**National**](../../teams/national.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Xiangling.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Xingqiu.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * A variation of the popular "National" team composition. This team setup utilizes the powerful and high energy cost Off-Field **Elemental Bursts** of Xiangling and Xingqui to build Resolve on Raiden.
 * Raiden Shogun additionally allows **Energy Recharge** requirements across the team to be lower.
 
 [**Oneshot**](../../teams/oneshot.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Sara.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Kazuha.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_sara.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * This team that utilizes the Raiden Shogun as the Main DPS and focuses on buffing her **Elemental Burst** **DMG** while feeding the whole team high amounts of energy. For a detailed look at how this team works, check out the [**Oneshot**](../../teams/oneshot.md) page.
 * Sara provides an **ATK** buff, as well as **Electro Energy Particle** generation for Raiden Shogun. She can also provide a **CRIT DMG** buff with **C6**.
@@ -86,6 +86,6 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Physical (Cryo)**](../../teams/physical-cryo.md)
 
-#### ![](../../.gitbook/assets/UI\_AvatarIcon\_Eula.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Raiden\_Shougun.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Zhongli.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Bennett.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * A standard team for Raiden Shogun that focuses on utilizing her Off-Field **Electro** **DMG** for consistent **Superconduct** reactions to reduce **Physical RES** as well as increasing the team's **Elemental Burst** **DMG** and lowering **Energy Recharge** requirements.
