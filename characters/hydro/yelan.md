@@ -26,7 +26,7 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
+![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)
 
 * Like Xingqiu, Yelan works well with almost every character in the game so long as the active character on-field uses **Normal Attacks** to trigger Yelan's Exquisite Throw from her **Elemental Burst**.
   * Even characters that may solely rely on **Charged Attacks** as their main source of **DMG** such as Bow Users may utilise Yelan's Exquisite Throw by performing a **Normal Attack** between each **Charged Attack**.

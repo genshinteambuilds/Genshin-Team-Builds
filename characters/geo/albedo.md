@@ -24,7 +24,7 @@
 
 ## **Works Well With**
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
 * Albedo works well with most of the characters in the game. His **Elemental Skill** is very easy to activate and does considerable amounts of **Geo DMG** over its duration.
 * The **Elemental Mastery** buff from Albedo's **A4** passive allows him to be run in teams that are focused around **Elemental Reactions**.

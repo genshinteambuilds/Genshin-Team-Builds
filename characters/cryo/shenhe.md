@@ -40,7 +40,7 @@
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
 * Shenhe is incapable of providing any buffs to **Electro** or **Geo** characters. The debuff she can provide to **Physical** team compositions is also not very strong.
 * Most **Anemo**, **Pyro**, and **Hydro** characters do not directly synergize with Shenhe but instead provide utility to the On-Field DPS in many teams Shenhe is in.

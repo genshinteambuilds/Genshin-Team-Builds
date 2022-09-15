@@ -34,13 +34,13 @@
 
 * Albedo also benefits greatly from Gorou's buffs and is an Off-Field unit that can normally fill the 3rd **Geo** character requirement to unlock the last level of Gorou's buffs.
 
-#### ![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
 * Gorou is a specialized support unit that is able to benefit most **Geo** main DPS.
 
 ## **Does Not Work Well With**
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)
 
 * Gorou unfortunately does not work well with units outside of **Geo**. No other Main DPS scales with **DEF** and if they don't deal **Geo DMG,** they do not benefit from a number of Gorou's buffs.
 

@@ -10,7 +10,7 @@ Debuffs that can affect your characters are listed in the Abyss helper guide [he
 
 A Ley Line disorder can be specified on entry to a Domain or Floor in Spiral Abyss. For example, the Ley Line Disorder given by the Forsaken Rift Domain (Domain of Mastery: Frosted Altar IV) reads:
 
-![](<../../.gitbook/assets/cleanse\_disorder copy.png>)
+![](../../.gitbook/assets/cleanse\_disorder-copy.png)
 
 Here is an example of the Ley Line Disorder in action, afflicting our characters with **Cryo** and increasing our stamina consumption. No **Cryo DMG** is taken when the status is inflicted.
 

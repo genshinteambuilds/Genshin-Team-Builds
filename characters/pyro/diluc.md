@@ -34,13 +34,13 @@
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/Element\_Cryo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_cryo.webp)
 
 * **Melt** teams using Diluc typically do not work well due to the inability of most **Cryo** supports to apply **Cryo** aura fast enough so that Diluc will be the character causing the **Melt** reaction and benefiting from the damage amplification.
 * **Melt** teams can work early in the game due to Diluc having much lower uptime on his **Elemental Burst** and **Pyro** infusion but generally fall off the further into the game as you progress.
 * **Melt** teams can sometimes still work if enough **Cryo** applying sources are added to the team such as Ayaka's **Elemental Burst** + Ganyu's **Elemental Burst** but this is often not practical and isn't recommended.
 
-#### ![](../../.gitbook/assets/Element\_Electro.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_electro.webp)
 
 * **Electro** supports generally do not work well with Diluc as the **Overload** reaction causes enemies to be knocked back out of Diluc's melee range.
 * **Overload** teams can work early in the game. Unfortunately, the downside of knocking back enemies along with **Overload** scaling falling off in the late game result in these teams falling further and further behind as you progress in the game.

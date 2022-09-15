@@ -35,7 +35,7 @@
 
 * Xingqiu synergises well with Yunjin as **Normal Attacks** trigger his **Elemental Burst** sword rain attacks.
 
-#### ![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
 * Most **Geo** characters can work well Yunjin as they are able to provide **DEF** buffs and provide **Geo Resonance**.
 

@@ -33,7 +33,7 @@
 * Kokomi and Xingqiu provide **Hydro** application and which can constantly create **Electro-Charged** reactions.
 * Kokomi also serves as a healer which frees up another character slot in the team.
 
-![](../../.gitbook/assets/Element\_Anemo.webp)
+![](../../.gitbook/assets/ui\_icon\_anemo.webp)
 
 * **Anemo** characters pair well with Yae as they can provide **Elemental RES** debuffs with the **Viridescent Venerer** 4-set or other **Elemental DMG** buffs when triggering a **Swirl** reaction.
 

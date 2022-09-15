@@ -115,7 +115,7 @@ Note: The teams shown on this page are only a few examples and not an exhaustive
 
 * Bennett applies **Pyro** and his **Elemental Burst** buffs Mona’s **ATK** based on his base **ATK** (Weapon **ATK** + Character **ATK**). There’s too much value in Bennett to not utilize him.
 
-#### ![](../.gitbook/assets/ui\_avataricon\_klee.png) ![](../.gitbook/assets/ui\_avataricon\_yanfei.png) ![](../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../.gitbook/assets/ui\_avataricon\_klee.png) ![](../.gitbook/assets/ui\_avataricon\_yanfei.png) ![](../.gitbook/assets/ui\_icon\_pyro.webp)
 
 * Klee and Yanfei help at applying **Pyro** and using an R5 **Thrilling tales of Dragon Slayers** which buffs your Mona's **ATK** by 48%. If you Klee's **C2**, her **Elemental Skill** shreds the enemy's **DEF** by 23%, which helps a lot to deal even more damage. If you don’t have Klee or Yanfei, any **Pyro** works.
 

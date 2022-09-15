@@ -22,7 +22,7 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/Element\_Cryo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_cryo.webp)
 
 * **Cryo Resonance** is extremely powerful and especially in [**Freeze** ](../../teams/freeze.md)teams where the combination of **Cryo** Resonance and the **Blizzard Strayer** artifact set can give up to 55% **CRIT Rate**.
 * Rosaria can act as an Energy Battery for other **Cryo** Main DPS, such as Ayaka or Eula.
@@ -31,13 +31,13 @@
 
 * Rosaria provides both consistent energy generation and Off-Field **Cryo** application for **Physical** DPS to trigger **Superconduct**.
 
-#### ![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_pyro.webp)
 
 * Rosaria can either provide **Cryo** application for Pyro characters to **Melt** their attacks, or she can use the **Pyro** application from them to **Melt** her own attacks.
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
 * **Geo DMG** shatters **Frozen** enemies making these characters not ideal in [**Freeze** ](../../teams/freeze.md)teams.
 * **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.

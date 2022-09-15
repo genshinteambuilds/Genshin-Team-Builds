@@ -31,7 +31,7 @@
 * Thoma's relatively low **Pyro** application generally does not interfere with **Pyro** Main DPS's **Vaporize** reactions.
 * Thoma can activate **Pyro Resonance** when combined with these Main DPS.
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)
 
 * As with all **Elemental DMG** DPS characters, **Anemo** supports works well by reducing the enemies' **Elemental RES** with **Viridescent Venerer** 4-set. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 
@@ -42,7 +42,7 @@
 * As shields from other characters cannot stack on top of each other, combing Thoma and other shielding characters such as Zhongli or Diona is not recommended.
 * Thoma's shielding typically reduces the need for a dedicated Healer.
 
-#### ![](../../.gitbook/assets/Element\_Electro.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_electro.webp)
 
 * Thoma's **Pyro** application can constantly trigger **Overload** when combined with **Electro** characters, knocking enemies out of attack range and causing time to be wasted chasing them around.
 * A Support with high grouping such as Venti or Kazuha can negate this downside.

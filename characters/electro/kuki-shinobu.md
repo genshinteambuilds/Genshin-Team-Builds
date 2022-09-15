@@ -20,7 +20,7 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_geo.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)
 
 * Shinobu can work in almost any team in the game as a universal Healer.
 * It is recommended to pair her with **Hydro** and **Anemo** characters so she can also be utilized to apply **Electro-Charged** reactions.&#x20;

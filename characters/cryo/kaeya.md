@@ -21,7 +21,7 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/Element\_Cryo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_cryo.webp)
 
 * Off-Field DPS capabilities pair well with other **Cryo** Main DPS to add additional **Cryo** application and damage to teams.
 * Kaeya's high **Energy Particle** generation allows him to work as a powerful Energy Battery for other **Cryo** Main DPS, especially in [**Freeze** ](../../teams/freeze.md)teams.
@@ -33,7 +33,7 @@
 
 ## Does Not Work Well With​
 
-****![](../../.gitbook/assets/Element\_Geo.webp)****
+****![](../../.gitbook/assets/ui\_icon\_geo.webp)****
 
 * **Geo** **DMG** shatters **Frozen** enemies making these characters not ideal in [**Freeze** ](../../teams/freeze.md)teams.
 * **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.

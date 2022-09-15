@@ -37,7 +37,7 @@
 
 * Bennett acts as both an Energy Battery and as a buffer for Xiangling, giving her a large **ATK** both buff from his **Elemental Burst** and from **Pyro Resonance** which will snapshot into Xiangling’s **Elemental Burst.**
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
+#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental RES** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 

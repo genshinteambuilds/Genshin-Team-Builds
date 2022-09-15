@@ -20,14 +20,14 @@
 
 ## Works Well With:
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_geo.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)
 
 * When used as a Main DPS, Amber’s slow **Pyro** application allows her to **Melt** all of her **Charged Attacks.**
 * Amber generally does not interfere very much with other **Elemental Reactions**. She can be used on many teams if you have a need for her taunt or are using her with **Elegy of the End** and / or **C6** however, she often does not provide enough utility to justify using her over other available characters.
 
 ## Doesn’t Work Well With
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_geo.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)
 
 * Amber generally does not interfere very much with other **Elemental Reactions**. She can be used on many teams if you have a need for her taunt or are using her with **Elegy of the End** and / or **C6** however, she often does not provide enough utility to justify using her over other available characters.
 

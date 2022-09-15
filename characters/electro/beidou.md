@@ -38,7 +38,7 @@
 
 * Beidou applies **Electro** for **Superconduct** and her high **Electro** **DMG** can assist Eula against enemies with high **Physical RES.**
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)
 
 * **Anemo** characters pair well with Beidou as they can provide **Elemental RES** debuffs with the **Viridescent Venerer** 4-set or other **Elemental DMG** buffs when triggering a **Swirl** reaction.
 
@@ -53,12 +53,12 @@
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/Element\_Cryo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_cryo.webp)
 
 * Pairing Beidou with most **Cryo** Main DPS will largely lead to triggering **Superconduct**, a reaction which does not increase **Cryo** or **Electro** **DMG**, and will also stop enemies from being **Frozen.**
   * **Physical** Main DPS that use **Cryo** abilities are an exception and can be used with her in order to provide additional Off-Field **Electro DMG** alongside providing **Superconduct**.
 
-#### ![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_pyro.webp)
 
 * Against smaller enemies with low resistance to interruption, the knock back of **Overload** can lead to spending too much time chasing them around.
 

@@ -71,7 +71,7 @@
 
 * Eula's kit innately favors **Physical** **DMG**. Chongyun's **Elemental Skill** converts Eula's **Normal Attacks** to **Cryo** **DMG**, which negates her build's **Physical** **DMG Bonuses**.
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)
 
 * **Anemo** buffs and debuffs do not affect **Physical** **DMG**. **Anemo** characters can still be used for their **Crowd Control** and utility but should generally be avoided.
 

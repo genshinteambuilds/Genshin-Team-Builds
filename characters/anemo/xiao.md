@@ -34,7 +34,7 @@
 
 * Sucrose, Venti, and Jean are able to generate **Anemo** **Particles** to help Xiao regain energy for his **Elemental Burst**. This is particularly notable since Xiao's relies heavily on having his **Elemental Burst** active as frequently as possible.
 
-#### ![](../../.gitbook/assets/Element\_Geo.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_geo.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)
 
 * Unlike other Anemo characters which are often used in a supporting role, Xiao has limited synergy with other elements such as **Cryo**, **Electro** or **Hydro** as **Elemental Reactions** cannot be used to boost Xiao's **Anemo DMG**.
 * **Geo** and **Pyro Resonance** can be used to buff Xiao directly.

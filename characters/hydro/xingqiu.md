@@ -20,7 +20,7 @@
 
 ## **Works Well With**
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)![](../../.gitbook/assets/Element\_Cryo.webp)![](../../.gitbook/assets/Element\_Electro.webp)![](../../.gitbook/assets/Element\_Hydro.webp)![](../../.gitbook/assets/Element\_Pyro.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)
 
 * Xingqiu works incredibly well with almost every character in the game so long as the Main DPS character being used uses **Normal Attacks** that can trigger Xingqiu's **Elemental Burst** sword rain attacks.
   * Even **Charged Attack** based characters besides those that use Bows can make use of Xingqiu as a single **Normal Attack** is performed before each **Charged Attack**.

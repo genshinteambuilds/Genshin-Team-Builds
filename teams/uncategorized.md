@@ -228,7 +228,7 @@ This team is mainly a **Melt** (**Pyro**) comp that focuses on **Melting** Benne
 
 **Anemo Support**
 
-****![](../.gitbook/assets/Element\_Anemo.webp)****
+****![](../.gitbook/assets/ui\_icon\_anemo.webp)****
 
 * **Anemo** Supports, when equipped with the **Viridescent Venerer** artifact set, debuff **Elemental Resistance. Swirl Pyro** to make Bennett deal increased damage.
 

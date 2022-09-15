@@ -70,7 +70,7 @@
 
 * Chongyun doesn’t provide anything else aside from damage through his **Elemental Burst**. Chongyun's **Elemental Skill** does not affect Catalyst Main DPS characters.
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)
 
 * **Geo** cannot take advantage of **Viridescent Venerer** 4-set effect. **Anemo** does not provide anything for Ningguang aside from Crowd Control.
 

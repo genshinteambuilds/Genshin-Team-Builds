@@ -34,7 +34,7 @@
 
 * Zhongli's shield gives Itto the the safety to focus on attacking enemies uninterrupted.
 
-#### ![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
 * Almost all **Geo** characters can work well Itto as long as they are able to provide offensive buffs, energy for Itto, or complete **Geo Resonance**.
 

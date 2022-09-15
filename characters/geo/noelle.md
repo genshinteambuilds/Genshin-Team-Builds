@@ -28,7 +28,7 @@
 
 ## **Works Well With**
 
-#### ![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
 * All current **Geo** characters are solid choices to add to a Noelle team, both for **Geo Resonance** and for their individual supporting or damaging capabilities.
 
@@ -47,7 +47,7 @@
 
 ## **Does Not Work Well With**
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)
 
 * **Geo** cannot take advantage of **Viridescent Venerer** 4-set effect.. **Anemo** does not provide anything for Noelle aside from Crowd Control.
 

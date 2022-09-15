@@ -31,7 +31,7 @@
 * Often paired with either of these characters in order to create a [**Freeze** team](../../teams/freeze.md).
 * **Freeze** teams using Mona also often use **Anemo** characters that can infuse their Off-Field abilities with **Hydro** to help apply **Hydro** more often.
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_diona.png)![](../../.gitbook/assets/Element\_Cryo.webp)
+#### ![](../../.gitbook/assets/ui\_avataricon\_diona.png)![](../../.gitbook/assets/ui\_icon\_cryo.webp)
 
 * Diona is usually the healer of choice in Ayaka [**Freeze** teams](../../teams/freeze.md) as she provides **Cryo** **Resonance**, acts as an Energy Battery, and can also provide shielding for the team.
 * When not using Diona as a healer, an additional **Cryo** character is normally used with Ayaka to provide **Cryo** **Resonance** in [**Freeze** teams](../../teams/freeze.md).
@@ -58,12 +58,12 @@
 
 ## Does not work well with
 
-#### ![](../../.gitbook/assets/Element\_Electro.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_electro.webp)
 
 * Electro's **Superconduct** reaction with **Cryo** does not improve Ayaka's core team compositions.
 * There are superior **Cryo** supports to Ayaka to provide **Superconduct** for **Physical** teams.
 
-#### ![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
 * **Geo DMG** shatters **Frozen** enemies making these characters not ideal in **Freeze** teams.
 * **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.

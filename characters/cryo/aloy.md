@@ -34,11 +34,11 @@
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/Element\_Electro.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_electro.webp)
 
 * **Electro's Superconduct** reaction with **Cryo** does not improve Aloy's core team compositions.
 
-#### ![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
 * **Geo DMG** shatters **Frozen** enemies making these characters not ideal in [**Freeze** ](../../teams/freeze.md)teams.
 * **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.

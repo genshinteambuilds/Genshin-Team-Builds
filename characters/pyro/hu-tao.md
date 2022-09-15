@@ -40,13 +40,13 @@
 
 ## **Does Not Work Well With**
 
-#### ![](../../.gitbook/assets/Element\_Cryo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_cryo.webp)
 
 * **Melt** team compositions using Hu Tao typically do not work well due to the inability to apply **Cryo** Aura fast enough that Hu Tao will sometimes enable the **Cryo** characters instead.
   * It is possible to combine Xingqiu with **Cryo** characters to avoid this problem. See [Character Specific Teams](hu-tao.md#character-specific-teams).
   * Ayaka is an exception when used in [Oneshot](../../teams/oneshot.md) teams.
 
-#### ![](../../.gitbook/assets/Element\_Electro.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_electro.webp)
 
 * **Electro** supports generally do not work well with Hu Tao as the **Overload** reaction causes enemies to be knocked back out of Hu Tao's melee range. This can be mitigated through Crowd Control abilities such as Kazuha's **Elemental Skill** but is generally not worth building.
 

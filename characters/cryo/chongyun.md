@@ -35,12 +35,12 @@
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/Element\_Electro.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_electro.webp)
 
 * Electro's **Superconduct** reaction with **Cryo** does not improve Chongyun's core team compositions.
 * Chongyun should not be used if **Superconduct** is needed for a **Physical** team, as Chongyun's **Elemental Skill** is anti-synergistic with **Physical** Main DPS characters due to its **Cryo** infusion.
 
-#### ![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
 * **Geo** **DMG** shatters **Frozen** enemies making these characters not ideal in **Freeze** teams.
 * **Geo** can be used with **Cryo** if you do not intend to **Freeze** enemies.

@@ -19,7 +19,7 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/Element\_Cryo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_cryo.webp)
 
 * Qiqi can help to enable **Cryo resonance** for increased **CRIT Rate** against enemies affected by **Cryo.**
 

@@ -23,7 +23,7 @@
 
 ## Works Well With
 
-#### ![](../../.gitbook/assets/Element\_Geo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
 * Traveler (Geo) is almost always paired with a 2nd **Geo** character to activate **Geo Resonance** to further increase the **Geo** **DMG** dealt to enemies.
 * Zhongli allows **Geo Constructs** to resonate with the Stone Stele summoned by Zhongli’s **Elemental Skill** to additional Off-Field Geo **DMG**. Traveler (Geo) also acts as an Energy Battery for Zhongli since they can consistently produce **Geo Energy Particles** with their **Elemental Skill**.
@@ -38,11 +38,11 @@
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/Element\_Cryo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_cryo.webp)
 
 * **Geo** **DMG** triggers the **Shatter** reaction stopping enemies from being **Frozen**, which results in disrupting **Freeze**-based teams.
 
-#### ![](../../.gitbook/assets/Element\_Anemo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)
 
 * **Geo** cannot take advantage of **Viridescent Venerer** 4-set effect. **Anemo** does not provide anything for Traveler (Geo) aside from Crowd Control.
 
