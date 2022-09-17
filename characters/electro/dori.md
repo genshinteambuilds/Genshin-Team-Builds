@@ -6,11 +6,10 @@
 
 ## **Character Breakdown**
 
-* **Elemental Skill** creates&#x20;
-* **Elemental Burst** deals continuous **AoE Electro DMG** to enemies within a field that scales from Shinobu's **Max HP**.
-  * This field will last longer if Shinobu's HP is less than or equal to 50% when the **Elemental Burst** is activated.&#x20;
-* **A1** increases her **Healing Bonus** by 15% when her HP is less than or equal to 50%
-* **A4** improves her **Elemental Skill** ability by increasing the healing amount by 75% of her **Elemental Mastery** and **Electro DMG** dealt by 25% of her **Elemental Mastery**.
+* **Elemental Skill** deals **Electro DMG** by firing off Troubleshooters Shots at opponents, which will then fire additional After-Sale Service Rounds which have enemy tracking capabilities.
+* **Elemental Burst** creates a **Jinni** lamp which provides healing, **Energy Recharge**, and imbues Electro for the active character.
+* **A1** reduces the cooldown of her **Elemental Skill** by 1 second every 3 seconds if an **Electro** related reaction occurs.
+* **A4** restores 5 **Elemental** **energy** per 100% of Dori's **Energy Recharge** to the active character when her **Elemental** **Skill** hits opponents.&#x20;
 
 ## Additional Notes
 
