@@ -30,7 +30,7 @@
 
 ![](../../.gitbook/assets/ui\_icon\_anemo.webp)
 
-* **Dendro** cannot be swirled but for a team based on **Dendro**-related **Elemental Reactions**, an **Anemo Support** using **4pc** **Viridescent Venerer** to amplify the **DMG** of the other elements is greatly recommended to increase the overall DPS of the team with Enabler Collei.
+* **Dendro** cannot be swirled but for a team based on **Dendro**-related **Elemental Reactions**, an **Anemo Support** using **4pc** **Viridescent Venerer** to amplify the **DMG** of the other elements is recommended to increase the overall DPS of the team with Enabler Collei.
   * **Anemo** is a lot less effective in a team where Collei is triggering **Spread** reactions due to **Dendro DMG** being the main **DMG** source in such a team which cannot be swirled.
 
 ## Does Not Work Well With&#x20;
