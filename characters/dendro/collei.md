@@ -10,7 +10,7 @@
 * **Elemental Skill** throws out a Floral Ring that deals **Dendro DMG** that returns to Collei dealing another instance of **Dendro DMG** for a total of 2 instances of **Dendro** application.
 * **Elemental Burst** throws a doll named Cuilein-Anbar causing an explosion that deals **Dendro DMG** and creates a Cuilein-Anbar zone. Cuilein-Anbar will bounce around this zone dealing **AoE Dendro DMG**.
 * **A1**: After using Collei's **Elemental Skill**, if any party member triggers a **Dendro**-related reaction before the Floral Ring returns, the active character will be granted the Sprout effect upon return. This effect will deal continuous **AoE Dendro DMG** equivalent to 40% of Collei's **ATK** for 3s.
-* **A4**: After using Collei's **Elemental Burst**, when a character within the Cuilein-Anbar zone triggers a Dendro-related reaction, the Zone's duration will be extended by 1s. The total duration can be extended by up to 3s.
+* **A4**: After using Collei's **Elemental Burst**, when a character within the Cuilein-Anbar zone triggers a **Dendro**-related reaction, the Zone's duration will be extended by 1s. The total duration can be extended by up to 3s.
 
 ## Additional Notes
 
@@ -51,22 +51,33 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_dendro.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)
 
-* Collei and Traveller (Dendro) use their **Elemental Bursts** to apply **Dendro** then Fischl triggers **Aggravate Reactions**. Jean is used for healing **** and **Electro Swirl**.
+* Collei and Traveller (Dendro) use their **Elemental Bursts** to apply **Dendro**.
+* Fischl triggers **Aggravate Reactions**.&#x20;
+* Jean is used for healing **** and **Electro Swirl**.
 
 ****[**Bloom**](../../teams/bloom.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)
 
-* Collei applies **Dendro** to enemies whilst Xingqiu's **Elemental Burst** and Kokomi's **Elemental Skill** triggers **Bloom** Reactions. Kokomi also acts as a healer for the team. Sucrose is used to **Swirl Hydro**.
+* Collei applies **Dendro** to enemies.
+* Xingqiu's **Elemental Burst** and Kokomi's **Elemental Skill** triggers **Bloom** Reactions.&#x20;
+* Kokomi also acts as a healer for the team.&#x20;
+* Sucrose is used to **Swirl Hydro**.
 
 ****[**Burgeon**](../../teams/burgeon.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_thoma.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* Collei applies **Dendro** and Xingqiu is used to create **Dendro Cores** with **Bloom**. Thoma then uses his **Pyro** application to trigger **Burgeon Reactions**. Bennet acts as a healer and buffer in this team who can also trigger **Burgeon**.
+* Collei applies **Dendro** to enemies.
+* Xingqiu is used to create **Dendro Cores** with **Bloom**.&#x20;
+* Thoma uses his **Pyro** application to trigger **Burgeon Reactions**.&#x20;
+* Bennet acts as a healer and buffer in this team who can also trigger **Burgeon**.
 
 ****[**Spread**](../../teams/spread.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_kuki\_shinobu.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png)
 
-* Kuki provides healing and **Electro** application. Tighnari is the **Main DPS** in this team whilst Collei provides **Dendro Particles** and is used as an **Off-field Burst Support**. Venti is used for **Electro Swirl** and **Crowd Control**.
+* Kuki provides healing and **Electro** application.&#x20;
+* Tighnari is the **Main DPS** in this team.
+* Collei provides **Dendro Particles** and is used as an **Off-field Burst Support**.&#x20;
+* Venti is used for **Electro Swirl** and **Crowd Control**.
