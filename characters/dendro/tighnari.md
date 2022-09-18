@@ -19,7 +19,7 @@
 
 ## Works Well With
 
-![](../../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_yae.png)
+![](../../.gitbook/assets/ui\_avataricon\_yae.png)
 
 * **Electro Burst DPS** are very valuable members of the team, as they can help trigger the **Aggravate** and **Spread** reactions, as well as act as an on-field damage dealer outside of Tighnari's limited damage window.
 
@@ -63,9 +63,9 @@ Note: This does not mean having characters with those elements should be avoided
 
 [Spread](../../teams/spread.md)
 
-![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
+![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)
 
 * Tighnari is the team's on-field damage dealer and primarily relies on his **Charged Attack** to trigger **Spread**.
 * Collei helps generate **Dendro** particles and provides **Elemental Mastery** via **Dendro Resonance.**
 * Fischl's **Elemental Skill** is responsible for keeping enemies marked with the **Quicken** reaction to allow for **Spread**.
-* Bennett provides **ATK** buffs to his teammates, as well as heals them.
+* Sucrose provides **Elemental Mastery** to the team and can fill downtime with **Swirl.**
