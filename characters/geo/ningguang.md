@@ -61,7 +61,9 @@
 
 ## Does not work well with
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
+
+
+![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * Xingqiu isn't necessarily bad with Ningguang (as any Off-Field DPS works with a **Geo** Team), but his potential is wasted as Ningguang’s attack sequence generally does not line up well with Xingqiu.
   * He is better used on teams where his utility and **Hydro** application greatly benefit other Main DPS characters.
@@ -73,6 +75,8 @@
 #### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)
 
 * **Geo** cannot take advantage of **Viridescent Venerer** 4-set effect. **Anemo** does not provide anything for Ningguang aside from Crowd Control.
+
+<figure><img src="../../.gitbook/assets/ui_icon_dendro.webp" alt=""><figcaption></figcaption></figure>
 
 ## Teams
 

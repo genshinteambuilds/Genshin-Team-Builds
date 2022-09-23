@@ -33,6 +33,8 @@
 
 * Zhongli does not work well in **Freeze** teams since his **Elemental Skill** pulse triggers the **Shatter** reaction which stops enemies from being **Frozen.**
 
+<figure><img src="../../.gitbook/assets/ui_icon_dendro.webp" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 Zhongli can still be used as the 4th character on **Freeze** teams by positioning his **Stone Stele** to not **Shatter Frozen** enemies.
 {% endhint %}

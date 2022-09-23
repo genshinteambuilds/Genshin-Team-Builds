@@ -47,7 +47,7 @@
 
 ## **Does Not Work Well With**
 
-#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_dendro.webp)
 
 * **Geo** cannot take advantage of **Viridescent Venerer** 4-set effect.. **Anemo** does not provide anything for Noelle aside from Crowd Control.
 

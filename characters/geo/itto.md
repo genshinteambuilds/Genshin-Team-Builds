@@ -48,13 +48,17 @@
 
 ## Does Not Work Well With
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_noelle.png)
+
+
+![](../../.gitbook/assets/ui\_avataricon\_noelle.png)
 
 * Noelle is a unit that wants to be On-Field and Itto will take majority of the field time in any team he is on. She doesn't provide a strong enough shield and it has high downtime, making her a poor **Geo** character to pair with Itto.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_keqing.png)![](../../.gitbook/assets/ui\_avataricon\_xiao.png)![](../../.gitbook/assets/ui\_avataricon\_eula.png)
 
 * As a Selfish Main DPS, Itto does not work well with other characters that must stay on the field.
+
+<figure><img src="../../.gitbook/assets/ui_icon_dendro.webp" alt=""><figcaption></figcaption></figure>
 
 ## **Teams**
 

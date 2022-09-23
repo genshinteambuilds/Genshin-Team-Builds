@@ -46,6 +46,8 @@
 
 * **Geo** cannot take advantage of **Viridescent Venerer** 4-set effect. **Anemo** does not provide anything for Traveler (Geo) aside from Crowd Control.
 
+<figure><img src="../../.gitbook/assets/ui_icon_dendro.webp" alt=""><figcaption></figcaption></figure>
+
 ## Teams
 
 {% hint style="info" %}

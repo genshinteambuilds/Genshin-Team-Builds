@@ -54,6 +54,8 @@
 * The majority of Eula's damage comes from her **Elemental Burst**. Hence, Yunjin only buffs a minor component of Eula's damage.
 * C6 Yunjin allows Eula to gain more charges on Lightfall Sword.
 
+<figure><img src="../../.gitbook/assets/ui_icon_dendro.webp" alt=""><figcaption></figcaption></figure>
+
 ## **Teams**
 
 {% hint style="info" %}
