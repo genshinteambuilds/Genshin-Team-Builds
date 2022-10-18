@@ -32,7 +32,7 @@
 
 ## **Does Not Work Well With**
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)![](../../.gitbook/assets/ui\_avataricon\_ganyu.png)![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)![](../../.gitbook/assets/ui\_avataricon\_ganyu.png)![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_icon\_dendro.webp)&#x20;
 
 * Since Albedo does **Geo** **DMG** with his whole kit, he triggers the **Shatter** reaction against **Frozen** enemies. This makes him not an ideal option for [**Freeze** ](../../teams/freeze.md)teams.
 
