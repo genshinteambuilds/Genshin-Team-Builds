@@ -47,7 +47,7 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-****[**Aggravate**](../../teams/aggravate.md)****
+****[**Aggravate**](broken-reference)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_dendro.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)
 
@@ -55,7 +55,7 @@ Click on the team names below for more details on how the team works and alterna
 * Fischl triggers **Aggravate Reactions**.&#x20;
 * Jean is used for healing **** and **Electro Swirl**.
 
-****[**Bloom**](../../teams/bloom.md)****
+****[**Bloom**](broken-reference)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)
 
@@ -64,7 +64,7 @@ Click on the team names below for more details on how the team works and alterna
 * Kokomi also acts as a healer for the team.&#x20;
 * Sucrose is used to **Swirl Hydro**.
 
-****[**Burgeon**](../../teams/burgeon.md)****
+****[**Burgeon**](broken-reference)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_thoma.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
@@ -73,7 +73,7 @@ Click on the team names below for more details on how the team works and alterna
 * Thoma uses his **Pyro** application to trigger **Burgeon Reactions**.&#x20;
 * Bennet acts as a healer and buffer in this team who can also trigger **Burgeon**.
 
-****[**Spread**](../../teams/spread.md)****
+****[**Spread**](broken-reference)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_kuki\_shinobu.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png)
 

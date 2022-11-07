@@ -52,7 +52,7 @@ Note: This does not mean having characters with those elements should be avoided
 
 ## Teams
 
-[Spread](../../teams/spread.md)/[Aggravate ](../../teams/aggravate.md)
+[Spread](broken-reference)/[Aggravate ](broken-reference)
 
 ![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_yae.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
@@ -61,7 +61,7 @@ Note: This does not mean having characters with those elements should be avoided
 * Tighnari is the team's source of **Dendro** to apply the **Quicken** reaction to allow for **Spread** and **Aggravate** to be triggered.
 * Zhongli keeps the team shielded and provides **Elemental Resistance reduction** debuff.&#x20;
 
-[Spread](../../teams/spread.md)
+[Spread](broken-reference)
 
 ![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)
 
