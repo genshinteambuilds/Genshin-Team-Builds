@@ -1,7 +1,7 @@
 # Bloom
 
 {% hint style="info" %}
-Teams from this category are only possible because of [Nilou](../characters/hydro/mona-1.md).
+Teams from this category are only possible because of [Nilou](../characters/hydro/nilou.md).
 {% endhint %}
 
 This team composition focuses specifically on the **Elemental Reaction Bloom**, and not on its subreactions **Hyperbloom** and **Burgeon**.

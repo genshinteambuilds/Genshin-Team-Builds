@@ -70,7 +70,7 @@
   * [Candace](characters/hydro/candace.md)
   * [Kokomi](characters/hydro/kokomi.md)
   * [Mona](characters/hydro/mona.md)
-  * [Nilou](characters/hydro/mona-1.md)
+  * [Nilou](characters/hydro/nilou.md)
   * [Tartaglia](characters/hydro/tartaglia.md)
   * [Xingqiu](characters/hydro/xingqiu.md)
   * [Yelan](characters/hydro/yelan.md)
@@ -111,9 +111,9 @@
 ## Changelogs
 
 * [Versions](changelogs/versions/README.md)
-  * [3.2](changelogs/versions/3.0.md)
-  * [3.1](changelogs/versions/3.0-1.md)
-  * [3.0](<changelogs/versions/3.0-1 (1).md>)
+  * [3.2](changelogs/versions/3.2.md)
+  * [3.1](changelogs/versions/3.1.md)
+  * [3.0](changelogs/versions/3.0.md)
   * [2.8](changelogs/versions/2.8.md)
   * [2.7](changelogs/versions/2.7.md)
   * [2.6](changelogs/versions/2.6.md)
