@@ -2,8 +2,16 @@
 
 ## Characters
 
+{% content-ref url="ayato.md" %}
+[ayato.md](ayato.md)
+{% endcontent-ref %}
+
 {% content-ref url="barbara.md" %}
 [barbara.md](barbara.md)
+{% endcontent-ref %}
+
+{% content-ref url="candace.md" %}
+[candace.md](candace.md)
 {% endcontent-ref %}
 
 {% content-ref url="kokomi.md" %}
@@ -14,12 +22,20 @@
 [mona.md](mona.md)
 {% endcontent-ref %}
 
+{% content-ref url="mona-1.md" %}
+[mona-1.md](mona-1.md)
+{% endcontent-ref %}
+
 {% content-ref url="tartaglia.md" %}
 [tartaglia.md](tartaglia.md)
 {% endcontent-ref %}
 
 {% content-ref url="xingqiu.md" %}
 [xingqiu.md](xingqiu.md)
+{% endcontent-ref %}
+
+{% content-ref url="yelan.md" %}
+[yelan.md](yelan.md)
 {% endcontent-ref %}
 
 ## Teams
