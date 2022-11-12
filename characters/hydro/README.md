@@ -40,8 +40,16 @@
 
 ## Teams
 
+{% content-ref url="../../teams/anemo-1.md" %}
+[anemo-1.md](../../teams/anemo-1.md)
+{% endcontent-ref %}
+
 {% content-ref url="../../teams/electro-charged.md" %}
 [electro-charged.md](../../teams/electro-charged.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../teams/electro-charged-hydro.md" %}
+[electro-charged-hydro.md](../../teams/electro-charged-hydro.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../teams/freeze.md" %}

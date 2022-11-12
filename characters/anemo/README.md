@@ -12,6 +12,10 @@ For the **Elemental RES** debuff of **Viridescent Venerer** to take effect, the 
 
 ## Characters
 
+{% content-ref url="shikanoin-heizou.md" %}
+[shikanoin-heizou.md](shikanoin-heizou.md)
+{% endcontent-ref %}
+
 {% content-ref url="jean.md" %}
 [jean.md](jean.md)
 {% endcontent-ref %}

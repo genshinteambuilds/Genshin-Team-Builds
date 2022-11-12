@@ -52,12 +52,16 @@ While Xinyan is listed here as a **Pyro** character, she is primarily used as a 
 [reverse-melt.md](../../teams/reverse-melt.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../teams/pure-pyro.md" %}
-[pure-pyro.md](../../teams/pure-pyro.md)
-{% endcontent-ref %}
-
 {% content-ref url="../../teams/overload.md" %}
 [overload.md](../../teams/overload.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../teams/overload-electro.md" %}
+[overload-electro.md](../../teams/overload-electro.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../teams/pure-pyro.md" %}
+[pure-pyro.md](../../teams/pure-pyro.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../teams/vaporize.md" %}

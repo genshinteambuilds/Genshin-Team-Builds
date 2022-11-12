@@ -10,6 +10,14 @@ While Razor is listed here as an **Electro** character, he is primarily used as 
 [beidou.md](beidou.md)
 {% endcontent-ref %}
 
+{% content-ref url="cyno.md" %}
+[cyno.md](cyno.md)
+{% endcontent-ref %}
+
+{% content-ref url="dori.md" %}
+[dori.md](dori.md)
+{% endcontent-ref %}
+
 {% content-ref url="fischl.md" %}
 [fischl.md](fischl.md)
 {% endcontent-ref %}
@@ -34,6 +42,10 @@ While Razor is listed here as an **Electro** character, he is primarily used as 
 [kujou-sara.md](kujou-sara.md)
 {% endcontent-ref %}
 
+{% content-ref url="kuki-shinobu.md" %}
+[kuki-shinobu.md](kuki-shinobu.md)
+{% endcontent-ref %}
+
 {% content-ref url="traveler-electro.md" %}
 [traveler-electro.md](traveler-electro.md)
 {% endcontent-ref %}
@@ -44,18 +56,31 @@ While Razor is listed here as an **Electro** character, he is primarily used as 
 
 ## Teams
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="../../teams/electro-charged.md" %}
 [electro-charged.md](../../teams/electro-charged.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../teams/electro-charged-hydro.md" %}
+[electro-charged-hydro.md](../../teams/electro-charged-hydro.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../teams/overload.md" %}
+[overload.md](../../teams/overload.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../teams/overload-electro.md" %}
+[overload-electro.md](../../teams/overload-electro.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../teams/physical-cryo.md" %}
+[physical-cryo.md](../../teams/physical-cryo.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../teams/physical.md" %}
 [physical.md](../../teams/physical.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../teams/overload.md" %}
-[overload.md](../../teams/overload.md)
+{% content-ref url="../../teams/pure-electro.md" %}
+[pure-electro.md](../../teams/pure-electro.md)
 {% endcontent-ref %}
+
