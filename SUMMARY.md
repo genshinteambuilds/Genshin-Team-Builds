@@ -89,7 +89,7 @@
 ## Teams
 
 * [Anemo](teams/anemo.md)
-* [Bloom](teams/anemo-1.md)
+* [Bloom](teams/bloom.md)
 * [Electro-Charged (Electro)](teams/electro-charged.md)
 * [Electro-Charged (Hydro)](teams/electro-charged-hydro.md)
 * [Freeze (Cryo)](teams/freeze.md)

@@ -39,7 +39,7 @@
 
 ## **Teams**
 
-[**Bloom**](../../teams/anemo-1.md)
+[**Bloom**](../../teams/bloom.md)
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_nilou.png)![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_dendro.png)
 
