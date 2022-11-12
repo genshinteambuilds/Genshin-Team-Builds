@@ -70,7 +70,7 @@
   * [Candace](characters/hydro/candace.md)
   * [Kokomi](characters/hydro/kokomi.md)
   * [Mona](characters/hydro/mona.md)
-  * [Nilou](characters/hydro/nilou.md)
+  * [Nilou](characters/hydro/mona-1.md)
   * [Tartaglia](characters/hydro/tartaglia.md)
   * [Xingqiu](characters/hydro/xingqiu.md)
   * [Yelan](characters/hydro/yelan.md)
