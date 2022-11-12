@@ -20,7 +20,7 @@ Team compositions will typically consist of Nilou, a **Hydro** applicator and he
 
 {% tabs %}
 {% tab title="Nilou" %}
-|                                              Main DPS                                              |                                            Core Support                                           |                                            Flex Support                                           |                                       Healer                                      |
+|                                              Main DPS                                              |                                   Core Support / Energy Battery                                   |                                            Flex Support                                           |                                 Healer / Shielder                                 |
 | :------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_nilou.png" alt="" data-size="original"><br>Nilou</p> |          <p><img src="../.gitbook/assets/ui_avataricon_nahida.png" alt=""><br>Nahida</p>          |          <p><img src="../.gitbook/assets/ui_avataricon_nahida.png" alt=""><br>Nahida</p>          |  <p><img src="../.gitbook/assets/ui_avataricon_kokomi.png" alt=""><br>Kokomi</p>  |
 |                                                                                                    | <p><img src="../.gitbook/assets/ui_avataricon_traveler_dendro.png" alt=""><br>Dendro Traveler</p> | <p><img src="../.gitbook/assets/ui_avataricon_traveler_dendro.png" alt=""><br>Dendro Traveler</p> | <p><img src="../.gitbook/assets/ui_avataricon_barbara.png" alt=""><br>Barbara</p> |
@@ -29,7 +29,7 @@ Team compositions will typically consist of Nilou, a **Hydro** applicator and he
 {% endtab %}
 
 {% tab title="Nahida" %}
-|                                     Main DPS                                    |                                  Core Support                                 |                                        Flex Support                                       |                                       Healer                                      |
+|                                     Main DPS                                    |                          Core Support / Off-Field DPS                         |                                        Flex Support                                       |                                 Healer / Shielder                                 |
 | :-----------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_nahida.png" alt=""><br>Nahida</p> | <p><img src="../.gitbook/assets/ui_avataricon_nilou.png" alt=""><br>Nilou</p> | <p><img src="../.gitbook/assets/ui_avataricon_traveler_dendro.png" alt=""><br>Xingqiu</p> |  <p><img src="../.gitbook/assets/ui_avataricon_kokomi.png" alt=""><br>Kokomi</p>  |
 |                                                                                 |                                                                               |       <p><img src="../.gitbook/assets/ui_avataricon_yelan.png" alt=""><br>Yelan</p>       | <p><img src="../.gitbook/assets/ui_avataricon_barbara.png" alt=""><br>Barbara</p> |
@@ -47,7 +47,7 @@ Team compositions will typically consist of Nilou, a **Hydro** applicator and he
 |   <p><img src="../.gitbook/assets/ui_avataricon_nilou.png" alt="" data-size="original"></p><p><a href="anemo-1.md#xiao">Nilou</a></p>   | <ul><li>Provides massive buffs to <strong>Bloom</strong> through her <strong>A1</strong> and <strong>A4</strong>.</li><li>Provides On-Field <strong>Hydro</strong> application through her <strong>Normal Attacks</strong> after using her <strong>Elemental Skill</strong> to give them an infusion.</li></ul>                     |
 | <p><img src="../.gitbook/assets/ui_avataricon_nahida.png" alt="" data-size="original"></p><p><a href="anemo-1.md#kazuha">Nahida</a></p> | <ul><li>Provides frequent On-Field <strong>Dendro</strong> application with her <strong>Elemental Skill</strong> and <strong>Normal</strong> and <strong>Charged Attacks</strong>.</li><li><strong>A1</strong> provides a large <strong>Elemental Mastery</strong> buff after using her <strong>Elemental Burst</strong>.</li></ul> |
 
-### Core Support
+### Support / Energy Battery
 
 |                                                                                     Character                                                                                     | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,8 +58,8 @@ Team compositions will typically consist of Nilou, a **Hydro** applicator and he
 
 ### Flex Support
 
-{% hint style="info" %}
-Typically limited to a second **Dendro** character if Traveler (Dendro) or Collei is used as the Core Support.
+{% hint style="success" %}
+Very flexible slot as the team has few requirements. Any Off-Field DPS can be used.
 {% endhint %}
 
 |                                                                                     Character                                                                                     | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
@@ -79,6 +79,10 @@ Typically limited to a second **Dendro** character if Traveler (Dendro) or Colle
 | <p><img src="../.gitbook/assets/ui_avataricon_barbara.png" alt="" data-size="original"></p><p><a href="../characters/hydro/barbara.md">Barbara</a></p> | <ul><li>Provides healing as well Off-Field <strong>Hydro</strong> application with her <strong>Elemental Skill</strong>.</li></ul>                                                                                                                                                                                                                                          |
 
 ## Sample Team Composition
+
+{% hint style="info" %}
+Teams are very flexible as there are very few requirements and synergies in an **Anemo**-based team.
+{% endhint %}
 
 #### ![](../.gitbook/assets/ui\_avataricon\_nilou.png)![](../.gitbook/assets/ui\_avataricon\_traveler\_dendro.png)![](../.gitbook/assets/ui\_avataricon\_collei.png)![](../.gitbook/assets/ui\_avataricon\_kokomi.png)
 
