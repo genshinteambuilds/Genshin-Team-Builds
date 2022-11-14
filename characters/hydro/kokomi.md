@@ -18,7 +18,7 @@
 
 * Kokomi's healing scales off **HP.**
 * Kokomi's massive **CRIT Rate** reduction from her third passive talent greatly hampers her ability as a traditional Main DPS.
-  * Kokomi's high **Hydro** application enables her to be a non-conventional Main DPS in [Electro-Charged (Hydro)](../../teams/electro-charged-hydro.md) teams through frequently triggering reactions.
+  * Kokomi's high **Hydro** application enables her to be a non-conventional Main DPS in [**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md) teams through frequently triggering reactions.
 
 ## **Works Well With**
 
@@ -34,7 +34,11 @@
 
 * Kokomi's **Hydro** application from her **Normal** and **Charged Attacks** can be used to **Vaporize** Xiangling's **Elemental Skill** and **Burst.**
 
-#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_geo.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)
+![](../../.gitbook/assets/ui\_avataricon\_nilou.png)****
+
+* Kokomi's high healing pairs well with Nilou in [**Bloom**](../../teams/anemo-1.md) teams, due to the high self-damage caused by the reaction.
+
+#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_geo.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)![](../../.gitbook/assets/ui\_icon\_dendro.webp)
 
 * Kokomi can work in almost any team in the game as a universal Healer.
 
@@ -84,3 +88,9 @@ This character is a Healer. While some teams are provided below where they are p
 #### ![](../../.gitbook/assets/ui\_avataricon\_diluc.png)![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * Kokomi can provide enough **Hydro** application to **Vaporize** Diluc's **Pyro DMG**, allowing other **Hydro** characters such as Xingqiu who are typically paired with him to be used in other teams.
+
+****[**Bloom**](../../teams/anemo-1.md)****
+
+![](../../.gitbook/assets/ui\_avataricon\_nilou.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_dendro.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)
+
+* Kokomi can provide both healing and **Hydro** application for **Bloom** teams to help consistently trigger the **Elemental Reaction** and to mitigate the self-damage dealt by it.

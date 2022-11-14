@@ -104,6 +104,7 @@
 * [Physical (Electro)](teams/physical.md)
 * [Pure Cryo](teams/pure-cryo.md)
 * [Pure Electro](teams/pure-electro.md)
+* [Pure Hydro](teams/pure-hydro.md)
 * [Pure Pyro](teams/pure-pyro.md)
 * [Quicken (Aggravate)](teams/quicken-aggravate.md)
 * [Quicken (Spread)](teams/quicken-spread.md)
