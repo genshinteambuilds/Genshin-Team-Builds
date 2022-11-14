@@ -43,17 +43,17 @@
 
 **Aggravate Team**
 
-****<img src="../../.gitbook/assets/ui_avataricon_cyno1.png" alt="" data-size="original">****![](../../.gitbook/assets/ui\_avataricon\_fischl.png)****![](../../.gitbook/assets/ui\_icon\_dendro.webp)****![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
+****<img src="../../.gitbook/assets/ui_avataricon_cyno.png" alt="" data-size="original">****![](../../.gitbook/assets/ui\_avataricon\_fischl.png)****![](../../.gitbook/assets/ui\_icon\_dendro.webp)****![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 **Quickbloom/Hyperbloom Team**
 
-****<img src="../../.gitbook/assets/ui_avataricon_cyno1.png" alt="" data-size="original">****![](../../.gitbook/assets/ui\_icon\_electro.webp)****![](../../.gitbook/assets/ui\_icon\_dendro.webp)****![](../../.gitbook/assets/ui\_icon\_hydro.webp)
+****<img src="../../.gitbook/assets/ui_avataricon_cyno.png" alt="" data-size="original">****![](../../.gitbook/assets/ui\_icon\_electro.webp)****![](../../.gitbook/assets/ui\_icon\_dendro.webp)****![](../../.gitbook/assets/ui\_icon\_hydro.webp)
 
 * Depending on how fast hydro is applied to the enemy, the rate of seeds creation vs Quicken uptime will shift more to one side or the other. Slower hydro application will allow full Quicken uptime (Quickbloom) but less seeds and vice versa.
 
 **Overload/Vape Team**
 
-****<img src="../../.gitbook/assets/ui_avataricon_cyno1.png" alt="" data-size="original">****![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)****![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)****![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
+****<img src="../../.gitbook/assets/ui_avataricon_cyno.png" alt="" data-size="original">****![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)****![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)****![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 {% hint style="danger" %}
 **This Page is under construction.**
