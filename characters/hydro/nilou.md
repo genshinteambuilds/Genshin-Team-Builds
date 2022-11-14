@@ -18,8 +18,8 @@
 
 ## **Additional Notes**
 
-* Nilou's massive buffs to the **Bloom** **Elemental Reaction** makes her main use teams centered around this reaction. This limits her to typically only being paired with **Hydro** and **Dendro** characters to keep her buff active.
-* The self-damage caused by the **Bloom** **Elemental Reaction** in many Nilou teams raises the need for a healer greatly compared to other teams.
+* Nilou's massive buffs to the **Bloom** **Elemental Reaction** makes her main use teams centered around this reaction. This limits her to typically only being paired with **Hydro** and **Dendro** characters to keep her buffs active.
+* The self-damage caused by **Bloom** in many Nilou teams makes the need for a healer much larger than many other teams.
 
 ## **Works Well With**
 
