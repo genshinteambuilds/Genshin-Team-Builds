@@ -1,3 +1,7 @@
+---
+description: by Miko-chan#0698 & Co.
+---
+
 # Introduction
 
 This is a guide to building your team in Genshin Impact.

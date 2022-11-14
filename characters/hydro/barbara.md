@@ -3,6 +3,7 @@
 ## Roles
 
 * **Support**: Healer, Cleanser
+* **Main DPS** (Not Recommended)
 
 ## Character Breakdown
 

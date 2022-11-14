@@ -1,7 +1,7 @@
 # Uncategorized
 
 {% hint style="danger" %}
-**The following page is under review and are being worked on. Information may be outdated or incorrect.**
+The following page is under review and are being worked on. Information may be outdated or incorrect.
 {% endhint %}
 
 These team compositions do not follow a normal team setup that is recommended for most players as they can either have multiple Main DPS characters or none at all and they have tested and proven to work as a viable teams to use. Some teams require a certain amount of investment to be able to deal sufficient damage and can be more expensive to build compared to the more traditional teams.
