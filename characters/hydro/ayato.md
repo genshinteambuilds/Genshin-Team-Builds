@@ -43,7 +43,7 @@
 
 ![](../../.gitbook/assets/ui\_avataricon\_yunjin.png)
 
-* Yunjin can boost Ayato's **Normal Attacks** with her **Elemental Burst**.&#x20;
+* Yunjin provides a **Normal Attack DMG** buff to Ayato with her **Elemental Burst**.
 
 ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 

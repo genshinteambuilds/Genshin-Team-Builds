@@ -56,8 +56,8 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
 ![](../../.gitbook/assets/ui\_avataricon\_yunjin.png)
 
-* Yunjin can boost Childe's **Normal Attacks**.
-* Although a large amount of of Childe teams' damage is from his Off-Field DPS, Childe's **Normal Attacks** do a considerable amount of **Hydro DMG**.
+* Yunjin provides a **Normal Attack DMG** buff to Tartaglia with her **Elemental Burst**.
+* Although a large amount of of Tartaglia's teams damage is from various Off-Field DPS, Childe's **Normal Attacks** do a considerable amount of **Hydro DMG**.
 * Using Yunjin is generally not preferable to running a Buffer like Sucrose or Kazuha to boost the **Elemental DMG** of your Off-Field DPS characters.
 
 ## **Does Not Work Well With**
