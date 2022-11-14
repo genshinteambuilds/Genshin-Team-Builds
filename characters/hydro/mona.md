@@ -2,9 +2,9 @@
 
 ## **Roles**
 
-* **Main DPS** (Not recommended)
 * **Burst DPS**
 * **Support**: Crowd Control (Taunting, Immobilization), Debuffer
+* **Main DPS**
 
 ## **Character Breakdown**
 
