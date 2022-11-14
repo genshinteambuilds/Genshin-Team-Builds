@@ -79,7 +79,7 @@ This comp focuses on using the **Vaporize Elemental Reaction** with a **Main Pyr
 #### ![](../.gitbook/assets/ui\_avataricon\_hutao.png)![](../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../.gitbook/assets/ui\_avataricon\_albedo.png)![](../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * A reliable team setup that allows Hu Tao to consistently **Vaporize** her **Charged Attacks**.
-* Xingqui provides the Off-Field **Hydro** application for Hu Tao and also provides **Damage Reduction**.
+* Xingqiu provides the Off-Field **Hydro** application for Hu Tao and also provides **Damage Reduction**.
 * Albedo provides Off-Field **Geo DMG** and, when combined with Zhongli's shield, provides **Geo Resonance** for Hu Tao while also safely allowing her to be below 50% HP.
 
 #### ![](../.gitbook/assets/ui\_avataricon\_diluc.png)![](../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../.gitbook/assets/ui\_avataricon\_bennett.png)
