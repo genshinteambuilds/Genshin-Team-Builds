@@ -12,10 +12,14 @@ Swirl is the only notable **Elemental Reaction** as the **Viridescent Venerer** 
 **Characters are ranked roughly according to how well they perform in this team composition.**
 {% endhint %}
 
+{% tabs %}
+{% tab title="Klee" %}
+
+
 |                                         Main DPS                                         |                                                             Flex Support                                                            |                                 Healer / Shielder                                 |
 | :--------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 |        <p><img src="../.gitbook/assets/ui_avataricon_klee.png" alt=""><br>Klee</p>       | <p><a href="../characters/pyro/xiangling.md"><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt=""></a><br>Xiangling</p> | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""><br>Bennett</p> |
-|     <p><img src="../.gitbook/assets/ui_avataricon_yoimiya.png" alt=""><br>Yoimiya</p>    |                         <p><br><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""><br>Kazuha</p>                         |    <p><img src="../.gitbook/assets/ui_avataricon_jean.png" alt=""><br>Jean</p>    |
+|     <p><img src="../.gitbook/assets/ui_avataricon_yoimiya.png" alt=""><br>Yoimiya</p>    |                           <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""><br>Kazuha</p>                           |    <p><img src="../.gitbook/assets/ui_avataricon_jean.png" alt=""><br>Jean</p>    |
 |      <p><img src="../.gitbook/assets/ui_avataricon_yanfei.png" alt=""><br>Yanfei</p>     |                            <p><img src="../.gitbook/assets/ui_avataricon_venti.png" alt=""><br>Venti</p>                            | <p><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""><br>Zhongli</p> |
 | <p><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt=""></p><p>Xiangling</p> |                          <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt=""><br>Sucrose</p>                          |   <p><img src="../.gitbook/assets/ui_avataricon_diona.png" alt=""><br>Diona</p>   |
 |                                                                                          |                          <p><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""><br>Zhongli</p>                          |  <p><img src="../.gitbook/assets/ui_avataricon_kokomi.png" alt=""><br>Kokomi</p>  |
@@ -23,6 +27,56 @@ Swirl is the only notable **Elemental Reaction** as the **Viridescent Venerer** 
 |                                                                                          |                    <p><img src="../.gitbook/assets/ui_avataricon_traveler_geo.png" alt=""><br>Traveler (Geo)</p>                    | <p><img src="../.gitbook/assets/ui_avataricon_barbara.png" alt=""><br>Barbara</p> |
 |                                                                                          |                        <p><img src="../.gitbook/assets/ui_avataricon_ningguang.png" alt=""><br>Ningguang</p>                        |    <p><img src="../.gitbook/assets/ui_avataricon_sayu.png" alt=""><br>Sayu</p>    |
 |                                                                                          |                            <p><img src="../.gitbook/assets/ui_avataricon_thoma.png" alt=""><br>Thoma</p>                            |  <p><img src="../.gitbook/assets/ui_avataricon_noelle.png" alt=""><br>Noelle</p>  |
+{% endtab %}
+
+{% tab title="Yoimiya" %}
+
+
+|                                      Main DPS                                     |                                                             Flex Support                                                            |                                 Healer / Shielder                                 |
+| :-------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| <p><img src="../.gitbook/assets/ui_avataricon_yoimiya.png" alt=""><br>Yoimiya</p> | <p><a href="../characters/pyro/xiangling.md"><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt=""></a><br>Xiangling</p> | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""><br>Bennett</p> |
+|                                                                                   |                           <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""><br>Kazuha</p>                           |    <p><img src="../.gitbook/assets/ui_avataricon_jean.png" alt=""><br>Jean</p>    |
+|                                                                                   |                            <p><img src="../.gitbook/assets/ui_avataricon_venti.png" alt=""><br>Venti</p>                            | <p><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""><br>Zhongli</p> |
+|                                                                                   |                          <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt=""><br>Sucrose</p>                          |   <p><img src="../.gitbook/assets/ui_avataricon_diona.png" alt=""><br>Diona</p>   |
+|                                                                                   |                          <p><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""><br>Zhongli</p>                          |  <p><img src="../.gitbook/assets/ui_avataricon_kokomi.png" alt=""><br>Kokomi</p>  |
+|                                                                                   |                           <p><img src="../.gitbook/assets/ui_avataricon_albedo.png" alt=""><br>Albedo</p>                           |    <p><img src="../.gitbook/assets/ui_avataricon_qiqi.png" alt=""><br>Qiqi</p>    |
+|                                                                                   |                    <p><img src="../.gitbook/assets/ui_avataricon_traveler_geo.png" alt=""><br>Traveler (Geo)</p>                    | <p><img src="../.gitbook/assets/ui_avataricon_barbara.png" alt=""><br>Barbara</p> |
+|                                                                                   |                        <p><img src="../.gitbook/assets/ui_avataricon_ningguang.png" alt=""><br>Ningguang</p>                        |    <p><img src="../.gitbook/assets/ui_avataricon_sayu.png" alt=""><br>Sayu</p>    |
+|                                                                                   |                            <p><img src="../.gitbook/assets/ui_avataricon_thoma.png" alt=""><br>Thoma</p>                            |  <p><img src="../.gitbook/assets/ui_avataricon_noelle.png" alt=""><br>Noelle</p>  |
+{% endtab %}
+
+{% tab title="Yanfei" %}
+
+
+|                                     Main DPS                                    |                                                             Flex Support                                                            |                                 Healer / Shielder                                 |
+| :-----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| <p><img src="../.gitbook/assets/ui_avataricon_yanfei.png" alt=""><br>Yanfei</p> | <p><a href="../characters/pyro/xiangling.md"><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt=""></a><br>Xiangling</p> | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""><br>Bennett</p> |
+|                                                                                 |                           <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""><br>Kazuha</p>                           |    <p><img src="../.gitbook/assets/ui_avataricon_jean.png" alt=""><br>Jean</p>    |
+|                                                                                 |                            <p><img src="../.gitbook/assets/ui_avataricon_venti.png" alt=""><br>Venti</p>                            | <p><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""><br>Zhongli</p> |
+|                                                                                 |                          <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt=""><br>Sucrose</p>                          |   <p><img src="../.gitbook/assets/ui_avataricon_diona.png" alt=""><br>Diona</p>   |
+|                                                                                 |                          <p><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""><br>Zhongli</p>                          |  <p><img src="../.gitbook/assets/ui_avataricon_kokomi.png" alt=""><br>Kokomi</p>  |
+|                                                                                 |                           <p><img src="../.gitbook/assets/ui_avataricon_albedo.png" alt=""><br>Albedo</p>                           |    <p><img src="../.gitbook/assets/ui_avataricon_qiqi.png" alt=""><br>Qiqi</p>    |
+|                                                                                 |                    <p><img src="../.gitbook/assets/ui_avataricon_traveler_geo.png" alt=""><br>Traveler (Geo)</p>                    | <p><img src="../.gitbook/assets/ui_avataricon_barbara.png" alt=""><br>Barbara</p> |
+|                                                                                 |                        <p><img src="../.gitbook/assets/ui_avataricon_ningguang.png" alt=""><br>Ningguang</p>                        |    <p><img src="../.gitbook/assets/ui_avataricon_sayu.png" alt=""><br>Sayu</p>    |
+|                                                                                 |                            <p><img src="../.gitbook/assets/ui_avataricon_thoma.png" alt=""><br>Thoma</p>                            |  <p><img src="../.gitbook/assets/ui_avataricon_noelle.png" alt=""><br>Noelle</p>  |
+{% endtab %}
+
+{% tab title="Xiangling" %}
+
+
+|                                        Main DPS                                       |                                                             Flex Support                                                            |                                 Healer / Shielder                                 |
+| :-----------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| <p><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt=""><br>Xiangling</p> | <p><a href="../characters/pyro/xiangling.md"><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt=""></a><br>Xiangling</p> | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""><br>Bennett</p> |
+|                                                                                       |                           <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""><br>Kazuha</p>                           |    <p><img src="../.gitbook/assets/ui_avataricon_jean.png" alt=""><br>Jean</p>    |
+|                                                                                       |                            <p><img src="../.gitbook/assets/ui_avataricon_venti.png" alt=""><br>Venti</p>                            | <p><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""><br>Zhongli</p> |
+|                                                                                       |                          <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt=""><br>Sucrose</p>                          |   <p><img src="../.gitbook/assets/ui_avataricon_diona.png" alt=""><br>Diona</p>   |
+|                                                                                       |                          <p><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""><br>Zhongli</p>                          |  <p><img src="../.gitbook/assets/ui_avataricon_kokomi.png" alt=""><br>Kokomi</p>  |
+|                                                                                       |                           <p><img src="../.gitbook/assets/ui_avataricon_albedo.png" alt=""><br>Albedo</p>                           |    <p><img src="../.gitbook/assets/ui_avataricon_qiqi.png" alt=""><br>Qiqi</p>    |
+|                                                                                       |                    <p><img src="../.gitbook/assets/ui_avataricon_traveler_geo.png" alt=""><br>Traveler (Geo)</p>                    | <p><img src="../.gitbook/assets/ui_avataricon_barbara.png" alt=""><br>Barbara</p> |
+|                                                                                       |                        <p><img src="../.gitbook/assets/ui_avataricon_ningguang.png" alt=""><br>Ningguang</p>                        |    <p><img src="../.gitbook/assets/ui_avataricon_sayu.png" alt=""><br>Sayu</p>    |
+|                                                                                       |                            <p><img src="../.gitbook/assets/ui_avataricon_thoma.png" alt=""><br>Thoma</p>                            |  <p><img src="../.gitbook/assets/ui_avataricon_noelle.png" alt=""><br>Noelle</p>  |
+{% endtab %}
+{% endtabs %}
 
 ### Main DPS
 
