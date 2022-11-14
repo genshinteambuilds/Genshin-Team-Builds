@@ -28,7 +28,7 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
 * **A1** extends Riptide's duration on enemies by 8 seconds.
 * Tartaglia's Passive Talent increases the **Normal Attack** Talent level by 1 on all party members.
-* **C4** can cause issues with his [**Oneshot**](../../work-in-progress/oneshot.md) team due to constantly applying **Hydro** on nearby enemies with **Riptide Flash**.
+* **C4** can cause issues with his [**Oneshot**](../../teams/oneshot.md) team due to constantly applying **Hydro** on nearby enemies with **Riptide Flash**.
 
 ## Works Well With
 
@@ -52,7 +52,7 @@ Enemies affected by Riptide can take additional damage in multiple ways.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_mona.png)
 
-* Typically only used with Tartaglia in [**Oneshot**](../../work-in-progress/oneshot.md) teams. Mona debuffs enemies with **Omen** from her **Elemental Burst** which can be used to amplify Tartaglia's **Hydro DMG**.
+* Typically only used with Tartaglia in [**Oneshot**](../../teams/oneshot.md) teams. Mona debuffs enemies with **Omen** from her **Elemental Burst** which can be used to amplify Tartaglia's **Hydro DMG**.
 
 ![](../../.gitbook/assets/ui\_avataricon\_yunjin.png)
 
@@ -84,11 +84,11 @@ Click on the team names below for more details on how the team works and alterna
 * This exact team is often called Fireworks due to the many different colored numbers that pop up on the screen when playing this exact team composition.
 * Tartarglia's ability to attack rapidly while in his Melee stance allows Beidou's **Elemental Burst** to trigger more often.
 
-#### [Oneshot](../../work-in-progress/oneshot.md)
+#### [Oneshot](../../teams/oneshot.md)
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* Tartaglia's main focus is to Oneshot enemies with his **Elemental Burst**. For a detailed look at how this team works, check out the [**Oneshot**](../../work-in-progress/oneshot.md) page.
+* Tartaglia's main focus is to Oneshot enemies with his **Elemental Burst**. For a detailed look at how this team works, check out the [**Oneshot**](../../teams/oneshot.md) page.
 * Bennett provides an **ATK** buff and applies **Pyro** on enemies for the **Vaporize** reaction.
 * Mona can apply the **Omen** debuff to provide a **DMG Bonus**.
 * Sucrose buffs Tartaglia's **Elemental Mastery** and debuffs **Hydro RES** when equipped with **Viridescent Venerer** 4-set.

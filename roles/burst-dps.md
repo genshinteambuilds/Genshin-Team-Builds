@@ -12,7 +12,7 @@ It is recommended you begin investing in your Burst DPS **after** any of your Ma
 
 It is possible to make teams with no Main DPS and instead fill the team with Burst DPS and supports. In general, this requires more characters to be invested to reach similar total team damage output. This is due to requiring other characters in the party to fill in for the down time experienced after your Burst DPS uses their skills and is waiting for them to be ready to be cast again.
 
-Alternatively, [Oneshot](../work-in-progress/oneshot.md) teams rely on simply defeating enemies without needing to use the Burst DPS ability a second time.
+Alternatively, [Oneshot](../teams/oneshot.md) teams rely on simply defeating enemies without needing to use the Burst DPS ability a second time.
 
 ## Burst DPS Characters
 

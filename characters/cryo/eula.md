@@ -81,7 +81,7 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-[**Oneshot**](../../work-in-progress/oneshot.md)
+[**Oneshot**](../../teams/oneshot.md)
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_eula.png) ![](../../.gitbook/assets/ui\_avataricon\_lisa.png) ![](../../.gitbook/assets/ui\_avataricon\_xinyan.png) ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 

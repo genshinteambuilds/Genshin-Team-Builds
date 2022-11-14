@@ -43,7 +43,7 @@
 #### ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Bennett already functions as a healer and support, and Diona is often not needed on teams that include Bennett.
-* They are still sometimes rarely used together in [**Oneshot**](../../work-in-progress/oneshot.md) team compositions to provide different buffs.
+* They are still sometimes rarely used together in [**Oneshot**](../../teams/oneshot.md) team compositions to provide different buffs.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 

@@ -50,7 +50,7 @@
 
 * This team mainly focuses on increasing Beidou's **Elemental Burst DMG** with powerful **ATK** buffs provided by Bennett and Kujou Sara along with consistent **Electro-Charged** reactions for strong sustained DPS.
 
-[**Oneshot**](../../work-in-progress/oneshot.md)
+[**Oneshot**](../../teams/oneshot.md)
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_sara.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
