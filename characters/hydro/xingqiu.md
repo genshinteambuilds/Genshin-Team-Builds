@@ -45,7 +45,7 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/ui\_avataricon\_keqing.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)
 
 * Xingqiu is often used as the premier **Hydro** Off-Field DPS character in **Electro-Charged** teams to apply **Hydro** on enemies.
-* Xingqiu's **Hydro** application is based on **Normal Attacks**, so an On-Field character who uses them is necessary to constantly trigger the reaction.
+* Xingqui's **Hydro** application is based on **Normal Attacks**, so an On-Field character who uses them is necessary to constantly trigger the reaction.
 
 #### [Freeze](../../teams/freeze.md)
 

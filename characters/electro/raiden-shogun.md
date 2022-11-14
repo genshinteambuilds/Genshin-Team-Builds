@@ -71,7 +71,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* A variation of the popular "National" team composition. This team setup utilizes the powerful and high energy cost Off-Field **Elemental Bursts** of Xiangling and Xingqiu to build Resolve on Raiden.
+* A variation of the popular "National" team composition. This team setup utilizes the powerful and high energy cost Off-Field **Elemental Bursts** of Xiangling and Xingqui to build Resolve on Raiden.
 * Raiden Shogun additionally allows **Energy Recharge** requirements across the team to be lower.
 
 [**Oneshot**](../../work-in-progress/oneshot.md)

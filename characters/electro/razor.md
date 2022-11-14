@@ -84,7 +84,7 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
 * A team that runs Razor as Main DPS and a **Cryo** support to cause **Superconduct**.
-* Xingqiu provides Off-Field **Hydro DMG** and resistance to interruption.
+* Xingqui provides Off-Field **Hydro DMG** and resistance to interruption.
 * Fischl acts as an Energy Battery and provides Off-Field **Electro DMG**.
 * Diona provides **Cryo** for **Superconduct** and also shields and heals.
 
