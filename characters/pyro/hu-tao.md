@@ -36,7 +36,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)
 
-* Can be used in [**Oneshot**](../../teams/oneshot.md) Melt team compositions to quickly dispatch an enemy although this is fairly niche.
+* Can be used in [**Oneshot**](../../work-in-progress/oneshot.md) Melt team compositions to quickly dispatch an enemy although this is fairly niche.
 
 ## **Does Not Work Well With**
 
@@ -44,7 +44,7 @@
 
 * **Melt** team compositions using Hu Tao typically do not work well due to the inability to apply **Cryo** Aura fast enough that Hu Tao will sometimes enable the **Cryo** characters instead.
   * It is possible to combine Xingqiu with **Cryo** characters to avoid this problem. See [Character Specific Teams](hu-tao.md#character-specific-teams).
-  * Ayaka is an exception when used in [Oneshot](../../teams/oneshot.md) teams.
+  * Ayaka is an exception when used in [Oneshot](../../work-in-progress/oneshot.md) teams.
 
 #### ![](../../.gitbook/assets/ui\_icon\_electro.webp)
 
@@ -65,7 +65,7 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-[**Oneshot**](../../teams/oneshot.md)
+[**Oneshot**](../../work-in-progress/oneshot.md)
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 

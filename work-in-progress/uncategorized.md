@@ -126,7 +126,7 @@ The disadvantage of the team is that it does not maximize all the skill and burs
 
 
 
-This team functions in nearly the same way as [**Freeze (Cryo)**](freeze.md) teams, except **Hydro** application is provided by the Main DPS and **Cryo** application is provided from Off-Field DPS. Due to the fact that the **Hydro** Main DPS currently available in the game offer less damage than their **Cryo** counterparts, this team relies more on Off-Field DPS to kill enemies.
+This team functions in nearly the same way as [**Freeze (Cryo)**](../teams/freeze.md) teams, except **Hydro** application is provided by the Main DPS and **Cryo** application is provided from Off-Field DPS. Due to the fact that the **Hydro** Main DPS currently available in the game offer less damage than their **Cryo** counterparts, this team relies more on Off-Field DPS to kill enemies.
 
 ### Core Members
 

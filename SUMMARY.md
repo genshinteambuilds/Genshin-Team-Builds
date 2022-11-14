@@ -112,8 +112,8 @@
 
 ## Work In Progress
 
-* [Oneshot](teams/oneshot.md)
-* [Uncategorized](teams/uncategorized.md)
+* [Oneshot](work-in-progress/oneshot.md)
+* [Uncategorized](work-in-progress/uncategorized.md)
 
 ## Changelogs
 
