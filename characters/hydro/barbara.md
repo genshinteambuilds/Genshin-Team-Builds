@@ -26,7 +26,7 @@
 
 * While Barbara is not the usual first choice for **Hydro** application for **Freeze** teams, her constant application with her **Elemental Skill** does allow her to function as a **Hydro** applier and Healer in them.
 
-#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_geo.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_geo.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)![](../../.gitbook/assets/ui\_icon\_dendro.webp)
 
 * Barbara can work in almost any team in the game as a universal Healer.
 * Barbara's high healing and unique resurrection at **C6** can provide options for teams struggling to survive.
@@ -58,4 +58,10 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_barbara.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)
 
 * Barbara can somewhat be used as a **Hydro** applicator for a **Freeze** team while also providing healing utility.
-* As Barbara's DPS and **Hydro** application potential is limited compared to other characters such as Xingqui and Mona, Barbara should typically only be used if other **Hydro** applicators are being used in other teams or if healing is needed and no other characters can be swapped out.
+* As Barbara's DPS and **Hydro** application potential is limited compared to other characters such as Xingqiu and Mona, Barbara should typically only be used if other **Hydro** applicators are being used in other teams or if healing is needed and no other characters can be swapped out.
+
+****[**Bloom**](../../teams/anemo-1.md)****
+
+&#x20;**** ![](../../.gitbook/assets/ui\_avataricon\_nilou.png)****![](../../.gitbook/assets/ui\_avataricon\_traveler\_dendro.png)****![](../../.gitbook/assets/ui\_avataricon\_collei.png)****![](../../.gitbook/assets/ui\_avataricon\_barbara.png)****
+
+* Barbara can provide healing for **Bloom** teams to help mitigate the self-damage caused by the reaction while keeping Nilou's buffs active.&#x20;
