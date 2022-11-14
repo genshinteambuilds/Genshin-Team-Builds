@@ -72,17 +72,17 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ayato.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* Xiangling's **Elemental Burst** and **Elemental Skill** can work Off-Field allowing you to attack enemies while Ayato inflicts the enemy with **Hydro,** allowing Xiangling's abilities to **Vaporize** for additional damage.
+* Ayato provides On-Field **Hydro** application to allow Xiangling's **Elemental Skill** and **Burst** to **Vaporize** from Off-Field.
 
-**Mixed Reaction (Soup)**
+**Mixed Reaction**
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ayato.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* A multi-reaction team that has many different colored numbers pop up on the screen.&#x20;
+* A multi-reaction team which has the potential to trigger multiple types of **Elemental Reaction**.
 
-**Hyper carry**&#x20;
+**Pure Hydro**
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ayato.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_yunjin.png)
 
-* Xingqiu provides Energy to Ayato and deals **Hydro DMG** Off-Field.
-* Yunjin increases the **Normal Attack DMG** of Ayato.
+* This team is based around maximizing Ayato's damage through funneling various buffs onto him.&#x20;
+* Ayato acts as the Main DPS while other characters provide either Off-Field DPS or various buffs or debuffs.
