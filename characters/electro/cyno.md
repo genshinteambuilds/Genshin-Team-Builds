@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **On-Field DPS**
+* **Main DPS**
 
 ## Character Breakdown
 
