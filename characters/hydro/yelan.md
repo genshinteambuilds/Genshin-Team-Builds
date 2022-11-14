@@ -3,8 +3,8 @@
 ## Roles
 
 * **Off-Field DPS** (Elemental Burst)
-* **Burst DPS** (C6)
-* **Support:** Buffer (A4, C4)
+* **Burst DPS** (**C6**)
+* **Support:** Buffer
 
 ## Character Breakdown
 
@@ -46,32 +46,32 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-[Electro-Charged (Electro)](../../teams/electro-charged.md)
+****[**Electro-Charged (Electro)**](../../teams/electro-charged.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_keqing.png)![](../../.gitbook/assets/ui\_avataricon\_yelan.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)
 
 * Yelan's utility as a **Hydro** **Off-Field DPS** character allows her to be a very effective **Hydro** applicator in **Electro-charged** teams.
 * The On-Field character will need to constantly use **Normal Attacks** to activate Yelan's **Elemental Burst**'s Exquisite Throw.
 
-[Freeze](../../teams/freeze.md)
+****[**Freeze**](../../teams/freeze.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_yelan.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)
 
 * Yelan's Off-Field **Hydro** application enables her to be used in **Freeze** teams to keep enemies constantly **Frozen**.
 
-[National](../../teams/national.md)
+****[**National**](../../teams/national.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_yelan.png)![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Yelan can be used as an alternative option to Xingqiu within the popular national team composition. Her Exquisite Throw from her **Elemental Burst** can be used to initiate **Vaporize** reactions with Xiangling or **Freeze** reactions with Chongyun that can then be combined with Bennet's **Elemental Burst** to cause a **Melt** Reaction for high **DMG**.
 
-[Physical (Cryo)](../../teams/physical-cryo.md)
+****[**Physical (Cryo)**](../../teams/physical-cryo.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_yelan.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
-* Like Xingqiu, Yelan does not contribute to the **Superconduct** reaction required for **Physical** teams at all, she is in general just an incredibly useful support; incidentally **Freezing** enemies, dealing large amounts of damage by herself and buffing the **Main DPS' DMG** and **Max HP**.
+* Like Xingqiu, Yelan does not contribute to the **Superconduct** reaction required for **Physical** teams at all, she is in general just an incredibly useful support; incidentally **Freezing** enemies, dealing large amounts of damage by herself and buffing the Main DPS's **DMG** and **Max HP**.
 
-[Vaporize (Pyro)](../../teams/reverse-vaporize.md)
+****[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_yelan.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
