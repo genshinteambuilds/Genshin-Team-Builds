@@ -33,9 +33,9 @@
 
 * Diona can help **Physical** Main DPS create **Superconduct** reactions. Diona's **Energy Particle** generation may also help recharge **Cryo** characters like Eula.
 
-#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_geo.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)
+#### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_geo.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)![](../../.gitbook/assets/ui\_icon\_dendro.webp)
 
-* Diona works well with almost every team in the game by universally functioning as a **Healer** and a **Shielder**.
+* Diona works well with almost every team in the game by universally functioning as a Healer and a Shielder.
 * Diona's **C6** **Elemental Mastery** buff helps in teams that focus on **Elemental Reactions**.
 
 ## **Does Not Work Well With**
