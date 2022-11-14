@@ -1,5 +1,9 @@
 # Oneshot
 
+{% hint style="warning" %}
+The following page is under review and are being worked on. Information may be outdated or incorrect.
+{% endhint %}
+
 These team compositions focus on dealing a large amount of burst damage to enemies (ideally ending the encounter immediately) without caring much about repeatability and follow up damage. This is usually accomplished by utilizing characters with very high **Elemental Burst** modifiers that can take full advantage of multiple scaling, buffs, and/or **Elemental Reactions**. Notable **Elemental Reactions** are **Melt** and **Vaporize** as they are able to provide an additional final multiplier to damage. The other character slots are used mainly to "setup" the Oneshot and stack multiple buffs and apply **Elements** in a specific order.
 
 **Elemental Skill** and **Burst** usage order and character swapping order is very important in these types of compositions. This playstyle will often have different artifacts and weapon choices than traditional play, and setups vary widely by availability of characters and equipment.

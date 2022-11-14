@@ -1,7 +1,7 @@
 # Uncategorized
 
 {% hint style="danger" %}
-_**This page is currently under construction. Take any information here with a grain of salt until it is complete.**_
+The following page is under review and are being worked on. Information may be outdated or incorrect.
 {% endhint %}
 
 These team compositions do not follow a normal team setup that is recommended for most players as they can either have multiple Main DPS characters or none at all and they have tested and proven to work as a viable teams to use. Some teams require a certain amount of investment to be able to deal sufficient damage and can be more expensive to build compared to the more traditional teams.
@@ -126,7 +126,7 @@ The disadvantage of the team is that it does not maximize all the skill and burs
 
 
 
-This team functions in nearly the same way as [**Freeze (Cryo)**](freeze.md) teams, except **Hydro** application is provided by the Main DPS and **Cryo** application is provided from Off-Field DPS. Due to the fact that the **Hydro** Main DPS currently available in the game offer less damage than their **Cryo** counterparts, this team relies more on Off-Field DPS to kill enemies.
+This team functions in nearly the same way as [**Freeze (Cryo)**](../teams/freeze.md) teams, except **Hydro** application is provided by the Main DPS and **Cryo** application is provided from Off-Field DPS. Due to the fact that the **Hydro** Main DPS currently available in the game offer less damage than their **Cryo** counterparts, this team relies more on Off-Field DPS to kill enemies.
 
 ### Core Members
 

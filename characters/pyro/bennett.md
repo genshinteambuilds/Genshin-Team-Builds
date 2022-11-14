@@ -67,7 +67,7 @@ In the following teams, Bennett provides healing and buffing through his **Eleme
 
 * Bennett additionally provides **Pyro** **Resonance** alongside Xiangling here, and also acts as an Energy Battery for Xiangling to recharge her **Elemental Burst**.
 
-[**Oneshot**](../../teams/oneshot.md)
+[**Oneshot**](../../work-in-progress/oneshot.md)
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_sara.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 

@@ -90,13 +90,14 @@
 
 * [Anemo](teams/anemo.md)
 * [Bloom](teams/anemo-1.md)
+* [Bloom (Burgeon)](teams/bloom-burgeon.md)
+* [Bloom (Hyperbloom)](teams/bloom-hyperbloom.md)
 * [Electro-Charged (Electro)](teams/electro-charged.md)
 * [Electro-Charged (Hydro)](teams/electro-charged-hydro.md)
 * [Freeze (Cryo)](teams/freeze.md)
 * [Geo](teams/geo.md)
 * [Melt (Cryo)](teams/reverse-melt.md)
 * [National](teams/national.md)
-* [Oneshot](teams/oneshot.md)
 * [Overload (Pyro)](teams/overload.md)
 * [Overload (Electro)](teams/overload-electro.md)
 * [Physical (Cryo)](teams/physical-cryo.md)
@@ -104,9 +105,15 @@
 * [Pure Cryo](teams/pure-cryo.md)
 * [Pure Electro](teams/pure-electro.md)
 * [Pure Pyro](teams/pure-pyro.md)
+* [Quicken (Aggravate)](teams/quicken-aggravate.md)
+* [Quicken (Spread)](teams/quicken-spread.md)
 * [Vaporize (Hydro)](teams/vaporize.md)
 * [Vaporize (Pyro)](teams/reverse-vaporize.md)
-* [Uncategorized](teams/uncategorized.md)
+
+## Work In Progress
+
+* [Oneshot](work-in-progress/oneshot.md)
+* [Uncategorized](work-in-progress/uncategorized.md)
 
 ## Changelogs
 

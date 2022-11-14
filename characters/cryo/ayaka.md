@@ -4,7 +4,7 @@
 
 * **Main DPS**
 * **Burst DPS**
-* **Off-Field DPS** (through Elemental Burst, mostly for [Oneshot](../../teams/oneshot.md) **Melt** setups)
+* **Off-Field DPS** (through Elemental Burst, mostly for [Oneshot](../../work-in-progress/oneshot.md) **Melt** setups)
 * **Support**: Debuffer (C4)
 
 ## Character Breakdown
@@ -22,7 +22,7 @@
 * **C2** summons 2 additional smaller snowstorms that deal 20% of the original snowstorm's damage.
 * **C4** reduces the **DEF** of enemies hit by her **Elemental Burst** by 30% for 6s.
 * Ayaka can technically be used in **Melt** teams as both a Burst DPS role whilst providing Off-Field **Cryo** application to the enemy for 5 seconds with her **Elemental Burst**.
-  * This is typically only done with very powerful teams and [Oneshot ](../../teams/oneshot.md)setups since her Off-Field capabilities outside of those 5 seconds is nonexistent.
+  * This is typically only done with very powerful teams and [Oneshot ](../../work-in-progress/oneshot.md)setups since her Off-Field capabilities outside of those 5 seconds is nonexistent.
 
 ## Works Well With
 
@@ -48,7 +48,7 @@
 #### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_klee.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_yanfei.png)
 
 * These characters can be paired with Ayaka in a [Oneshot ](ayaka.md#oneshot)**Melt** team composition where Ayaka is used as Burst DPS and very short duration Off-Field DPS during her **Elemental Burst**.
-* **Melt** teams using Ayaka are almost always [Oneshot ](../../teams/oneshot.md)team setups since Ayaka's **Elemental Burst** lasts only 5 seconds and can only be reasonably applied to large enemies in this composition.
+* **Melt** teams using Ayaka are almost always [Oneshot ](../../work-in-progress/oneshot.md)team setups since Ayaka's **Elemental Burst** lasts only 5 seconds and can only be reasonably applied to large enemies in this composition.
 * **Melt** teams using Ayaka can struggle at putting out sustained DPS after Ayaka's **Elemental Burst** is entirely finished and on cooldown.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)
@@ -81,7 +81,7 @@ Click on the team names below for more details on how the team works and alterna
 * Ayaka works as the Main DPS in **Freeze** teams and is the primary source of **Cryo** application.
 * **Cryo Resonance** is often included in **Freeze** teams to boost Ayaka's **CRIT Rate**.
 
-#### [Oneshot (Standard)](../../teams/oneshot.md)
+#### [Oneshot (Standard)](../../work-in-progress/oneshot.md)
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 

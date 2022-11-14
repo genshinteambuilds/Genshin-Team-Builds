@@ -56,6 +56,10 @@ While Razor is listed here as an **Electro** character, he is primarily used as 
 
 ## Teams
 
+{% content-ref url="../../teams/bloom-hyperbloom.md" %}
+[bloom-hyperbloom.md](../../teams/bloom-hyperbloom.md)
+{% endcontent-ref %}
+
 {% content-ref url="../../teams/electro-charged.md" %}
 [electro-charged.md](../../teams/electro-charged.md)
 {% endcontent-ref %}
@@ -84,3 +88,10 @@ While Razor is listed here as an **Electro** character, he is primarily used as 
 [pure-electro.md](../../teams/pure-electro.md)
 {% endcontent-ref %}
 
+{% content-ref url="../../teams/quicken-aggravate.md" %}
+[quicken-aggravate.md](../../teams/quicken-aggravate.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../teams/quicken-spread.md" %}
+[quicken-spread.md](../../teams/quicken-spread.md)
+{% endcontent-ref %}

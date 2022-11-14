@@ -48,6 +48,10 @@ While Xinyan is listed here as a **Pyro** character, she is primarily used as a 
 
 ## Teams
 
+{% content-ref url="../../teams/bloom-burgeon.md" %}
+[bloom-burgeon.md](../../teams/bloom-burgeon.md)
+{% endcontent-ref %}
+
 {% content-ref url="../../teams/reverse-melt.md" %}
 [reverse-melt.md](../../teams/reverse-melt.md)
 {% endcontent-ref %}

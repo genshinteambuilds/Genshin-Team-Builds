@@ -56,6 +56,14 @@ While Eula is listed here as a **Cryo** character, she is primarily used as a Ma
 [reverse-melt.md](../../teams/reverse-melt.md)
 {% endcontent-ref %}
 
+{% content-ref url="../../teams/physical-cryo.md" %}
+[physical-cryo.md](../../teams/physical-cryo.md)
+{% endcontent-ref %}
+
 {% content-ref url="../../teams/physical.md" %}
 [physical.md](../../teams/physical.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../teams/pure-cryo.md" %}
+[pure-cryo.md](../../teams/pure-cryo.md)
 {% endcontent-ref %}
