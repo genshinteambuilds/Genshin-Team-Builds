@@ -3,7 +3,7 @@
 ## Roles
 
 * **Off-Field DPS** (Elemental Burst)
-* **Burst DPS** (**C6**)
+* **Burst DPS** (C6)
 * **Support:** Buffer
 
 ## Character Breakdown
@@ -21,12 +21,12 @@
 * **C2** allows Exquisite Throw to fire an additional arrow that deals 14% of Yelan's **Max HP** as **Hydro DMG** with a cooldown of 1.8s.
   * The extra instance of Hydro application from this constellation allows Yelan to effectively vaporize all of Hu Tao's **Charged Attacks** when they are paired in a team.&#x20;
 * **C4** buffs all party member's **Max HP** by 10% for every enemy hit by Yelan's **Elemental Skill** up to a maximum of 40%
-* **C6** will enter Yelan into a Mastermind state for 20s when she casts her **Elemental Burst**. In this state, all of Yelan's **Normal Attacks** become Special Breakthrough Barbs that deal 156% of a normal Breakthrough Barb's **DMG**. The Mastermind state will be cleared after 5s.
+* **C6** will enter Yelan into a Mastermind state for 20s when she casts her **Elemental Burst**. In this state, all of Yelan's **Normal Attacks** become Special Breakthrough Barbs that deal 156% of a normal Breakthrough Barb's **DMG**. The Mastermind state will be cleared after 5 attacks.
   * This constellation effectively allows Yelan to become a **Burst DPS** due to the high **AoE Hydro DMG** scaling of her Special Breakthrough Barbs.
 
 ## Works Well With
 
-![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)
+![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)![](../../.gitbook/assets/ui\_icon\_dendro.webp)
 
 * Like Xingqiu, Yelan works well with almost every character in the game so long as the active character on-field uses **Normal Attacks** to trigger Yelan's Exquisite Throw from her **Elemental Burst**.
   * Even characters that may solely rely on **Charged Attacks** as their main source of **DMG** such as Bow Users may utilise Yelan's Exquisite Throw by performing a **Normal Attack** between each **Charged Attack**.

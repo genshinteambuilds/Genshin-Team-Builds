@@ -55,7 +55,7 @@ Click on the team names below for more details on how the team works and alterna
 * Fischl triggers **Aggravate Reactions**.&#x20;
 * Jean is used for healing **** and **Electro Swirl**.
 
-****[**Bloom**](../../teams/anemo-1.md)****
+****[**Bloom**](broken-reference)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)
 

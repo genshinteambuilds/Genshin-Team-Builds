@@ -2,13 +2,13 @@
 
 ## Roles
 
-* Main DPS
+* **Main DPS**
 
 ## Character Breakdown
 
 * **Elemental Skill** allows rapid slashes and leaves an illusion which explodes on contact with enemies or after duration ends, dealing **Hydro DMG**.
   * **Normal Attacks** grant Namisen stacks that increase **Elemental Skill** **DMG** based on **Max HP**.&#x20;
-  * Gains knockback resistance while skill is active.
+  * Gains knockback resistance while **Elemental Skill** is active.
   * **Charge Attacks** and **Plunging Attacks** disabled.
 * **Elemental Burst** creates a field which continually rains on enemies, dealing **Hydro DMG** and increasing **Normal Attack DMG**.&#x20;
 * **A1** allows initial skill use and illusion to provide Namisen stacks.
