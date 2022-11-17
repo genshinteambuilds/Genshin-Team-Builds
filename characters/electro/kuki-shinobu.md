@@ -42,19 +42,19 @@ This character is a Healer. While some teams are provided below where they are p
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-#### Electro-Charged (Hydro)
+#### [Electro-Charged (Hydro)](../../teams/electro-charged-hydro.md)
 
 ![](../../.gitbook/assets/ui\_avataricon\_yelan.png)![](../../.gitbook/assets/ui\_avataricon\_ayato.png)![](../../.gitbook/assets/ui\_avataricon\_kuki\_shinobu.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)
 
 * Shinobu's utility as both a healer and **Electro**-applier allows her to be used in a double-**Hydro** composition that allows the use of an **Anemo** support to boost the team's overall **DPS**.
 
-#### Electro-Charged (Electro)
+#### [Electro-Charged (Electro)](../../teams/electro-charged.md)
 
 ![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_kuki\_shinobu.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * Allows for more healing potential in a taser team which makes this team composition safer to run than with another **Electro** character such as Beidou.
 
-#### Geo
+#### [Geo](kuki-shinobu.md#geo)
 
 ![](../../.gitbook/assets/ui\_avataricon\_itto.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)![](../../.gitbook/assets/ui\_avataricon\_gorou.png)![](../../.gitbook/assets/ui\_avataricon\_kuki\_shinobu.png)
 
