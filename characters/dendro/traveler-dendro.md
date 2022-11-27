@@ -19,22 +19,22 @@
 
 ## **Additional Notes**
 
-* **C6**: The character under effect of **Elemental Burst** will obtain 12% **Dendro DMG** bonus. If the Lea Lotus Lamp was transformed, also obtain 12% **Elemental DMG** of the element that caused it.
-* Should be paired with a **Dendro Energy Battery** to help charge their **Elemental Burst**.
+* **C6**: The character under effect of Traveler's **Elemental Burst** will obtain 12% **Dendro DMG** bonus. If the Lea Lotus Lamp was transformed, they also obtain 12% **Elemental DMG** of the element that caused it.
+* Traveler should be paired with a **Dendro Energy Battery** to help charge their **Elemental Burst**.
 
 ## **Works Well With**
 
 #### ![](../../.gitbook/assets/ui\_icon\_dendro.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)&#x20;
 
-* Traveler (Dendro) have a huge **AoE Elemental Burst** that works with all **Hydro**, **Electro** and **Pyro** characters to apply:
+* Traveler(Dendro) has a huge **AoE Elemental Burst** that works with all **Hydro**, **Electro** and **Pyro** characters to apply:
   * **Burning**, **Quicken**, **Bloom**, **Aggravate**, **Spread**, **Burgeon** and **Hyperbloom**.
-* Another Dendro unit provides **Dendro Resonance** as well as more energy for Traveler (Dendro).
+* A second **Dendro** unit would provide **Dendro Resonance** as well as more energy for Traveler(Dendro).
 
 ## **Does Not Work Well With**
 
 #### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
-* **Cryo**, **Geo** and **Anemo** cannot cause **Elemental Reactions**.
+* **Cryo**, **Geo** and **Anemo** cannot cause **Elemental Reactions** when paired with **Dendro**.
 
 ## **Teams**
 
