@@ -77,7 +77,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_kuki\_shinobu.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png)
 
-* Kuki provides healing and **Electro** application.&#x20;
+* Shinobu provides healing and **Electro** application.&#x20;
 * Tighnari is the **Main DPS** in this team.
 * Collei provides **Dendro Particles** and is used as an **Off-field Burst Support**.&#x20;
 * Venti is used for **Electro Swirl** and **Crowd Control**.
