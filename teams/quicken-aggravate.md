@@ -93,6 +93,10 @@
 
 ### Electro Flex Support/Off-Field DPS
 
+{% hint style="info" %}
+Generally, Fischl is preferred here for the reasons stated in her entry. However, some teams may choose to use another **Dendro** character for better **Elemental Burst** uptime.
+{% endhint %}
+
 |                                                                   Character                                                                   | Notes                                                                                                                                                                                                                                                                                                                                                                              |
 | :-------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |        <p><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt=""></p><p><a href="../characters/electro/fischl.md">Fischl</a></p>       | <ul><li>Deals consistent <strong>Electro</strong> <strong>Damage</strong> with her <strong>Elemental Skill</strong> and <strong>Burst.</strong></li><li>Fischl's <strong>A4</strong> passive triggers when <strong>Aggravate</strong> reactions occur, dealing extra damage.</li><li>Helps generate <strong>Electro</strong> particles for the Main DPS.</li></ul>                 |
