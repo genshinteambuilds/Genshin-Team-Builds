@@ -17,7 +17,7 @@
 * **C1:** When in the party and not the active character, Collei's **Energy Recharge** is increased by 20%.
 * **C2:** From the moment of using Collei's **Elemental Skill** to when the Sprout Effect ends, if any party member triggers a **Dendro**-related reaction, the Sprout Effect duration is extended by 3s.
 * **C4:** Using Collei's **Elemental Burst** will increase all party members' **Elemental Mastery** by 60 for 12s (excluding Collei herself).
-* Collei is should generally be paired with another **Dendro Support** such as Traveler (Dendro) in order to maintain constant **Dendro** application on enemies, as her **Elemental Burst's** duration is very short.
+* Collei should generally be paired with another **Dendro Support** such as Traveler (Dendro) in order to maintain constant **Dendro** application on enemies, as her **Elemental Burst's** duration is very short.
 
 ## Works Well With
 
@@ -39,7 +39,7 @@
 
 * **Cryo** and **Geo** cannot react with **Dendro** and have minimal effect on any **Dendro**-related team composition.
   * **Dendro** is an element that heavily requires **Elemental Reactions** to be useful therefore it is not recommended to pair Collei with anyone that doesn't contribute anything towards triggering or amplifying **Dendro Reactions**.
-  * **Cryo** has a use-case in Fridge teams by using **Hydro** to **Freeze** enemies. Since **Cryo** doesn't react with **Dendro**, Blooms can be created from **Dendro** reacting with the **Hydro** aura on **Frozen** enemies. This team requires Collei to continuously apply **Dendro** as the active character.
+  * **Cryo** has a use case in 'Fridge' teams. Since **Cryo** doesn't react with **Dendro**, Blooms can be created from **Dendro** reacting with the **Hydro** aura on **Frozen** enemies. This team requires Collei to continuously apply **Dendro** as the active character.
 
 ## Teams
 
