@@ -3,7 +3,7 @@
 ## Roles
 
 * **Off-Field DPS** (Elemental Burst)
-* **Support:** Enabler (Elemental Burst), Buffer (C6)
+* **Support:** Buffer (C6)
 
 ## **Character Breakdown**
 
