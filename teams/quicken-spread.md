@@ -1,24 +1,19 @@
 # Quicken (Spread)
 
-{% hint style="warning" %}
-**This Page is under construction.**
-{% endhint %}
-
 **Quicken (Spread)** teams focus on frequently applying **Dendro** to **Quickened** targets to trigger the **Spread** reaction. Currently, Tighnari is the only **Dendro** character capable of doing enough damage to warrant making a **Spread** team around.
 
 {% tabs %}
-{% tab title="Spread" %}
-|                                        Main DPS                                        |                                    Core Support                                    |                                       Flex Support/Off-Field DPS                                       |                            Healer/Shielder/Buffer/Debuffer                           |
-| :------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
-| <p><img src="../.gitbook/assets/ui_avataricon_tighnari.png" alt=""></p><p>Tighnari</p> | <p><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt=""></p><p>Fischl</p> |            <p><img src="../.gitbook/assets/ui_avataricon_yae.png" alt=""></p><p>Yae Miko</p>           | <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt=""></p><p>Sucrose</p> |
-|                                                                                        |                                                                                    |           <p><img src="../.gitbook/assets/ui_avataricon_nahida.png" alt=""></p><p>Nahida</p>           |  <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""></p><p>Shinobu</p> |
-|                                                                                        |                                                                                    |           <p><img src="../.gitbook/assets/ui_avataricon_collei.png" alt=""></p><p>Collei</p>           |  <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""></p><p>Kazuha</p>  |
-|                                                                                        |                                                                                    | <p><img src="../.gitbook/assets/ui_avataricon_traveler_dendro.png" alt=""></p><p>Traveler (Dendro)</p> |                                                                                      |
-|                                                                                        |                                                                                    |           <p><img src="../.gitbook/assets/ui_avataricon_beidou.png" alt=""></p><p>Beidou</p>           |                                                                                      |
+{% tab title="Tighnari" %}
+|                                        Main DPS                                        |                                    Core Support                                    |                                       Flex Support/Off-Field DPS                                       |                              Healer/Shielder/Buffer/Debuffer                              |
+| :------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
+| <p><img src="../.gitbook/assets/ui_avataricon_tighnari.png" alt=""></p><p>Tighnari</p> | <p><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt=""></p><p>Fischl</p> |           <p><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt=""></p><p>Fischl</p>           |    <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt=""></p><p>Sucrose</p>   |
+|                                                                                        |  <p><img src="../.gitbook/assets/ui_avataricon_yae.png" alt=""></p><p>Yae Miko</p> |            <p><img src="../.gitbook/assets/ui_avataricon_yae.png" alt=""></p><p>Yae Miko</p>           |  <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""></p><p>Kazuha (C2)</p>  |
+|                                                                                        |                                                                                    |           <p><img src="../.gitbook/assets/ui_avataricon_nahida.png" alt=""></p><p>Nahida</p>           | <p><img src="../.gitbook/assets/ui_avataricon_kuki_shinobu.png" alt=""></p><p>Shinobu</p> |
+|                                                                                        |                                                                                    |           <p><img src="../.gitbook/assets/ui_avataricon_collei.png" alt=""></p><p>Collei</p>           |     <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""></p><p>Kazuha</p>    |
+|                                                                                        |                                                                                    | <p><img src="../.gitbook/assets/ui_avataricon_traveler_dendro.png" alt=""></p><p>Traveler (Dendro)</p> |                                                                                           |
+|                                                                                        |                                                                                    |           <p><img src="../.gitbook/assets/ui_avataricon_beidou.png" alt=""></p><p>Beidou</p>           |                                                                                           |
 {% endtab %}
 {% endtabs %}
-
-
 
 ### Main DPS
 
