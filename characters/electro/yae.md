@@ -78,3 +78,22 @@ Click on the team names below for more details on how the team works and alterna
 * This team mainly focuses on dealing only **Electro** damage through Yae's **Elemental Skill** and **Burst**. The supports focus on buffing Yae's overall damage output through various buffs.
 * Raiden provides energy for the entire party and deals damage with her **Elemental Burst** while Yae is Off-Field.
 * Alternatively Fischl can be used if Raiden isn't available as an Energy Battery.
+
+****[**Quicken (Aggravate)**](../../teams/quicken-aggravate.md)****
+
+![](../../.gitbook/assets/ui\_avataricon\_yae.png)![](../../.gitbook/assets/ui\_avataricon\_nahida.png)![](../../.gitbook/assets/ui\_avataricon\_kuki\_shinobu.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)
+
+* Nahida provides the **Dendro** application needed to cause the **Quicken** reaction, and increase party **Elemental Mastery** through her **Elemental Burst**.
+* Yae deals **Electro** **Damage** through her **Normal Attacks, Elemental Skill,** and **Elemental Burst.**&#x20;
+* Shinobu deals Off-Field **Electro Damage** as well as providing much needed healing.
+* Sucrose can further provide buffs and debuffs to the team via the **Viridescent Venerer** 4-set as well as her own **Elemental Mastery** increasing passive.
+
+[**Quicken (Spread)**](../../teams/quicken-spread.md)****
+
+![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_yae.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)
+
+* Fischl and Yae deal Off-Field **Electro Damage** through their **Elemental Skills** and **Bursts.**
+* Kazuha greatly increases the amount of **Electro Damage** that Fischl and Yae do due to a combination of lowering enemy **Electro RES** and increasing party **Electro DMG.**
+* Tighnari causes the **Spread** reaction though his **Charged Attacks**, **Elemental Skill,** and **Elemental Burst.**
+
+****

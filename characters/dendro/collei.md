@@ -47,24 +47,23 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-****[**Aggravate**](../../teams/quicken-aggravate.md)****
+****[**Quicken (Aggravate)**](../../teams/quicken-aggravate.md)****
 
-![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_dendro.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)
+![](../../.gitbook/assets/ui\_avataricon\_keqing.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)
 
-* Collei and Traveller (Dendro) use their **Elemental Bursts** to apply **Dendro**.
-* Fischl triggers **Aggravate Reactions**.&#x20;
+* Collei uses her **Elemental Burst** and **Elemental Skill** to apply **Dendro**.
+* Keqing and Fischl trigger **Aggravate** reactions.&#x20;
 * Jean is used for healing **** and **Electro Swirl**.
 
 ****[**Bloom**](../../teams/anemo-1.md)****
 
-![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)
+![](../../.gitbook/assets/ui\_avataricon\_nilou.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_dendro.png)![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)
 
-* Collei applies **Dendro** to enemies.
-* Xingqiu's **Elemental Burst** and Kokomi's **Elemental Skill** triggers **Bloom** Reactions.&#x20;
-* Kokomi also acts as a healer for the team.&#x20;
-* Sucrose is used to **Swirl Hydro**.
+* Collei and Traveler (Dendro) apply **Dendro** to enemies.
+* Nilou and Kokomi's trigger **Bloom** reactions.&#x20;
+  * Kokomi also acts as a healer for the team.
 
-****[**Burgeon**](../../teams/bloom-burgeon.md)****
+****[**Bloom (Burgeon)**](../../teams/bloom-burgeon.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_thoma.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
@@ -73,11 +72,11 @@ Click on the team names below for more details on how the team works and alterna
 * Thoma uses his **Pyro** application to trigger **Burgeon Reactions**.&#x20;
 * Bennet acts as a healer and buffer in this team who can also trigger **Burgeon**.
 
-****[**Spread**](../../teams/quicken-spread.md)****
+****[**Quicken (Spread)**](../../teams/quicken-spread.md)****
 
-![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_kuki\_shinobu.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png)
+![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)
 
-* Shinobu provides healing and **Electro** application.&#x20;
 * Tighnari is the **Main DPS** in this team.
 * Collei provides **Dendro Particles** and is used as an **Off-field Burst Support**.&#x20;
-* Venti is used for **Electro Swirl** and **Crowd Control**.
+* Sucrose is used for **Electro Swirl** and **Crowd Control**, as well as her **Elemental Mastery** buff.
+* Fischl provides the **Electro** needed to cause **Quicken** and **Spread** reactions.

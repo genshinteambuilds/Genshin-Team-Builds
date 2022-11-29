@@ -52,7 +52,7 @@ Note: This does not mean having characters with those elements should be avoided
 
 ## Teams
 
-[Spread (Two Electro)](../../teams/quicken-spread.md)
+[**Quicken (Spread)**](../../teams/quicken-spread.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_yae.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
@@ -61,11 +61,19 @@ Note: This does not mean having characters with those elements should be avoided
 * Tighnari is the team's source of **Dendro** to apply the **Quicken** reaction to allow for **Spread** and **Aggravate** to be triggered.
 * Zhongli keeps the team shielded and provides **Elemental Resistance reduction** debuff.&#x20;
 
-[Spread (One Electro)](../../teams/quicken-spread.md)
+[**Bloom**](../../teams/anemo-1.md)****
 
-![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)
+![](../../.gitbook/assets/ui\_avataricon\_nilou.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)
 
-* Tighnari is the team's on-field damage dealer and primarily relies on his **Charged Attack** to trigger **Spread**.
-* Collei helps generate **Dendro** particles and provides **Elemental Mastery** via **Dendro Resonance.**
-* Fischl's **Elemental Skill** is responsible for keeping enemies marked with the **Quicken** reaction to allow for **Spread**.
-* Sucrose provides **Elemental Mastery** to the team and can fill downtime with **Swirl.**
+* Collei applies **Dendro** via her **Elemental Skill** and **Burst** for Nilou and Kokomi to react with.
+* Tighnari uses his **Elemental Skill** and **Burst** to deal large amounts of **Dendro** damage to **Wet** targets.&#x20;
+  * Collei helps generate **Dendro** particles for Tighnari and provides **Elemental Mastery** via **Dendro Resonance.**
+* Kokomi provides healing and **Hydro** application to the team.
+
+****[**Bloom (Hyperbloom)**](../../teams/bloom-hyperbloom.md)****
+
+![](../../.gitbook/assets/ui\_avataricon\_yae.png)![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_nahida.png)![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)
+
+* Kokomi provides healing as well as Off-Field **Hydro** application through her **Elemental Skill.**
+* Nahida gives the team Off-Field **Dendro** application through her **Elemental Skill** and buffs the team's **Elemental Mastery** through her **Elemental Burst**. Both Tighnari and Nahida can generate **Dendro Cores**.
+* Yae deals **Electro** damage to both enemies and **Dendro Cores**, causing the **Hyperbloom** reaction.&#x20;

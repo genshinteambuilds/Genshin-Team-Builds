@@ -8,8 +8,6 @@
 
 ## Characters
 
-
-
 {% tabs %}
 {% tab title="Keqing" %}
 |                                      Main DPS                                      |                                          Dendro Core Support                                         |                         Electro Flex Support/Off-Field DPS                         |                                       Debuffer                                       |
@@ -94,7 +92,7 @@
 ### Electro Flex Support/Off-Field DPS
 
 {% hint style="info" %}
-Generally, Fischl is preferred here for the reasons stated in her entry. However, some teams may choose to use another **Dendro** character for better **Elemental Burst** uptime.
+Fischl is generally always included in **Quicken** teams due to her A4 passive also triggering **Aggravate** when it activates. However, some teams may choose to use another **Dendro** character for better **Elemental Burst** uptime.
 {% endhint %}
 
 |                                                                   Character                                                                   | Notes                                                                                                                                                                                                                                                                                                                                                                              |
