@@ -57,23 +57,16 @@ Note: This does not mean having characters with those elements should be avoided
 ![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_yae.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
 * Tighnari and Yae share the role of on-field damage dealer, triggering the **Spread** and **Aggravate** reactions respectively.
-* Yae and Fischl's **Elemental Skills** make sure that the enemy is marked with **Electro** at all times.
 * Tighnari is the team's source of **Dendro** to apply the **Quicken** reaction to allow for **Spread** and **Aggravate** to be triggered.
-* Zhongli keeps the team shielded and provides **Elemental Resistance reduction** debuff.&#x20;
 
 [**Bloom**](../../teams/anemo-1.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_nilou.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)
 
-* Collei applies **Dendro** via her **Elemental Skill** and **Burst** for Nilou and Kokomi to react with.
-* Tighnari uses his **Elemental Skill** and **Burst** to deal large amounts of **Dendro** damage to **Wet** targets.&#x20;
-  * Collei helps generate **Dendro** particles for Tighnari and provides **Elemental Mastery** via **Dendro Resonance.**
-* Kokomi provides healing and **Hydro** application to the team.
+* Tighnari uses his **Elemental Skill** and **Burst** to deal large amounts of **Dendro** damage to **Wet** targets, as well as triggering **Dendro Resonance** with Collei.
 
 ****[**Bloom (Hyperbloom)**](../../teams/bloom-hyperbloom.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_yae.png)![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_nahida.png)![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)
 
-* Kokomi provides healing as well as Off-Field **Hydro** application through her **Elemental Skill.**
-* Nahida gives the team Off-Field **Dendro** application through her **Elemental Skill** and buffs the team's **Elemental Mastery** through her **Elemental Burst**. Both Tighnari and Nahida can generate **Dendro Cores**.
-* Yae deals **Electro** damage to both enemies and **Dendro Cores**, causing the **Hyperbloom** reaction.&#x20;
+* Tighnari helps Nahida generate **Dendro Cores** as well as deal large amounts of burst damage. He also triggers **Dendro Resonance.**

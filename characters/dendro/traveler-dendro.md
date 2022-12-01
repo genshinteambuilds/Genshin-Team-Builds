@@ -38,6 +38,33 @@
 
 ## **Teams**
 
-{% hint style="danger" %}
-**This Page is under construction**.
+{% hint style="info" %}
+In all of the teams below, Traveler (Dendro) provides **Dendro** application through their **Elemental Skill** and **Burst**, as well as small buffs to **Elemental Mastery.**
 {% endhint %}
+
+****[**Bloom**](../../teams/anemo-1.md)
+
+![](../../.gitbook/assets/ui\_avataricon\_nilou.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_dendro.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)
+
+* Dendro Traveler helps Collei recharge her **Elemental Burst** and activates **Dendro Resonance**
+
+****[**Bloom (Hyperbloom)**](../../teams/bloom-hyperbloom.md)****
+
+![](../../.gitbook/assets/ui\_avataricon\_yae.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_dendro.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)
+
+****[**Quicken (Aggravate)**](../../teams/quicken-aggravate.md)****
+
+![](../../.gitbook/assets/ui\_avataricon\_keqing.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_dendro.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)
+
+****[**Quicken (Spread)**](../../teams/quicken-spread.md)****
+
+![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_dendro.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)
+
+* Dendro Traveler helps Tighnari recharge his **Elemental Burst** and activates **Dendro Resonance.**
+
+
+
+
+
+
+

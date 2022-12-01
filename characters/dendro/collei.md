@@ -47,36 +47,26 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
+{% hint style="info" %}
+In all of the following teams, Collei provides Off-Field **Dendro** application through her **Elemental Burst** and provides a buff to **Elemental Mastery.**
+{% endhint %}
+
 ****[**Quicken (Aggravate)**](../../teams/quicken-aggravate.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_keqing.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)
-
-* Collei uses her **Elemental Burst** and **Elemental Skill** to apply **Dendro**.
-* Keqing and Fischl trigger **Aggravate** reactions.&#x20;
-* Jean is used for healing **** and **Electro Swirl**.
 
 ****[**Bloom**](../../teams/anemo-1.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_nilou.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_dendro.png)![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)
 
-* Collei and Traveler (Dendro) apply **Dendro** to enemies.
-* Nilou and Kokomi's trigger **Bloom** reactions.&#x20;
-  * Kokomi also acts as a healer for the team.
+* Collei also triggers **Dendro Resonance** with Traveler (Dendro) in this team.
 
 ****[**Bloom (Burgeon)**](../../teams/bloom-burgeon.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_thoma.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* Collei applies **Dendro** to enemies.
-* Xingqiu is used to create **Dendro Cores** with **Bloom**.&#x20;
-* Thoma uses his **Pyro** application to trigger **Burgeon Reactions**.&#x20;
-* Bennet acts as a healer and buffer in this team who can also trigger **Burgeon**.
-
 ****[**Quicken (Spread)**](../../teams/quicken-spread.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)
 
-* Tighnari is the **Main DPS** in this team.
-* Collei provides **Dendro Particles** and is used as an **Off-field Burst Support**.&#x20;
-* Sucrose is used for **Electro Swirl** and **Crowd Control**, as well as her **Elemental Mastery** buff.
-* Fischl provides the **Electro** needed to cause **Quicken** and **Spread** reactions.
+* Collei also triggers Dendro Resonance with Tighnari in this team.

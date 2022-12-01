@@ -31,7 +31,7 @@
 ### Flex Support/Off-Field DPS
 
 {% hint style="info" %}
-Fischl is generally always included in **Quicken** teams due to her A4 passive also triggering **Aggravate** when it activates. Her entry here is to allow for Yae/Fischl teams, which are generally preferred over double **Dendro** teams.
+Fischl is generally always included in **Quicken** teams due to her **A4** passive also triggering **Aggravate** when it activates. Her entry here is to allow for Yae/Fischl teams, which are generally preferred over double **Dendro** teams.
 {% endhint %}
 
 |                                                                           Character                                                                          | Notes                                                                                                                                                                                                                                                                                         |
@@ -60,5 +60,5 @@ Fischl is generally always included in **Quicken** teams due to her A4 passive a
 * Tighnari uses his **Elemental Skill** and **Burst** to deal **Dendro Damage** and cause the **Quicken** and **Spread** reactions.
   * Tighnari's short **Elemental Burst** cooldown allows for relatively fast rotations of this team.
 * Sucrose uses the **Viridescent Venerer** 4-set to decrease enemy **Electro RES** as well as increase the **Elemental Mastery** of party members so **Spread** reactions deal more damage.
-  * Because this team has two **Electro** characters, Sucrose's role as a debuffer is more important than if there were only one **Electro** character.
+  * Because this team has two **Electro** characters, Sucrose's role as a **RES** debuffer is more important than if there were only one **Electro** character.
 

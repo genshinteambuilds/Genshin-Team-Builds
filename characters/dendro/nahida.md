@@ -55,38 +55,30 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
+{% hint style="info" %}
+In all of the following teams, Nahida provides Off-Field **Dendro** application through her **Elemental Skill,** buffs **Dendro**-related reactions with her **Elemental Burst,** and provides a buff to **Elemental Mastery.**
+{% endhint %}
+
 [**Bloom**](../../teams/anemo-1.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_nilou.png)![](../../.gitbook/assets/ui\_avataricon\_nahida.png)![](../../.gitbook/assets/ui\_avataricon\_collei.png)![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)
 
-* Nahida provides **Elemental Mastery** team buff as well as **Dendro** application and damage.
-* Nilou creates Bountiful Cores and applies **Hydro** to enemies.
-* Collei applies **Dendro** to enemies and supplies particles to Nahida. She can also hold the **Elegy for the End** for extra team buffs.
-* Kokomi applies **Hydro** to enemies and heals the team.
-* Every member of this team can deal large amounts of **Bloom** damage as long as their **Elemental Mastery** is high enough.
+* Nahida also triggers **Dendro Resonance** with Collei in this team.
 
 ****[**Bloom (Hyperbloom)**](../../teams/bloom-hyperbloom.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_nahida.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)
 
-* Kokomi is used for healing and to apply **Hydro**.
-* Nahida applies **Dendro** and provides an **Elemental Mastery** buff.
-* Fischl triggers **Hyperbloom** reactions and provides off-field **Electro** damage.
-* Xingqiu applies extra **Hydro** in addition to dealing a large amount of damage.
-
 [**Quicken (Aggravate)**](../../teams/quicken-aggravate.md)
 
 ![](../../.gitbook/assets/ui\_avataricon\_yae.png)![](../../.gitbook/assets/ui\_avataricon\_nahida.png)![](../../.gitbook/assets/ui\_avataricon\_kuki\_shinobu.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)
 
-* Nahida or Yae Miko use their **Elemental Skills** to apply **Dendro**/**Electro** or to trigger **Aggravate** or **Spread** Reactions.&#x20;
-* Shinobu provides healing as well as **Electro** damage **** and application through her **Elemental Skill**.
-* Sucrose provides **Electro RES** shred using **4pc VV**.
+****[**Quicken (Spread)**](../../teams/quicken-spread.md)****
+
+![](../../.gitbook/assets/ui\_avataricon\_tighnari.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_nahida.png)![](../../.gitbook/assets/ui\_avataricon\_kuki\_shinobu.png)
+
+* Nahida also triggers **Dendro Resonance** with Tighnari in this team.
 
 [**Bloom (Burgeon)**](../../teams/bloom-burgeon.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_thoma.png)![](../../.gitbook/assets/ui\_avataricon\_nahida.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)
-
-* Nahida applies **Dendro** through her **Elemental Skill** or **Normal Attacks** as well as providing an **Elemental Mastery** buff.
-* Xingqiu deals **Hydro** damage and applies **Hydro** to create **Dendro Cores** through **Bloom**.&#x20;
-* Thoma triggers **Burgeon** Reactions and creates shields using his **Elemental Burst** and **Skill**.
-* Jean provides healing as well as **Hydro** and **Pyro RES** debuff using **4pc VV**.
