@@ -1,4 +1,4 @@
-# Shikanoin Heizou
+# Heizou
 
 ## Roles
 
@@ -38,15 +38,12 @@
 Click on the team names below for more details on how the team works and alternative support options that can work with that team.
 {% endhint %}
 
-****[**Anemo**](../../teams/anemo.md)****\
-****
+****[**Electro-Charged**](../../teams/electro-charged.md)****
 
-****![](../../.gitbook/assets/ui\_avataricon\_heizou.png)****![](../../.gitbook/assets/ui\_avataricon\_bennett.png)****![](../../.gitbook/assets/ui\_avataricon\_albedo.png)****![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)****
+****![](../../.gitbook/assets/ui\_avataricon\_heizou.png)****![](../../.gitbook/assets/ui\_avataricon\_beidou.png)****![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)****![](../../.gitbook/assets/ui\_avataricon\_fischl.png)****
 
-* **Geo Resonance** is an effective way to boost Heizou's **Anemo DMG**.
-* Albedo provides Off-Field **Geo DMG** with his **Elemental Skill.**
-* Zhongli provides Shielding and decreases the enemy's **Elemental RES** with his **Elemental Skill.**
-* Bennett provides healing and an **ATK** buff for Heizou.
+* This team makes use of **Electro** and **Hydro** Off-Field DPS while Heizou creates **Swirl** Reactions with her **Elemental Skill, Normal Attacks** and **Charged Attacks**, buffing the teams' **Elemental Mastery** while decreasing enemies **Electro** and **Hydro** **RES**.
+* Note: This team does not contain a dedicated healer and is not included within the Electro-Charged team page for that reason. Kokomi Taser team compositions have largely replaced Sucrose Taser teams due to the ability for Kokomi to provide healing.
 
 {% hint style="info" %}
 In the following teams, Venti provides debuffing utility using the **Viridescent Venerer** 4-set.
@@ -58,9 +55,4 @@ In the following teams, Venti provides debuffing utility using the **Viridescent
 
 * Heizou mainly acts as an On-field Support by creating **Swirl** Reactions to reduce enemy **Hydro** and **Pyro** resistances.
 
-**Electro-Charged**
-
-****![](../../.gitbook/assets/ui\_avataricon\_heizou.png)****![](../../.gitbook/assets/ui\_avataricon\_beidou.png)****![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)****![](../../.gitbook/assets/ui\_avataricon\_fischl.png)****
-
-* This team makes use of **Electro** and **Hydro** Off-Field DPS while Heizou creates **Swirl** Reactions with her **Elemental Skill, Normal Attacks** and **Charged Attacks**, buffing the teams' **Elemental Mastery** while decreasing enemies **Electro** and **Hydro** **RES**.
-* Note: This team does not contain a dedicated healer and is not included within the Electro-Charged team page for that reason. Kokomi Taser team compositions have largely replaced Sucrose Taser teams due to the ability for Kokomi to provide healing.
+****
