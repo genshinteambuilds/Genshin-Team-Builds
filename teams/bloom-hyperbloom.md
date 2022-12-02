@@ -2,7 +2,7 @@
 
 **Hyperbloom** is a reaction caused by **Electro** application to a **Dendro** core. **Hyperbloom** based team compositions include **Dendro, Hydro,** and **Electro** characters, often with an **Anemo** or flex fourth slot. ****&#x20;
 
-Due to the fact that **Hyperbloom** deals self-damage, a healer is usually necessary in these teams.
+**Hyperbloom** is a reaction that creates an explosion with a small **AoE,** which can sometimes damage the player if close. **Hyperbloom** damage is calculated based on the **Elemental Mastery** of the **Electro** character triggering the reaction.
 
 ## Characters
 
