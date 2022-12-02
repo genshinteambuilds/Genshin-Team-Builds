@@ -1,9 +1,5 @@
 # Candace
 
-{% hint style="warning" %}
-**This Page is under construction.**
-{% endhint %}
-
 ## Roles
 
 * **Support:** Buffer **** (**Elemental Burst**), **** Cleanser **** (**Elemental Skill** Self Only).
