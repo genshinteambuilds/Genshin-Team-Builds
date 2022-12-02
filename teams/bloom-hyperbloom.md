@@ -67,13 +67,14 @@ Meant to be the designated **Hydro** character, if the healer is not **Hydro** a
 
 ## Sample Team Composition
 
-#### ![](../.gitbook/assets/ui\_avataricon\_yae.png)![](../.gitbook/assets/ui\_avataricon\_nahida.png)![](../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../.gitbook/assets/ui\_avataricon\_kuki\_shinobu.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_yae.png)![](../.gitbook/assets/ui\_avataricon\_nahida.png)![](../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../.gitbook/assets/ui\_avataricon\_barbara.png)
 
 * Yae Miko applies On-Field **Electro** with both **Normal** and **Charged** attacks
-* Nahida provides Off-Field **Dendro** application through her **Elemental Skills** and **Bursts.**
+* Nahida provides Off-Field **Dendro** application through her **Elemental Skill** and **Burst,** in addition to a boost to **Elemental Mastery.**
 * Xingqiu provides Off-Field **Hydro** application in conjuction with Yae's **Normal attacks**.
+* Kuki Shinobu provides both Off-field **Hydro** application and enables **Hydro** resonance.
 
-#### ![](../.gitbook/assets/ui\_avataricon\_nahida.png)![](../.gitbook/assets/ui\_avataricon\_nilou.png)![](../.gitbook/assets/ui\_avataricon\_yelan.png)![](../.gitbook/assets/ui\_avataricon\_barbara.png)
+#### ![](../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)![](../.gitbook/assets/ui\_avataricon\_traveler\_dendro.png)![](../.gitbook/assets/ui\_avataricon\_kokomi.png)![](../.gitbook/assets/ui\_avataricon\_kuki\_shinobu.png)
 
 * Nahida provides On-Field **Dendro** application through her **Normal** and **Charged Attacks** and her **Elemental Skill**, as well as a sizeable buff to **Elemental Mastery**.
 * Nilou provides massive buffs to **Bloom** as well as Off-Field **Hydro** application with her **Elemental Skill**.
