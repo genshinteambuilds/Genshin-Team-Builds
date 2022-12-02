@@ -69,16 +69,13 @@ Meant to be the designated **Hydro** character, if the healer is not **Hydro** a
 
 #### ![](../.gitbook/assets/ui\_avataricon\_yae.png)![](../.gitbook/assets/ui\_avataricon\_nahida.png)![](../.gitbook/assets/ui\_avataricon\_kokomi.png)![](../.gitbook/assets/ui\_avataricon\_sucrose.png)
 
-* Yae Miko can apply both On and Off-Field **Electro** damage, and can benefit from the&#x20;
+* Yae Miko can apply both On and Off-Field **Electro** damage, and can benefit from the **Elemental Mastery** buffs from her teammates.
 * Nahida provides Off-Field **Dendro** application through her **Elemental Skill** and **Burst,** in addition to a boost to **Elemental Mastery.**
-* Xingqiu provides Off-Field **Hydro** application in conjuction with Yae's **Normal attacks**.
-* Kuki Shinobu provides both Off-field **Hydro** application and enables **Hydro** resonance.
+* Sucrose can infuse **** either **Hydro** to assist in setting up **Dendro** **cores,** or **Electro** to trigger **Hyperbloom.** Can reduce enemy **Elemental Resistances** and buff **Elemental Mastery**.
 
 #### ![](../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)![](../.gitbook/assets/ui\_avataricon\_traveler\_dendro.png)![](../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../.gitbook/assets/ui\_avataricon\_kuki\_shinobu.png)
 
-* Raiden Shogun can provide both on&#x20;
-* Nahida provides On-Field **Dendro** application through her **Normal** and **Charged Attacks** and her **Elemental Skill**, as well as a sizeable buff to **Elemental Mastery**.
-* Nilou provides massive buffs to **Bloom** as well as Off-Field **Hydro** application with her **Elemental Skill**.
-* Yelan provides additional Off-Field **Hydro** damage and application.
-* Barbara provides healing and more Off-Field **Hydro** application.
-* Variations of **Bloom** teams can be made with only a single **Dendro** character combined with three **Hydro** characters. These teams sacrifice some consistency in the amount of **Blooms** created in order to cause their damage to solely scale off the **Elemental Mastery** of the single **Dendro** character.&#x20;
+* Raiden Shogun can provide both On-field and Off-field **Electro** damage. Also buffs teams **Elemental Bursts** and **Energy recharge.**
+* Dendro Traveler provide Off-Field **Dendro** application through their **Elemental Skills** and **Bursts** as well as small buffs to **Elemental Mastery**.
+* Xingqiu provides Off-Field **Hydro** application in conjunction with **Normal Attacks.**
+* Kuki Shinobu provides both Off-field **Hydro** application and enables **Hydro** resonance.
