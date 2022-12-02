@@ -34,6 +34,10 @@ While Eula is listed here as a **Cryo** character, she is primarily used as a Ma
 [kaeya.md](kaeya.md)
 {% endcontent-ref %}
 
+{% content-ref url="layla.md" %}
+[layla.md](layla.md)
+{% endcontent-ref %}
+
 {% content-ref url="qiqi.md" %}
 [qiqi.md](qiqi.md)
 {% endcontent-ref %}
@@ -45,6 +49,8 @@ While Eula is listed here as a **Cryo** character, she is primarily used as a Ma
 {% content-ref url="shenhe.md" %}
 [shenhe.md](shenhe.md)
 {% endcontent-ref %}
+
+
 
 ## Teams
 

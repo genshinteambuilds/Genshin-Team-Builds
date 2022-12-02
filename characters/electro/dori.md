@@ -28,7 +28,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)![](../../.gitbook/assets/ui\_avataricon\_sayu.png)![](../../.gitbook/assets/ui\_avataricon\_qiqi.png)![](../../.gitbook/assets/ui\_avataricon\_barbara.png)![](../../.gitbook/assets/ui\_avataricon\_thoma.png)
 
-* Dori's focus on healing reduces her synergy with other Healers and Shielders, who often fill the same role, reducing Shinobu's utility.
+* Dori's focus on healing reduces her synergy with other Healers and Shielders, who often fill the same role.
 
 ## Teams
 

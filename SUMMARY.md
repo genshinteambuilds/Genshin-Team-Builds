@@ -34,6 +34,7 @@
   * [Eula](characters/cryo/eula.md)
   * [Ganyu](characters/cryo/ganyu.md)
   * [Kaeya](characters/cryo/kaeya.md)
+  * [Layla](characters/cryo/layla.md)
   * [Qiqi](characters/cryo/qiqi.md)
   * [Rosaria](characters/cryo/rosaria.md)
   * [Shenhe](characters/cryo/shenhe.md)
