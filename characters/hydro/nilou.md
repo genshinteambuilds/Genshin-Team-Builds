@@ -12,9 +12,9 @@
 * **A4** increases the **DMG** of the **Bloom** **Elemental Reaction** based on how much **Max HP** Nilou has above 30,000.
 * **Elemental Skill** does **AoE** **Hydro** **DMG** up to 4 times before providing a bonus based on which attack you use for the fourth attack.
   * Using a **Normal Attack** causes Nilou's **Normal Attacks** to deal **AoE** **Hydro** **DMG** for 8 seconds.
-  * Using **Elemental Skill** creates a **Hydro** applying aura around the On-Field character for 12 seconds.
-  * **A1** provides an **Elemental Mastery** buff after dealing **Dendro** damage while one of these bonuses is active.
-* **Elemental Burst** deals **AoE** **Hydro** DMG. This damage is repeated once after a short interval.
+  * Using **Elemental Skill** creates a **Hydro** applying aura around the **On-Field** character for 12 seconds.
+  * **A1** provides an **Elemental Mastery** buff after dealing **Dendro DMG** while one of these bonuses is active.
+* **Elemental Burst** deals **AoE** **Hydro** **DMG**. This damage is repeated once after a short interval.
 
 ## **Additional Notes**
 
@@ -31,7 +31,7 @@
 
 #### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
-* Nilou's focus on the **Bloom Elemental Reaction** greatly limits her in teams outside of it. Nilou provides very little to most teams outside of **Bloom** other than a relatively small **Hydro** aura and limited **Hydro** damage with her **Elemental Burst**.
+* Nilou's focus on the **Bloom Elemental Reaction** greatly limits her in teams outside of it. Nilou provides very little to most teams outside of **Bloom** other than a relatively small **Hydro** aura and limited **Hydro** **DMG** with her **Elemental Burst**.
 
 {% hint style="info" %}
 **Note:** This does not mean that Nilou is unusable in teams outside of **Bloom**, however, other **Hydro** characters will typically provide more in her place.
