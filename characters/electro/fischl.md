@@ -54,7 +54,7 @@ Click on the team names below for more details on how the team works and alterna
 In all the teams listed below, Fischl universally provides Off-Field **Electro** application and Off-Field DPS utility.
 {% endhint %}
 
-[**Anemo**](https://genshinteambuilds.gitbook.io/teams/teams/anemo)
+****[**Anemo**](../../teams/anemo.md)****
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_xiao.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
@@ -62,7 +62,7 @@ In all the teams listed below, Fischl universally provides Off-Field **Electro**
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)
 
-[**Geo**](https://genshinteambuilds.gitbook.io/teams/teams/geo)
+****[**Geo**](../../teams/geo.md)****
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ningguang.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 

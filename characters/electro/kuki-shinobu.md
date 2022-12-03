@@ -54,7 +54,7 @@ Click on the team names below for more details on how the team works and alterna
 
 * Allows for more healing potential in a taser team which makes this team composition safer to run than with another **Electro** character such as Beidou.
 
-#### [Geo](kuki-shinobu.md#geo)
+#### [Geo](../../teams/geo.md)
 
 ![](../../.gitbook/assets/ui\_avataricon\_itto.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)![](../../.gitbook/assets/ui\_avataricon\_gorou.png)![](../../.gitbook/assets/ui\_avataricon\_kuki\_shinobu.png)
 
