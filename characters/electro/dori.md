@@ -46,13 +46,13 @@ Click on the team names below for more details on how the team works and alterna
 
 * Dori's utility as both a healer and **Electro**-applier allows her to be used in a double-**Hydro** composition that allows the use of an **Anemo** support to boost the team's overall **DPS**.
 
-#### [Electro-Charged (Electro)](dori.md#electro-charged-electro)
+#### [Electro-Charged (Electro)](../../teams/electro-charged.md)
 
 ![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_dori.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * Allows for more healing potential in a taser team which makes this team composition safer to run than with another **Electro** character such as Beidou.
 
-#### [Geo](dori.md#geo)
+****[**Geo**](../../teams/geo.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_itto.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)![](../../.gitbook/assets/ui\_avataricon\_gorou.png)![](../../.gitbook/assets/ui\_avataricon\_dori.png)
 
