@@ -6,7 +6,7 @@ Teams from this category are only possible because of [Nilou](../characters/hydr
 
 This team composition focuses specifically on the **Elemental Reaction Bloom**, and not on its subreactions **Hyperbloom** and **Burgeon**.
 
-Due to focusing entirely on Bloom, the characters used in these teams are typically **Dendro** or **Hydro** only. This is largely because Nilou is near mandatory on teams focusing purely on **Bloom** due to her massive buffs to the **Elemental Reaction**. These buffs are limited to parties containing only **Hydro** and **Dendro** characters.
+Due to focusing entirely on **Bloom**, the characters used in these teams are typically **Dendro** or **Hydro** only. This is largely because Nilou is near mandatory on teams focusing purely on **Bloom** due to her massive buffs to the **Elemental Reaction**. These buffs are limited to parties containing only **Hydro** and **Dendro** characters.
 
 Due to the fact that **Bloom** deals self-damage, a healer is usually necessary in these teams.
 
