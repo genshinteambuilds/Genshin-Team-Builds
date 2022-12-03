@@ -48,12 +48,18 @@ Candace does not have a skill that Generate many consecutive **Hydro** applicati
 
 ## Teams
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_yoimiya.png) ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png) ![](../../.gitbook/assets/ui\_avataricon\_candace.png) ![](../../.gitbook/assets/ui\_avataricon\_yunjin.png)
+
+
+[Vaporize (Pyro)](../../teams/reverse-vaporize.md)\
+\
+![](../../.gitbook/assets/ui\_avataricon\_yoimiya.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png) ![](../../.gitbook/assets/ui\_avataricon\_candace.png) ![](../../.gitbook/assets/ui\_avataricon\_yunjin.png)
 
 Candace buffs the **Elemental DMG** of Yoimiya's normal attacks. Paired with Xingqiu, they provide **Hydro Resonance**. Yoimiya can make use of the Hydro Application provided by the two to deal high damage **Vaporize** reactions.
 
 
 
+[Pure Hydro](../../teams/pure-hydro.md)\
+\
 ![](../../.gitbook/assets/ui\_avataricon\_ayato.png) ![](../../.gitbook/assets/ui\_avataricon\_candace.png) ![](../../.gitbook/assets/ui\_avataricon\_venti.png) ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 Another team that benefits from use Double Hydro to increase the **Elemental DMG** buff that Candace brings to Ayato’s normal attacks. Venti reduces **Hydro Res** of the enemies with **VV** set.
