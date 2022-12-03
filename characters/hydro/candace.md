@@ -50,7 +50,7 @@ Candace does not have a skill that Generate many consecutive **Hydro** applicati
 
 
 
-[Vaporize (Pyro)](../../teams/reverse-vaporize.md)\
+****[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)\
 \
 ![](../../.gitbook/assets/ui\_avataricon\_yoimiya.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png) ![](../../.gitbook/assets/ui\_avataricon\_candace.png) ![](../../.gitbook/assets/ui\_avataricon\_yunjin.png)
 
@@ -58,7 +58,7 @@ Candace buffs the **Elemental DMG** of Yoimiya's normal attacks. Paired with Xin
 
 
 
-[Pure Hydro](../../teams/pure-hydro.md)\
+****[**Pure Hydro**](../../teams/pure-hydro.md)\
 \
 ![](../../.gitbook/assets/ui\_avataricon\_ayato.png) ![](../../.gitbook/assets/ui\_avataricon\_candace.png) ![](../../.gitbook/assets/ui\_avataricon\_venti.png) ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
