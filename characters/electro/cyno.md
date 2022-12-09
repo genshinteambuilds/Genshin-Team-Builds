@@ -2,19 +2,19 @@
 
 ## Roles
 
-* **Main DPS**
+* **Main DPS** (selfish)
 
 ## Character Breakdown
 
 * **Elemental Skill** deals **Electro DMG** in front.&#x20;
 * **Elemental Burst** infuses Cyno’s **Normal**, **Charge**, **Plunge Attacks** with **Electro DMG**, gives 100 **Elemental Mastery** and resistance to interruption as well as immunity to **Electro-Charged DMG**.&#x20;
   * Causes **Elemental Skill** to do **AoE Electro DMG** and extends **Elemental Burst** duration to a maximum of 18 second.&#x20;
-* **A1** increases **Elemental Skill DMG** and does additional **Electro DMG** in the form of Duststalker Bolt.&#x20;
-* **A4** increases **Normal Attacks DMG** and Duststalker Bolt **DMG** based on Cyno’s **Elemental Mastery**.
+  * Unlike most infusion based characters, Cyno’s **Normal**, **Charge**, **Plunge Attacks** during his **Elemental Burst** duration are not scaled based on his **Normal Attack** talent but his **Elemental Burst** instead.&#x20;
 
 ## Additional Notes
 
-* Unlike most infusion based characters, Cyno’s **Normal**, **Charge**, **Plunge Attacks** during his **Elemental Burst** duration are not scaled based on his **Normal Attack** talent but his **Elemental Burst** instead.&#x20;
+* **A1** increases **Elemental Skill DMG** and does additional **Electro DMG** in the form of Duststalker Bolt.&#x20;
+* **A4** increases **Normal Attacks DMG** and Duststalker Bolt **DMG** based on Cyno’s **Elemental Mastery**.
 * There is a visual indicator during the **Elemental Burst** that cues the player to use his **Elemental Skill**.&#x20;
 * Extending Cyno’s **Elemental Burst** duration to the full 18 seconds is NOT recommended. A good estimate would be 14 seconds so that other units in the team can maximize their impacts.
 
