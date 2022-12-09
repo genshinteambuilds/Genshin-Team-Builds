@@ -12,20 +12,22 @@
 
 {% tabs %}
 {% tab title="Characters" %}
-|                                                Main DPS                                                |                                            Core Support                                           |                                    Flex Support                                   |                                       Healer                                      |
-| :----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
-| <p><img src="../.gitbook/assets/ui_avataricon_yoimiya.png" alt="" data-size="original"><br>Yoimiya</p> |          <p><img src="../.gitbook/assets/ui_avataricon_nahida.png" alt=""><br>Nahida</p>          |   <p><img src="../.gitbook/assets/ui_avataricon_yelan.png" alt=""><br>Yelan</p>   | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""><br>Bennett</p> |
-|             <p><img src="../.gitbook/assets/ui_avataricon_hutao.png" alt=""><br>Hu Tao </p>            | <p><img src="../.gitbook/assets/ui_avataricon_traveler_dendro.png" alt=""><br>Dendro Traveler</p> | <p><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt=""><br>Xingqiu</p> |  <p><img src="../.gitbook/assets/ui_avataricon_kokomi.png" alt=""><br>Kokomi</p>  |
-|            <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""><br>Bennett</p>           |          <p><img src="../.gitbook/assets/ui_avataricon_collei.png" alt=""><br>Collei</p>          |   <p><img src="../.gitbook/assets/ui_avataricon_nilou.png" alt=""><br>Nilou</p>   | <p><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""><br>Zhongli</p> |
-|              <p><img src="../.gitbook/assets/ui_avataricon_diluc.png" alt=""><br>Diluc</p>             |        <p><img src="../.gitbook/assets/ui_avataricon_tighnari.png" alt=""><br>Tighnari</p>        |  <p><img src="../.gitbook/assets/ui_avataricon_kokomi.png" alt=""><br>Kokomi</p>  |                                                                                   |
-|               <p><img src="../.gitbook/assets/ui_avataricon_klee.png" alt=""><br>Klee</p>              |                                                                                                   | <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt=""><br>Sucrose</p> |                                                                                   |
-|                                                                                                        |                                                                                                   |              ![](../.gitbook/assets/ui\_avataricon\_nahida.png)Nahida             |                                                                                   |
+|                                               Main DPS                                               |                                            Core Support                                           |                                    Flex Support                                   |                                       Healer                                      |
+| :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| <p><img src="../.gitbook/assets/ui_avataricon_thoma.png" alt="" data-size="original"><br>Yoimiya</p> |          <p><img src="../.gitbook/assets/ui_avataricon_nahida.png" alt=""><br>Nahida</p>          |   <p><img src="../.gitbook/assets/ui_avataricon_yelan.png" alt=""><br>Yelan</p>   | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""><br>Bennett</p> |
+|          <p><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt=""><br>Hu Tao </p>         | <p><img src="../.gitbook/assets/ui_avataricon_traveler_dendro.png" alt=""><br>Dendro Traveler</p> | <p><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt=""><br>Xingqiu</p> |  <p><img src="../.gitbook/assets/ui_avataricon_kokomi.png" alt=""><br>Kokomi</p>  |
+|           <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""><br>Bennett</p>          |          <p><img src="../.gitbook/assets/ui_avataricon_collei.png" alt=""><br>Collei</p>          |   <p><img src="../.gitbook/assets/ui_avataricon_nilou.png" alt=""><br>Nilou</p>   | <p><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""><br>Zhongli</p> |
+|             <p><img src="../.gitbook/assets/ui_avataricon_diluc.png" alt=""><br>Diluc</p>            |        <p><img src="../.gitbook/assets/ui_avataricon_tighnari.png" alt=""><br>Tighnari</p>        |  <p><img src="../.gitbook/assets/ui_avataricon_kokomi.png" alt=""><br>Kokomi</p>  |                                                                                   |
+|                                                                                                      |                                                                                                   | <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt=""><br>Sucrose</p> |                                                                                   |
+|                                                                                                      |                                                                                                   |              ![](../.gitbook/assets/ui\_avataricon\_nahida.png)Nahida             |                                                                                   |
 {% endtab %}
 
 {% tab title="Untitled" %}
 
 {% endtab %}
 {% endtabs %}
+
+### Main DPS
 
 ### Core Support
 
