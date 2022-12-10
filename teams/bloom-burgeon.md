@@ -47,6 +47,12 @@
 
 ### Main DPS
 
+|                                                                      Character                                                                      | Notes |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------: | ----- |
+|       <p><img src="../.gitbook/assets/ui_avataricon_thoma.png" alt="" data-size="original"><br><a href="bloom-burgeon.md#thoma">Thoma</a></p>       |       |
+| <p><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt="" data-size="original"><br><a href="bloom-burgeon.md#xiangling">Xiangling</a></p> |       |
+|       <p><img src="../.gitbook/assets/ui_avataricon_diluc.png" alt="" data-size="original"><br><a href="bloom-burgeon.md#diluc">Diluc</a></p>       |       |
+
 ### Core Support
 
 |                                                                                     Character                                                                                     | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
