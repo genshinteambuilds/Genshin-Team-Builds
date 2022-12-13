@@ -83,4 +83,4 @@ Meant to be the designated **Hydro** character, if the healer is not **Hydro** a
 * Fischl can provide both On-field and Off-field **Electro** damage to trigger **Hyperbloom**
 * Nahida provides Off-Field **Dendro** application through her **Elemental Skill** and **Burst,** in addition to a boost to **Elemental Mastery.**
 * Xingqiu provides Off-Field **Hydro** application in conjunction with **Normal Attacks.**
-* Kuki Shinobu provides both Off-field **Hydro** application and enables **Hydro** resonance.
+* Kuki Shinobu provides both Off-field **Electro** application and enables **Electro** resonance.
