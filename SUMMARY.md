@@ -19,6 +19,7 @@
 
 * [Anemo](characters/anemo/README.md)
   * [Heizou](characters/anemo/shikanoin-heizou.md)
+  * [Faruzan](characters/anemo/faruzan.md)
   * [Jean](characters/anemo/jean.md)
   * [Kazuha](characters/anemo/kazuha.md)
   * [Sayu](characters/anemo/sayu.md)
