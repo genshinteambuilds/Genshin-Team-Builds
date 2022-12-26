@@ -2,29 +2,26 @@
 
 ## Roles
 
-* **Support**: Buffer (A4), Debuffer (VV), Crowd Control (Grouping)
-* **Main DPS**
+* **Support**: Buffer, Debuffer (VV), Crowd Control (Grouping)
 
 ## Character Breakdown
 
-* **Elemental Skill** attacks an enemy with a Heartstopper Strike dealing **Anemo DMG**.
-* **Elemental Skill** (**Hold**) charges the **Heartstopper Strike**. Heizou gains a maximum of 4 **Decension** stacks and depending on how long the skill is held and produces the **Conviction** effect which makes the Heartstopper Strike stronger and have increased **AoE**.
-* Elemental Burst fires a **Fudou Style Vacuum Slugger** that explode upon hitting enemies and leaves behind a vacuum that sucks them in, dealing **Anemo** **DMG**. When **Fudou Style Vacuum Slugger** hits enemies affected by **Cryo**, **Electro**, **Hydro** or **Pyro** they get affected by **Windmaster Iris** which then explodes dealing **AoE** damage of the first element it absorbs.
-* **A1** allows Heizou to gain **Descension Stacks** when he triggers a **Swirl** Reaction. This can only be done once every 0.1 seconds.
-* **A4** allows Heizou to buff the entire party with 80 **Elemental Mastery** for 10 seconds when **Heartstopper Strike** hits enemies.
+* **Elemental Skill** deals **AoE** **Anemo DMG** by deploying a polyhedron. Enters Faruzan into the **Manifest Gale** state that allows her to fire a **Hurricane Arrow** which deals **AoE** **Anemo DMG** and creates a vortex (**Pressurized Collapse)**
+  * **A1** reduces **Charge Shot** time by 60% and also applies **Perfidious Wind's Gale** to enemies,
+* **Elemental Burst** creates a **Dazzling Polyhedron** that releases **Whirlwind Pulses**
+  * Opponents hit by a **Whirlwind Pulse** gain the **Perfidious Wind's Gale** status which decreases **Anemo resistance** by 30%.
+  * Team members gain the **Prayerful Wind's Benefit** status which grants increased **Anemo DMG.**
+* **A4** grants all members affected by **Prayerful Wind's Benefit** a **DMG** increase based on 32% of Faruzan's **ATK** for **Anemo** **DMG**
 
 ## **Additional Notes**
 
-* Heizou mainly acts as an On-Field DPS to debuff enemy **Elemental Resistances** with **Viridescent Venerer** through **Swirl** reactions allowing Off-field DPS to deal more damage.
-* **C1** increases Heizou's **ATK** speed for 5s when he is On-field and grants him 1 **Descension** stack.
-* **C4** grants Heizou energy when casting his **Elemental Burst**.
-* **C6** grants Heizou with 4% **CRIT Rate** based on the number of **Decension** stacks and 32% **CRIT DMG** when possessing the **Conviction** buff.
+* **C6** grants characters affected by **Prayerful Wind's Benefit** 40% **Crit DMG** and triggers a **Pressurized Collapse** effect on opponents every 3 seconds&#x20;
 
 ## Works Well With
 
 ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)
 
-* Heizou pairs well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental RES** on enemies for 4 of the elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
+* Faruzan is meant to be an **Anemo** specific buffer, however she can pair well with almost all characters in the game as **Viridescent Venerer** 4-set can debuff **Elemental RES** on enemies for 4 of the elements (**Cryo**, **Electro**, **Hydro**, and **Pyro**).
 
 ## Does Not Work Well With
 
@@ -44,13 +41,3 @@ Click on the team names below for more details on how the team works and alterna
 
 * This team makes use of **Electro** and **Hydro** Off-Field DPS while Heizou creates **Swirl** Reactions with her **Elemental Skill, Normal Attacks** and **Charged Attacks**, buffing the teams' **Elemental Mastery** while decreasing enemies **Electro** and **Hydro** **RES**.
 * Note: This team does not contain a dedicated healer and is not included within the Electro-Charged team page for that reason. Kokomi Taser team compositions have largely replaced Sucrose Taser teams due to the ability for Kokomi to provide healing.
-
-{% hint style="info" %}
-In the following teams, Venti provides debuffing utility using the **Viridescent Venerer** 4-set.
-{% endhint %}
-
-****[**National**](../../teams/national.md)****
-
-****![](../../.gitbook/assets/ui\_avataricon\_heizou.png)****![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)****![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)****![](../../.gitbook/assets/ui\_avataricon\_bennett.png)****
-
-* Heizou mainly acts as an On-field Support by creating **Swirl** Reactions to reduce enemy **Hydro** and **Pyro** resistances.
