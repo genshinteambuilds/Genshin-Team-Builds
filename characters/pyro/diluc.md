@@ -25,7 +25,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
-* Diluc is almost always paired with Xingqiu in order to allow Diluc to **Vaporize** his attacks for 1.5x more damage. Check the [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md) team page for team compositions and notes.
+* Diluc is almost always paired with Xingqiu in order to allow Diluc to **Vaporize** his attacks for 1.5x more **DMG**. Check the [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md) team page for team compositions and notes.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
@@ -36,7 +36,7 @@
 
 #### ![](../../.gitbook/assets/ui\_icon\_cryo.webp)
 
-* **Melt** teams using Diluc typically do not work well due to the inability of most **Cryo** supports to apply **Cryo** aura fast enough so that Diluc will be the character causing the **Melt** reaction and benefiting from the damage amplification.
+* **Melt** teams using Diluc typically do not work well due to the inability of most **Cryo** supports to apply **Cryo** aura fast enough so that Diluc will be the character causing the **Melt** reaction and benefiting from the **DMG** amplification.
 * **Melt** teams can work early in the game due to Diluc having much lower uptime on his **Elemental Burst** and **Pyro** infusion but generally fall off the further into the game as you progress.
 * **Melt** teams can sometimes still work if enough **Cryo** applying sources are added to the team such as Ayaka's **Elemental Burst** + Ganyu's **Elemental Burst** but this is often not practical and isn't recommended.
 
@@ -47,7 +47,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)
 
-* **Physical** damage based characters do not synergize with Diluc's **Pyro** damage.
+* **Physical** **DMG** based characters do not synergize with Diluc's **Pyro** **DMG**.
 
 ## Teams
 
