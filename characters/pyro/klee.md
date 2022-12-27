@@ -62,4 +62,4 @@ In all teams below, Bennett acts as the team's healer while providing an **ATK**
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_klee.png)![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* Klee applies consistent **Pyro** on enemies, which allows Rosaria creates **Melt** reactions with her **Elemental Burst**.
+* Klee applies consistent **Pyro** on enemies, which allows Rosaria creates **Melt** **reactions** with her **Elemental Burst**.
