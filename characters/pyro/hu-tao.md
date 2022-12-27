@@ -23,8 +23,8 @@
   * `NA → CA → DC → NA → CA → DC` at **C1**
     * `NA` = **Normal Attack** `CA` = **Charged Attack** `JC` = **Jump** Cancel `DC` = **Dash** Cancel
     * Note: `NA → CA` is the result of using a **Charged Attack**. Hu Tao will always start her **Charged Attack** with an initial **Normal Attack**.
-    * Animation cancelling the end of the **Charged Attack** is necessary for optimal damage if using `NA → CA`. Can be done with **Dash** or **Jump**.
-  * **Dash** Cancels provide more damage overall in Hu Tao's attack combo but is often not performed at **C0** because of the **Stamina** consumption from both the **Dash** and **Charged Attack.**
+    * Animation cancelling the end of the **Charged Attack** is necessary for optimal **DMG** if using `NA → CA`. Can be done with **Dash** or **Jump**.
+  * **Dash** Cancels provide more **DMG** overall in Hu Tao's attack combo but is often not performed at **C0** because of the **Stamina** consumption from both the **Dash** and **Charged Attack.**
   * There are technically many different Hu Tao combo strings beyond always performing 1 **Normal Attack** and then 1 **Charged Attack**.
 * **Elemental Burst** is mainly used at the end of her attack combo just before her **Elemental Skill** expires or if Hu Tao needs to dodge an attack or heal.
 
@@ -32,7 +32,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
-* Xingqiu provides strong **Hydro** application enabling Hu Tao to **Vaporize** her attacks for 1.5x more damage. Check the [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md) team page for team compositions and notes.
+* Xingqiu provides strong **Hydro** application enabling Hu Tao to **Vaporize** her attacks for 1.5x more **DMG**. Check the [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md) team page for team compositions and notes.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)
 
@@ -48,11 +48,11 @@
 
 #### ![](../../.gitbook/assets/ui\_icon\_electro.webp)
 
-* **Electro** supports generally do not work well with Hu Tao as the **Overload** reaction causes enemies to be knocked back out of Hu Tao's melee range. This can be mitigated through Crowd Control abilities such as Kazuha's **Elemental Skill** but is generally not worth building.
+* **Electro** supports generally do not work well with Hu Tao as the **Overload** **reaction** causes enemies to be knocked back out of Hu Tao's melee range. This can be mitigated through Crowd Control abilities such as Kazuha's **Elemental Skill** but is generally not worth building.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)
 
-* Interferes with Hu Tao's **Vaporize** reactions which will result in a damage loss.
+* Interferes with Hu Tao's **Vaporize** **reactions** which will result in a **DMG** loss.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
@@ -86,7 +86,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_amber.png)
 
-* This is theoretically Hu Tao's highest damage team although does not have a dedicated Healer and is therefore not recommended for newer players.
+* This is theoretically Hu Tao's highest **DMG** team although does not have a dedicated Healer and is therefore not recommended for newer players.
 * Amber can apply **Pyro** with her **Elemental Burst** which can then be swirled by an **Anemo** character. Amber also provides **Pyro Resonance**.
 * Amber and Kazuha are specifically chosen here due to access to **Freedom Sworn**, **Elegy of the End**, as well as a host of buffs and debuffs. Alternative **Anemo** or **Pyro** character can be used over these two characters but may result in slightly lower DPS.
 
