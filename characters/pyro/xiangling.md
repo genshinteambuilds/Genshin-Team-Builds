@@ -16,8 +16,8 @@
 
 * **Elemental Burst** snapshots any character buffs Xiangling receives when activating the ability for its entire duration.
 * **Elemental Skill** is not very good at generating **Elemental Particles,** and her **Elemental Burst** has a very high cost. Xiangling is almost always paired with a **Pyro Energy Battery** (typically Bennett) for this reason.
-* Xiangling’s kit makes her an exceptional duo with almost any **Cryo** or **Hydro** characters, enabling consistent **Melts** or **Vaporize** reactions from her constant **Pyro** application.
-* **C1** debuffs **Pyro RES** on enemies when they are hit by **Guoba**'s attacks.
+* Xiangling’s kit makes her an exceptional duo with almost any **Cryo** or **Hydro** characters, enabling consistent **Melts** or **Vaporize** **reactions** from her constant **Pyro** application.
+* **C1** debuffs **Pyro RES** on enemies when they are hit by Guoba's attacks.
 * **C4** increases the duration of her **Elemental Burst**. This greatly increases her total damage output.
 * **C6** buffs the entire team's **Pyro** **DMG** when her **Elemental Burst** is active.
   * The buff does not apply to Xiangling as her **Elemental Burst** snapshots and only activates after it's been cast.
@@ -49,7 +49,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_diluc.png)![](../../.gitbook/assets/ui\_avataricon\_yanfei.png)
 
-* These **Pyro** Main DPS characters typically want to create **Vaporize** and **Melt** Reactions, and while Xiangling can provide some decent buffs for her from Constellations, Xiangling will end up overwhelming the **Hydro** or **Cryo** application from your other Support characters when used alongside these **Pyro** characters.
+* These **Pyro** Main DPS characters typically want to create **Vaporize** and **Melt** **Reactions**, and while Xiangling can provide some decent buffs for her from Constellations, Xiangling will end up overwhelming the **Hydro** or **Cryo** application from your other Support characters when used alongside these **Pyro** characters.
 
 ## Teams
 
@@ -61,7 +61,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ganyu.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* This team focuses on enabling Ganyu to deal massive damage through **Melt** reactions provided from Xiangling’s **Pyro** application.
+* This team focuses on enabling Ganyu to deal massive damage through **Melt** **reactions** provided from Xiangling’s **Pyro** application.
 * Bennett acts as an Energy Battery in order to recharge Xiangling's **Elemental Burst**.
 
 [**National**](../../teams/national.md)
