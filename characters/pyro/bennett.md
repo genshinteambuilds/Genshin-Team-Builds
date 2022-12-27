@@ -5,7 +5,7 @@
 * **Support:** Healer, Buffer, Cleanser, Energy Battery
 * **Main DPS**
 
-## **Character Breakdown:**
+## **Character Breakdown**
 
 * **Elemental Skill (Tap)** deals an instance of **Pyro DMG**.
 * **Elemental Skill (Hold)** charges this ability to deal additional instances of **Pyro DMG** and effects based on the charged level.
@@ -17,7 +17,7 @@
   * Periodically applies **Pyro** to the active character.
 * **A4** prevents Bennett from being launched by the explosion at the end of his charge level two **Elemental Skill** and reduces the cooldown of his **Elemental Skill** by 50% when cast inside the field created by his **Elemental Burst**.
 
-## **Additional Notes:**
+## **Additional Notes**
 
 * **C1** allows him to buff **ATK** regardless of active character **HP**. **C1** does _**NOT**_ allow Bennett to continue healing past 70% **HP**.
 * **C6** allows Bennett's **Elemental Burst** to infuse **Sword**, **Claymore** and **Polearm**-wielding characters' attacks with **Pyro**. Many players choose _**NOT**_ to unlock Bennett's **C6** as it can limit his viability in several teams.
