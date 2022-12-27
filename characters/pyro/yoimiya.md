@@ -19,21 +19,21 @@
 
 * She cannot charge kindling arrows when her **Elemental Skill** is active.
 * The explosion from her **Elemental Burst** can only be triggered once every 2 seconds.
-* Her 1st, 3rd, and 5th **Normal Attack** can react with elements leaving a potential for **Vaporize** or **Melt** reactions.
+* Her 1st, 3rd, and 5th **Normal Attack** can react with elements leaving a potential for **Vaporize** or **Melt** **reactions**.
 
 ## Works Well With
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ganyu.png)
 
-* Ganyu’s **Elemental Burst** can trigger **Melt** reactions with Yoimiya’s **Elemental Skill** and **Burst**.
+* Ganyu’s **Elemental Burst** can trigger **Melt** **reactions** with Yoimiya’s **Elemental Skill** and **Burst**.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
-* Xingqiu’s **Elemental Skill** and **Burst** help to protect Yoimiya with **Damage Reduction** and resistance to interruption, as well enable **Vaporize** reactions with his **Elemental Burst**. It also triggers her **Elemental Burst DMG** on enemies marked with **Aurous Blaze** while being Off-Field.
+* Xingqiu’s **Elemental Skill** and **Burst** help to protect Yoimiya with **DMG Reduction** and resistance to interruption, as well enable **Vaporize** **reactions** with his **Elemental Burst**. It also triggers her **Elemental Burst DMG** on enemies marked with **Aurous Blaze** while being Off-Field.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_beidou.png)
 
-* Beidou’s **Elemental Burst** synergizes well with Yoimiya's **Normal Attacks**, causing **Overload Elemental Reactions** that helps teams using Yoimiya deal **AoE** damage. This is useful as Yoimiya's kit is primarily geared towards single target damage.
+* Beidou’s **Elemental Burst** synergizes well with Yoimiya's **Normal Attacks**, causing **Overload Elemental Reactions** that helps teams using Yoimiya deal **AoE** **DMG**. This is useful as Yoimiya's kit is primarily geared towards single target **DMG**.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
@@ -67,11 +67,11 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_yoimiya.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* With other **Electro** characters applying **Electro** to enemies, Yoimiya can use her **Elemental Skill** and then her **Normal Attacks** to create **Overload** reactions.
-* Beidou's **Elemental Burst** in particular helps with dealing **AoE** damage to enemies which makes up for Yoimiya's damage primarily being single target. A second **Electro** character like Fischl is often also used to provide **Electro Resonance** and recharge Beidou's **Elemental Burst** faster.
+* With other **Electro** characters applying **Electro** to enemies, Yoimiya can use her **Elemental Skill** and then her **Normal Attacks** to create **Overload** **reactions**.
+* Beidou's **Elemental Burst** in particular helps with dealing **AoE** **DMG** to enemies which makes up for Yoimiya's **DMG** primarily being single target. A second **Electro** character like Fischl is often also used to provide **Electro Resonance** and recharge Beidou's **Elemental Burst** faster.
 
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_yoimiya.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
-* Xingqiu’s **Elemental Burst** applies **Hydro** on enemies whenever Yoimiya performs a **Normal Attack**, which allows for **Vaporize** reactions if Yoimiya's **Elemental Skill** is active. It additionally triggers Yoimiya's **Aurous Blaze** on marked enemies.
+* Xingqiu’s **Elemental Burst** applies **Hydro** on enemies whenever Yoimiya performs a **Normal Attack**, which allows for **Vaporize** **reactions** if Yoimiya's **Elemental Skill** is active. It additionally triggers Yoimiya's **Aurous Blaze** on marked enemies.
