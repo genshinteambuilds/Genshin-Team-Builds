@@ -22,7 +22,7 @@
 * **C4** creates a shield when Yanfei casts her **Elemental Burst**. This shield absorbs up to 45% of Yanfei's **Max HP** and lasts 15 seconds.
 * **C6** increases the max stacks of **Scarlet Seal** from 3 to 4.
   * Combined with **C1** this will result in Yanfei's **Charged Attacks** costing no **Stamina** with max stacks of **Scarlet Seal.**
-* Yanfei's **Brilliance** gets cancelled once she leaves the field. This makes her a Selfish DPS as she does significantly more damage with this buff active.
+* Yanfei's **Brilliance** gets cancelled once she leaves the field. This makes her a Selfish DPS as she does significantly more **DMG** with this buff active.
 * **A4** allows Yanfei's to deal an additional instance of **AoE Pyro** **DMG** equal to 80% of her **ATK** when dealing **CRIT DMG** with a **Charged Attack**. This counts as **Charged Attack** **DMG**.
 
 ## Works Well With
@@ -33,7 +33,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
-* Yanfei is almost always paired with Xingqiu in order to allow her to **Vaporize** her attacks for 1.5x more damage. Check [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md) for more details.
+* Yanfei is almost always paired with Xingqiu in order to allow her to **Vaporize** her attacks for 1.5x more **DMG**. Check [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md) for more details.
 
 #### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
@@ -47,7 +47,7 @@
 
 #### ![](../../.gitbook/assets/ui\_icon\_electro.webp)
 
-* While Beidou and Fischl can work with Yanfei, **Overload** is still an Elemental Reaction to be avoided as it makes **Vaporize** reactions less consistent.
+* While Beidou and Fischl can work with Yanfei, **Overload** is still an **Elemental Reaction** to be avoided as it makes **Vaporize reactions** less consistent.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_diluc.png)
 
@@ -71,4 +71,4 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_yanfei.png)![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* Yanfei applies consistent **Pyro** on enemies, which allows Rosaria creates **Melt** reactions with her **Elemental Burst**.
+* Yanfei applies consistent **Pyro** on enemies, which allows Rosaria creates **Melt** **reactions** with her **Elemental Burst**.
