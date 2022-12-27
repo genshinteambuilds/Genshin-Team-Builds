@@ -13,11 +13,11 @@
 
 ## **Additional Notes**
 
-* **Elemental Skill** can be animation cancelled with Diluc's Normal Attack
+* **Elemental Skill** can be animation cancelled with Diluc's **Normal Attack**
   * Diluc's typical **Elemental Skill** + **Normal Attack** chain is as follows:
     * `NA → E → NA → E → NA → E → NA`
     * where: `NA` = **Normal Attack** and `E` = **Elemental Skill**
-* Diluc can be paired with Chongyun early in the game to create a **Melt** team with Diluc using 2 **Normal Attacks** per **Elemental Skill** usage while standing within Chongyun's Cryo field.
+* Diluc can be paired with Chongyun early in the game to create a **Melt** team with Diluc using 2 **Normal Attacks** per **Elemental Skill** usage while standing within Chongyun's **Cryo** field.
   * This does not work correctly once Diluc's **Normal Attacks** are infused with **Pyro** from his **Elemental Burst**. This team composition is typically abandoned once you reach a later stage in the game for this reason.
 * Diluc cannot **Melt** enemies that are **Frozen** as his **Claymore** weapon type causes **Shatter** instead.
 
@@ -42,7 +42,7 @@
 
 #### ![](../../.gitbook/assets/ui\_icon\_electro.webp)
 
-* **Electro** supports generally do not work well with Diluc as the **Overload** reaction causes enemies to be knocked back out of Diluc's melee range.
+* **Electro** supports generally do not work well with Diluc as the **Overload** **reaction** causes enemies to be knocked back out of Diluc's melee range.
 * **Overload** teams can work early in the game. Unfortunately, the downside of knocking back enemies along with **Overload** scaling falling off in the late game result in these teams falling further and further behind as you progress in the game.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)
