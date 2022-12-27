@@ -7,7 +7,7 @@
 
 ## Character Breakdown
 
-* **Elemental Skill** deals **Pyro** **DMG**, applies **Pyro** to Xinyan, and creates a shield. The Shield's damage absorption varies depending on how many opponents are hit by the **Elemental Skill**.
+* **Elemental Skill** deals **Pyro** **DMG**, applies **Pyro** to Xinyan, and creates a shield. The Shield's **DMG** absorption varies depending on how many opponents are hit by the **Elemental Skill**.
   * Hitting 0–1 opponents grants Shield Level 1: **Ad Lib**.
   * Hitting 2 opponents grants Shield Level 2: **Lead-In**.
   * Hitting 3 or more opponents grants Shield Level 3: **Rave**, which also deals **Pyro** **DMG** to nearby enemies.
