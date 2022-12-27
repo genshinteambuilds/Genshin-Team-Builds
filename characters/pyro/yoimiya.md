@@ -13,7 +13,7 @@
 * **Elemental Burst** deals **AoE** **Pyro** **DMG** and marks an opponent hit with Aurous Blaze.
   * Excluding Yoimiya, whenever a character hits an enemy marked with Aurous Blaze it will trigger an explosion and deal extra **Pyro AoE** **DMG**. The mark is transferred to another enemy if they are defeated before the duration her **Elemental Burst** ends.
 * **A1** increases Yoimiya’s **Pyro** **DMG** during her **Elemental Skill** duration by 2% per hit, which lasts for 3 seconds and stacks up to 10 times.
-* **A4** allows Yoimiya to give other team members a 10% **ATK** buff after using her **Elemental Burst**. A further buff to ATK is given based on the number of stacks Yoimiya has gained from her **A1**.
+* **A4** allows Yoimiya to give other team members a 10% **ATK** buff after using her **Elemental Burst**. A further buff to **ATK** is given based on the number of stacks Yoimiya has gained from her **A1**.
 
 ## Additional Notes
 
@@ -37,7 +37,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* Bennett's **Elemental Burst** provides healing and a massive **ATK** buff, making him a recommended character in most teams. He can also provide **Pyro Resonance** which buffs ATK.
+* Bennett's **Elemental Burst** provides healing and a massive **ATK** buff, making him a recommended character in most teams. He can also provide **Pyro Resonance** which buffs **ATK**.
 * He can act as an Energy Battery for Yoimiya, recharging her **Elemental Burst** faster.
 
 #### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)
