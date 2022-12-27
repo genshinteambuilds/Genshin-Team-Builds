@@ -18,7 +18,7 @@
 * **Elemental Skill** is not very good at generating **Elemental Particles,** and her **Elemental Burst** has a very high cost. Xiangling is almost always paired with a **Pyro Energy Battery** (typically Bennett) for this reason.
 * Xiangling’s kit makes her an exceptional duo with almost any **Cryo** or **Hydro** characters, enabling consistent **Melts** or **Vaporize** **reactions** from her constant **Pyro** application.
 * **C1** debuffs **Pyro RES** on enemies when they are hit by Guoba's attacks.
-* **C4** increases the duration of her **Elemental Burst**. This greatly increases her total damage output.
+* **C4** increases the duration of her **Elemental Burst**. This greatly increases her total **DMG** output.
 * **C6** buffs the entire team's **Pyro** **DMG** when her **Elemental Burst** is active.
   * The buff does not apply to Xiangling as her **Elemental Burst** snapshots and only activates after it's been cast.
 
@@ -26,12 +26,12 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ganyu.png)
 
-* Ganyu and Xiangling is a standard pairing for **Melt Elemental Reactions**, Xiangling’s frequent **Pyro** application can enable Ganyu’s **Charged Attacks** to consistently **Melt** for large amounts of damage.
+* Ganyu and Xiangling is a standard pairing for **Melt Elemental Reactions**, Xiangling’s frequent **Pyro** application can enable Ganyu’s **Charged Attacks** to consistently **Melt** for large amounts of **DMG**.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * While Tartaglia is played as the Main DPS character when paired with Xiangling, he effectively ends up applying **Hydro** constantly on enemies and causing Xiangling’s abilities to trigger **Vaporize Elemental Reactions**.
-* Childe and Xingqiu apply so much **Hydro** that all of Xiangling’s abilities can consistently **Vaporize** for 1.5x more damage off of them.
+* Childe and Xingqiu apply so much **Hydro** that all of Xiangling’s abilities can consistently **Vaporize** for 1.5x more **DMG** off of them.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
@@ -61,11 +61,11 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ganyu.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* This team focuses on enabling Ganyu to deal massive damage through **Melt** **reactions** provided from Xiangling’s **Pyro** application.
+* This team focuses on enabling Ganyu to deal massive **DMG** through **Melt** **reactions** provided from Xiangling’s **Pyro** application.
 * Bennett acts as an Energy Battery in order to recharge Xiangling's **Elemental Burst**.
 
 [**National**](../../teams/national.md)
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* This team will have Xiangling dealing the bulk of its damage with the **Hydro** character applying **Hydro** to the enemy and allowing Xiangling’s **Elemental Burst** to **Vaporize**.
+* This team will have Xiangling dealing the bulk of its **DMG** with the **Hydro** character applying **Hydro** to the enemy and allowing Xiangling’s **Elemental Burst** to **Vaporize**.
