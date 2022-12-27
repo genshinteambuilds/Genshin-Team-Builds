@@ -8,10 +8,10 @@
 ## Character Breakdown
 
 * **Elemental Skill** deals **AoE** **Pyro** **DMG**, applies **Pyro** to Thoma, and creates a shield.
-  * The shield's damage absorption scales with Thoma's **Max HP**.
+  * The shield's **DMG** absorption scales with Thoma's **Max HP**.
 * **Elemental Burst** deals **AoE** **Pyro** **DMG** and causes the active character's **Normal Attacks** to deal additional **Pyro** **DMG** and create a small shield.
   * The additional **Pyro DMG** from **Normal Attacks** can only be triggered every 1s.
-  * The shield's damage absorption scales with Thoma's **Max HP**.
+  * The shield's **DMG** absorption scales with Thoma's **Max HP**.
 * **A4** causes the additional **Pyro DMG** dealt from **Normal Attacks** while Thoma's **Elemental Burst** is active to be increased by 2.2% of Thoma's **Max HP**.
 * All of Thoma's shields can stack on top of each other, refreshing the duration and combining their shield **HP.**
   * Thoma's combined shield **HP** cannot exceed a certain amount.
@@ -57,7 +57,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_yoimiya.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_thoma.png)
 
-* Thoma's shield and Beidou's **Damage Reduction** are used instead of a dedicated healer here.
+* Thoma's shield and Beidou's **DMG Reduction** are used instead of a dedicated healer here.
 * Thoma's **Pyro** application in this team can help with triggering **Overload Elemental Reactions**.
 * Thoma activates **Pyro Resonance** in this team.
 * **Overload**'s knock back is not as much of an issue in this team, as Yoimiya's range means you don't have to spend time chasing enemies around.
@@ -72,5 +72,5 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_thoma.png)
 
-* Thoma's shield and Xingqiu's **Damage Reduction** are used instead of a dedicated healer here. This also helps with managing Hu Tao's **HP** to maintain buffs below 50% **HP**.
+* Thoma's shield and Xingqiu's **DMG Reduction** are used instead of a dedicated healer here. This also helps with managing Hu Tao's **HP** to maintain buffs below 50% **HP**.
 * Thoma allows **Pyro** application outside of Hu Tao's abilities to be able to **Swirl Pyro** with an **Anemo** support to decrease enemy **Pyro RES** using the **Viridescent Venerer** 4-set.
