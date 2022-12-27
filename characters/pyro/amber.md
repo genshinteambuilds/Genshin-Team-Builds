@@ -35,7 +35,7 @@
 
 ### Character Specific Teams
 
-**Melt (Not Recommended)**
+****[**Melt** ](../../teams/reverse-melt.md)**(Not Recommended)**
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_amber.png)![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_anemo.png)![](../../.gitbook/assets/ui\_avataricon\_barbara.png)
 
@@ -43,7 +43,7 @@
 * Amber acts as the Main DPS, Melting the **Cryo** applied by Kaeya.
 * Teams such as this can technically be used but will result in much lower DPS than more conventional teams listed in the specifical team pages.
 
-**Vaporize (Optimized)**
+****[**Vaporize**](../../teams/reverse-vaporize.md) **(Optimized)**
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_amber.png)
 
