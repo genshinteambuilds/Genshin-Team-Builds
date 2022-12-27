@@ -82,7 +82,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ### Character Specific Teams
 
-**Vaporize (Optimized)**
+****[**Vaporize**](../../teams/reverse-vaporize.md) **(Optimized)**
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_amber.png)
 
@@ -90,7 +90,7 @@ Click on the team names below for more details on how the team works and alterna
 * Amber can apply **Pyro** with her **Elemental Burst** which can then be swirled by an **Anemo** character. Amber also provides **Pyro Resonance**.
 * Amber and Kazuha are specifically chosen here due to access to **Freedom Sworn**, **Elegy of the End**, as well as a host of buffs and debuffs. Alternative **Anemo** or **Pyro** character can be used over these two characters but may result in slightly lower DPS.
 
-**Vaporize (+Melt)**
+****[**Vaporize**](../../teams/reverse-vaporize.md) **(+**[**Melt**](../../teams/reverse-melt.md)**)**
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
