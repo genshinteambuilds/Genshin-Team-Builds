@@ -21,14 +21,14 @@
 
 #### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
-* In the main DPS role, Klee’s rapid **Pyro** application allows her to be used in **Pure** **Pyro**, **Melt (Cryo)** or **Vaporize** teams.
-* In Klee’s **Vaporize** teams, her **Elemental Burst** can apply **Pyro** too fast and causes **Vaporize** reactions to be inconsistent.
+* In the Main DPS role, Klee’s rapid **Pyro** application allows her to be used in [**Pure** **Pyro**](../../teams/pure-pyro.md), [**Melt (Cryo)**](../../teams/reverse-melt.md) or [**Vaporize**](../../teams/reverse-vaporize.md) teams.
+* In Klee’s **Vaporize** teams, her **Elemental Burst** can apply **Pyro** too fast and causes **Vaporize** **reactions** to be inconsistent.
 
 ## Doesn’t Work Well With
 
 #### ![](../../.gitbook/assets/ui\_icon\_electro.webp)
 
-* **Overload** is generally not advised with Klee as overload may push smaller enemies out of Klee’s reach.
+* **Overload** is generally not advised with Klee as **overload** may push smaller enemies out of Klee’s reach.
 
 ## Teams
 
@@ -52,13 +52,13 @@ In all teams below, Bennett acts as the team's healer while providing an **ATK**
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_klee.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* Klee triggers **Vaporize** reactions with her **Charged Attack**, **Elemental Skill** and **Elemental Burst**. True only if Xingqiu is C6 due to too much **Pyro** application by Klee herself.
+* Klee triggers **Vaporize** **reactions** with her **Charged Attack**, **Elemental Skill** and **Elemental Burst**. True only if Xingqiu is C6 due to too much **Pyro** application by Klee herself.
 * Xingqiu applies **Hydro** on enemies with his **Elemental Burst** and provides resistance to interruption.
 * Sucrose debuffs enemies' **Pyro RES** with **Viridescent Venerer** while also buffing **Elemental Mastery**.
 
 ### Character Specific Teams
 
-**Melt (w/ Rosaria)**
+****[**Melt**](../../teams/reverse-melt.md) **(w/ Rosaria)**
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_klee.png)![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
