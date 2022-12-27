@@ -29,14 +29,14 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental RES** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
+* As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental RES** with **Viridescent Venerer** 4-set or Zhongli's Jade Shield. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 * Bennett's **Elemental Burst** provides healing and a massive **ATK** buff, making him a staple character in most teams.
 
 ## Does Not Work Well With
 
 #### ![](../../.gitbook/assets/ui\_icon\_cryo.webp)
 
-* **Melt** teams using Diluc typically do not work well due to the inability of most **Cryo** supports to apply **Cryo** aura fast enough so that Diluc will be the character causing the **Melt** reaction and benefiting from the **DMG** amplification.
+* **Melt** teams using Diluc typically do not work well due to the inability of most **Cryo** supports to apply **Cryo** aura fast enough so that Diluc will be the character causing the **Melt** **reaction** and benefiting from the **DMG** amplification.
 * **Melt** teams can work early in the game due to Diluc having much lower uptime on his **Elemental Burst** and **Pyro** infusion but generally fall off the further into the game as you progress.
 * **Melt** teams can sometimes still work if enough **Cryo** applying sources are added to the team such as Ayaka's **Elemental Burst** + Ganyu's **Elemental Burst** but this is often not practical and isn't recommended.
 

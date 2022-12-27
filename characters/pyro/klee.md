@@ -9,8 +9,8 @@
 
 * **Elemental Skill** throws a Jumpty Dumpty, which bounces 3 times and explodes into 8 mines. Jumpty Dumpty starts with 2 charges.
 * **A1** gives Klee a 50% chance to gain an Explosive Spark when **Normal attacks** and Jumpty Dumpty hits enemies. When in possession of Explosive Spark, Klee’s next **Charged Attack** will cost no **Stamina** and have a 50% **DMG Bonus**.
-* **Elemental Burst** summons 4 **Sparks ‘n’ Splash** 5 times over 10 seconds, dealing **AoE** **Pyro DMG** to nearby enemies.
-* **A4** gives party members 2 energy when Klee’s **Charged Attacks** deals **CRIT DMG.**
+* **Elemental Burst** summons 4 Sparks ‘n’ Splash 5 times over 10 seconds, dealing **AoE** **Pyro DMG** to nearby enemies.
+* **A4** gives party members 2 energy when Klee’s **Charged Attacks** deals **CRIT DMG**.
 
 ## Additional Notes
 
@@ -52,13 +52,13 @@ In all teams below, Bennett acts as the team's healer while providing an **ATK**
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_klee.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* Klee triggers **Vaporize** **reactions** with her **Charged Attack**, **Elemental Skill** and **Elemental Burst**. True only if Xingqiu is C6 due to too much **Pyro** application by Klee herself.
-* Xingqiu applies **Hydro** on enemies with his **Elemental Burst** and provides resistance to interruption.
+* Klee triggers **Vaporize** **reactions** with her **Charged Attack**, **Elemental Skill** and **Elemental Burst**. True only if Xingqiu is **C6** due to too much **Pyro** application by Klee herself.
+* Xingqiu applies **Hydro** on enemies with his **Elemental Burst** and provides **RES** to interruption.
 * Sucrose debuffs enemies' **Pyro RES** with **Viridescent Venerer** while also buffing **Elemental Mastery**.
 
 ### Character Specific Teams
 
-****[**Melt**](../../teams/reverse-melt.md) **(w/ Rosaria)**
+**Melt (w/ Rosaria)**
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_klee.png)![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 

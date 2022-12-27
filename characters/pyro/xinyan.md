@@ -8,11 +8,11 @@
 ## Character Breakdown
 
 * **Elemental Skill** deals **Pyro** **DMG**, applies **Pyro** to Xinyan, and creates a shield. The Shield's **DMG** absorption varies depending on how many opponents are hit by the **Elemental Skill**.
-  * Hitting 0–1 opponents grants Shield Level 1: **Ad Lib**.
-  * Hitting 2 opponents grants Shield Level 2: **Lead-In**.
-  * Hitting 3 or more opponents grants Shield Level 3: **Rave**, which also deals **Pyro** **DMG** to nearby enemies.
+  * Hitting 0–1 opponents grants Shield Level 1: Ad Lib.
+  * Hitting 2 opponents grants Shield Level 2: Lead-In.
+  * Hitting 3 or more opponents grants Shield Level 3: Rave, which also deals **Pyro** **DMG** to nearby enemies.
 * **Elemental Burst** launches nearby opponents and deals **Physical** **DMG** followed by periodic **Pyro** **DMG** around her.
-* **A2** decreases the number of enemies the **Elemental Skill** must hit to trigger that level of shielding. This means that after reaching this **Ascension** level, Xinyan will always trigger at least Shield Level 2: **Lead In**.
+* **A2** decreases the number of enemies the **Elemental Skill** must hit to trigger that level of shielding. This means that after reaching this Ascension level, Xinyan will always trigger at least Shield Level 2: Lead In.
 * **A4** makes characters shielded by Xinyan's **Elemental Skill** deal 15% increased **Physical** **DMG**.
 
 ## Additional Notes

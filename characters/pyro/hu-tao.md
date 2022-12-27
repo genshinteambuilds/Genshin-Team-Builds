@@ -9,7 +9,7 @@
 
 * **Elemental Skill** infuses Hu Tao’s **Normal Attack** and **Charged Attacks** with **Pyro** and increases Hu Tao’s **ATK** based on her **Max HP.**
   * **Elemental Skill** consumes 30% of Hu Tao's current **HP** when cast.
-  * **Elemental Skill** knocks back enemies near Hu Tao on activation and increases her resistance to interruption.
+  * **Elemental Skill** knocks back enemies near Hu Tao on activation and increases her **RES** to interruption.
   * Using **Charged Attacks** while the **Elemental Skill** is active applies Blood Blossom to the enemies hit. Enemies affected by Blood Blossom will take **Pyro** **DMG** periodically.
 * **Elemental Burst** deals a large amount of **AoE Pyro** **DMG** and heals Hu Tao based on the number of enemies hit.
   * **Elemental Burst** **DMG** and healing are increased if Hu Tao’s **HP** is equal to or less than 50%.
@@ -18,7 +18,7 @@
 ## **Additional Notes**
 
 * **C1** makes Hu Tao's **Charged Attack** cost no stamina while her **Elemental Skill** is active.
-* Hu Tao's attack combo can depend on whether she is **C0** or **C1**. 2 common combos are:
+* Hu Tao's **ATK** combo can depend on whether she is **C0** or **C1**. 2 common combos are:
   * `NA → NA -> CA → JC → NA -> NA → CA → JC` at **C0**
   * `NA → CA → DC → NA → CA → DC` at **C1**
     * `NA` = **Normal Attack** `CA` = **Charged Attack** `JC` = **Jump** Cancel `DC` = **Dash** Cancel
@@ -26,7 +26,7 @@
     * Animation cancelling the end of the **Charged Attack** is necessary for optimal **DMG** if using `NA → CA`. Can be done with **Dash** or **Jump**.
   * **Dash** Cancels provide more **DMG** overall in Hu Tao's attack combo but is often not performed at **C0** because of the **Stamina** consumption from both the **Dash** and **Charged Attack.**
   * There are technically many different Hu Tao combo strings beyond always performing 1 **Normal Attack** and then 1 **Charged Attack**.
-* **Elemental Burst** is mainly used at the end of her attack combo just before her **Elemental Skill** expires or if Hu Tao needs to dodge an attack or heal.
+* **Elemental Burst** is mainly used at the end of her **ATK** combo just before her **Elemental Skill** expires or if Hu Tao needs to dodge an **ATK** or heal.
 
 ## **Works Well With**
 
@@ -36,7 +36,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)
 
-* Can be used in [**Oneshot**](../../work-in-progress/oneshot.md) Melt team compositions to quickly dispatch an enemy although this is fairly niche.
+* Can be used in [**Oneshot**](../../work-in-progress/oneshot.md) **Melt** team compositions to quickly dispatch an enemy although this is fairly niche.
 
 ## **Does Not Work Well With**
 
@@ -90,7 +90,7 @@ Click on the team names below for more details on how the team works and alterna
 * Amber can apply **Pyro** with her **Elemental Burst** which can then be swirled by an **Anemo** character. Amber also provides **Pyro Resonance**.
 * Amber and Kazuha are specifically chosen here due to access to **Freedom Sworn**, **Elegy of the End**, as well as a host of buffs and debuffs. Alternative **Anemo** or **Pyro** character can be used over these two characters but may result in slightly lower DPS.
 
-****[**Vaporize**](../../teams/reverse-vaporize.md) **(+**[**Melt**](../../teams/reverse-melt.md)**)**
+****[**Vaporize**](../../teams/reverse-vaporize.md) **(+Melt)**
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 

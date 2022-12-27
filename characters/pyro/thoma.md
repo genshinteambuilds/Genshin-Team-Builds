@@ -15,7 +15,7 @@
 * **A4** causes the additional **Pyro DMG** dealt from **Normal Attacks** while Thoma's **Elemental Burst** is active to be increased by 2.2% of Thoma's **Max HP**.
 * All of Thoma's shields can stack on top of each other, refreshing the duration and combining their shield **HP.**
   * Thoma's combined shield **HP** cannot exceed a certain amount.
-* **A2** increases the active characters **Shield Strength** by 5% for 6 seconds every time one of Thoma's shields is created or refreshed, up to a 25% increase.
+* **A2** increases the active characters Shield Strength by 5% for 6 seconds every time one of Thoma's shields is created or refreshed, up to a 25% increase.
 
 ## Additional Notes
 

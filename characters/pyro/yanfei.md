@@ -17,7 +17,7 @@
 ## Additional Notes
 
 * Her best combo is usually 3 **Normal Attacks** to fully stack her Scarlet Seals then followed by 1 **Charged Attack** to consume the Scarlet Seals and deal additional **DMG**.
-* **C1** allows Yanfei's Scarlet Seal to decrease the **Stamina** cost of Yanfei's **Charged Attacks** by a further 10%, and increases resistance to interruption when performing a **Charged Attack**.
+* **C1** allows Yanfei's Scarlet Seal to decrease the **Stamina** cost of Yanfei's **Charged Attacks** by a further 10%, and increases **RES** to interruption when performing a **Charged Attack**.
   * This can decrease Yanfei's **Charged Attack** cost by up to 75% at Max Stacks.
 * **C4** creates a shield when Yanfei casts her **Elemental Burst**. This shield absorbs up to 45% of Yanfei's **Max HP** and lasts 15 seconds.
 * **C6** increases the max stacks of Scarlet Seal from 3 to 4.

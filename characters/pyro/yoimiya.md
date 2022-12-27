@@ -29,7 +29,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
-* Xingqiu’s **Elemental Skill** and **Burst** help to protect Yoimiya with **DMG Reduction** and resistance to interruption, as well enable **Vaporize** **reactions** with his **Elemental Burst**. It also triggers her **Elemental Burst DMG** on enemies marked with Aurous Blaze while being Off-Field.
+* Xingqiu’s **Elemental Skill** and **Burst** help to protect Yoimiya with **DMG Reduction** and **RES** to interruption, as well enable **Vaporize** **reactions** with his **Elemental Burst**. It also triggers her **Elemental Burst DMG** on enemies marked with Aurous Blaze while being Off-Field.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_beidou.png)
 
