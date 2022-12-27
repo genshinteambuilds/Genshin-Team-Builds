@@ -8,10 +8,10 @@
 
 ## Character Breakdown
 
-* When peforming her **Charged Attack** there are 2 charge levels. At **Charge level 1,** she fires off a flaming arrow. At level 2, she can generate up to 3 **Kindling Arrows** based on charge time, which will home onto nearby enemies.
+* When peforming her **Charged Attack** there are 2 charge levels. At **Charge level 1,** she fires off a flaming arrow. At level 2, she can generate up to 3 Kindling Arrows based on charge time, which will home onto nearby enemies.
 * **Elemental Skill** increases Yoimiya's **Normal Attack** **DMG** and converts it to **Pyro** **DMG**, which cannot be overridden and ends early if Yoimiya leaves the field.
-* **Elemental Burst** deals **AoE** **Pyro** **DMG** and marks an opponent hit with **Aurous Blaze**.
-  * Excluding Yoimiya, whenever a character hits an enemy marked with **Aurous Blaze** it will trigger an explosion and deal extra **Pyro AoE** **DMG**. The mark is transferred to another enemy if they are defeated before the duration her **Elemental Burst** ends.
+* **Elemental Burst** deals **AoE** **Pyro** **DMG** and marks an opponent hit with Aurous Blaze.
+  * Excluding Yoimiya, whenever a character hits an enemy marked with Aurous Blaze it will trigger an explosion and deal extra **Pyro AoE** **DMG**. The mark is transferred to another enemy if they are defeated before the duration her **Elemental Burst** ends.
 * **A1** increases Yoimiya’s **Pyro** **DMG** during her **Elemental Skill** duration by 2% per hit, which lasts for 3 seconds and stacks up to 10 times.
 * **A4** allows Yoimiya to give other team members a 10% **ATK** buff after using her **Elemental Burst**. A further buff to ATK is given based on the number of stacks Yoimiya has gained from her **A1**.
 
@@ -29,7 +29,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
-* Xingqiu’s **Elemental Skill** and **Burst** help to protect Yoimiya with **DMG Reduction** and resistance to interruption, as well enable **Vaporize** **reactions** with his **Elemental Burst**. It also triggers her **Elemental Burst DMG** on enemies marked with **Aurous Blaze** while being Off-Field.
+* Xingqiu’s **Elemental Skill** and **Burst** help to protect Yoimiya with **DMG Reduction** and resistance to interruption, as well enable **Vaporize** **reactions** with his **Elemental Burst**. It also triggers her **Elemental Burst DMG** on enemies marked with Aurous Blaze while being Off-Field.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_beidou.png)
 
@@ -38,11 +38,11 @@
 #### ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Bennett's **Elemental Burst** provides healing and a massive **ATK** buff, making him a recommended character in most teams. He can also provide **Pyro Resonance** which buffs ATK.
-* He can act as an **Energy Battery** for Yoimiya, recharging her **Elemental Burst** faster.
+* He can act as an Energy Battery for Yoimiya, recharging her **Elemental Burst** faster.
 
 #### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)
 
-* As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental RES** with **Viridescent Venerer** 4-set or Zhongli's **Jade Shield**. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
+* As with all **Elemental DMG** DPS characters, **Anemo** supports and Zhongli works well by reducing the enemies' **Elemental RES** with **Viridescent Venerer** 4-set or Zhongli's Jade Shield. **Anemo** characters often also supply useful Crowd Control abilities or other buffs.
 * Albedo provides **Elemental Mastery** buff when using his **Elemental Burst**.
 
 ![](../../.gitbook/assets/ui\_avataricon\_yunjin.png)
@@ -53,7 +53,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_mona.png)
 
-* Mona’s **Omen** debuff from her **Elemental Burst** lasts for only a few seconds.
+* Mona’s Omen debuff from her **Elemental Burst** lasts for only a few seconds.
 * Mona cannot apply **Hydro** as often as Xingqiu which will result in Yoimiya triggering **Vaporize** inconsistently.
 
 #### ![](../../.gitbook/assets/ui\_icon\_cryo.webp)
@@ -74,4 +74,4 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_yoimiya.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
-* Xingqiu’s **Elemental Burst** applies **Hydro** on enemies whenever Yoimiya performs a **Normal Attack**, which allows for **Vaporize** **reactions** if Yoimiya's **Elemental Skill** is active. It additionally triggers Yoimiya's **Aurous Blaze** on marked enemies.
+* Xingqiu’s **Elemental Burst** applies **Hydro** on enemies whenever Yoimiya performs a **Normal ATK**, which allows for **Vaporize** **reactions** if Yoimiya's **Elemental Skill** is active. It additionally triggers Yoimiya's Aurous Blaze on marked enemies.
