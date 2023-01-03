@@ -26,6 +26,7 @@
   * [Sucrose](characters/anemo/sucrose.md)
   * [Traveler (Anemo)](characters/anemo/traveler-anemo.md)
   * [Venti](characters/anemo/venti.md)
+  * [Wanderer](characters/anemo/wanderer.md)
   * [Xiao](characters/anemo/xiao.md)
 * [Cryo](characters/cryo/README.md)
   * [Aloy](characters/cryo/aloy.md)
