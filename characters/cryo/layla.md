@@ -31,12 +31,12 @@
 
 ****[**Freeze (Cryo)**](../../teams/freeze.md)****
 
-![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Layla.png)
+![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_avataricon\_layla.png)
 
 ****[**Melt (Cryo)**](../../teams/reverse-melt.md)****
 
-![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)![](../../.gitbook/assets/UI\_AvatarIcon\_Layla.png)
+![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)![](../../.gitbook/assets/ui\_avataricon\_layla.png)
 
 ****[**Physical (Cryo)**](../../teams/physical-cryo.md)****
 
-![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/UI\_AvatarIcon\_Layla.png)
+![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_avataricon\_layla.png)

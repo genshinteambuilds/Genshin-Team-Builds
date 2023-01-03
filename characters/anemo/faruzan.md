@@ -37,5 +37,5 @@ Click on the team names below for more details on how the team works and alterna
 
 ****[**Anemo**](../../teams/anemo.md)****
 
-****![](../../.gitbook/assets/ui\_avataricon\_xiao.png)****![](../../.gitbook/assets/ui\_avataricon\_jean.png)****![](../../.gitbook/assets/ui\_avataricon\_bennett.png)****
+****![](../../.gitbook/assets/ui\_avataricon\_xiao.png)****![](../../.gitbook/assets/ui\_avataricon\_jean.png)
 
