@@ -30,7 +30,7 @@
 
 ## Works Well With
 
-_faruzan.png_
+![](../../.gitbook/assets/ui\_avataricon\_faruzan.png)
 
 * Wanderer mainly deals **Anemo Damage**, and Faruzan's ability to debuff **Anemo RES** and buff the damage of **Anemo** **Normal** and **Charged Attacks** synergizes extremely well with Wanderer.
 
@@ -53,7 +53,7 @@ _faruzan.png_
 
 **Anemo**
 
-/wanderer /faruzan ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
+![](../../.gitbook/assets/ui\_avataricon\_wanderer.png) ![](../../.gitbook/assets/ui\_avataricon\_faruzan.png) ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
 * Wanderer deals large amounts of **Anemo Damage**, supported by Faruzan and Bennett's various buffs.
 * Faruzan both buffs Wanderer and can help generate **Anemo Particles** for Wanderer's **Elemental Burst.**
