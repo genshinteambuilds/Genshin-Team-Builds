@@ -69,10 +69,10 @@ Click on the team names below for more details on how the team works and alterna
 
 ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_yelan.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
-* Like Xingqiu, Yelan does not contribute to the **Superconduct** reaction required for **Physical** teams at all, she is in general just an incredibly useful support; incidentally **Freezing** enemies, dealing large amounts of damage by herself and buffing the Main DPS's **DMG** and **Max HP**.
+* Like Xingqiu, Yelan does not contribute to the **Superconduct** reaction required for **Physical** teams at all, she is in general just an incredibly useful support; incidentally **Freezing** enemies, dealing large amounts of damage by herself and buffing the On-Field DPS's **DMG** and **Max HP**.
 
 ****[**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)****
 
 ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_yelan.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
-* Yelan can either replace or be paired with Xingqiu as a Core Support/Off-Field DPS required to make **Vaporize** teams work. Her **Elemental Burst** deals a large amount of **Hydro DMG** and consistently applies **Hydro** to enemies to allow the **Pyro** **Main DPS c**haracter to consistently trigger **Vaporize** reactions. At **C2** her **Hydro** Application becomes great enough to consistently **Vaporize** all of Hu Tao's **Charged Attacks** and so can completely replace Xingqiu in a Hu Tao team.
+* Yelan can either replace or be paired with Xingqiu as a Core Support/Off-Field DPS required to make **Vaporize** teams work. Her **Elemental Burst** deals a large amount of **Hydro DMG** and consistently applies **Hydro** to enemies to allow the **Pyro** On-Field DPS **** character to consistently trigger **Vaporize** reactions. At **C2** her **Hydro** Application becomes great enough to consistently **Vaporize** all of Hu Tao's **Charged Attacks** and so can completely replace Xingqiu in a Hu Tao team.

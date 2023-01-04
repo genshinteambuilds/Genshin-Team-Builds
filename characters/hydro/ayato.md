@@ -2,7 +2,8 @@
 
 ## Roles
 
-* **Main DPS**
+* **On-Field DPS**
+* **Off-Field DPS (Elemental Burst)**
 
 ## Character Breakdown
 
@@ -85,4 +86,4 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/ui\_avataricon\_ayato.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_yunjin.png)
 
 * This team is based around maximizing Ayato's damage through funneling various buffs onto him.&#x20;
-* Ayato acts as the Main DPS while other characters provide either Off-Field DPS or various buffs or debuffs.
+* Ayato acts as the On-Field DPS while other characters provide either Off-Field DPS or various buffs or debuffs.

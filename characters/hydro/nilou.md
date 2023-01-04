@@ -2,7 +2,7 @@
 
 ## **Roles**
 
-* **Main DPS**
+* **On-Field DPS**
 * **Support**: Buffer
 
 ## **Character Breakdown**

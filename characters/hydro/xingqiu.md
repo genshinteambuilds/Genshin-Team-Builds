@@ -22,7 +22,7 @@
 
 #### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)![](../../.gitbook/assets/ui\_icon\_dendro.webp)
 
-* Xingqiu works incredibly well with almost every character in the game so long as the Main DPS character being used uses **Normal Attacks** that can trigger Xingqiu's **Elemental Burst** sword rain attacks.
+* Xingqiu works incredibly well with almost every character in the game so long as the On-Field DPS character being used uses **Normal Attacks** that can trigger Xingqiu's **Elemental Burst** sword rain attacks.
   * Even **Charged Attack** based characters besides those that use Bows can make use of Xingqiu as a single **Normal Attack** is performed before each **Charged Attack**.
 * Xingqiu is a core member of many **Vaporize**, **Electro-charged**, and **Freeze** teams.
 * Xingqiu also works with other **Hydro** characters at **C2** as his sword rain attacks decrease the **Hydro** **RES** of enemies.
@@ -69,4 +69,4 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
-* Xingqiu is the Core Support / Off-Field DPS required to make **Vaporize** teams work. His **Elemental Burst** deals a large amount of **Hydro DMG** and consistently applies **Hydro** to enemies to allow the **Pyro** Main DPS character to consistently trigger **Vaporize** reactions.
+* Xingqiu is the Core Support / Off-Field DPS required to make **Vaporize** teams work. His **Elemental Burst** deals a large amount of **Hydro DMG** and consistently applies **Hydro** to enemies to allow the **Pyro** On-Field DPS character to consistently trigger **Vaporize** reactions.

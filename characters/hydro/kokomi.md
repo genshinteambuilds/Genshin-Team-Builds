@@ -4,7 +4,7 @@
 
 * **Support**: Healer, Cleanser (Self Only)
 * **Off-Field DPS** (Elemental Skill)
-* **Main DPS** (See Additional Notes/Teams)
+* **On-Field DPS** (See Additional Notes/Teams)
 
 ## Character Breakdown
 
@@ -17,8 +17,8 @@
 ## **Additional Notes**
 
 * Kokomi's healing scales off **HP.**
-* Kokomi's massive **CRIT Rate** reduction from her third passive talent greatly hampers her ability as a traditional Main DPS.
-  * Kokomi's high **Hydro** application enables her to be a non-conventional Main DPS in [**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md) teams through frequently triggering reactions.
+* Kokomi's massive **CRIT Rate** reduction from her third passive talent greatly hampers her ability as a traditional On-Field DPS.
+  * Kokomi's high **Hydro** application enables her to be a non-conventional On-Field DPS in [**Electro-Charged (Hydro)**](../../teams/electro-charged-hydro.md) teams through frequently triggering reactions.
 
 ## **Works Well With**
 
@@ -67,7 +67,7 @@ This character is a Healer. While some teams are provided below where they are p
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)
 
-* Kokomi's high **Hydro** application allows her to be used as a Main DPS in this team to repeatedly trigger **Electro-Charged**.
+* Kokomi's high **Hydro** application allows her to be used as a On-Field DPS in this team to repeatedly trigger **Electro-Charged**.
 * Kokomi's massive reduction in **CRIT Rate** allows her to build heavily into **Elemental Mastery**, greatly increasing the output of **Electro-Charged Elemental Reactions**.&#x20;
 
 [**Freeze (Cryo)**](../../teams/freeze.md)
