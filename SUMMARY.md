@@ -5,7 +5,7 @@
 
 ## Roles
 
-* [Main DPS](roles/main-dps.md)
+* [On-Field DPS](roles/main-dps.md)
 * [Burst DPS](roles/burst-dps.md)
 * [Off-Field DPS](roles/off-field-dps.md)
 * [Support](roles/support/README.md)
