@@ -2,7 +2,7 @@
 
 ## **Roles**
 
-* **Main DPS** (Electro, Physical)
+* **On-Field DPS** (Electro, Physical)
 * **Burst DPS**
 
 ## **Character Breakdown**
@@ -17,7 +17,7 @@
 
 ## **Additional Notes**
 
-* Keqing can be played as either an **Electro** or **Physical** Main DPS.
+* Keqing can be played as either an **Electro** or **Physical** On-Field DPS.
 * Keqing can easily run out of **Stamina** due to her **Charged Attacks** being her main source of damage.
 * She can maintain her **Electro** Infusion by using her **Elemental Skill** then using her **Elemental Burst** before recasting the **Elemental Skill**.
 * Keqing's **Charged Attack** can often knock back smaller enemies making it difficult to deal consistent damage.

@@ -4,7 +4,7 @@
 
 * **Off-Field DPS** (Elemental Skill)
 * **Burst DPS**
-* **Main DPS**
+* **On-Field DPS**
 
 ## **Character Breakdown**
 

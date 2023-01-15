@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Main DPS**&#x20;
+* **On-Field DPS**&#x20;
 
 ## Character Breakdown
 
@@ -23,7 +23,7 @@
 * **Elemental Burst** can change Razor's optimal attack combo depending if it's active or not.
   * If Razor's **Elemental Burst** is not active, Razor deals more DPS with a three-hit combo followed by a dash cancel.
   * If Razor's **Elemental Burst** is active, Razor deals more DPS with a full four-hit combo followed by a dash cancel.
-* **Elemental Burst** will be cancelled when swapping to another character while it's active. This why Razor is referred as a Selfish Main DPS and it is generally recommended to keep him on the field for as long as possible.
+* **Elemental Burst** will be cancelled when swapping to another character while it's active. This why Razor is referred as a Selfish On-Field DPS and it is generally recommended to keep him on the field for as long as possible.
   * An exception to this is when all enemies have be defeated. Cancelling his **Elemental Burst** will return a small amount of energy to Razor.
 * Razor's Passive Talent reduces the **Stamina** consumption of sprinting by 20% for the entire team, and is non-stackable with other similar Passive Talents. This makes Razor a good world exploration character, as his claymore can also mine ores.
 
@@ -83,7 +83,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
-* A team that runs Razor as Main DPS and a **Cryo** support to cause **Superconduct**.
+* A team that runs Razor as On-Field DPS and a **Cryo** support to cause **Superconduct**.
 * Xingqiu provides Off-Field **Hydro DMG** and resistance to interruption.
 * Fischl acts as an Energy Battery and provides Off-Field **Electro DMG**.
 * Diona provides **Cryo** for **Superconduct** and also shields and heals.

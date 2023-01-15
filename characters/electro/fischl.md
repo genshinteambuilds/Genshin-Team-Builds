@@ -3,7 +3,7 @@
 ## Roles
 
 * **Off-Field DPS** (Elemental Skill, Elemental Burst)
-* **Main DPS** (Not Recommended)
+* **On-Field DPS** (Not Recommended)
 
 ## Character Breakdown
 
@@ -41,7 +41,7 @@
 
 #### ![](../../.gitbook/assets/ui\_icon\_pyro.webp)
 
-* Fischl’s constant **Electro** application can knock enemies out of range when used with a **Pyro** Main DPS due to **Overload's** knock back effect. **Electro** can also interfere with the consistency of **Vaporize** or **Melt** reactions.
+* Fischl’s constant **Electro** application can knock enemies out of range when used with a **Pyro** On-Field DPS due to **Overload's** knock back effect. **Electro** can also interfere with the consistency of **Vaporize** or **Melt** reactions.
   * However, some teams can still function this way. See [**Overload**](../../teams/overload.md).
 
 ## Teams
@@ -74,4 +74,4 @@ In all the teams listed below, Fischl universally provides Off-Field **Electro**
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
-* Fischl pairs well with **Physical** Main DPS because of frequent **Superconduct** reactions, which debuff **Physical RES**. She also helps provide extra Off-Field **Electro DMG** without requiring much time spent on her character.
+* Fischl pairs well with **Physical** On-Field DPS because of frequent **Superconduct** reactions, which debuff **Physical RES**. She also helps provide extra Off-Field **Electro DMG** without requiring much time spent on her character.

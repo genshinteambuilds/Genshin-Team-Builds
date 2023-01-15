@@ -4,7 +4,7 @@
 
 * **Off-Field DPS** (Elemental Burst)
 * **Support**: Debuffer (A4)
-* **Main DPS** (Not Recommended)
+* **On-Field DPS** (Not Recommended)
 
 ## Character Breakdown
 
@@ -24,7 +24,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_razor.png)
 
-* Lisa pairs well with **Physical** Main DPS because of the **DEF** reduction from her **Elemental Burst** and **Superconduct** reactions which debuffs **Physical RES**.
+* Lisa pairs well with **Physical** On-Field DPS because of the **DEF** reduction from her **Elemental Burst** and **Superconduct** reactions which debuffs **Physical RES**.
 * Razor being an **Electro** character also helps Lisa have better uptime on her **Elemental Burst** because of its high energy requirement.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_venti.png)
@@ -39,7 +39,7 @@
 
 #### ![](../../.gitbook/assets/ui\_icon\_pyro.webp)
 
-* Lisa's constant **Electro** application can knock enemies out of range when used with a **Pyro** Main DPS due to **Overload's** knock back effect. **Electro** can also interfere with the consistency of **Vaporize** or **Melt** reactions.
+* Lisa's constant **Electro** application can knock enemies out of range when used with a **Pyro** On-Field DPS due to **Overload's** knock back effect. **Electro** can also interfere with the consistency of **Vaporize** or **Melt** reactions.
 
 ## Teams
 

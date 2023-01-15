@@ -5,7 +5,7 @@
 * **Burst DPS**
 * **Off-Field DPS** (Elemental Skill)
 * **Support:** Energy Battery, Buffer
-* **Main DPS**
+* **On-Field DPS**
 
 ## **Character Breakdown**
 
@@ -21,7 +21,7 @@
 
 * **Elemental Skill** will not launch a coordinated attack against enemies protected by certain shields, such as Abyss Mages.
 * **Elemental Burst** can only provide energy to the team 5 times, with a 1 second cooldown between activations.
-* **C2** massively increases Raiden Shogun's **Elemental Burst** **DMG** making her a strong Main DPS option when building a team.
+* **C2** massively increases Raiden Shogun's **Elemental Burst** **DMG** making her a strong On-Field DPS option when building a team.
 * The Raiden Shogun can't cook.
 
 ## **Works Well With**
@@ -32,7 +32,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)
 
-* Eula is naturally a very strong Main DPS to pair with Raiden Shogun due to the fact that Raiden Shogun provides consistent **Superconduct** reaction when Off-Field while also increasing Eula’s **Elemental Burst** **DMG** which she is generally very reliant on. The Raiden Shogun’s energy generation can also assist recharging Eula’s own **Elemental Burst.**
+* Eula is naturally a very strong On-Field DPS to pair with Raiden Shogun due to the fact that Raiden Shogun provides consistent **Superconduct** reaction when Off-Field while also increasing Eula’s **Elemental Burst** **DMG** which she is generally very reliant on. The Raiden Shogun’s energy generation can also assist recharging Eula’s own **Elemental Burst.**
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_traveler\_electro.png)
 
@@ -78,7 +78,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_sara.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* This team that utilizes the Raiden Shogun as the Main DPS and focuses on buffing her **Elemental Burst** **DMG** while feeding the whole team high amounts of energy. For a detailed look at how this team works, check out the [**Oneshot**](../../work-in-progress/oneshot.md) page.
+* This team that utilizes the Raiden Shogun as the On-Field DPS and focuses on buffing her **Elemental Burst** **DMG** while feeding the whole team high amounts of energy. For a detailed look at how this team works, check out the [**Oneshot**](../../work-in-progress/oneshot.md) page.
 * Sara provides an **ATK** buff, as well as **Electro Energy Particle** generation for Raiden Shogun. She can also provide a **CRIT DMG** buff with **C6**.
 * Kazuha buffs Raiden Shogun's **Elemental Burst** even further by debuffing **Electro RES** with the **Viridescent Venerer** 4-set, as well as buffing **Elemental DMG**.
 * Bennett acts as the team's healer while providing an **ATK** buff from his **Elemental Burst**.

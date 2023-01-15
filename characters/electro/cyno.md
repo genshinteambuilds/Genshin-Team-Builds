@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Main DPS** (selfish)
+* **On-Field DPS** (selfish)
 
 ## Character Breakdown
 

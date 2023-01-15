@@ -2,7 +2,7 @@
 
 ## **Roles**
 
-* **Main DPS**
+* **On-Field DPS**
 
 ## **Character Breakdown**
 
@@ -45,6 +45,11 @@
 #### ![](../../.gitbook/assets/ui\_avataricon\_albedo.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
 * Albedo and Fischl are strong Off-Field DPS and are able to battery the team. Diona can provide both a shield and healing. Both Fischl and Diona can provide an element for **Crystallize** to occur.
+
+![](../../.gitbook/assets/ui\_avataricon\_ningguang.png)
+
+* Fulfills the role of a geo resonance support or Gorou's need for a third geo unit.
+* As a catalyst user, she can support via weapon and artifacts.
 
 ## Does Not Work Well With
 

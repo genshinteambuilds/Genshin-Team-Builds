@@ -55,8 +55,8 @@
 
 #### ![](../../.gitbook/assets/ui\_icon\_cryo.webp)
 
-* Pairing Beidou with most **Cryo** Main DPS will largely lead to triggering **Superconduct**, a reaction which does not increase **Cryo** or **Electro** **DMG**, and will also stop enemies from being **Frozen.**
-  * **Physical** Main DPS that use **Cryo** abilities are an exception and can be used with her in order to provide additional Off-Field **Electro DMG** alongside providing **Superconduct**.
+* Pairing Beidou with most **Cryo** On-Field DPS will largely lead to triggering **Superconduct**, a reaction which does not increase **Cryo** or **Electro** **DMG**, and will also stop enemies from being **Frozen.**
+  * **Physical** On-Field DPS that use **Cryo** abilities are an exception and can be used with her in order to provide additional Off-Field **Electro DMG** alongside providing **Superconduct**.
 
 #### ![](../../.gitbook/assets/ui\_icon\_pyro.webp)
 

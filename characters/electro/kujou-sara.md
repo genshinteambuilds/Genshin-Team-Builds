@@ -36,7 +36,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)![](../../.gitbook/assets/ui\_avataricon\_eula.png)
 
-* Kujou Sara can provide **Superconduct** and **ATK** buff to a **Physical** Main DPS that is **Cryo**, though there are often better alternatives for this role.
+* Kujou Sara can provide **Superconduct** and **ATK** buff to a **Physical** On-Field DPS that is **Cryo**, though there are often better alternatives for this role.
 
 ## **Does Not Work Well With**
 
