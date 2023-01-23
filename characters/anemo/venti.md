@@ -59,7 +59,7 @@ In the following teams, Venti provides debuffing utility using the **Viridescent
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ganyu.png)![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
-* Venti on this team main uses his **Elemental Burst** to keep enemies grouped up and Frozen for Ganyu to shoot down using her fully aimed **Charged attacks.**
+* Venti on this team mainly uses his **Elemental Burst** to keep enemies grouped up and Frozen for Ganyu to shoot down using her fully aimed **Charged attacks.**
 
 [**Vaporize (Hydro)**](../../teams/vaporize.md)
 

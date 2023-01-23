@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Main DPS**
+* **On-Field DPS**
 
 ## Character Breakdown
 
@@ -46,7 +46,7 @@
 
 ![](../../.gitbook/assets/ui\_avataricon\_xiao.png)![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_diluc.png)![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_razor.png)
 
-* As a Main DPS himself, Wanderer does not want to paired with other Main DPS's.
+* As a **On-FIeld** DPS himself, Wanderer does not want to paired with other characters of the same role
 * Wanderer can't easily deal **Physical Damage** and so should not be paired with Physical damage characters.
 
 ## Teams

@@ -64,7 +64,7 @@ In the following teams, Sucrose provides debuffing utility using the **Viridesce
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ganyu.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* Sucrose's **Elemental Burst** can infuse with **Pyro** allowing the **Cryo** Main DPS to **Melt.** Her **Elemental Mastery** buff also helps the **Cryo** Main DPS when triggering **Melt** reactions.
+* Sucrose's **Elemental Burst** can infuse with **Pyro** allowing the **Cryo** **On-Field** **DPS** to **Melt.** Her **Elemental Mastery** buff also helps the **Cryo** **On-Field DPS** when triggering **Melt** reactions.
 
 #### [Vaporize (Pyro)](../../teams/reverse-vaporize.md)
 
@@ -72,7 +72,7 @@ In the following teams, Sucrose provides debuffing utility using the **Viridesce
 
 * Sucrose provides **Elemental Mastery** to buff **Elemental Reactions** such as **Vaporize**.
 * Sucrose also provides Crowd Control with her **Elemental Skill** and **Elemental Burst.**&#x20;
-* Sucrose also decreases **Pyro RES** for the **Pyro** Main DPS.
+* Sucrose also decreases **Pyro RES** for the **Pyro** **On-Field** **DPS**.
 
 ### Character Specific Teams
 

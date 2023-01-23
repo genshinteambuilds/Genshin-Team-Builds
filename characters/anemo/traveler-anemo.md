@@ -3,7 +3,7 @@
 ## Roles
 
 * **Support:** Crowd Control (Grouping), Debuffer (VV, C6)
-* **Main DPS**
+* **On-Field DPS**
 
 ## Character Breakdown
 
@@ -16,7 +16,7 @@
 ## Additional Notes
 
 * **C6** reduces the **Anemo** **RES** of enemies hit by **Elemental Burst** by 20%. If elemental absorption occurs, Enemy **Elemental RES** to the corresponding element is reduced by 20%.
-* Can be used as a **Main DPS** at the early stages of the game but is best retired as soon as possible for any better alternatives.
+* Can be used as a **On-Field DPS** at the early stages of the game but is best retired as soon as possible for any better alternatives.
 
 ## Works Well With
 
