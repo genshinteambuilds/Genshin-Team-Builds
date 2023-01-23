@@ -3,7 +3,7 @@
 {% hint style="info" %}
 All **Anemo** Characters can use the **Viridescent Venerer** 4-set. The effect description reads:\
 _"Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s."_\
-This means that any **Anemo** character can be a Debuffer and this set is a must-have for almost all **Anemo** Support characters. Do _**not**_ put this 4-set on an **Anemo** Main DPS.
+This means that any **Anemo** character can be a Debuffer and this set is a must-have for almost all **Anemo** Support characters. Do _**not**_ put this 4-set on an **Anemo** **On-FIeld DPS**.
 {% endhint %}
 
 {% hint style="danger" %}

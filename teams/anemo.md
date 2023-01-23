@@ -1,6 +1,6 @@
 # Anemo
 
-**Anemo** On-Field DPS are not able to take advantage of any **Elemental Reactions** to amplify their **Anemo DMG**. As such, most team compositions focus on buffing the On-Field DPS and ensuring that the Main DPS's **Elemental Burst** is readily available.
+**Anemo** On-Field DPS are not able to take advantage of any **Elemental Reactions** to amplify their **Anemo DMG**. As such, most team compositions focus on buffing the On-Field DPS and ensuring that the On-Field DPS's **Elemental Burst** is readily available.
 
 Typically, another **Anemo** character is added to the team to help provide **Energy Particles** to the On-Field DPS.
 
