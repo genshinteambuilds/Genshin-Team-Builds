@@ -3,7 +3,7 @@
 ## Roles
 
 * **Support**: Buffer (A4), Debuffer (VV), Crowd Control (Grouping)
-* **Main DPS**
+* **On-Field DPS**
 
 ## Character Breakdown
 
