@@ -6,7 +6,7 @@ Swirl is the only notable **Elemental Reaction** as the **Viridescent Venerer** 
 
 With a full team of **Cryo** characters, **Energy Recharge** requirements for the team are severely lowered.
 
-The format for the team is a **Cryo** Main DPS, Shenhe, **Cryo**/**Anemo** support, Healer/Shielder that is preferably **Cryo**/**Anemo**.
+The format for the team is a **Cryo** On-Field DPS, Shenhe, **Cryo**/**Anemo** support, Healer/Shielder that is preferably **Cryo**/**Anemo**.
 
 {% hint style="danger" %}
 Teams from this category are only possible because of Shenhe.
@@ -22,7 +22,7 @@ Teams from this category are only possible because of Shenhe.
 {% tab title="Ayaka" %}
 
 
-|                                     Main DPS                                     |                                   Core Support                                  |                                     Flex Support                                    |                                   Healer / Shielder                                  |
+|                                   On-Field DPS                                   |                                   Core Support                                  |                                     Flex Support                                    |                                   Healer / Shielder                                  |
 | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_ayaka.png" alt=""></p><p>Ayaka</p> | <p><img src="../.gitbook/assets/ui_avataricon_shenhe.png" alt=""><br>Shenhe</p> |   <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""><br>Kazuha</p>   | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""></p><p>Bennett</p> |
 |                                                                                  |                                                                                 |    <p><img src="../.gitbook/assets/ui_avataricon_venti.png" alt=""><br>Venti</p>    |    <p><img src="../.gitbook/assets/ui_avataricon_jean.png" alt=""></p><p>Jean</p>    |
@@ -38,7 +38,7 @@ Teams from this category are only possible because of Shenhe.
 {% tab title="Ganyu" %}
 
 
-|                                     Main DPS                                     |                                   Core Support                                  |                                     Flex Support                                    |                                   Healer / Shielder                                  |
+|                                   On-Field DPS                                   |                                   Core Support                                  |                                     Flex Support                                    |                                   Healer / Shielder                                  |
 | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_ganyu.png" alt=""></p><p>Ganyu</p> | <p><img src="../.gitbook/assets/ui_avataricon_shenhe.png" alt=""><br>Shenhe</p> |   <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""><br>Kazuha</p>   | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""></p><p>Bennett</p> |
 |                                                                                  |                                                                                 |    <p><img src="../.gitbook/assets/ui_avataricon_venti.png" alt=""><br>Venti</p>    |    <p><img src="../.gitbook/assets/ui_avataricon_jean.png" alt=""></p><p>Jean</p>    |
@@ -52,7 +52,7 @@ Teams from this category are only possible because of Shenhe.
 {% endtab %}
 {% endtabs %}
 
-### Main DPS
+### On-Field DPS
 
 |                                                        Character                                                        | Notes                                                                                                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -97,21 +97,21 @@ Teams from this category are only possible because of Shenhe.
 
 ![](../.gitbook/assets/ui\_avataricon\_ganyu.png)![](../.gitbook/assets/ui\_avataricon\_shenhe.png)![](../.gitbook/assets/ui\_avataricon\_venti.png)![](../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
-* Ganyu is the main dps in this team.
+* Ganyu is the On-Field DPS in this team.
 * Shenhe buffs the team's **Cryo DMG** and debuffs enemies of **Cryo RES**. She also performs as an Energy Battery.
 * Venti debuffs enemies of **Cryo RES** through 4 piece **Viridescent** and doubles as the Energy Battery for the team.
 * Zhongli provides a shield that prevents Ganyu from getting staggered. Also debuffs enemies' **Cryo RES**.
 
 ![](../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../.gitbook/assets/ui\_avataricon\_shenhe.png)![](../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../.gitbook/assets/ui\_avataricon\_diona.png)
 
-* Ayaka is the main DPS in this team who receives buffs from Shenhe and Kazuha.
+* Ayaka is the On-Field DPS in this team who receives buffs from Shenhe and Kazuha.
 * Shenhe buffs the team's **Cryo DMG** and debuffs enemies of **Cryo RES**. She also performs as an Energy Battery.
 * Kazuha buffs the team's **Cryo DMG** as well as debuffs enemies of **Cryo RES** through 4 piece **Viridescent Venerer**.
 * Diona provides shields, healing and is an Energy Battery for the team.
 
 ![](../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../.gitbook/assets/ui\_avataricon\_shenhe.png)![](../.gitbook/assets/ui\_avataricon\_ganyu.png)![](../.gitbook/assets/ui\_avataricon\_jean.png)
 
-* Ayaka is the main DPS in this team who receives buffs from Shenhe and Ganyu
+* Ayaka is the On-Field DPS in this team who receives buffs from Shenhe and Ganyu
 * Shenhe buffs the team's **Cryo DMG** and debuffs enemies of **Cryo RES**. She also performs as an Energy Battery.
 * Ganyu acts as an Energy Battery and provides **Cryo DMG** boost to characters in her **Elemental Burst** **AoE**.
 * Jean provides healing and debuffs enemies of **Cryo RES**.

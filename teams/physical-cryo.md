@@ -1,6 +1,6 @@
 # Physical (Cryo)
 
-This team composition focuses on **Physical DMG** with a **Cryo** Main DPS character.
+This team composition focuses on **Physical DMG** with a **Cryo** On-Field DPS character.
 
 The **Superconduct Elemental Reaction** can buff **Physical DMG** significantly and is heavily recommended for **Physical** teams.
 
@@ -12,7 +12,7 @@ The **Superconduct Elemental Reaction** can buff **Physical DMG** significantly 
 **Characters are ranked roughly according to how well they perform in this team composition.**
 {% endhint %}
 
-|                                               Main DPS                                              |                                                  Core Support / Off-Field DPS                                                 |                                                Flex Support                                               |                                             Healer / Shielder                                             |
+|                                             On-Field DPS                                            |                                                  Core Support / Off-Field DPS                                                 |                                                Flex Support                                               |                                             Healer / Shielder                                             |
 | :-------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_eula.png" alt="" data-size="original"></p><p>Eula</p> |     <p><img src="../.gitbook/assets/ui_avataricon_raiden_shougun.png" alt="" data-size="original"></p><p>Raiden Shogun</p>    | <p><img src="../.gitbook/assets/ui_avataricon_rosaria.png" alt="" data-size="original"></p><p>Rosaria</p> |   <p><img src="../.gitbook/assets/ui_avataricon_diona.png" alt="" data-size="original"></p><p>Diona</p>   |
 |                                                                                                     |            <p><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt="" data-size="original"></p><p>Fischl</p>            |  <p><img src="../.gitbook/assets/ui_avataricon_beidou.png" alt="" data-size="original"></p><p>Beidou</p>  | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt="" data-size="original"></p><p>Bennett</p> |
@@ -25,7 +25,7 @@ The **Superconduct Elemental Reaction** can buff **Physical DMG** significantly 
 |                                                                                                     |                                                                                                                               |                                                                                                           |                <p><img src="../.gitbook/assets/ui_avataricon_sayu.png" alt=""><br>Sayu</p>                |
 |                                                                                                     |                                                                                                                               |                                                                                                           |              <p><img src="../.gitbook/assets/ui_avataricon_noelle.png" alt=""><br>Noelle</p>              |
 
-### Main DPS
+### On-Field DPS
 
 |                                                                   Character                                                                  | Notes                                                                                                                                                                                                                                                                                                                                                                                                     |
 | :------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
