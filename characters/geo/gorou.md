@@ -28,7 +28,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_itto.png)![](../../.gitbook/assets/ui\_avataricon\_noelle.png)
 
-* Itto and Noelle are both **DEF** scaling Main DPS units and benefit greatly from all of Gorou's party buffs. They are the best units to pair with Gorou.
+* Itto and Noelle are both **DEF** scaling On-Field DPS units and benefit greatly from all of Gorou's party buffs. They are the best units to pair with Gorou.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_albedo.png)
 
@@ -36,13 +36,13 @@
 
 #### ![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
-* Gorou is a specialized support unit that is able to benefit most **Geo** main DPS.
+* Gorou is a specialized support unit that is able to benefit most **Geo** On-Field DPS.
 
 ## **Does Not Work Well With**
 
 #### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)![](../../.gitbook/assets/ui\_icon\_dendro.webp)
 
-* Gorou unfortunately does not work well with units outside of **Geo**. No other Main DPS scales with **DEF** and if they don't deal **Geo DMG,** they do not benefit from a number of Gorou's buffs.
+* Gorou unfortunately does not work well with units outside of **Geo**. No other On-Field DPS scales with **DEF** and if they don't deal **Geo DMG,** they do not benefit from a number of Gorou's buffs.
 
 ## **Teams**
 
@@ -51,7 +51,7 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-Itto only works in a **Geo** team where he performs as a Selfish Main DPS. A couple common example teams are shown below. Additional teams and options can be found in the **Geo** team page.
+Itto only works in a **Geo** team where he performs as a Selfish On-Field DPS. A couple common example teams are shown below. Additional teams and options can be found in the **Geo** team page.
 {% endhint %}
 
 [**Geo**](../../teams/geo.md)

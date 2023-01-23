@@ -70,7 +70,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)
 
-* Chongyun doesn’t provide anything else aside from damage through his **Elemental Burst**. Chongyun's **Elemental Skill** does not affect Catalyst Main DPS characters.
+* Chongyun doesn’t provide anything else aside from damage through his **Elemental Burst**. Chongyun's **Elemental Skill** does not affect Catalyst On-Field DPS characters.
 
 #### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)
 

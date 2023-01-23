@@ -19,9 +19,9 @@
 
 ## **Additional Notes**
 
-* Noelle can function as a Main DPS or a Support who provides healing, shielding, and possibly **Geo Resonance**.
-* A Main DPS Noelle should be played with **Geo Resonance** for a **DMG Bonus** buff when shielded, and a **Geo RES** debuff against enemies. She also requires a **Geo** Energy Battery in order to reach 100% uptime on her **Elemental Burst**. It is not recommended to use her as a Main DPS before **C6**.
-  * Noelle's inability to heal Off-Field weakens her functionality as a Support, especially when compared to other Supports. As such, she should generally be used as the Main DPS in most teams she is run on.
+* Noelle can function as a On-Field DPS or a Support who provides healing, shielding, and possibly **Geo Resonance**.
+* A On-Field DPS Noelle should be played with **Geo Resonance** for a **DMG Bonus** buff when shielded, and a **Geo RES** debuff against enemies. She also requires a **Geo** Energy Battery in order to reach 100% uptime on her **Elemental Burst**. It is not recommended to use her as a On-Field DPS before **C6**.
+  * Noelle's inability to heal Off-Field weakens her functionality as a Support, especially when compared to other Supports. As such, she should generally be used as the On-Field DPS in most teams she is run on.
 * **C4** allows Noelle's shield to deal **AoE** **Geo** **DMG** when it expires or gets destroyed.
 * **C6** Increases the **ATK** buff she receives when casting her **Elemental Burst**.
 * Noelle’s **Geo** infusion from her **Elemental Burst** persists when she is swapped out, allowing players to rotate through the rest of the team during its duration.

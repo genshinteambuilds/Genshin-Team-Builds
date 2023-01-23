@@ -58,7 +58,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ningguang.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_geo.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* A team that uses Ningguang as the Main DPS with Traveler (Geo) acting as another source of **Energy Particles** and activates **Geo Resonance**. Traveler (Geo) is used in quick windows, deploying their **Elemental Skill** for **Energy Particle** generation and their **Elemental Burst** to provide buffs to other party members.
+* A team that uses Ningguang as the On-Field DPS with Traveler (Geo) acting as another source of **Energy Particles** and activates **Geo Resonance**. Traveler (Geo) is used in quick windows, deploying their **Elemental Skill** for **Energy Particle** generation and their **Elemental Burst** to provide buffs to other party members.
 
 [**Pure Pyro**](../../teams/pure-pyro.md)
 

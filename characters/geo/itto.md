@@ -40,7 +40,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* Bennett provides Itto with a large **ATK** buff and healing, making him a valuable teammate to slot in as a healer. However, Bennett's flat **ATK** buff is often better used on other characters as Itto will have higher total **ATK** than average Main DPS characters due to his **DEF** to **ATK** conversion.
+* Bennett provides Itto with a large **ATK** buff and healing, making him a valuable teammate to slot in as a healer. However, Bennett's flat **ATK** buff is often better used on other characters as Itto will have higher total **ATK** than average On-Field DPS characters due to his **DEF** to **ATK** conversion.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_albedo.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
