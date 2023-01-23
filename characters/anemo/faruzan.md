@@ -37,10 +37,5 @@ Click on the team names below for more details on how the team works and alterna
 
 ****[**Anemo**](../../teams/anemo.md)****
 
-****![](../../.gitbook/assets/ui\_avataricon\_wanderer.png)****![](../../.gitbook/assets/ui\_avataricon\_faruzan.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
-
-* Faruzan acts as a buffer and **Off-Field** **DPS** for Wanderer
-* Jean reduces enemy **Anemo resistances** and provides healing
-* Bennett provides a powerful **ATK** buff and healing
-* Wanderer acts as the **On-Field DPS** after being buffed by his teammates
+****![](../../.gitbook/assets/ui\_avataricon\_xiao.png)****![](../../.gitbook/assets/ui\_avataricon\_jean.png)
 

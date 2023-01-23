@@ -4,7 +4,7 @@
 
 * **Support:** Buffer (A4, C2), Debuffer (VV), Crowd Control (Grouping), Energy Battery
 * **Off-Field DPS** (Elemental Burst)
-* **Main DPS** (C6)
+* **On-Field DPS** (C6)
 
 ## Character Breakdown
 
@@ -22,7 +22,7 @@
 * **C1** resets the cooldown of Kazuha's **Elemental Skill** after using his **Elemental Burst.**
 * **C2** increases the entire team's **Elemental Mastery** by 200 after using Kazuha's **Elemental Burst.**
 * **C4** allows Kazuha to generate much more energy for himself.
-* **C6** infuses Kazuha's attacks with **Anemo** and boosts their **DMG** by 0.2% of his **Elemental Mastery**. This allows him to be used as the Main DPS character in an [**Anemo**](../../teams/anemo.md) team.
+* **C6** infuses Kazuha's attacks with **Anemo** and boosts their **DMG** by 0.2% of his **Elemental Mastery**. This allows him to be used as the **On-Field DPS** character in an [**Anemo**](../../teams/anemo.md) team.
 
 ## Works Well With
 
@@ -38,7 +38,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_xiao.png)
 
-* Kazuha cannot buff **Anemo** **DMG** as **Anemo** cannot be absorbed into his **Elemental Burst.** Other **Anemo** characters with more powerful Crowd Control abilities or other utility are often preferred in an **Anemo** team composition that uses Xiao as a Main DPS as a result.
+* Kazuha cannot buff **Anemo** **DMG** as **Anemo** cannot be absorbed into his **Elemental Burst.** Other **Anemo** characters with more powerful Crowd Control abilities or other utility are often preferred in an **Anemo** team composition that uses Xiao as a **On-Field DPS** as a result.
 
 ## Teams
 
