@@ -1,8 +1,8 @@
 # Anemo
 
-**Anemo** Main DPS are not able to take advantage of any **Elemental Reactions** to amplify their **Anemo DMG**. As such, most team compositions focus on buffing the Main DPS and ensuring that the Main DPS's **Elemental Burst** is readily available.
+**Anemo** On-Field DPS are not able to take advantage of any **Elemental Reactions** to amplify their **Anemo DMG**. As such, most team compositions focus on buffing the On-Field DPS and ensuring that the Main DPS's **Elemental Burst** is readily available.
 
-Typically, another **Anemo** character is added to the team to help provide **Energy Particles** to the Main DPS.
+Typically, another **Anemo** character is added to the team to help provide **Energy Particles** to the On-Field DPS.
 
 Besides the Healer, the final character on the team is often one that deals consistent Off-Field DPS.
 
@@ -14,7 +14,7 @@ Besides the Healer, the final character on the team is often one that deals cons
 
 {% tabs %}
 {% tab title="Xiao" %}
-|                                   Main DPS                                  |                           Core Support / Energy Battery                           |                                                Flex Support                                               |                                 Healer / Shielder                                 |
+|                                 On-Field DPS                                |                           Core Support / Energy Battery                           |                                                Flex Support                                               |                                 Healer / Shielder                                 |
 | :-------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_xiao.png" alt=""><br>Xiao</p> | <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt=""><br>Sucrose</p> |              <p><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt=""><br>Fischl</p>              | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""><br>Bennett</p> |
 |                                                                             |    <p><img src="../.gitbook/assets/ui_avataricon_jean.png" alt=""><br>Jean</p>    | <p><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt=""><br>Xiangling (With Bennett only)</p> |    <p><img src="../.gitbook/assets/ui_avataricon_jean.png" alt=""><br>Jean</p>    |
@@ -28,7 +28,7 @@ Besides the Healer, the final character on the team is often one that deals cons
 {% endtab %}
 
 {% tab title="Wanderer" %}
-|                                       Main DPS                                      |                                    Core Support                                   |                                                Flex Support                                               |                                 Healer / Shielder                                 |
+|                                     On-Field DPS                                    |                                    Core Support                                   |                                                Flex Support                                               |                                 Healer / Shielder                                 |
 | :---------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_wanderer.png" alt=""><br>Wanderer</p> | <p><img src="../.gitbook/assets/ui_avataricon_faruzan.png" alt=""><br>Faruzan</p> |               <p><img src="../.gitbook/assets/ui_avataricon_yelan.png" alt=""><br>Yelan</p>               | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""><br>Bennett</p> |
 |                                                                                     |                                                                                   |             <p><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt=""><br>Xingqiu</p>             |    <p><img src="../.gitbook/assets/ui_avataricon_jean.png" alt=""><br>Jean</p>    |
@@ -42,7 +42,7 @@ Besides the Healer, the final character on the team is often one that deals cons
 {% endtab %}
 
 {% tab title="Kazuha" %}
-|                                                Main DPS                                               |                            Core Support / Off-Field DPS                           |                                    Flex Support                                   |                                 Healer / Shielder                                 |
+|                                              On-Field DPS                                             |                            Core Support / Off-Field DPS                           |                                    Flex Support                                   |                                 Healer / Shielder                                 |
 | :---------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""><br>Kazuha (<strong>C6</strong>)</p> | <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt=""><br>Sucrose</p> | <p><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt=""><br>Xingqiu</p> | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""><br>Bennett</p> |
 |                                                                                                       |    <p><img src="../.gitbook/assets/ui_avataricon_jean.png" alt=""><br>Jean</p>    |   <p><img src="../.gitbook/assets/ui_avataricon_yelan.png" alt=""><br>Yelan</p>   |    <p><img src="../.gitbook/assets/ui_avataricon_jean.png" alt=""><br>Jean</p>    |
@@ -53,13 +53,13 @@ Besides the Healer, the final character on the team is often one that deals cons
 
 ###
 
-### Main DPS
+### On-Field DPS
 
 |                                                                      Character                                                                      | Notes                                                                                                                                                                                                                                                                                                                                   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |    <p><img src="../.gitbook/assets/ui_avataricon_xiao.png" alt="" data-size="original"></p><p><a href="../characters/anemo/xiao.md">Xiao</a></p>    | <ul><li><strong>Elemental Burst</strong> grants an <strong>Anemo</strong> infusion and increased jump height, allowing him to frequently use <strong>Plunging Attacks</strong> to deal <strong>Anemo DMG</strong>.</li><li>At <strong>C6</strong>, his <strong>Elemental Skill</strong> becomes his primary source of damage.</li></ul> |
 |                <p><img src="../.gitbook/assets/ui_avataricon_wanderer.png" alt=""></p><p><a href="anemo.md#wanderer">Wanderer</a></p>               | <ul><li><strong>Elemental Skill</strong> lets Wanderer deal large amounts of <strong>Anemo</strong> <strong>DMG</strong> with his modified <strong>Normal</strong> and <strong>Charged Attacks.</strong></li></ul>                                                                                                                      |
-| <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt="" data-size="original"></p><p><a href="../characters/anemo/kazuha.md">Kazuha</a></p> | <ul><li>Gains an <strong>Anemo</strong> <strong>Infusion</strong> at <strong>C6</strong>. It is not recommended to use Kazuha as the Main DPS before <strong>C6</strong>.</li></ul>                                                                                                                                                     |
+| <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt="" data-size="original"></p><p><a href="../characters/anemo/kazuha.md">Kazuha</a></p> | <ul><li>Gains an <strong>Anemo</strong> <strong>Infusion</strong> at <strong>C6</strong>. It is not recommended to use Kazuha as the On-Field DPS before <strong>C6</strong>.</li></ul>                                                                                                                                                 |
 
 ### Support / Energy Battery
 
@@ -80,7 +80,7 @@ Very flexible slot as the team has few requirements. Any Off-Field DPS can be us
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |    <p><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt="" data-size="original"></p><p><a href="../characters/electro/fischl.md">Fischl</a></p>    | <ul><li>Provides consistent Off-Field <strong>Electro DMG</strong> through her <strong>Elemental Skill</strong> and <strong>Elemental Burst</strong>.</li></ul>                                                                                                                                                                                                                                                                    |
 | <p><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt="" data-size="original"></p><p><a href="../characters/pyro/xiangling.md">Xiangling</a></p> | <ul><li>Mainly used for <strong>Pyro Resonance</strong>.</li><li><strong>Elemental Skill</strong> and <strong>Elemental Burst</strong> also deal a large amount of Off-Field <strong>Pyro DMG</strong> on their own when properly geared.</li></ul>                                                                                                                                                                                |
-|                   <p><img src="../.gitbook/assets/ui_avataricon_yelan.png" alt=""><br><a href="../characters/hydro/yelan.md">Yelan</a></p>                  | <ul><li><strong>Elemental Burst</strong> deal a large amount of <strong>Hydro DMG</strong> on their own given the Main DPS <strong>Normal Attacks</strong> frequently. Also provides a <strong>DMG</strong> buff to any character On-Field while it's active.</li></ul>                                                                                                                                                            |
+|                   <p><img src="../.gitbook/assets/ui_avataricon_yelan.png" alt=""><br><a href="../characters/hydro/yelan.md">Yelan</a></p>                  | <ul><li><strong>Elemental Burst</strong> deal a large amount of <strong>Hydro DMG</strong> on their own given the On-Field DPS <strong>Normal Attacks</strong> frequently. Also provides a <strong>DMG</strong> buff to any character On-Field while it's active.</li></ul>                                                                                                                                                        |
 |    <p><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt="" data-size="original"></p><p><a href="../characters/hydro/xingqiu.md">Xingqiu</a></p>   | <ul><li><strong>Elemental Skill</strong> and <strong>Elemental Burst</strong> provide <strong>Damage Reduction</strong> to incoming hits.</li><li><strong>Elemental Skill</strong> and <strong>Elemental Burst</strong> also deal a large amount of <strong>Hydro DMG</strong> on their own when properly geared.</li><li>Requires <strong>Normal Attack</strong> weaved in to trigger <strong>Elemental Burst</strong>.</li></ul> |
 |      <p><img src="../.gitbook/assets/ui_avataricon_albedo.png" alt="" data-size="original"></p><p><a href="../characters/geo/albedo.md">Albedo</a></p>      | <ul><li><strong>Elemental Skill</strong> provides extra Off-Field <strong>Geo DMG</strong>.</li><li>Can activate <strong>Geo Resonance</strong>.</li><li>Can buff the team when equipped with the <strong>Tenacity of Millelith</strong> 4-set<strong>.</strong></li></ul>                                                                                                                                                         |
 
@@ -106,20 +106,20 @@ Teams are very flexible as there are very few requirements and synergies in an *
 
 #### ![](../.gitbook/assets/ui\_avataricon\_xiao.png)![](../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* Xiao acts as the Main DPS; with his main mode of damage being **Plunging Attacks** during his **Elemental Burst**.
+* Xiao acts as the On-Field DPS; with his main mode of damage being **Plunging Attacks** during his **Elemental Burst**.
 * Sucrose as an Energy Battery to maintain **Elemental Burst** uptime.
 * Xiangling acts as an Off-Field DPS and activates **Pyro Resonance** with Bennett, who both provides healing and buffs Xiao's **ATK**.
 
 #### ![](../.gitbook/assets/ui\_avataricon\_xiao.png)![](../.gitbook/assets/ui\_avataricon\_jean.png)![](../.gitbook/assets/ui\_avataricon\_albedo.png)![](../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
-* Xiao acts as the Main DPS and uses Jean as an Energy Battery to maintain **Elemental Burst** uptime.
+* Xiao acts as the On-Field DPS and uses Jean as an Energy Battery to maintain **Elemental Burst** uptime.
 * Jean also functions as a Healer and possible Debuffer at **C4**.
 * Zhongli provides a shield and debuffs enemies, while Albedo acts as a Off-Field DPS and activates **Geo Resonance**.
 * Zhongli provides one of the only ways to reduce enemies **Anemo RES** with his **Elemental Skill's** shield.
 
 #### ![](../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../.gitbook/assets/ui\_avataricon\_jean.png)![](../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* **C6** Kazuha acts as the Main DPS, providing consistent **Anemo** **DMG** with his **Anemo Infusion**.
+* **C6** Kazuha acts as the On-Field DPS, providing consistent **Anemo** **DMG** with his **Anemo Infusion**.
 * Jean acts as an Energy Battery, Burst DPS, and Healer and can reduce enemies **Anemo RES** at **C4**.
 * Xingqiu's provides additional Off-Field **Hydro DMG** with his **Elemental Burst** as well as applying **Hydro** for the **Anemo** characters to **Swirl**.
 * Bennett provides healing and an **ATK** buff, as well as providing **Pyro** application for Kazuha to **Infuse**.

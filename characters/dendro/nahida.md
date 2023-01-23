@@ -4,7 +4,7 @@
 
 * **Support**: Buffer (A1), Debuffer (C2)
 * **Off-Field DPS**
-* **Main DPS**: (See Additional Notes)
+* **On-Field DPS**: (See Additional Notes)
 
 ## Character Breakdown
 
@@ -22,8 +22,8 @@
 ## Additional Notes
 
 * **C2**: Activates on enemies affected by Nahida's **Elemental Skill**. Allows **Dendro**-related reaction damage that cannot typically deal **CRIT DMG** to score **CRIT** hits at a fixed rate. Also reduces the **DEF** of enemies when affected by **Quicken**, **Aggravate**, or **Spread,** letting Nahida act as a **Debuffer**.
-* **C6**: When using **Normal** or **Charged Attacks** on enemies affected by the Seed of Skandha after using her **Elemental Burst**, Nahida deals **Dendro** damage based on her **ATK** and **Elemental Mastery**. Because this effect can be triggered frequently, **C6** incentivizes Nahida to be used as a **Main DPS**.
-* With enough **Elemental Mastery** (900+), Nahida can be used to frequently trigger **Dendro**-based reactions with her **Normal** and **Charged** **Attacks**. Her **A4** passive also scales from her **Elemental Mastery,** increasing her **** damage **** and making her more viable as a **Main DPS** role, especially at **C6**.
+* **C6**: When using **Normal** or **Charged Attacks** on enemies affected by the Seed of Skandha after using her **Elemental Burst**, Nahida deals **Dendro** damage based on her **ATK** and **Elemental Mastery**. Because this effect can be triggered frequently, **C6** incentivizes Nahida to be used as an **On-Field DPS**.
+* With enough **Elemental Mastery** (900+), Nahida can be used to frequently trigger **Dendro**-based reactions with her **Normal** and **Charged** **Attacks**. Her **A4** passive also scales from her **Elemental Mastery,** increasing her **** damage **** and making her more viable as an **On-Field DPS** role, especially at **C6**.
 * Despite the large gains in personal **** damage from her **C6** and **A4** passive, Nahida still generally does not provide a large portion of her team's **** damage **** so it is still recommended to use her in a **Support** role.
 
 ## Works Well With

@@ -20,7 +20,7 @@ Team compositions will typically consist of Nilou, a **Hydro** applicator and he
 
 {% tabs %}
 {% tab title="Nilou" %}
-|                                              Main DPS                                              |                                            Core Support                                           |                                            Flex Support                                           |                                       Healer                                      |
+|                                            On-Field DPS                                            |                                            Core Support                                           |                                            Flex Support                                           |                                       Healer                                      |
 | :------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_nilou.png" alt="" data-size="original"><br>Nilou</p> |          <p><img src="../.gitbook/assets/ui_avataricon_nahida.png" alt=""><br>Nahida</p>          |          <p><img src="../.gitbook/assets/ui_avataricon_nahida.png" alt=""><br>Nahida</p>          |  <p><img src="../.gitbook/assets/ui_avataricon_kokomi.png" alt=""><br>Kokomi</p>  |
 |                                                                                                    | <p><img src="../.gitbook/assets/ui_avataricon_traveler_dendro.png" alt=""><br>Dendro Traveler</p> | <p><img src="../.gitbook/assets/ui_avataricon_traveler_dendro.png" alt=""><br>Dendro Traveler</p> | <p><img src="../.gitbook/assets/ui_avataricon_barbara.png" alt=""><br>Barbara</p> |
@@ -29,7 +29,7 @@ Team compositions will typically consist of Nilou, a **Hydro** applicator and he
 {% endtab %}
 
 {% tab title="Nahida" %}
-|                                     Main DPS                                    |                                  Core Support                                 |                                        Flex Support                                       |                                       Healer                                      |
+|                                   On-Field DPS                                  |                                  Core Support                                 |                                        Flex Support                                       |                                       Healer                                      |
 | :-----------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_nahida.png" alt=""><br>Nahida</p> | <p><img src="../.gitbook/assets/ui_avataricon_nilou.png" alt=""><br>Nilou</p> | <p><img src="../.gitbook/assets/ui_avataricon_traveler_dendro.png" alt=""><br>Xingqiu</p> |  <p><img src="../.gitbook/assets/ui_avataricon_kokomi.png" alt=""><br>Kokomi</p>  |
 |                                                                                 |                                                                               |       <p><img src="../.gitbook/assets/ui_avataricon_yelan.png" alt=""><br>Yelan</p>       | <p><img src="../.gitbook/assets/ui_avataricon_barbara.png" alt=""><br>Barbara</p> |
@@ -40,7 +40,7 @@ Team compositions will typically consist of Nilou, a **Hydro** applicator and he
 
 ###
 
-### Main DPS
+### On-Field DPS
 
 |                                                                       Character                                                                      | Notes                                                                                                                                                                                                                                                                                                                               |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

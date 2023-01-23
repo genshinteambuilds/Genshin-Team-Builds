@@ -3,7 +3,7 @@
 ## Roles
 
 * **Burst DPS**
-* **Main DPS**
+* **On-Field DPS**
 
 ## **Character Breakdown**
 
