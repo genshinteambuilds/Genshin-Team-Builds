@@ -12,7 +12,7 @@
 
 {% tabs %}
 {% tab title="Itto" %}
-|                                   Main DPS                                  |                                      Core / Flex Support                                      |                                 Healer / Shielder                                 |
+|                                 On-Field DPS                                |                                      Core / Flex Support                                      |                                 Healer / Shielder                                 |
 | :-------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_itto.png" alt=""><br>Itto</p> |         <p><img src="../.gitbook/assets/ui_avataricon_gorou.png" alt=""><br>Gorou</p>         | <p><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""><br>Zhongli</p> |
 |                                                                             |        <p><img src="../.gitbook/assets/ui_avataricon_albedo.png" alt=""><br>Albedo</p>        | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""><br>Bennett</p> |
@@ -23,7 +23,7 @@
 {% endtab %}
 
 {% tab title="Noelle (C6)" %}
-|                                                Main DPS                                               |                                            Core / Flex Support                                            |                                    Flex Support                                   |
+|                                              On-Field DPS                                             |                                            Core / Flex Support                                            |                                    Flex Support                                   |
 | :---------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_noelle.png" alt=""><br>Noelle (<strong>C6</strong>)</p> |               <p><img src="../.gitbook/assets/ui_avataricon_gorou.png" alt=""><br>Gorou</p>               | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""><br>Bennett</p> |
 |                                                                                                       |              <p><img src="../.gitbook/assets/ui_avataricon_albedo.png" alt=""><br>Albedo</p>              |   <p><img src="../.gitbook/assets/ui_avataricon_yelan.png" alt=""><br>Yelan</p>   |
@@ -35,7 +35,7 @@
 {% endtab %}
 
 {% tab title="Ningguang" %}
-|                                        Main DPS                                       |                                    Core Support / Resonance                                   |                                                Flex Support                                               |                                 Healer / Shielder                                 |
+|                                      On-Field DPS                                     |                                    Core Support / Resonance                                   |                                                Flex Support                                               |                                 Healer / Shielder                                 |
 | :-----------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_ningguang.png" alt=""><br>Ningguang</p> |       <p><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""><br>Zhongli</p>       |               <p><img src="../.gitbook/assets/ui_avataricon_yelan.png" alt=""><br>Yelan</p>               | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""><br>Bennett</p> |
 |                                                                                       |        <p><img src="../.gitbook/assets/ui_avataricon_albedo.png" alt=""><br>Albedo</p>        |               <p><img src="../.gitbook/assets/ui_avataricon_venti.png" alt=""><br>Venti</p>               |   <p><img src="../.gitbook/assets/ui_avataricon_diona.png" alt=""><br>Diona</p>   |
@@ -51,7 +51,7 @@
 * Teams using Gorou typically use 3 **Geo** characters due to the nature of his **Elemental Skill** which provides more buffs depending on how many **Geo** characters are in the team.
 {% endhint %}
 
-### Main DPS
+### On-Field DPS
 
 |                                                                                      Character                                                                                     | Notes                                                                                                                                                                                                                                                                                                                                                                                              |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

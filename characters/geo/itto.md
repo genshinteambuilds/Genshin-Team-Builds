@@ -61,7 +61,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_keqing.png)![](../../.gitbook/assets/ui\_avataricon\_xiao.png)![](../../.gitbook/assets/ui\_avataricon\_eula.png)
 
-* As a Selfish Main DPS, Itto does not work well with other characters that must stay on the field.
+* As a Selfish On-Field DPS, Itto does not work well with other characters that must stay on the field.
 
 <figure><img src="../../.gitbook/assets/ui_icon_dendro.webp" alt=""><figcaption></figcaption></figure>
 
@@ -72,7 +72,7 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-Itto only works in an **Geo** team where Itto plays the role of the Selfish Main DPS. A couple common example teams are shown below. Additional teams and options can be found in the **Geo** team page.
+Itto only works in an **Geo** team where Itto plays the role of the On-Field DPS. A couple common example teams are shown below. Additional teams and options can be found in the **Geo** team page.
 {% endhint %}
 
 [**Geo**](../../teams/geo.md)

@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Main DPS**
+* **On-Field DPS**
 * **Burst DPS**
 * **Support:** Energy Battery
 
@@ -66,7 +66,7 @@
 ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
 * Xingqiu isn't necessarily bad with Ningguang (as any Off-Field DPS works with a **Geo** Team), but his potential is wasted as Ningguang’s attack sequence generally does not line up well with Xingqiu.
-  * He is better used on teams where his utility and **Hydro** application greatly benefit other Main DPS characters.
+  * He is better used on teams where his utility and **Hydro** application greatly benefit other On-Field DPS characters.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)
 

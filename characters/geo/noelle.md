@@ -3,7 +3,7 @@
 ## **Roles**
 
 * **Support:** Healer, Shielder
-* **Main DPS**
+* **On-Field DPS**
 
 ## **Character Breakdown**
 
@@ -61,6 +61,6 @@ This character is a Healer. While some teams are provided below where they are p
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_noelle.png)![](../../.gitbook/assets/ui\_avataricon\_traveler\_geo.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* Noelle serves as the Main DPS in this team. She takes advantage of both **Geo** and **Pyro** **Resonance** to increase her damage.
+* Noelle serves as the On-Field DPS in this team. She takes advantage of both **Geo** and **Pyro** **Resonance** to increase her damage.
   * Bennett provides an **ATK** buff with his **Elemental Burst**.
   * Traveler (Geo) acts as an Energy Battery for Noelle and can buff her **CRIT Rate** with his **C1**.
