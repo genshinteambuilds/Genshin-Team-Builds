@@ -1,6 +1,6 @@
 # Quicken (Aggravate)
 
-**Quicken (Aggravate)** teams focus on frequently applying **Electro** to **Quickened** targets **** to trigger the **Aggravate** reaction. Despite having a lower **DMG** multiplier than **Spread**, **Electro**-based **Aggravate** teams can cause the reaction more consistently, which can lead to better **DMG**.
+**Quicken (Aggravate)** teams focus on frequently applying **Electro** to **Quickened** targets **** to trigger the **Aggravate** reaction. Despite having a lower **DMG** multiplier than **Spread**, **Electro**-based **Aggravate** teams can cause the reaction more consistently, which can lead to better damage output.
 
 {% hint style="danger" %}
 **Characters are ranked roughly according to how well they perform in this team composition.**
@@ -21,8 +21,6 @@
 {% endtab %}
 
 {% tab title="Cyno" %}
-
-
 |                                    Main DPS                                    |                                          Dendro Core Support                                         |                             Electro Flex Support/Off-Field DPS                            |                                       Debuffer                                       |
 | :----------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/UI_AvatarIcon_Cyno.png" alt=""></p><p>Cyno</p> |          <p><img src="../.gitbook/assets/ui_avataricon_nahida.png" alt=""></p><p>Nahida</p>          |     <p><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt=""></p><p>Fischl</p>    |  <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""></p><p>Kazuha</p>  |
@@ -45,8 +43,6 @@
 {% endtab %}
 
 {% tab title="Yae Miko" %}
-
-
 |                                      Main DPS                                     |                                          Dendro Core Support                                         |                             Electro Flex Support/Off-Field DPS                            |                                       Debuffer                                       |
 | :-------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_yae.png" alt=""></p><p>Yae Miko</p> |          <p><img src="../.gitbook/assets/ui_avataricon_nahida.png" alt=""></p><p>Nahida</p>          |     <p><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt=""></p><p>Fischl</p>    |  <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""></p><p>Kazuha</p>  |
@@ -58,8 +54,6 @@
 {% endtab %}
 
 {% tab title="Raiden" %}
-
-
 |                                          Main DPS                                          |                                          Dendro Core Support                                         |                             Electro Flex Support/Off-Field DPS                            |                                       Debuffer                                       |
 | :----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_raiden_shougun.png" alt=""></p><p>Raiden</p> |          <p><img src="../.gitbook/assets/ui_avataricon_nahida.png" alt=""></p><p>Nahida</p>          |    <p><img src="../.gitbook/assets/ui_avataricon_sara.png" alt=""></p><p>Kujou Sara</p>   |  <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""></p><p>Kazuha</p>  |
@@ -76,7 +70,7 @@
 |                                                                              Character                                                                             | Notes                                                                                                                                                                                                                                                                                                                   |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |                  <p><img src="../.gitbook/assets/ui_avataricon_keqing.png" alt=""></p><p><a href="../characters/electro/keqing.md">Keqing</a></p>                  | <ul><li><strong>Elemental Skill</strong> infuses <strong>Normal Attacks</strong> with <strong>Electro.</strong></li><li><strong>Elemental Burst</strong> deals large amounts of <strong>AoE</strong> <strong>Electro DMG</strong>.</li></ul>                                                                            |
-|             <p><strong></strong><img src="../.gitbook/assets/UI_AvatarIcon_Cyno.png" alt=""></p><p><a href="../characters/electro/cyno.md">Cyno</a></p>            | <ul><li><strong>Elemental</strong> <strong>Burst</strong> infuses Cyno with <strong>Electro</strong> and increases his <strong>Elemental Mastery</strong>.</li></ul>                                                                                                                                                    |
+|             <p><strong></strong><img src="../.gitbook/assets/UI_AvatarIcon_Cyno.png" alt=""></p><p><a href="../characters/electro/cyno.md">Cyno</a></p>            | <ul><li><strong>Elemental</strong> <strong>Burst</strong> infuses Cyno's <strong>Normal Attacks</strong> with <strong>Electro</strong> and increases his <strong>Elemental Mastery</strong>.</li></ul>                                                                                                                  |
 | <p><strong></strong><img src="../.gitbook/assets/ui_avataricon_beidou.png" alt=""><strong></strong></p><p><a href="../characters/electro/beidou.md">Beidou</a></p> | <ul><li><strong>Elemental Burst</strong> deals <strong>Electro DMG</strong> periodically over a set duration.</li><li>Generally paired with Fischl due to <strong>Energy Recharge</strong> concerns.</li></ul>                                                                                                          |
 |                    <p><img src="../.gitbook/assets/ui_avataricon_yae.png" alt=""></p><p><a href="../characters/electro/yae.md">Yae Miko</a></p>                    | <ul><li><strong>Elemental Skill</strong> summons periodically deal <strong>Electro DMG</strong> to nearby enemies.</li><li><strong>Elemental Burst</strong> deals a burst of <strong>Electro DMG</strong>.</li></ul>                                                                                                    |
 |           <p><img src="../.gitbook/assets/ui_avataricon_raiden_shougun.png" alt=""></p><p><a href="../characters/electro/raiden-shogun.md">Raiden</a></p>          | <ul><li><strong>Elemental Skill</strong> periodically deals <strong>Electro DMG</strong> to enemies hit by other attacks.</li><li><strong>Elemental Burst</strong> deals a burst of <strong>Electro DMG,</strong> infuses Raiden with <strong>Electro</strong>, and provides energy to the rest of the team. </li></ul> |
