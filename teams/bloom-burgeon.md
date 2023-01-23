@@ -93,3 +93,7 @@ Meant to be the designated **Hydro** application character if the healer is not 
 
 #### ![](../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../.gitbook/assets/ui\_avataricon\_traveler\_dendro.png)![](../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../.gitbook/assets/ui\_avataricon\_bennett.png)
 
+* Childe's role is to provide the On-Field **Hydro** application with his **Normal Attacks, Charged Attacks,** and Riptide.&#x20;
+* Traveller(Dendro) provides Off-Field **Dendro** application through his **Elemental Skill** and **Burst.**
+* Kazuha's **Elemental Burst,** when infused with **Pyro**, triggers the **Burgeon** reactions while providing the usual **Viridescent-Venerer's** debuff.
+* Bennett provides the team's **Pyro** application while providing healing and an **ATK** buff.
