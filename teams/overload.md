@@ -2,7 +2,7 @@
 
 **Overload** occurs when a **Pyro** marked enemy is hit with **Electro** or vice versa, creating a small **AoE** instance of **Pyro DMG** which can potentially knock back enemies. **Overload DMG** is based off the **Elemental** **Mastery** and level of the character applying the second element.
 
-Team compositions that focus on **Overload** can utilize **Anemo** characters to keep opponents grouped and/or a ranged Main DPS that does not have to remain close to enemies. However, **Overload** compositions are generally best in situations where enemies are immune to its knock back. This page covers **Overload** team compositions with a **Pyro** Main DPS.
+Team compositions that focus on **Overload** can utilize **Anemo** characters to keep opponents grouped and/or a ranged **On-Field DPS** that does not have to remain close to enemies. However, **Overload** compositions are generally best in situations where enemies are immune to its knock back. This page covers **Overload** team compositions with a **Pyro** **On-Field DPS**.
 
 ## Characters
 
@@ -12,7 +12,7 @@ Team compositions that focus on **Overload** can utilize **Anemo** characters to
 
 {% tabs %}
 {% tab title="Yoimiya" %}
-|                                                  Main DPS                                                 |                                           Core Support / Off-Field DPS                                          |                                                Flex Support                                               |                                             Healer / Shielder                                             |
+|                                                On-Field DPS                                               |                                           Core Support / Off-Field DPS                                          |                                                Flex Support                                               |                                             Healer / Shielder                                             |
 | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_yoimiya.png" alt="" data-size="original"></p><p>Yoimiya</p> |     <p><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt="" data-size="original"></p><p>Fischl</p>     | <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt="" data-size="original"></p><p>Sucrose</p> | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt="" data-size="original"></p><p>Bennett</p> |
 |                                                                                                           |     <p><img src="../.gitbook/assets/ui_avataricon_beidou.png" alt="" data-size="original"></p><p>Beidou</p>     |   <p><img src="../.gitbook/assets/ui_avataricon_venti.png" alt="" data-size="original"></p><p>Venti</p>   |    <p><img src="../.gitbook/assets/ui_avataricon_jean.png" alt="" data-size="original"></p><p>Jean</p>    |
@@ -54,7 +54,7 @@ Team compositions that focus on **Overload** can utilize **Anemo** characters to
 {% endtab %}
 {% endtabs %}
 
-### Main DPS
+## **On-Field DPS**
 
 |                                                                       Character                                                                       | Notes                                                                                                                                                                                                                                                                                                              |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

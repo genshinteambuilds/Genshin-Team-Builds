@@ -2,9 +2,9 @@
 
 **Overload** occurs when a **Pyro** marked enemy is hit with **Electro** or vice versa, creating a small **AoE** instance of **Pyro DMG** which can potentially knock back enemies. **Overload DMG** is based off the **Elemental** **Mastery** and level of the character applying the second element.
 
-Team compositions that focus on **Overload** can utilize **Anemo** characters to keep opponents grouped and/or a ranged Main DPS that does not have to remain close to enemies. However, **Overload** compositions are generally best in situations where enemies are immune to its knock back.
+Team compositions that focus on **Overload** can utilize **Anemo** characters to keep opponents grouped and/or a ranged **On-Field DPS** that does not have to remain close to enemies. However, **Overload** compositions are generally best in situations where enemies are immune to its knock back.
 
-Most **Overload** teams have a **Pyro** Main DPS, however several On-Field **Electro** Main DPS characters can work with Xiangling effectively.
+Most **Overload** teams have a **Pyro** **On-Field DPS**, however several On-Field **Electro** **On-Field DPS** characters can work with Xiangling effectively.
 
 ## Characters
 
@@ -14,7 +14,7 @@ Most **Overload** teams have a **Pyro** Main DPS, however several On-Field **Ele
 
 {% tabs %}
 {% tab title="Raiden Shogun" %}
-|                                                     Main DPS                                                    |                                          Core Support / Off-Field DPS                                         |                                                Flex Support                                               |                                             Healer / Shielder                                             |
+|                                                   On-Field DPS                                                  |                                          Core Support / Off-Field DPS                                         |                                                Flex Support                                               |                                             Healer / Shielder                                             |
 | :-------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_raiden_shougun.png" alt="" data-size="original"></p><p>Raiden</p> | <p><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt="" data-size="original"></p><p>Xiangling</p> |  <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt="" data-size="original"></p><p>Kazuha</p>  | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt="" data-size="original"></p><p>Bennett</p> |
 |                                                                                                                 |                                                                                                               | <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt="" data-size="original"></p><p>Sucrose</p> | <p><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt="" data-size="original"></p><p>Zhongli</p> |
@@ -28,7 +28,7 @@ Most **Overload** teams have a **Pyro** Main DPS, however several On-Field **Ele
 {% endtab %}
 
 {% tab title="Keqing" %}
-|                                                 Main DPS                                                |                                          Core Support / Off-Field DPS                                         |                                                Flex Support                                               |                                             Healer / Shielder                                             |
+|                                               On-Field DPS                                              |                                          Core Support / Off-Field DPS                                         |                                                Flex Support                                               |                                             Healer / Shielder                                             |
 | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_keqing.png" alt="" data-size="original"></p><p>Keqing</p> | <p><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt="" data-size="original"></p><p>Xiangling</p> |  <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt="" data-size="original"></p><p>Kazuha</p>  | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt="" data-size="original"></p><p>Bennett</p> |
 |                                                                                                         |                                                                                                               | <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt="" data-size="original"></p><p>Sucrose</p> | <p><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt="" data-size="original"></p><p>Zhongli</p> |
@@ -42,7 +42,7 @@ Most **Overload** teams have a **Pyro** Main DPS, however several On-Field **Ele
 {% endtab %}
 {% endtabs %}
 
-### Main DPS
+## **On-Field DPS**
 
 |                                                                       Character                                                                       | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
