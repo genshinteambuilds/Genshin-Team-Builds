@@ -17,7 +17,7 @@ Some On-Field can operate in other roles, typically as Burst DPS, but you should
 In teams using these characters, it is recommended to invest in your On-Field character first as they deal the bulk of the team's damage. Supports in these teams may only require minimal investment up front (e.g. to reach the recommended Energy Recharge %). Further investment into supports can continue once satisfied with the On-Field character's damage output.
 {% endhint %}
 
-## Main DPS Characters
+## On-Field DPS Characters
 
 {% hint style="warning" %}
 Check out the character's page to see how the character works and functions in a team.
