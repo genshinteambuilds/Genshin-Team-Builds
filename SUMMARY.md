@@ -123,6 +123,7 @@
 ## Changelogs
 
 * [Versions](changelogs/versions/README.md)
+  * [3.4](changelogs/versions/3.4.md)
   * [3.3](changelogs/versions/3.3.md)
   * [3.2](changelogs/versions/3.2.md)
   * [3.1](changelogs/versions/3.1.md)
