@@ -2,6 +2,10 @@
 
 ## Characters
 
+{% content-ref url="alhaitham.md" %}
+[alhaitham.md](alhaitham.md)
+{% endcontent-ref %}
+
 {% content-ref url="collei.md" %}
 [collei.md](collei.md)
 {% endcontent-ref %}

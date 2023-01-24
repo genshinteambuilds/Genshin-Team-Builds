@@ -35,6 +35,17 @@
 |                                                                                 |                                                                                                |  <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""><br>Kazuha</p>  |                                                                                             |
 |                                                                                 |                                                                                                |  <p><img src="../.gitbook/assets/ui_avataricon_beidou.png" alt=""><br>Beidou</p>  |                                                                                             |
 {% endtab %}
+
+{% tab title="Al-Haitham" %}
+|                                        Main DPS                                        |                                          Core Support                                          |                                    Core Support                                   |                                             Healer                                             |
+| :------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
+| <p><img src="../.gitbook/assets/ui_avataricon_alhaitham.png" alt=""><br>Al-Haitham</p> | <p><img src="../.gitbook/assets/ui_avataricon_raiden_shougun.png" alt=""><br>Raiden Shogun</p> | <p><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt=""><br>Xingqiu</p> |       <p><img src="../.gitbook/assets/ui_avataricon_kokomi.png" alt=""></p><p>Kokomi</p>       |
+|                                                                                        |         <p><img src="../.gitbook/assets/ui_avataricon_yae.png" alt=""><br>Yae Miko</p>         |   <p><img src="../.gitbook/assets/ui_avataricon_yelan.png" alt=""><br>Yelan</p>   | <p><img src="../.gitbook/assets/ui_avataricon_kuki_shinobu.png" alt=""></p><p>Kuki Shinobu</p> |
+|                                                                                        |         <p><img src="../.gitbook/assets/ui_avataricon_fischl.png" alt=""><br>Fischl</p>        |  <p><img src="../.gitbook/assets/ui_avataricon_kokomi.png" alt=""><br>Kokomi</p>  |        <p><img src="../.gitbook/assets/ui_avataricon_zhongli.png" alt=""><br>Zhongli</p>       |
+|                                                                                        |                                                                                                |   <p><img src="../.gitbook/assets/ui_avataricon_ayato.png" alt=""><br>Ayato</p>   |                                                                                                |
+|                                                                                        |                                                                                                | <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt=""><br>Sucrose</p> |                                                                                                |
+|                                                                                        |                                                                                                |  <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""><br>Kazuha</p>  |                                                                                                |
+{% endtab %}
 {% endtabs %}
 
 ###
@@ -45,6 +56,7 @@
 | :-----------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p><img src="../.gitbook/assets/ui_avataricon_yae.png" alt="" data-size="original"></p><p><a href="../characters/electro/yae.md">Yae Miko</a></p> | <ul><li>Can trigger <strong>Hyperbloom</strong> On-field with <strong>Normal</strong> and <strong>Charged</strong> <strong>attacks</strong> as a <strong>Catalyst</strong> user. </li><li>Can trigger <strong>Hyperbloom</strong> Off-field with <strong>Elemental Skill</strong> that lingers on the battlefield. These turrets can be buffed by <strong>Elemental Mastery.</strong></li></ul> |
 |        <p></p><p><img src="../.gitbook/assets/ui_avataricon_nahida.png" alt=""><br><a href="../characters/dendro/nahida.md">Nahida</a></p>        | <ul><li><strong>A1</strong> provides a large <strong>Elemental Mastery</strong> buff after using her <strong>Elemental Burst</strong>.</li><li>Provides frequent Off-Field <strong>Dendro</strong> application with her <strong>Elemental Skill</strong>.</li></ul>                                                                                                                             |
+|     <p><img src="../.gitbook/assets/ui_avataricon_alhaitham.png" alt=""></p><p><a href="../characters/dendro/alhaitham.md">Al-Haitham</a></p>     | <ul><li>Provides consistent On-Field <strong>Dendro</strong> application with his <strong>Normal</strong> and <strong>Charged Attacks</strong> after obtaining a Chisel-Light Mirror.</li></ul>                                                                                                                                                                                                 |
 
 ### Core Support
 
@@ -98,3 +110,10 @@ Meant to be the designated **Hydro** character if the healer is not **Hydro** al
 * Nahida provides Off-Field **Dendro** application through her **Elemental Skill** and **Burst,** in addition to a boost to **Elemental Mastery.**
 * Xingqiu provides Off-Field **Hydro** application in conjunction with **Normal Attacks.**
 * Kuki Shinobu provides both Off-field **Electro** application and enables **Electro** resonance.
+
+![](../.gitbook/assets/ui\_avataricon\_alhaitham.png)![](../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)![](../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../.gitbook/assets/ui\_avataricon\_kokomi.png)
+
+* Al-Haitham provides On-Field **Dendro** application with his infused **Normal** and **Charged Attacks**.
+* Raiden provides Off-Field **Electro** application through her **Elemental Skill**.
+* Xingqiu provides Off-Field **Hydro DMG** and application through his **Elemental Burst.**
+* Kokomi provides healing as well as additional Off-Field **Hydro** application.

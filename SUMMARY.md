@@ -41,6 +41,7 @@
   * [Rosaria](characters/cryo/rosaria.md)
   * [Shenhe](characters/cryo/shenhe.md)
 * [Dendro](characters/dendro/README.md)
+  * [Al-Haitham](characters/dendro/alhaitham.md)
   * [Collei](characters/dendro/collei.md)
   * [Nahida](characters/dendro/nahida.md)
   * [Tighnari](characters/dendro/tighnari.md)
