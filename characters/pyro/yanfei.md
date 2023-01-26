@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Main DPS** (Selfish)
+* **On-Field DPS** (Selfish)
 * **Support**: Shielder (C4)
 
 ## Character Breakdown
@@ -51,7 +51,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_diluc.png)
 
-* Yanfei is better to be used as the only **Pyro** Main DPS in the team as they can steal **Elemental Reactions** from her.
+* Yanfei is better to be used as the only **Pyro** On-Field DPS in the team as they can steal **Elemental Reactions** from her.
 
 ## Teams
 
