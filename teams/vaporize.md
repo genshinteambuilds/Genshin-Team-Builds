@@ -62,7 +62,7 @@ There are no strong **Vaporize (Hydro)** team compositions, due to the lack of *
 ## **On-Field DPS**
 
 {% hint style="info" %}
-For all of the below **Hydro** On-Field DPS, **Vaporizing** Xiangling's Off-Field **Pyro DMG** is generally prioritized over the **Hydro** character's **DMG**. Xiangling should be geared like a On-Field DPS in these teams.
+For all of the below **Hydro** On-Field DPS, **Vaporizing** Xiangling's Off-Field **Pyro DMG** is generally prioritized over the **Hydro** character's **DMG**. Xiangling should be geared like an On-Field DPS in these teams.
 {% endhint %}
 
 |                                                                           Character                                                                          | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
