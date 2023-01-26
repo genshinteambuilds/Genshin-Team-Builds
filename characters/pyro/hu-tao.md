@@ -2,7 +2,7 @@
 
 ## **Roles**
 
-* **Main DPS**
+* **On-Field DPS**
 * **Burst DPS**
 
 ## **Character Breakdown**
@@ -73,12 +73,11 @@ Click on the team names below for more details on how the team works and alterna
 
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 
-#### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
+#### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_yelan.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
-* Hu Tao can **Vaporize** her attacks using the **Hydro** applied to the enemy by Xingqiu's **Elemental Burst**.
+* Hu Tao can **Vaporize** her attacks using the **Hydro** applied to the enemy by Xingqiu's and Yelan's **Elemental Burst**.
 * Zhongli provides an **Elemental RES** debuff with his shield while also protecting the team.
-* Albedo provides Off-Field **Geo DMG** and an **Elemental Mastery** buff when using his **Elemental Burst**.
-* Using both Albedo and Zhongli gives the team **Geo Resonance**.
+* Using both Xingqiu and Yelan gives the team **Hydro Resonance** obtaining HP% bonus for increase Hutao **DMG**.
 
 ### Character Specific Teams
 
