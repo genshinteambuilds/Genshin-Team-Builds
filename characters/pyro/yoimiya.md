@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Main DPS**
+* **On-Field DPS**
 * **Off-Field DPS** (Elemental Burst)
 * **Support:** Buffer (A4)
 
