@@ -1,6 +1,6 @@
 # Vaporize (Hydro)
 
-There are no strong **Vaporize (Hydro)** team compositions, due to the lack of **Hydro** characters that can consistently use the reaction well. The closest two would be Childe and Mona’s [**Oneshot**](../work-in-progress/oneshot.md) team compositions. This page will cover teams that utilize the **Vaporize** **reaction** with a **Hydro** Main DPS.
+There are no strong **Vaporize (Hydro)** team compositions, due to the lack of **Hydro** characters that can consistently use the reaction well. The closest two would be Childe and Mona’s [**Oneshot**](../work-in-progress/oneshot.md) team compositions. This page will cover teams that utilize the **Vaporize** **reaction** with a **Hydro** On-Field DPS.
 
 ## Characters
 
@@ -10,7 +10,7 @@ There are no strong **Vaporize (Hydro)** team compositions, due to the lack of *
 
 {% tabs %}
 {% tab title="Tartaglia" %}
-|                                                    Main DPS                                                   |                                          Core Support / Off-Field DPS                                         |                                                Flex Support                                               |                                             Healer / Shielder                                             |
+|                                                  On-Field DPS                                                 |                                          Core Support / Off-Field DPS                                         |                                                Flex Support                                               |                                             Healer / Shielder                                             |
 | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_tartaglia.png" alt="" data-size="original"></p><p>Tartaglia</p> | <p><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt="" data-size="original"></p><p>Xiangling</p> | <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt="" data-size="original"></p><p>Sucrose</p> | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt="" data-size="original"></p><p>Bennett</p> |
 |                                                                                                               |                                                                                                               |  <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt="" data-size="original"></p><p>Kazuha</p>  |                                                                                                           |
@@ -20,7 +20,7 @@ There are no strong **Vaporize (Hydro)** team compositions, due to the lack of *
 {% endtab %}
 
 {% tab title="Yelan" %}
-|                                                Main DPS                                               |                                          Core Support / Off-Field DPS                                         |                                                Flex Support                                               |                                             Healer / Shielder                                             |
+|                                              On-Field DPS                                             |                                          Core Support / Off-Field DPS                                         |                                                Flex Support                                               |                                             Healer / Shielder                                             |
 | :---------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_yelan.png" alt="" data-size="original"></p><p>Yelan</p> | <p><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt="" data-size="original"></p><p>Xiangling</p> |  <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt="" data-size="original"></p><p>Kazuha</p>  | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt="" data-size="original"></p><p>Bennett</p> |
 |                                                                                                       |                                                                                                               | <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt="" data-size="original"></p><p>Sucrose</p> |                                                                                                           |
@@ -30,7 +30,7 @@ There are no strong **Vaporize (Hydro)** team compositions, due to the lack of *
 {% endtab %}
 
 {% tab title="Ayato" %}
-|                                                Main DPS                                               |                                          Core Support / Off-Field DPS                                         |                                                Flex Support                                               |                                             Healer / Shielder                                             |
+|                                              On-Field DPS                                             |                                          Core Support / Off-Field DPS                                         |                                                Flex Support                                               |                                             Healer / Shielder                                             |
 | :---------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_ayato.png" alt="" data-size="original"></p><p>Ayato</p> | <p><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt="" data-size="original"></p><p>Xiangling</p> |  <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt="" data-size="original"></p><p>Kazuha</p>  | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt="" data-size="original"></p><p>Bennett</p> |
 |                                                                                                       |                                                                                                               | <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt="" data-size="original"></p><p>Sucrose</p> |                                                                                                           |
@@ -39,9 +39,7 @@ There are no strong **Vaporize (Hydro)** team compositions, due to the lack of *
 {% endtab %}
 
 {% tab title="Mona" %}
-
-
-|                                               Main DPS                                              |                                          Core Support / Off-Field DPS                                         |                                                Flex Support                                               |                                             Healer / Shielder                                             |
+|                                             On-Field DPS                                            |                                          Core Support / Off-Field DPS                                         |                                                Flex Support                                               |                                             Healer / Shielder                                             |
 | :-------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_mona.png" alt="" data-size="original"></p><p>Mona</p> | <p><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt="" data-size="original"></p><p>Xiangling</p> |  <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt="" data-size="original"></p><p>Kazuha</p>  | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt="" data-size="original"></p><p>Bennett</p> |
 |                                                                                                     |                                                                                                               | <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt="" data-size="original"></p><p>Sucrose</p> |                                                                                                           |
@@ -51,9 +49,7 @@ There are no strong **Vaporize (Hydro)** team compositions, due to the lack of *
 {% endtab %}
 
 {% tab title="Kokomi" %}
-
-
-|                                                 Main DPS                                                |                                          Core Support / Off-Field DPS                                         |                                                Flex Support                                               |                                             Healer / Shielder                                             |
+|                                               On-Field DPS                                              |                                          Core Support / Off-Field DPS                                         |                                                Flex Support                                               |                                             Healer / Shielder                                             |
 | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_kokomi.png" alt="" data-size="original"></p><p>Kokomi</p> | <p><img src="../.gitbook/assets/ui_avataricon_xiangling.png" alt="" data-size="original"></p><p>Xiangling</p> |  <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt="" data-size="original"></p><p>Kazuha</p>  | <p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt="" data-size="original"></p><p>Bennett</p> |
 |                                                                                                         |                                                                                                               | <p><img src="../.gitbook/assets/ui_avataricon_sucrose.png" alt="" data-size="original"></p><p>Sucrose</p> |                                                                                                           |
@@ -63,10 +59,10 @@ There are no strong **Vaporize (Hydro)** team compositions, due to the lack of *
 {% endtab %}
 {% endtabs %}
 
-### Main DPS
+## **On-Field DPS**
 
 {% hint style="info" %}
-For all of the below **Hydro** Main DPS, **Vaporizing** Xiangling's Off-Field **Pyro DMG** is generally prioritized over the **Hydro** character's **DMG**. Xiangling should be geared like a Main DPS in these teams.
+For all of the below **Hydro** On-Field DPS, **Vaporizing** Xiangling's Off-Field **Pyro DMG** is generally prioritized over the **Hydro** character's **DMG**. Xiangling should be geared like a On-Field DPS in these teams.
 {% endhint %}
 
 |                                                                           Character                                                                          | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
