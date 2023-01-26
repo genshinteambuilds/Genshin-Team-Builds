@@ -3,7 +3,7 @@
 ## Roles
 
 * **Off-Field DPS**
-* **Main DPS**
+* **On-Field DPS**
 * **Support:** Buffer (C6), Debuffer (C1)
 
 ## Character Breakdown
@@ -30,7 +30,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)
 
-* While Tartaglia is played as the Main DPS character when paired with Xiangling, he effectively ends up applying **Hydro** constantly on enemies and causing Xiangling’s abilities to trigger **Vaporize Elemental Reactions**.
+* While Tartaglia is played as the On-Field DPS character when paired with Xiangling, he effectively ends up applying **Hydro** constantly on enemies and causing Xiangling’s abilities to trigger **Vaporize Elemental Reactions**.
 * Childe and Xingqiu apply so much **Hydro** that all of Xiangling’s abilities can consistently **Vaporize** for 1.5x more **DMG** off of them.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
@@ -49,7 +49,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_diluc.png)![](../../.gitbook/assets/ui\_avataricon\_yanfei.png)
 
-* These **Pyro** Main DPS characters typically want to create **Vaporize** and **Melt** **Reactions**, and while Xiangling can provide some decent buffs for her from Constellations, Xiangling will end up overwhelming the **Hydro** or **Cryo** application from your other Support characters when used alongside these **Pyro** characters.
+* These **Pyro** On-Field DPS characters typically want to create **Vaporize** and **Melt** **Reactions**, and while Xiangling can provide some decent buffs for her from Constellations, Xiangling will end up overwhelming the **Hydro** or **Cryo** application from your other Support characters when used alongside these **Pyro** characters.
 
 ## Teams
 
