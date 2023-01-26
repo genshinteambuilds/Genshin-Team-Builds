@@ -74,4 +74,4 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_yoimiya.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)
 
-* Xingqiu’s **Elemental Burst** applies **Hydro** on enemies whenever Yoimiya performs a **Normal ATK**, which allows for **Vaporize** **reactions** if Yoimiya's **Elemental Skill** is active. It additionally triggers Yoimiya's Aurous Blaze on marked enemies.
+* Xingqiu’s **Elemental Burst** applies **Hydro** on enemies whenever Yoimiya performs a **Normal Attack**, which allows for **Vaporize** **reactions** if Yoimiya's **Elemental Skill** is active. It additionally triggers Yoimiya's Aurous Blaze on marked enemies.
