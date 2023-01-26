@@ -27,9 +27,9 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_yanfei.png)![](../../.gitbook/assets/ui\_avataricon\_yoimiya.png)![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_diluc.png)
 
-* **Pyro** Main DPS characters who frequently **Normal Attack** can make full use of Thoma's shields.
-* Thoma's relatively low **Pyro** application generally does not interfere with **Pyro** Main DPS's **Vaporize** **reactions**.
-* Thoma can activate **Pyro Resonance** when combined with these Main DPS.
+* **Pyro** On-Field DPS characters who frequently **Normal Attack** can make full use of Thoma's shields.
+* Thoma's relatively low **Pyro** application generally does not interfere with **Pyro** On-Field DPS's **Vaporize** **reactions**.
+* Thoma can activate **Pyro Resonance** when combined with these On-Field DPS.
 
 #### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)
 
