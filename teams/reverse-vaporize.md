@@ -157,7 +157,7 @@ This comp focuses on using the **Vaporize Elemental Reaction** with a **Pyro** O
 
 * A reliable team setup that allows Hu Tao to consistently **Vaporize** her **Charged Attacks**.
 * Xingqiu and Yelan provides the Off-Field **Hydro** application for Hu Tao and also provides **DMG Reduction**.
-* Zhongli provides shield for Hu Tao to stay safely allowing her to be below 50% HP.
+* Zhongli provides an **Elemental RES** debuff with his shield while also protecting the team.
 * Using both Xingqiu and Yelan gives the team **Hydro Resonance** obtaining HP% bonus for increase Hutao **DMG**.
 
 #### ![](../.gitbook/assets/ui\_avataricon\_diluc.png)![](../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../.gitbook/assets/ui\_avataricon\_zhongli.png)![](../.gitbook/assets/ui\_avataricon\_bennett.png)
