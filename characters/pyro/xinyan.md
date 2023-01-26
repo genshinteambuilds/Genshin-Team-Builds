@@ -25,7 +25,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_eula.png)
 
-* Eula and Razor are both **Physical** Main DPS that can benefit from Xinyan's shield and **Physical** **DMG** related debuffs.
+* Eula and Razor are both **Physical** On-Field DPS that can benefit from Xinyan's shield and **Physical** **DMG** related debuffs.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
@@ -35,7 +35,7 @@
 
 #### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
-* Unless a team has a **Physical** Main DPS, Xinyan provides little as a Support.
+* Unless a team has a **Physical** On-Field DPS, Xinyan provides little as a Support.
 
 ## Teams
 
