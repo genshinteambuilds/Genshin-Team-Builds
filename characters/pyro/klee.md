@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Main DPS**
+* **On-Field DPS**
 * **Support:** Debuffer (C2), Buffer (C6)
 
 ## Character Breakdown
@@ -21,7 +21,7 @@
 
 #### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
-* In the Main DPS role, Klee’s rapid **Pyro** application allows her to be used in [**Pure** **Pyro**](../../teams/pure-pyro.md), [**Melt (Cryo)**](../../teams/reverse-melt.md) or [**Vaporize**](../../teams/reverse-vaporize.md) teams.
+* In the On-Field DPS role, Klee’s rapid **Pyro** application allows her to be used in [**Pure** **Pyro**](../../teams/pure-pyro.md), [**Melt (Cryo)**](../../teams/reverse-melt.md) or [**Vaporize**](../../teams/reverse-vaporize.md) teams.
 * In Klee’s **Vaporize** teams, her **Elemental Burst** can apply **Pyro** too fast and causes **Vaporize** **reactions** to be inconsistent.
 
 ## Doesn’t Work Well With
