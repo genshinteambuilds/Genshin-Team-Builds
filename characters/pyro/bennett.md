@@ -3,7 +3,7 @@
 ## **Roles**
 
 * **Support:** Healer, Buffer, Cleanser, Energy Battery
-* **Main DPS**
+* **On-Field DPS**
 
 ## **Character Breakdown**
 
@@ -77,10 +77,10 @@ In the following teams, Bennett provides healing and buffing through his **Eleme
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_diluc.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
-* Bennett provides **Pyro Resonance** when paired with the **Pyro** Main DPS character in [Vaporize (Pyro)](../../teams/reverse-vaporize.md) teams.
+* Bennett provides **Pyro Resonance** when paired with the **Pyro** On-Field DPS character in [Vaporize (Pyro)](../../teams/reverse-vaporize.md) teams.
 
 [**Vaporize (Pyro)**](../../teams/reverse-vaporize.md)
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_albedo.png)
 
-* Bennett can also be used as a Main DPS in this particular team as well as providing Healing at the same time.
+* Bennett can also be used as a On-Field DPS in this particular team as well as providing Healing at the same time.
