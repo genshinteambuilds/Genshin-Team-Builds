@@ -12,7 +12,7 @@
 
 {% tabs %}
 {% tab title="Yae Miko" %}
-|                                               Main DPS                                              |                                            Core Support                                            |                                     Core Support                                     |                                            Healer                                           |
+|                                             On-Field DPS                                            |                                            Core Support                                            |                                     Core Support                                     |                                            Healer                                           |
 | :-------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_yae.png" alt="" data-size="original"><br>Yae Miko</p> |           <p><img src="../.gitbook/assets/ui_avataricon_nahida.png" alt=""><br>Nahida</p>          |   <p><img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt=""><br>Xingqiu</p>  |       <p><img src="../.gitbook/assets/ui_avataricon_kokomi.png" alt=""><br>Kokomi</p>       |
 |                                                                                                     | <p><img src="../.gitbook/assets/ui_avataricon_traveler_dendro.png" alt=""><br>Traveler(Dendro)</p> |     <p><img src="../.gitbook/assets/ui_avataricon_yelan.png" alt=""><br>Yelan</p>    | <p><img src="../.gitbook/assets/ui_avataricon_kuki_shinobu.png" alt=""><br>Kuki Shinobu</p> |
@@ -50,7 +50,7 @@
 
 ###
 
-### Main DPS
+### On-Field DPS
 
 |                                                                     Character                                                                     | Notes                                                                                                                                                                                                                                                                                                                                                                                           |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

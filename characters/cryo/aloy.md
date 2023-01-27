@@ -26,7 +26,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ganyu.png)![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)
 
-* Aloy can provide **Cryo Resonance** for additional **CRIT Rate** and **Energy Particles** for Cryo Main DPS characters.
+* Aloy can provide **Cryo Resonance** for additional **CRIT Rate** and **Energy Particles** for Cryo On-Field DPS characters.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)
 
@@ -57,7 +57,7 @@ Aloy does not particularly shine in any team composition as other characters oft
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_aloy.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)
 
-* Aloy activates **Cryo Resonance** for additional **CRIT Rate** and serves as an Energy Battery for the **Main DPS**.
+* Aloy activates **Cryo Resonance** for additional **CRIT Rate** and serves as an Energy Battery for the On-Field DPS.
 
 [**Melt (Cryo)**](../../teams/reverse-melt.md)
 

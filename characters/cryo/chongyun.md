@@ -8,7 +8,7 @@
 ## Character Breakdown
 
 * **Elemental Skill** deals **AoE** **Cryo** **DMG** and creates a field on the ground within which all **Sword**, **Claymore** and **Polearm**-wielding characters' weapons will be infused with **Cryo**.
-  * This can potentially allow any character using these weapon types to act as a Main DPS in a **Freeze** team.
+  * This can potentially allow any character using these weapon types to act as an On-Field DPS in a **Freeze** team.
   * **A4** causes a second instance of **AoE Cryo** **DMG** when the field expires and reduces the **Cryo RES** of enemies hit by this.
 * **Elemental Burst** summons 3 spirit blades that deal large **AoE** **Cryo** **DMG** and knock enemies back.
 
@@ -38,7 +38,7 @@
 #### ![](../../.gitbook/assets/ui\_icon\_electro.webp)
 
 * Electro's **Superconduct** reaction with **Cryo** does not improve Chongyun's core team compositions.
-* Chongyun should not be used if **Superconduct** is needed for a **Physical** team, as Chongyun's **Elemental Skill** is anti-synergistic with **Physical** Main DPS characters due to its **Cryo** infusion.
+* Chongyun should not be used if **Superconduct** is needed for a **Physical** team, as Chongyun's **Elemental Skill** is anti-synergistic with **Physical** On-Field DPS characters due to its **Cryo** infusion.
 
 #### ![](../../.gitbook/assets/ui\_icon\_geo.webp)
 
@@ -56,7 +56,7 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)
 
 * In **Freeze** teams, Chongyun acts as a Burst DPS and Support and can help provide **Cryo Resonance**.
-* The **Cryo Infusion** from Chongyun's **Elemental Skill** can help non-standard Main DPS characters deal **Cryo** **DMG** with their **Normal Attacks** and **Charged Attacks**.
+* The **Cryo Infusion** from Chongyun's **Elemental Skill** can help non-standard On-Field DPS characters deal **Cryo** **DMG** with their **Normal Attacks** and **Charged Attacks**.
 * Chongyun can also act as an Energy Battery for other **Cryo** characters on the team.
 
 [**National**](../../teams/national.md)

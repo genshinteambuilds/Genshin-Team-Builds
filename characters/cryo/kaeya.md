@@ -4,7 +4,7 @@
 
 * **Off-Field DPS** (Elemental Burst)
 * **Support**: Energy Battery
-* **Main DPS**
+* **On-Field DPS**
 
 ## Character Breakdown
 
@@ -23,8 +23,8 @@
 
 #### ![](../../.gitbook/assets/ui\_icon\_cryo.webp)
 
-* Off-Field DPS capabilities pair well with other **Cryo** Main DPS to add additional **Cryo** application and damage to teams.
-* Kaeya's high **Energy Particle** generation allows him to work as a powerful Energy Battery for other **Cryo** Main DPS, especially in [**Freeze** ](../../teams/freeze.md)teams.
+* Off-Field DPS capabilities pair well with other **Cryo** On-Field DPS to add additional **Cryo** application and damage to teams.
+* Kaeya's high **Energy Particle** generation allows him to work as a powerful Energy Battery for other **Cryo** On-Field DPS, especially in [**Freeze** ](../../teams/freeze.md)teams.
 * **Cryo Resonance** as a whole is very powerful in teams which constantly apply the element.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_barbara.png)![](../../.gitbook/assets/ui\_avataricon\_mona.png)
@@ -73,7 +73,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)![](../../.gitbook/assets/ui\_avataricon\_sayu.png)
 
-* Kaeya plays the role of the On-Field Main DPS in this team with his **Normal Attacks** and **Charged Attacks** infused with **Cryo** thanks to Chongyun's **Elemental Skill.**
+* Kaeya plays the role of the On-Field DPS in this team with his **Normal Attacks** and **Charged Attacks** infused with **Cryo** thanks to Chongyun's **Elemental Skill.**
 * Xingqiu's **Elemental Burst** applies **Hydro** to allow this team to **Freeze** enemies.
 * Sayu provides healing and the **Viridescent Venerer** debuff.
 

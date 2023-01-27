@@ -13,7 +13,7 @@
 
 ## Additional Notes
 
-* Marking enemies with a Fortune Talisman is Qiqis primary way to heal characters. While Qiqi can use her **Normal Attacks** to heal, it is not recommended as this requires Qiqi to be active instead of your Main DPS character.
+* Marking enemies with a Fortune Talisman is Qiqis primary way to heal characters. While Qiqi can use her **Normal Attacks** to heal, it is not recommended as this requires Qiqi to be active instead of your On-Field DPS character.
 * **Elemental Skill** applies **Cryo** extremely slowly (about once every 4-5 seconds), making her only useful for **Elemental Reactions** in **Superconduct** teams.
 * **C6** causes her **Elemental Burst** to revive all fallen party members with 50% of their **HP**. This can only activate once every 15 minutes.
 
@@ -25,7 +25,7 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)![](../../.gitbook/assets/ui\_avataricon\_keqing.png)
 
-* Qiqi works fairly well with a **Physical** Main DPS, as she can periodically apply **Cryo** with her **Elemental skill** to enable **Superconduct** to debuff enemy **Physical RES**.
+* Qiqi works fairly well with a **Physical** On-Field DPS, as she can periodically apply **Cryo** with her **Elemental skill** to enable **Superconduct** to debuff enemy **Physical RES**.
 
 ## Does Not Work Well With
 

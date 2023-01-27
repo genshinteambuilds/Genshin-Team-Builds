@@ -2,7 +2,7 @@
 
 ## **Roles**
 
-* **Main DPS**
+* **On-Field DPS**
 * **Off-Field DPS** (Elemental Burst)
 * **Support**: Crowd Control (Taunting), Buffer (C4)
 
@@ -13,14 +13,14 @@
   * Charge Level 2: Fires a Frostflake Arrow that deals **Cryo DMG**. The Frostflake Arrow blooms after hitting it's target, dealing additional **AoE Cryo DMG**.
 * **Elemental Skill** deals **AoE Cryo DMG** and leaves an Ice Lotus on the ground that taunts surrounding enemies. The Ice Lotus deals **AoE Cryo DMG** if destroyed or when it's duration ends.
 * **Elemental Burst** creates a field which continually rains shards of ice on enemies inflicting **Cryo DMG**.
-* Ganyu's primary source of damage when used as a Main DPS character is her **Charged Attack**.
+* Ganyu's primary source of damage when used as an On-Field DPS character is her **Charged Attack**.
 
 ## **Additional Notes**
 
 * Ganyu’s Frostflake Arrow Bloom from her fully **Charged Attack** has a separate internal cooldown for reactions from the initial attack which allows Ganyu to trigger reactions with both components of her **Charged Attack**. This is incredibly powerful with Ganyu's **Melt** teams as both parts of the attack can **Melt**.
 * Ganyu's **Elemental Burst** is typically not used much in **Melt** teams as the application of **Cryo** on enemies from her **Elemental Burst** can interfere with the **Melt** reactions coming from her **Charged Attacks**.
 * When used as an Off-Field DPS or Support, Ganyu's **Elemental Burst** can apply **Cryo** to enemies but this is not fast enough to enable **Melt** teams by herself.
-* While Ganyu can be used to apply **Cryo** for **Freeze** teams or **Physical** teams in an Off-Field DPS and Support role as well, Ganyu deals so much damage with her **Charged Attacks** that this often performs worse than simply just using Ganyu as the Main DPS character.
+* While Ganyu can be used to apply **Cryo** for **Freeze** teams or **Physical** teams in an Off-Field DPS and Support role as well, Ganyu deals so much damage with her **Charged Attacks** that this often performs worse than simply just using Ganyu as the On-Field DPS character.
 
 ## Works Well With
 
@@ -55,7 +55,7 @@
 
 #### ![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)
 
-* Ganyu’s primary source of damage is not **Physical** resulting in other **Physical** characters and **Electro** characters not working well with her when Ganyu is used as a Main DPS.
+* Ganyu’s primary source of damage is not **Physical** resulting in other **Physical** characters and **Electro** characters not working well with her when Ganyu is used as an On-Field DPS.
 * While Ganyu can be used as an Off-Field DPS in those teams instead to provide **Cryo** for **Superconduct**, this is often seen as a waste since other **Cryo** characters can work equally well in that role.
 
 #### ![](../../.gitbook/assets/ui\_icon\_geo.webp)

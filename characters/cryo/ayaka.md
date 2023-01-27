@@ -2,7 +2,7 @@
 
 ## Roles
 
-* **Main DPS**
+* **On-Field DPS**
 * **Burst DPS**
 * **Off-Field DPS** (through Elemental Burst, mostly for [Oneshot](../../work-in-progress/oneshot.md) **Melt** setups)
 * **Support**: Debuffer (C4)
@@ -78,7 +78,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png) ![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
-* Ayaka works as the Main DPS in **Freeze** teams and is the primary source of **Cryo** application.
+* Ayaka works as the On-Field DPS in **Freeze** teams and is the primary source of **Cryo** application.
 * **Cryo Resonance** is often included in **Freeze** teams to boost Ayaka's **CRIT Rate**.
 
 #### [Oneshot (Standard)](../../work-in-progress/oneshot.md)

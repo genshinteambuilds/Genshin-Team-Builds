@@ -52,7 +52,7 @@ Click on the team names below for more details on how the team works and alterna
 {% endhint %}
 
 {% hint style="info" %}
-In all of the teams below, Shenhe universally provides a buff to the **Cryo DMG** of all characters and acts as an Energy Battery for the **Cryo** Main DPS.
+In all of the teams below, Shenhe universally provides a buff to the **Cryo DMG** of all characters and acts as an Energy Battery for the **Cryo** On-Field DPS.
 {% endhint %}
 
 [**Freeze**](../../teams/freeze.md)

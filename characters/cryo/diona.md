@@ -27,11 +27,11 @@
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_ganyu.png)
 
-* Diona can provide **Cryo Resonance** for additional **CRIT Rate** and **Energy Particles** for Cryo Main DPS characters.
+* Diona can provide **Cryo Resonance** for additional **CRIT Rate** and **Energy Particles** for Cryo On-Field DPS characters.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_keqing.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)
 
-* Diona can help **Physical** Main DPS create **Superconduct** reactions. Diona's **Energy Particle** generation may also help recharge **Cryo** characters like Eula.
+* Diona can help **Physical** On-Field DPS create **Superconduct** reactions. Diona's **Energy Particle** generation may also help recharge **Cryo** characters like Eula.
 
 #### ![](../../.gitbook/assets/ui\_icon\_anemo.webp)![](../../.gitbook/assets/ui\_icon\_cryo.webp)![](../../.gitbook/assets/ui\_icon\_electro.webp)![](../../.gitbook/assets/ui\_icon\_geo.webp)![](../../.gitbook/assets/ui\_icon\_hydro.webp)![](../../.gitbook/assets/ui\_icon\_pyro.webp)![](../../.gitbook/assets/ui\_icon\_dendro.webp)
 
@@ -64,11 +64,11 @@ This character is a healer. While some teams are provided below where they are p
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
-* Diona activates **Cryo Resonance** for additional **CRIT Rate**. She also provides **Cryo Energy Particles** to charge the **Cryo** Main DPS' **Elemental Burst**.
+* Diona activates **Cryo Resonance** for additional **CRIT Rate**. She also provides **Cryo Energy Particles** to charge the **Cryo** On-Field DPS' **Elemental Burst**.
 
 [**Physical (Cryo)**](../../teams/physical.md)
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_raiden\_shougun.png)![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
-* Diona acts as an Energy Battery (for **Cryo Physical** Main DPS) and can aid in making **Superconduct** reactions which debuffs the **Physical RES** of enemies.
+* Diona acts as an Energy Battery (for **Cryo Physical** On-Field DPS) and can aid in making **Superconduct** reactions which debuffs the **Physical RES** of enemies.
 * Diona's **Stamina** consumption also usually comes in handy on **Physical** teams due to often needing to chase down enemies.

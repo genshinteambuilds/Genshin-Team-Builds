@@ -3,7 +3,7 @@
 ## Roles
 
 * **Off-Field DPS** (Elemental Burst)
-* **Main DPS**
+* **On-Field DPS**
 * **Support**: Buffer (A4), Debuffer (C6)
 
 ## Character Breakdown
@@ -25,7 +25,7 @@
 #### ![](../../.gitbook/assets/ui\_icon\_cryo.webp)
 
 * **Cryo Resonance** is extremely powerful and especially in [**Freeze** ](../../teams/freeze.md)teams where the combination of **Cryo** Resonance and the **Blizzard Strayer** artifact set can give up to 55% **CRIT Rate**.
-* Rosaria can act as an Energy Battery for other **Cryo** Main DPS, such as Ayaka or Eula.
+* Rosaria can act as an Energy Battery for other **Cryo** On-Field DPS, such as Ayaka or Eula.
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_keqing.png)![](../../.gitbook/assets/ui\_avataricon\_razor.png)![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)
 
@@ -61,8 +61,8 @@ Click on the team names below for more details on how the team works and alterna
 #### ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_sayu.png)
 
 * Rosaria's **Elemental Skill** and **Elemental Burst** provide ample amounts of **Cryo** application that together with **Hydro** can inflict the **Frozen** status on enemies.
-* The combination of **Cryo Resonance**, the **Blizzard Strayer** set, and Rosaria's **A1** can give **Cryo** Main DPS characters large amounts of **CRIT Rate**.
-* Rosaria can act as an Energy Battery for other **Cryo** Main DPS characters.
+* The combination of **Cryo Resonance**, the **Blizzard Strayer** set, and Rosaria's **A1** can give **Cryo** On-Field DPS characters large amounts of **CRIT Rate**.
+* Rosaria can act as an Energy Battery for other **Cryo** On-Field DPS characters.
 
 [**Physical (Cryo)**](../../teams/physical.md)
 
@@ -77,7 +77,7 @@ Click on the team names below for more details on how the team works and alterna
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)
 
-* Rosaria plays the role of the On-Field Main DPS in this team using **Normal** and **Charged** **Attacks** infused with **Cryo** thanks to Chongyun's **Elemental Skill.**
+* Rosaria plays the role of the On-Field DPS in this team using **Normal** and **Charged** **Attacks** infused with **Cryo** thanks to Chongyun's **Elemental Skill.**
 * **Kokomi** provides **Hydro** application with her Elemental Skill allowing this team to **Freeze** enemies. Kokomi also provides healing.
 * Kazuha provides the **Viridescent Venerer** debuff and Crowd Control Grouping.
 
@@ -92,7 +92,7 @@ Possible substitutions:
 
 #### ![](../../.gitbook/assets/ui\_avataricon\_rosaria.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)
 
-* Rosaria can be used as a **Physical** Main DPS if you do not have other options.
+* Rosaria can be used as a **Physical** On-Field DPS if you do not have other options.
 * Her **Cryo** abilities can help generate **Superconduct Elemental Reactions.**
 * Her **C1** and **C6** further supplements her **Physical DMG**.
 
