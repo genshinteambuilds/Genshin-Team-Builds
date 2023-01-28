@@ -20,7 +20,7 @@ Because **Freeze** teams have high **Crowd Control**, it is possible to play it 
 
 {% tabs %}
 {% tab title="Ganyu" %}
-|                                     Main DPS                                     |                             Core Support / Off-Field DPS                             |                                             Flex Support                                             |                                   Healer / Shielder                                  |
+|                                   On-Field DPS                                   |                             Core Support / Off-Field DPS                             |                                             Flex Support                                             |                                   Healer / Shielder                                  |
 | :------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_ganyu.png" alt=""></p><p>Ganyu</p> |    <p><img src="../.gitbook/assets/ui_avataricon_mona.png" alt=""></p><p>Mona</p>    |           <p><img src="../.gitbook/assets/ui_avataricon_venti.png" alt=""></p><p>Venti</p>           |   <p><img src="../.gitbook/assets/ui_avataricon_diona.png" alt=""></p><p>Diona</p>   |
 |                                                                                  |   <p><img src="../.gitbook/assets/ui_avataricon_ayato.png" alt=""></p><p>Ayato</p>   |          <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt=""></p><p>Kazuha</p>          |  <p><img src="../.gitbook/assets/ui_avataricon_kokomi.png" alt=""></p><p>Kokomi</p>  |
@@ -37,7 +37,7 @@ Because **Freeze** teams have high **Crowd Control**, it is possible to play it 
 {% tab title="Ayaka" %}
 
 
-|                                                Main DPS                                               |                                        Core Support / Off-Field DPS                                       |                                                 Flex Support                                                |                                             Healer / Shielder                                             |
+|                                              On-Field DPS                                             |                                        Core Support / Off-Field DPS                                       |                                                 Flex Support                                                |                                             Healer / Shielder                                             |
 | :---------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_ayaka.png" alt="" data-size="original"></p><p>Ayaka</p> |    <p><img src="../.gitbook/assets/ui_avataricon_mona.png" alt="" data-size="original"></p><p>Mona</p>    |    <p><img src="../.gitbook/assets/ui_avataricon_venti.png" alt="" data-size="original"></p><p>Venti</p>    |   <p><img src="../.gitbook/assets/ui_avataricon_diona.png" alt="" data-size="original"></p><p>Diona</p>   |
 |                                                                                                       |   <p><img src="../.gitbook/assets/ui_avataricon_yelan.png" alt="" data-size="original"></p><p>Yelan</p>   |   <p><img src="../.gitbook/assets/ui_avataricon_kazuha.png" alt="" data-size="original"></p><p>Kazuha</p>   |  <p><img src="../.gitbook/assets/ui_avataricon_kokomi.png" alt="" data-size="original"></p><p>Kokomi</p>  |
@@ -52,7 +52,7 @@ Because **Freeze** teams have high **Crowd Control**, it is possible to play it 
 {% endtab %}
 {% endtabs %}
 
-### Main DPS
+### On-Field DPS
 
 |                                                                    Character                                                                    | Notes                                                                                                                                                                                                                                                                                                       |
 | :---------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
