@@ -10,7 +10,7 @@
 
 * **Elemental Skill** **(Tap)** releases a homing **Electro** orb that deals **Electro** **DMG** and applies 1 stack of the Conductive status (Max 3 stacks).
 * **Elemental Skill** **(Hold)** causes lightning to strike down dealing massive **Electro** **DMG** to all enemies within its **AoE.**
-  * Deals more **DMG** to enemies with higher Conductive stacks which are then consumed.
+  * Deals more **Electro DMG** to enemies with higher Conductive stacks which are then consumed.
 * **Elemental Burst** deals continuous **Electro** **DMG** within its **AoE** and knocks back enemies on hit.
   * **A4** reduces enemies' **DEF** by 15% for 10 sec when hit by her **Elemental Burst**.
 

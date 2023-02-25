@@ -46,6 +46,7 @@
   * [Nahida](characters/dendro/nahida.md)
   * [Tighnari](characters/dendro/tighnari.md)
   * [Traveler (Dendro)](characters/dendro/traveler-dendro.md)
+  * [Yaoyao](characters/dendro/yaoyao.md)
 * [Electro](characters/electro/README.md)
   * [Beidou](characters/electro/beidou.md)
   * [Cyno](characters/electro/cyno.md)
