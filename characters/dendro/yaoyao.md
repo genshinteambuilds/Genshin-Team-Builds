@@ -46,7 +46,7 @@ Click on the team names below for more details on how the team works and alterna
 
 ****[**Bloom (Hyperbloom)**](../../teams/bloom-hyperbloom.md)****
 
-![](../../.gitbook/assets/ui\_avataricon\_fischl.png)![](../../.gitbook/assets/ui\_avataricon\_nahida.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_yaoyao.png)
+![](../../.gitbook/assets/ui\_avataricon\_yae.png)![](../../.gitbook/assets/ui\_avataricon\_nahida.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_yaoyao.png)
 
 * Yaoyao provides healing for the team, **Dendro Resonance** paired with Nahida, as well as a secondary source of **Dendro** application for the team.
 
